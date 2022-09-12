@@ -132,26 +132,27 @@ def getNvdaToCldrLocales() -> Dict[NvdaLocaleT, Tuple[CldrLocaleT]]:
 
 
 def _assertDirs(OUT_DIR, ANNOTATIONS_DIR, ANNOTATIONS_DERIVED_DIR) -> None:
-	assert (
-		os.path.exists(ANNOTATIONS_DIR) and os.path.exists(ANNOTATIONS_DERIVED_DIR),
+	cldrDirsExist = os.path.exists(ANNOTATIONS_DIR) and os.path.exists(ANNOTATIONS_DERIVED_DIR)
+	assert cldrDirsExist, (
 		"CLDR directories not found, has the CLDR submodule been cloned?"
 		f" Expected: {ANNOTATIONS_DIR} and {ANNOTATIONS_DERIVED_DIR}"
 	)
-	assert (
-		not os.path.exists(OUT_DIR),
-		f"Build directory not clean: {OUT_DIR}"
+	outDirExists = os.path.exists(OUT_DIR)
+	assert not outDirExists, (
+		"Output directory not clean (remove all files before running again)"
+		f": {OUT_DIR}"
 	)
 
 
-def main():
+def createLocalesFromCldr(outDir: PathT) -> None:
 	COMMON_DIR = os.path.join("cldr", "production", "common")
 	ANNOTATIONS_DIR: PathT = os.path.join(COMMON_DIR, "annotations")
 	ANNOTATIONS_DERIVED_DIR: PathT = os.path.join(COMMON_DIR, "annotationsDerived")
-	OUT_DIR: PathT = os.path.join("build", "locale")
-	_assertDirs(OUT_DIR, ANNOTATIONS_DIR, ANNOTATIONS_DERIVED_DIR)
+
+	_assertDirs(outDir, ANNOTATIONS_DIR, ANNOTATIONS_DERIVED_DIR)
 
 	log.info("Generating cldr dicts.")
-	log.info(f"OutDir: {OUT_DIR}")
+	log.info(f"OutDir: {outDir}")
 	destLocale: NvdaLocaleT  # E.G. "af_ZA"
 	sourceLocales: Tuple[CldrLocaleT]  # E.G. ("af",)
 	for destLocale, sourceLocales in getNvdaToCldrLocales().items():
@@ -168,12 +169,21 @@ def main():
 			assert os.path.isfile(annotationsDerivedSource)
 			cldrSources.append(annotationsDerivedSource)
 
-		localeOutDir = os.path.join(OUT_DIR, destLocale)
+		localeOutDir = os.path.join(outDir, destLocale)
 		os.makedirs(localeOutDir)
 		assert os.path.isdir(localeOutDir), f"Locale output dir must exist: {localeOutDir}"
 		outFile = os.path.join(localeOutDir, "cldr.dic")
 		createCLDRAnnotationsDict(cldrSources, outFile)
 
+
+def main():
+	OUT_DIR: PathT = "out"
+	OUT_LOCALE_DIR: PathT = os.path.join(OUT_DIR, "locale")
+	createLocalesFromCldr(
+		outDir=OUT_LOCALE_DIR,
+	)
+
+	log.info("Done.")
 
 if __name__ == '__main__':
 	main()

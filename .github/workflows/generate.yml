@@ -33,7 +33,7 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: ${{ matrix.python-version }}
-        architecture: x86
+        architecture: x64
     - name: Generate output with build.py
       run: |
         python build.py --loglevel DEBUG

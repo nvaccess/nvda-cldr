@@ -9,6 +9,7 @@
 # http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 import logging as log
 import os
+import shutil
 from typing import (
 	Dict,
 	Tuple,
@@ -183,6 +184,10 @@ def main():
 		outDir=OUT_LOCALE_DIR,
 	)
 
+	log.info("Generating cldr dictionaries complete.")
+	ZIP_PATH: PathT = os.path.join(OUT_DIR, 'cldrLocaleDicts')
+	log.info(f"Archiving: {ZIP_PATH}.zip")
+	shutil.make_archive(ZIP_PATH, 'zip', OUT_LOCALE_DIR)
 	log.info("Done.")
 
 if __name__ == '__main__':

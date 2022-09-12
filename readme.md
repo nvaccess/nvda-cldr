@@ -17,6 +17,10 @@ the `source/locale/*/cldr.dic` files, from CLDR data.
 ## Output
 See `out\` directory.
 - `locale` directory contains all the generated cldr dictionaries.
+- `cldrLocaleDicts.zip` is the `locale` directory zipped.
+
+The contents of the `cldrLocaleDicts.zip` should be extracted to the NVDA `source/locale/` directory.
+Example path after extraction: `source\locale\en\cldr.dic`.
 
 ## Logging
 Default log level in `INFO`.

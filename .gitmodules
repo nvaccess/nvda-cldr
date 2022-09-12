@@ -1,0 +1,5 @@
+[submodule "cldr"]
+	path = cldr
+	url = https://github.com/unicode-org/cldr-staging.git
+	shallow = true
+

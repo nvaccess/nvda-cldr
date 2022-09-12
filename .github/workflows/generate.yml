@@ -18,11 +18,16 @@ jobs:
       matrix:
         python-version: [ 3.7 ]
     steps:
+    - name: Current dir
+      run: |
+        pwd
+        ls -Al
     - name: Checkout nvda-cldr data
       uses: actions/checkout@v3
       with:
         repository: nvaccess/nvda-cldr
         path: data
+        submodules: true
     - name: Checkout gen branch into separate folder
       uses: actions/checkout@v3
       with:

@@ -36,18 +36,24 @@ jobs:
         architecture: x64
     - name: Generate output with build.py
       run: |
+        pwd
+        cd data
         python build.py --loglevel DEBUG
     - name: Empty destination directory
       # empty the 'gen' folder directory, but don't delete .git, or the top level directory.
       # rm -r is used to delete whole directories, therefore -maxdepth 1 is used to prevent recursing with
       # find.
       run: |
-        find ../gen/ -maxdepth 1 ! -name '.git' ! -name 'gen' -exec rm -r {} +
+        pwd
+        find gen/ -maxdepth 1 ! -name '.git' ! -name 'gen' -exec rm -r {} +
     - name: Copy files
       run: |
+        pwd
+        cd data
         cp -r out/locale ../gen/locale/
     - name: Commit and push
       run: |
+        pwd
         cd data
         git log HEAD --pretty=format:"${{ env.COMMIT_FORMAT }}" -1 > ../commitMsg.txt
         cd ../gen

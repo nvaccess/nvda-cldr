@@ -62,8 +62,16 @@ jobs:
         cd data
         git log HEAD --pretty=format:"${{ env.COMMIT_FORMAT }}" -1 > ../commitMsg.txt
         cd ../gen
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add .
-        git commit -F ../commitMsg.txt
-        git push
+        if [[ `git status --porcelain` ]]; then
+          # Changes, use git status to add to log file for debugging.
+          echo Changes detected, committing.
+          git status --short
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -F ../commitMsg.txt
+          git push
+        else
+          # No changes
+          echo No changes
+        fi

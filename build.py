@@ -132,16 +132,16 @@ def getNvdaToCldrLocales() -> Dict[NvdaLocaleT, Tuple[CldrLocaleT]]:
 	}
 
 
-def _assertDirs(OUT_DIR, ANNOTATIONS_DIR, ANNOTATIONS_DERIVED_DIR) -> None:
-	cldrDirsExist = os.path.exists(ANNOTATIONS_DIR) and os.path.exists(ANNOTATIONS_DERIVED_DIR)
+def _assertDirs(outDir: PathT, annotationsDir: PathT, annotationsDerivedDir: PathT) -> None:
+	cldrDirsExist = os.path.exists(annotationsDir) and os.path.exists(annotationsDerivedDir)
 	assert cldrDirsExist, (
 		"CLDR directories not found, has the CLDR submodule been cloned?"
-		f" Expected: {ANNOTATIONS_DIR} and {ANNOTATIONS_DERIVED_DIR}"
+		f" Expected: {annotationsDir} and {annotationsDerivedDir}"
 	)
-	outDirExists = os.path.exists(OUT_DIR)
+	outDirExists = os.path.exists(outDir)
 	assert not outDirExists, (
 		"Output directory not clean (remove all files before running again)"
-		f": {OUT_DIR}"
+		f": {outDir}"
 	)
 
 

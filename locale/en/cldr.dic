@@ -1,7 +1,63 @@
 ﻿symbols:
+_	low line	none
 ،	arabic comma	none
 ؛	arabic semicolon	none
 ؟	arabic question mark	none
+.	period	none
+。	ideographic period	none
+'	typewriter apostrophe	none
+【	open black lens bracket	none
+】	close black lens bracket	none
+〖	open hollow lens bracket	none
+〗	close hollow lens bracket	none
+@	at-sign	none
+%	percent	none
+†	dagger sign	none
+‡	double dagger sign	none
+↚	leftwards arrow stroke	none
+↛	rightwards arrow stroke	none
+↞	leftwards two headed arrow	none
+↟	upwards two headed arrow	none
+↠	rightwards two headed arrow	none
+↡	downwards two headed arrow	none
+↢	leftwards arrow tail	none
+↣	rightwards arrow tail	none
+↨	up down arrow with base	none
+↫	leftwards arrow loop	none
+↬	rightwards arrow loop	none
+↭	left right wave arrow	none
+↰	upwards arrow tip leftwards	none
+↱	upwards arrow tip rightwards	none
+↲	downwards arrow tip leftwards	none
+↳	downwards arrow tip rightwards	none
+↴	rightwards arrow corner downwards	none
+↵	downwards arrow corner leftwards	none
+↶	anticlockwise top semicircle arrow	none
+↷	clockwise top semicircle arrow	none
+↸	north west arrow long bar	none
+↺	anticlockwise open circle arrow	none
+↻	clockwise open circle arrow	none
+↼	leftwards harpoon barb upwards	none
+↽	leftwards harpoon barb downwards	none
+↾	upwards harpoon barb rightwards	none
+↿	upwards harpoon barb leftwards	none
+⇀	rightwards harpoon barb upwards	none
+⇁	rightwards harpoon barb downwards	none
+⇂	downwards harpoon barb rightwards	none
+⇃	downwards harpoon barb leftwards	none
+⇍	leftwards double arrow stroke	none
+⇏	rightwards double arrow stroke	none
+⇔	left right double arrow	none
+⇎	left right double arrow stroke	none
+⇖	north west double arrow	none
+⇗	north east double arrow	none
+⇘	south east double arrow	none
+⇙	south west double arrow	none
+⇞	upwards arrow double stroke	none
+⇟	downwards arrow double stroke	none
+⇤	leftwards arrow bar	none
+⇥	rightwards arrow bar	none
+⇵	downwards arrow leftwards upwards arrow	none
 ∉	not an element	none
 ∎	end proof	none
 ∝	proportional	none
@@ -22,6 +78,10 @@
 ▧	square upper left lower right fill	none
 ▨	square upper right lower left fill	none
 ▩	square diagonal crosshatch fill	none
+◐	circle left half filled	none
+◑	circle right half filled	none
+◒	circle lower half filled	none
+◓	circle upper half filled	none
 ◔	circle upper right quadrant filled	none
 ◕	circle all but upper left quadrant filled	none
 ◜	upper left quadrant circular arc	none
@@ -35,22 +95,46 @@
 ◳	hollow square upper right quadrant	none
 ◷	hollow circle with upper right quadrant	none
 ◿	lower right triangle	none
+♪	eighth note	none
 ⨧	plus subscript two	none
 ⨯	vector cross product	none
 ⩣	logical or double underbar	none
 ⩽	less-than slanted equal	none
 ⪍	less-than above similar equal	none
 ⪚	double-line equal greater-than	none
+🧑‍🦯	person with white cane	none
+👨‍🦯	man with white cane	none
+👩‍🦯	woman with white cane	none
+🧑‍🦼	person in motorized wheelchair	none
+👨‍🦼	man in motorized wheelchair	none
+👩‍🦼	woman in motorized wheelchair	none
+🫑	bell pepper	none
+🧉	mate	none
 🗻	mount fuji	none
 🛕	hindu temple	none
 🕋	kaaba	none
+🦼	motorized wheelchair	none
+🪆	nesting dolls	none
+👔	necktie	none
+🩴	thong sandal	none
 📯	postal horn	none
+🪘	long drum	none
+🦯	white cane	none
+🩹	adhesive bandage	none
+🛗	elevator	none
+🛁	bathtub	none
+🪤	mouse trap	none
+↮	left right arrow stroke	none
 ✡	star of David	none
 ✝	latin cross	none
 ☦	orthodox cross	none
+✅	check mark button	none
+☑	check box with check	none
+✔	check mark	none
 ₣	french franc	none
 ₰	german penny	none
 ₹	indian rupee	none
+₽	ruble	none
 {	open curly bracket	none
 🏻	light skin tone	none
 🏼	medium-light skin tone	none
@@ -58,7 +142,6 @@
 🏾	medium-dark skin tone	none
 🏿	dark skin tone	none
 ‾	overline	none
-_	low line	none
 -	hyphen-minus	none
 ‐	hyphen	none
 –	en dash	none
@@ -74,11 +157,8 @@ _	low line	none
 ?	question mark	none
 ¿	inverted question mark	none
 ‽	interrobang	none
-.	period	none
 …	ellipsis	none
-。	ideographic period	none
 ·	middle dot	none
-'	typewriter apostrophe	none
 ‘	left apostrophe	none
 ’	right apostrophe	none
 ‚	low right apostrophe	none
@@ -99,24 +179,16 @@ _	low line	none
 」	close corner bracket	none
 『	open hollow corner bracket	none
 』	close hollow corner bracket	none
-【	open black lens bracket	none
-】	close black lens bracket	none
 〔	open tortoise shell bracket	none
 〕	close tortoise shell bracket	none
-〖	open hollow lens bracket	none
-〗	close hollow lens bracket	none
 §	section	none
 ¶	paragraph mark	none
-@	at-sign	none
 *	asterisk	none
 /	slash	none
 \	backslash	none
 &	ampersand	none
 #	hash sign	none
-%	percent	none
 ‰	per mille	none
-†	dagger sign	none
-‡	double dagger sign	none
 •	bullet	none
 ‧	hyphenation point	none
 ′	prime	none
@@ -132,48 +204,17 @@ _	low line	none
 °	degree	none
 ℗	sound recording copyright	none
 ←	left-pointing arrow	none
-↚	leftwards arrow stroke	none
 →	right-pointing arrow	none
-↛	rightwards arrow stroke	none
 ↑	up-pointing arrow	none
 ↓	down-pointing arrow	none
 ↜	leftwards wave arrow	none
 ↝	rightwards wave arrow	none
-↞	leftwards two headed arrow	none
-↟	upwards two headed arrow	none
-↠	rightwards two headed arrow	none
-↡	downwards two headed arrow	none
-↢	leftwards arrow tail	none
-↣	rightwards arrow tail	none
 ↤	leftwards arrow from bar	none
 ↥	upwards arrow from bar	none
 ↦	rightwards arrow from bar	none
 ↧	downwards arrow from bar	none
-↨	up down arrow with base	none
-↫	leftwards arrow loop	none
-↬	rightwards arrow loop	none
-↭	left right wave arrow	none
 ↯	downwards zigzag arrow	none
-↰	upwards arrow tip leftwards	none
-↱	upwards arrow tip rightwards	none
-↲	downwards arrow tip leftwards	none
-↳	downwards arrow tip rightwards	none
-↴	rightwards arrow corner downwards	none
-↵	downwards arrow corner leftwards	none
-↶	anticlockwise top semicircle arrow	none
-↷	clockwise top semicircle arrow	none
-↸	north west arrow long bar	none
 ↹	leftwards over rightwards arrow bars	none
-↺	anticlockwise open circle arrow	none
-↻	clockwise open circle arrow	none
-↼	leftwards harpoon barb upwards	none
-↽	leftwards harpoon barb downwards	none
-↾	upwards harpoon barb rightwards	none
-↿	upwards harpoon barb leftwards	none
-⇀	rightwards harpoon barb upwards	none
-⇁	rightwards harpoon barb downwards	none
-⇂	downwards harpoon barb rightwards	none
-⇃	downwards harpoon barb leftwards	none
 ⇄	rightwards arrow over leftwards arrow	none
 ⇅	up-pointing and down-pointing arrows	none
 ⇆	left-pointing over right-pointing arrows	none
@@ -184,35 +225,22 @@ _	low line	none
 ⇋	leftwards harpoon over rightwards harpoon	none
 ⇌	rightwards harpoon over leftwards harpoon	none
 ⇐	leftwards double arrow	none
-⇍	leftwards double arrow stroke	none
 ⇑	upwards double arrow	none
 ⇒	rightwards double arrow	none
-⇏	rightwards double arrow stroke	none
 ⇓	downwards double arrow	none
-⇔	left right double arrow	none
-⇎	left right double arrow stroke	none
-⇖	north west double arrow	none
-⇗	north east double arrow	none
-⇘	south east double arrow	none
-⇙	south west double arrow	none
 ⇚	leftwards triple arrow	none
 ⇛	rightwards triple arrow	none
 ⇜	leftwards squiggle arrow	none
 ⇝	rightwards squiggle arrow	none
-⇞	upwards arrow double stroke	none
-⇟	downwards arrow double stroke	none
 ⇠	leftwards dashed arrow	none
 ⇡	upwards dashed arrow	none
 ⇢	rightwards dashed arrow	none
 ⇣	downwards dashed arrow	none
-⇤	leftwards arrow bar	none
-⇥	rightwards arrow bar	none
 ⇦	leftwards hollow arrow	none
 ⇧	upwards hollow arrow	none
 ⇨	rightwards hollow arrow	none
 ⇩	downwards hollow arrow	none
 ⇪	upwards hollow arrow from bar	none
-⇵	downwards arrow leftwards upwards arrow	none
 ∀	for all	none
 ∂	partial differential	none
 ∃	there exists	none
@@ -341,10 +369,6 @@ _	low line	none
 ◍	circle with vertical fill	none
 ◎	concentric circles	none
 ●	filled circle	none
-◐	circle left half filled	none
-◑	circle right half filled	none
-◒	circle lower half filled	none
-◓	circle upper half filled	none
 ◖	left half filled circle	none
 ◗	right half filled circle	none
 ◘	inverse bullet	none
@@ -353,48 +377,10 @@ _	low line	none
 ◡	lower half circle	none
 ◦	hollow bullet	none
 ◯	large hollow circle	none
-♪	eighth note	none
 ⨼	interior product	none
 ⪺	succeeds above not almost equal	none
 ♭	flat	none
 ♯	sharp	none
-🥹	face holding back tears	none
-🧌	troll	none
-🩻	x-ray	none
-🩼	crutch	none
-🪩	mirror ball	none
-🪪	identification card	none
-🪫	low battery	none
-🪬	hamsa	none
-🪷	lotus	none
-🪸	coral	none
-🪹	empty nest	none
-🪺	nest with eggs	none
-🫃	pregnant man	none
-🫄	pregnant person	none
-🫅	person with crown	none
-🫗	pouring liquid	none
-🫘	beans	none
-🫙	jar	none
-🫠	melting face	none
-🫡	saluting face	none
-🫢	face with open eyes and hand over mouth	none
-🫣	face with peeking eye	none
-🫤	face with diagonal mouth	none
-🫥	dotted line face	none
-🫦	biting lip	none
-🫧	bubbles	none
-🫰	hand with index finger and thumb crossed	none
-🫱	rightwards hand	none
-🫲	leftwards hand	none
-🫳	palm down hand	none
-🫴	palm up hand	none
-🫵	index pointing at the viewer	none
-🫶	heart hands	none
-🛝	playground slide	none
-🛞	wheel	none
-🛟	ring buoy	none
-🟰	heavy equals sign	none
 😀	grinning face	none
 😃	grinning face with big eyes	none
 😄	grinning face with smiling eyes	none
@@ -405,6 +391,7 @@ _	low line	none
 😂	face with tears of joy	none
 🙂	slightly smiling face	none
 🙃	upside-down face	none
+🫠	melting face	none
 😉	winking face	none
 😊	smiling face with smiling eyes	none
 😇	smiling face with halo	none
@@ -425,13 +412,17 @@ _	low line	none
 🤑	money-mouth face	none
 🤗	smiling face with open hands	none
 🤭	face with hand over mouth	none
+🫢	face with open eyes and hand over mouth	none
+🫣	face with peeking eye	none
 🤫	shushing face	none
 🤔	thinking face	none
+🫡	saluting face	none
 🤐	zipper-mouth face	none
 🤨	face with raised eyebrow	none
 😐	neutral face	none
 😑	expressionless face	none
 😶	face without mouth	none
+🫥	dotted line face	none
 😶‍🌫	face in clouds	none
 😏	smirking face	none
 😒	unamused face	none
@@ -439,6 +430,7 @@ _	low line	none
 😬	grimacing face	none
 😮‍💨	face exhaling	none
 🤥	lying face	none
+🫨	shaking face	none
 😌	relieved face	none
 😔	pensive face	none
 😪	sleepy face	none
@@ -463,6 +455,7 @@ _	low line	none
 🤓	nerd face	none
 🧐	face with monocle	none
 😕	confused face	none
+🫤	face with diagonal mouth	none
 😟	worried face	none
 🙁	slightly frowning face	none
 ☹	frowning face	none
@@ -471,6 +464,7 @@ _	low line	none
 😲	astonished face	none
 😳	flushed face	none
 🥺	pleading face	none
+🥹	face holding back tears	none
 😦	frowning face with open mouth	none
 😧	anguished face	none
 😨	fearful face	none
@@ -514,7 +508,6 @@ _	low line	none
 🙈	see-no-evil monkey	none
 🙉	hear-no-evil monkey	none
 🙊	speak-no-evil monkey	none
-💋	kiss mark	none
 💌	love letter	none
 💘	heart with arrow	none
 💝	heart with ribbon	none
@@ -529,14 +522,18 @@ _	low line	none
 ❤‍🔥	heart on fire	none
 ❤‍🩹	mending heart	none
 ❤	red heart	none
+🩷	pink heart	none
 🧡	orange heart	none
 💛	yellow heart	none
 💚	green heart	none
 💙	blue heart	none
+🩵	light blue heart	none
 💜	purple heart	none
 🤎	brown heart	none
 🖤	black heart	none
+🩶	grey heart	none
 🤍	white heart	none
+💋	kiss mark	none
 💯	hundred points	none
 💢	anger symbol	none
 💥	collision	none
@@ -544,7 +541,6 @@ _	low line	none
 💦	sweat droplets	none
 💨	dashing away	none
 🕳	hole	none
-💣	bomb	none
 💬	speech balloon	none
 👁‍🗨	eye in speech bubble	none
 🗨	left speech bubble	none
@@ -556,11 +552,18 @@ _	low line	none
 🖐	hand with fingers splayed	none
 ✋	raised hand	none
 🖖	vulcan salute	none
+🫱	rightwards hand	none
+🫲	leftwards hand	none
+🫳	palm down hand	none
+🫴	palm up hand	none
+🫷	leftwards pushing hand	none
+🫸	rightwards pushing hand	none
 👌	OK hand	none
 🤌	pinched fingers	none
 🤏	pinching hand	none
 ✌	victory hand	none
 🤞	crossed fingers	none
+🫰	hand with index finger and thumb crossed	none
 🤟	love-you gesture	none
 🤘	sign of the horns	none
 🤙	call me hand	none
@@ -570,6 +573,7 @@ _	low line	none
 🖕	middle finger	none
 👇	backhand index pointing down	none
 ☝	index pointing up	none
+🫵	index pointing at the viewer	none
 👍	thumbs up	none
 👎	thumbs down	none
 ✊	raised fist	none
@@ -578,6 +582,7 @@ _	low line	none
 🤜	right-facing fist	none
 👏	clapping hands	none
 🙌	raising hands	none
+🫶	heart hands	none
 👐	open hands	none
 🤲	palms up together	none
 🤝	handshake	none
@@ -602,6 +607,7 @@ _	low line	none
 👁	eye	none
 👅	tongue	none
 👄	mouth	none
+🫦	biting lip	none
 👶	baby	none
 🧒	child	none
 👦	boy	none
@@ -709,6 +715,7 @@ _	low line	none
 👷	construction worker	none
 👷‍♂	man construction worker	none
 👷‍♀	woman construction worker	none
+🫅	person with crown	none
 🤴	prince	none
 👸	princess	none
 👳	person wearing turban	none
@@ -723,6 +730,8 @@ _	low line	none
 👰‍♂	man with veil	none
 👰‍♀	woman with veil	none
 🤰	pregnant woman	none
+🫃	pregnant man	none
+🫄	pregnant person	none
 🤱	breast-feeding	none
 👩‍🍼	woman feeding baby	none
 👨‍🍼	man feeding baby	none
@@ -758,6 +767,7 @@ _	low line	none
 🧟	zombie	none
 🧟‍♂	man zombie	none
 🧟‍♀	woman zombie	none
+🧌	troll	none
 💆	person getting massage	none
 💆‍♂	man getting massage	none
 💆‍♀	woman getting massage	none
@@ -773,12 +783,6 @@ _	low line	none
 🧎	person kneeling	none
 🧎‍♂	man kneeling	none
 🧎‍♀	woman kneeling	none
-🧑‍🦯	person with white cane	none
-👨‍🦯	man with white cane	none
-👩‍🦯	woman with white cane	none
-🧑‍🦼	person in motorized wheelchair	none
-👨‍🦼	man in motorized wheelchair	none
-👩‍🦼	woman in motorized wheelchair	none
 🧑‍🦽	person in manual wheelchair	none
 👨‍🦽	man in manual wheelchair	none
 👩‍🦽	woman in manual wheelchair	none
@@ -881,6 +885,8 @@ _	low line	none
 🐅	tiger	none
 🐆	leopard	none
 🐴	horse face	none
+🫎	moose	none
+🫏	donkey	none
 🐎	horse	none
 🦄	unicorn	none
 🦓	zebra	none
@@ -943,6 +949,9 @@ _	low line	none
 🦩	flamingo	none
 🦚	peacock	none
 🦜	parrot	none
+🪽	wing	none
+🐦‍⬛	black bird	none
+🪿	goose	none
 🐸	frog	none
 🐊	crocodile	none
 🐢	turtle	none
@@ -962,6 +971,8 @@ _	low line	none
 🦈	shark	none
 🐙	octopus	none
 🐚	spiral shell	none
+🪸	coral	none
+🪼	jellyfish	none
 🐌	snail	none
 🦋	butterfly	none
 🐛	bug	none
@@ -981,6 +992,7 @@ _	low line	none
 💐	bouquet	none
 🌸	cherry blossom	none
 💮	white flower	none
+🪷	lotus	none
 🏵	rosette	none
 🌹	rose	none
 🥀	wilted flower	none
@@ -988,6 +1000,7 @@ _	low line	none
 🌻	sunflower	none
 🌼	blossom	none
 🌷	tulip	none
+🪻	hyacinth	none
 🌱	seedling	none
 🪴	potted plant	none
 🌲	evergreen tree	none
@@ -1001,6 +1014,9 @@ _	low line	none
 🍁	maple leaf	none
 🍂	fallen leaf	none
 🍃	leaf fluttering in wind	none
+🪹	empty nest	none
+🪺	nest with eggs	none
+🍄	mushroom	none
 🍇	grapes	none
 🍈	melon	none
 🍉	watermelon	none
@@ -1026,15 +1042,16 @@ _	low line	none
 🥕	carrot	none
 🌽	ear of corn	none
 🌶	hot pepper	none
-🫑	bell pepper	none
 🥒	cucumber	none
 🥬	leafy green	none
 🥦	broccoli	none
 🧄	garlic	none
 🧅	onion	none
-🍄	mushroom	none
 🥜	peanuts	none
+🫘	beans	none
 🌰	chestnut	none
+🫚	ginger root	none
+🫛	pea pod	none
 🍞	bread	none
 🥐	croissant	none
 🥖	baguette bread	none
@@ -1119,16 +1136,17 @@ _	low line	none
 🍻	clinking beer mugs	none
 🥂	clinking glasses	none
 🥃	tumbler glass	none
+🫗	pouring liquid	none
 🥤	cup with straw	none
 🧋	bubble tea	none
 🧃	beverage box	none
-🧉	mate	none
 🧊	ice	none
 🥢	chopsticks	none
 🍽	fork and knife with plate	none
 🍴	fork and knife	none
 🥄	spoon	none
 🔪	kitchen knife	none
+🫙	jar	none
 🏺	amphora	none
 🌍	globe showing Europe-Africa	none
 🌎	globe showing Americas	none
@@ -1188,6 +1206,7 @@ _	low line	none
 🌉	bridge at night	none
 ♨	hot springs	none
 🎠	carousel horse	none
+🛝	playground slide	none
 🎡	ferris wheel	none
 🎢	roller coaster	none
 💈	barber pole	none
@@ -1225,7 +1244,6 @@ _	low line	none
 🏍	motorcycle	none
 🛵	motor scooter	none
 🦽	manual wheelchair	none
-🦼	motorized wheelchair	none
 🛺	auto rickshaw	none
 🚲	bicycle	none
 🛴	kick scooter	none
@@ -1236,12 +1254,14 @@ _	low line	none
 🛤	railway track	none
 🛢	oil drum	none
 ⛽	fuel pump	none
+🛞	wheel	none
 🚨	police car light	none
 🚥	horizontal traffic light	none
 🚦	vertical traffic light	none
 🛑	stop sign	none
 🚧	construction	none
 ⚓	anchor	none
+🛟	ring buoy	none
 ⛵	sailboat	none
 🛶	canoe	none
 🚤	speedboat	none
@@ -1399,10 +1419,10 @@ _	low line	none
 🎯	bullseye	none
 🪀	yo-yo	none
 🪁	kite	none
+🔫	water pistol	none
 🎱	pool 8 ball	none
 🔮	crystal ball	none
 🪄	magic wand	none
-🧿	nazar amulet	none
 🎮	video game	none
 🕹	joystick	none
 🎰	slot machine	none
@@ -1410,7 +1430,7 @@ _	low line	none
 🧩	puzzle piece	none
 🧸	teddy bear	none
 🪅	piñata	none
-🪆	nesting dolls	none
+🪩	mirror ball	none
 ♠	spade suit	none
 ♥	heart suit	none
 ♦	diamond suit	none
@@ -1431,7 +1451,6 @@ _	low line	none
 🥽	goggles	none
 🥼	lab coat	none
 🦺	safety vest	none
-👔	necktie	none
 👕	t-shirt	none
 👖	jeans	none
 🧣	scarf	none
@@ -1446,12 +1465,12 @@ _	low line	none
 🩳	shorts	none
 👙	bikini	none
 👚	woman’s clothes	none
+🪭	folding hand fan	none
 👛	purse	none
 👜	handbag	none
 👝	clutch bag	none
 🛍	shopping bags	none
 🎒	backpack	none
-🩴	thong sandal	none
 👞	man’s shoe	none
 👟	running shoe	none
 🥾	hiking boot	none
@@ -1460,6 +1479,7 @@ _	low line	none
 👡	woman’s sandal	none
 🩰	ballet shoes	none
 👢	woman’s boot	none
+🪮	hair pick	none
 👑	crown	none
 👒	woman’s hat	none
 🎩	top hat	none
@@ -1496,7 +1516,8 @@ _	low line	none
 🎻	violin	none
 🪕	banjo	none
 🥁	drum	none
-🪘	long drum	none
+🪇	maracas	none
+🪈	flute	none
 📱	mobile phone	none
 📲	mobile phone with arrow	none
 ☎	telephone	none
@@ -1504,6 +1525,7 @@ _	low line	none
 📟	pager	none
 📠	fax machine	none
 🔋	battery	none
+🪫	low battery	none
 🔌	electric plug	none
 💻	laptop	none
 🖥	desktop computer	none
@@ -1615,7 +1637,7 @@ _	low line	none
 🛠	hammer and wrench	none
 🗡	dagger	none
 ⚔	crossed swords	none
-🔫	water pistol	none
+💣	bomb	none
 🪃	boomerang	none
 🏹	bow and arrow	none
 🛡	shield	none
@@ -1626,7 +1648,6 @@ _	low line	none
 ⚙	gear	none
 🗜	clamp	none
 ⚖	balance scale	none
-🦯	white cane	none
 🔗	link	none
 ⛓	chains	none
 🪝	hook	none
@@ -1643,10 +1664,10 @@ _	low line	none
 💉	syringe	none
 🩸	drop of blood	none
 💊	pill	none
-🩹	adhesive bandage	none
+🩼	crutch	none
 🩺	stethoscope	none
+🩻	x-ray	none
 🚪	door	none
-🛗	elevator	none
 🪞	mirror	none
 🪟	window	none
 🛏	bed	none
@@ -1655,8 +1676,6 @@ _	low line	none
 🚽	toilet	none
 🪠	plunger	none
 🚿	shower	none
-🛁	bathtub	none
-🪤	mouse trap	none
 🪒	razor	none
 🧴	lotion bottle	none
 🧷	safety pin	none
@@ -1665,6 +1684,7 @@ _	low line	none
 🧻	roll of paper	none
 🪣	bucket	none
 🧼	soap	none
+🫧	bubbles	none
 🪥	toothbrush	none
 🧽	sponge	none
 🧯	fire extinguisher	none
@@ -1673,8 +1693,11 @@ _	low line	none
 ⚰	coffin	none
 🪦	headstone	none
 ⚱	funeral urn	none
+🧿	nazar amulet	none
+🪬	hamsa	none
 🗿	moai	none
 🪧	placard	none
+🪪	identification card	none
 🏧	ATM sign	none
 🚮	litter in bin sign	none
 🚰	potable water	none
@@ -1711,7 +1734,6 @@ _	low line	none
 ↖	up-left arrow	none
 ↕	up-down arrow	none
 ↔	left-right arrow	none
-↮	left right arrow stroke	none
 ↩	right arrow curving left	none
 ↪	left arrow curving right	none
 ⤴	right arrow curving up	none
@@ -1732,6 +1754,7 @@ _	low line	none
 ☮	peace symbol	none
 🕎	menorah	none
 🔯	dotted six-pointed star	none
+🪯	khanda	none
 ♈	Aries	none
 ♉	Taurus	none
 ♊	Gemini	none
@@ -1767,6 +1790,7 @@ _	low line	none
 🔅	dim button	none
 🔆	bright button	none
 📶	antenna bars	none
+🛜	wireless	none
 📳	vibration mode	none
 📴	mobile phone off	none
 ♀	female sign	none
@@ -1776,6 +1800,7 @@ _	low line	none
 ➕	plus	none
 ➖	minus	none
 ➗	divide	none
+🟰	heavy equals sign	none
 ♾	infinity	none
 ‼	double exclamation mark	none
 ⁉	exclamation question mark	none
@@ -1793,9 +1818,6 @@ _	low line	none
 📛	name badge	none
 🔰	Japanese symbol for beginner	none
 ⭕	hollow red circle	none
-✅	check mark button	none
-☑	check box with check	none
-✔	check mark	none
 ❌	cross mark	none
 ❎	cross mark button	none
 ➰	curly loop	none
@@ -1901,7 +1923,6 @@ $	dollar	none
 ₳	austral	none
 ₶	livre tournois	none
 ₷	spesmilo	none
-₽	ruble	none
 ₿	bitcoin	none
 ₨	rupee	none
 ﷼	rial	none
@@ -1911,26 +1932,31 @@ $	dollar	none
 µ	micro sign	none
 🇺🇲	flag U.S. Outlying Islands	none
 🇻🇮	flag U.S. Virgin Islands	none
-🫃🏻	pregnant man light skin tone	none
-🫃🏼	pregnant man medium-light skin tone	none
-🫃🏽	pregnant man medium skin tone	none
-🫃🏾	pregnant man medium-dark skin tone	none
-🫃🏿	pregnant man dark skin tone	none
-🫄🏻	pregnant person light skin tone	none
-🫄🏼	pregnant person medium-light skin tone	none
-🫄🏽	pregnant person medium skin tone	none
-🫄🏾	pregnant person medium-dark skin tone	none
-🫄🏿	pregnant person dark skin tone	none
-🫅🏻	person with crown light skin tone	none
-🫅🏼	person with crown medium-light skin tone	none
-🫅🏽	person with crown medium skin tone	none
-🫅🏾	person with crown medium-dark skin tone	none
-🫅🏿	person with crown dark skin tone	none
-🫰🏻	hand with index finger and thumb crossed light skin tone	none
-🫰🏼	hand with index finger and thumb crossed medium-light skin tone	none
-🫰🏽	hand with index finger and thumb crossed medium skin tone	none
-🫰🏾	hand with index finger and thumb crossed medium-dark skin tone	none
-🫰🏿	hand with index finger and thumb crossed dark skin tone	none
+👋🏻	waving hand light skin tone	none
+👋🏼	waving hand medium-light skin tone	none
+👋🏽	waving hand medium skin tone	none
+👋🏾	waving hand medium-dark skin tone	none
+👋🏿	waving hand dark skin tone	none
+🤚🏻	raised back of hand light skin tone	none
+🤚🏼	raised back of hand medium-light skin tone	none
+🤚🏽	raised back of hand medium skin tone	none
+🤚🏾	raised back of hand medium-dark skin tone	none
+🤚🏿	raised back of hand dark skin tone	none
+🖐🏻	hand with fingers splayed light skin tone	none
+🖐🏼	hand with fingers splayed medium-light skin tone	none
+🖐🏽	hand with fingers splayed medium skin tone	none
+🖐🏾	hand with fingers splayed medium-dark skin tone	none
+🖐🏿	hand with fingers splayed dark skin tone	none
+✋🏻	raised hand light skin tone	none
+✋🏼	raised hand medium-light skin tone	none
+✋🏽	raised hand medium skin tone	none
+✋🏾	raised hand medium-dark skin tone	none
+✋🏿	raised hand dark skin tone	none
+🖖🏻	vulcan salute light skin tone	none
+🖖🏼	vulcan salute medium-light skin tone	none
+🖖🏽	vulcan salute medium skin tone	none
+🖖🏾	vulcan salute medium-dark skin tone	none
+🖖🏿	vulcan salute dark skin tone	none
 🫱🏻	rightwards hand light skin tone	none
 🫱🏼	rightwards hand medium-light skin tone	none
 🫱🏽	rightwards hand medium skin tone	none
@@ -1971,41 +1997,16 @@ $	dollar	none
 🫴🏽	palm up hand medium skin tone	none
 🫴🏾	palm up hand medium-dark skin tone	none
 🫴🏿	palm up hand dark skin tone	none
-🫵🏻	index pointing at the viewer light skin tone	none
-🫵🏼	index pointing at the viewer medium-light skin tone	none
-🫵🏽	index pointing at the viewer medium skin tone	none
-🫵🏾	index pointing at the viewer medium-dark skin tone	none
-🫵🏿	index pointing at the viewer dark skin tone	none
-🫶🏻	heart hands light skin tone	none
-🫶🏼	heart hands medium-light skin tone	none
-🫶🏽	heart hands medium skin tone	none
-🫶🏾	heart hands medium-dark skin tone	none
-🫶🏿	heart hands dark skin tone	none
-👋🏻	waving hand light skin tone	none
-👋🏼	waving hand medium-light skin tone	none
-👋🏽	waving hand medium skin tone	none
-👋🏾	waving hand medium-dark skin tone	none
-👋🏿	waving hand dark skin tone	none
-🤚🏻	raised back of hand light skin tone	none
-🤚🏼	raised back of hand medium-light skin tone	none
-🤚🏽	raised back of hand medium skin tone	none
-🤚🏾	raised back of hand medium-dark skin tone	none
-🤚🏿	raised back of hand dark skin tone	none
-🖐🏻	hand with fingers splayed light skin tone	none
-🖐🏼	hand with fingers splayed medium-light skin tone	none
-🖐🏽	hand with fingers splayed medium skin tone	none
-🖐🏾	hand with fingers splayed medium-dark skin tone	none
-🖐🏿	hand with fingers splayed dark skin tone	none
-✋🏻	raised hand light skin tone	none
-✋🏼	raised hand medium-light skin tone	none
-✋🏽	raised hand medium skin tone	none
-✋🏾	raised hand medium-dark skin tone	none
-✋🏿	raised hand dark skin tone	none
-🖖🏻	vulcan salute light skin tone	none
-🖖🏼	vulcan salute medium-light skin tone	none
-🖖🏽	vulcan salute medium skin tone	none
-🖖🏾	vulcan salute medium-dark skin tone	none
-🖖🏿	vulcan salute dark skin tone	none
+🫷🏻	leftwards pushing hand light skin tone	none
+🫷🏼	leftwards pushing hand medium-light skin tone	none
+🫷🏽	leftwards pushing hand medium skin tone	none
+🫷🏾	leftwards pushing hand medium-dark skin tone	none
+🫷🏿	leftwards pushing hand dark skin tone	none
+🫸🏻	rightwards pushing hand light skin tone	none
+🫸🏼	rightwards pushing hand medium-light skin tone	none
+🫸🏽	rightwards pushing hand medium skin tone	none
+🫸🏾	rightwards pushing hand medium-dark skin tone	none
+🫸🏿	rightwards pushing hand dark skin tone	none
 👌🏻	OK hand light skin tone	none
 👌🏼	OK hand medium-light skin tone	none
 👌🏽	OK hand medium skin tone	none
@@ -2031,6 +2032,11 @@ $	dollar	none
 🤞🏽	crossed fingers medium skin tone	none
 🤞🏾	crossed fingers medium-dark skin tone	none
 🤞🏿	crossed fingers dark skin tone	none
+🫰🏻	hand with index finger and thumb crossed light skin tone	none
+🫰🏼	hand with index finger and thumb crossed medium-light skin tone	none
+🫰🏽	hand with index finger and thumb crossed medium skin tone	none
+🫰🏾	hand with index finger and thumb crossed medium-dark skin tone	none
+🫰🏿	hand with index finger and thumb crossed dark skin tone	none
 🤟🏻	love-you gesture light skin tone	none
 🤟🏼	love-you gesture medium-light skin tone	none
 🤟🏽	love-you gesture medium skin tone	none
@@ -2076,6 +2082,11 @@ $	dollar	none
 ☝🏽	index pointing up medium skin tone	none
 ☝🏾	index pointing up medium-dark skin tone	none
 ☝🏿	index pointing up dark skin tone	none
+🫵🏻	index pointing at the viewer light skin tone	none
+🫵🏼	index pointing at the viewer medium-light skin tone	none
+🫵🏽	index pointing at the viewer medium skin tone	none
+🫵🏾	index pointing at the viewer medium-dark skin tone	none
+🫵🏿	index pointing at the viewer dark skin tone	none
 👍🏻	thumbs up light skin tone	none
 👍🏼	thumbs up medium-light skin tone	none
 👍🏽	thumbs up medium skin tone	none
@@ -2116,6 +2127,11 @@ $	dollar	none
 🙌🏽	raising hands medium skin tone	none
 🙌🏾	raising hands medium-dark skin tone	none
 🙌🏿	raising hands dark skin tone	none
+🫶🏻	heart hands light skin tone	none
+🫶🏼	heart hands medium-light skin tone	none
+🫶🏽	heart hands medium skin tone	none
+🫶🏾	heart hands medium-dark skin tone	none
+🫶🏿	heart hands dark skin tone	none
 👐🏻	open hands light skin tone	none
 👐🏼	open hands medium-light skin tone	none
 👐🏽	open hands medium skin tone	none
@@ -2978,6 +2994,11 @@ $	dollar	none
 👷🏽‍♀	woman construction worker medium skin tone	none
 👷🏾‍♀	woman construction worker medium-dark skin tone	none
 👷🏿‍♀	woman construction worker dark skin tone	none
+🫅🏻	person with crown light skin tone	none
+🫅🏼	person with crown medium-light skin tone	none
+🫅🏽	person with crown medium skin tone	none
+🫅🏾	person with crown medium-dark skin tone	none
+🫅🏿	person with crown dark skin tone	none
 🤴🏻	prince light skin tone	none
 🤴🏼	prince medium-light skin tone	none
 🤴🏽	prince medium skin tone	none
@@ -3048,6 +3069,16 @@ $	dollar	none
 🤰🏽	pregnant woman medium skin tone	none
 🤰🏾	pregnant woman medium-dark skin tone	none
 🤰🏿	pregnant woman dark skin tone	none
+🫃🏻	pregnant man light skin tone	none
+🫃🏼	pregnant man medium-light skin tone	none
+🫃🏽	pregnant man medium skin tone	none
+🫃🏾	pregnant man medium-dark skin tone	none
+🫃🏿	pregnant man dark skin tone	none
+🫄🏻	pregnant person light skin tone	none
+🫄🏼	pregnant person medium-light skin tone	none
+🫄🏽	pregnant person medium skin tone	none
+🫄🏾	pregnant person medium-dark skin tone	none
+🫄🏿	pregnant person dark skin tone	none
 🤱🏻	breast-feeding light skin tone	none
 🤱🏼	breast-feeding medium-light skin tone	none
 🤱🏽	breast-feeding medium skin tone	none

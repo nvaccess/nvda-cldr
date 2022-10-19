@@ -348,43 +348,6 @@ _	donja crta	none
 ⪺	slijedi iznad nije približno jednako	none
 ♭	snizilica	none
 ♯	povisilica	none
-🥹	lice koje se suzdržava od suza	none
-🧌	trol	none
-🩻	rendgenska snimka	none
-🩼	štaka	none
-🪩	disko kugla	none
-🪪	osobna iskaznica	none
-🪫	baterija s niskom razinom napunjenosti	none
-🪬	hamsa	none
-🪷	lotus	none
-🪸	koralj	none
-🪹	prazno gnijezdo	none
-🪺	gnijezdo s jajima	none
-🫃	trudni muškarac	none
-🫄	trudna osoba	none
-🫅	osoba s krunom	none
-🫗	izlijevanje tekućine	none
-🫘	grah	none
-🫙	staklenka	none
-🫠	lice koje se topi	none
-🫡	lice koje salutira	none
-🫢	lice s otvorenim očima i rukom preko usta	none
-🫣	virenje na jedno oko	none
-🫤	lice s nakošenim ustima	none
-🫥	lice obrubljeno točkastom crtom	none
-🫦	ugriz usne	none
-🫧	mjehurići	none
-🫰	ruka s prekriženim palcem i kažiprstom	none
-🫱	ruka okrenuta udesno	none
-🫲	ruka okrenuta ulijevo	none
-🫳	ruka s dlanom okrenutim prema dolje	none
-🫴	ruka s dlanom okrenutim prema gore	none
-🫵	kažiprst uperen prema gledatelju	none
-🫶	ruke koje tvore srce	none
-🛝	dječji tobogan	none
-🛞	kotač	none
-🛟	kolut za spašavanje	none
-🟰	podebljani znak jednakosti	none
 😀	nasmijano lice	none
 😃	nasmijano lice s velikim očima	none
 😄	nasmijano lice s nasmiješenim očima	none
@@ -395,6 +358,7 @@ _	donja crta	none
 😂	lice sa suzama radosnicama	none
 🙂	blago nasmiješeno lice	none
 🙃	naopačke okrenuto lice	none
+🫠	lice koje se topi	none
 😉	lice koje namiguje	none
 😊	nasmiješeno lice s nasmiješenim očima	none
 😇	nasmiješeno lice s aureolom	none
@@ -415,13 +379,17 @@ _	donja crta	none
 🤑	pohlepno lice	none
 🤗	lice koje grli	none
 🤭	lice s rukom preko usta	none
+🫢	lice s otvorenim očima i rukom preko usta	none
+🫣	virenje na jedno oko	none
 🤫	lice koje ušutkava	none
 🤔	lice koje razmišlja	none
+🫡	lice koje salutira	none
 🤐	lice s patentnim zatvaračem preko usta	none
 🤨	lice s podignutom obrvom	none
 😐	neutralno lice	none
 😑	bezizražajno lice	none
 😶	lice bez usta	none
+🫥	lice obrubljeno točkastom crtom	none
 😶‍🌫	lice u oblacima	none
 😏	lice koje se smijulji	none
 😒	lice s izrazom dosade	none
@@ -429,6 +397,7 @@ _	donja crta	none
 😬	lice s grimasom	none
 😮‍💨	lice koje izdiše	none
 🤥	lice koje laže	none
+🫨	drhteće lice	none
 😌	lice s izrazom olakšanja	none
 😔	zamišljeno lice	none
 😪	pospano lice	none
@@ -453,6 +422,7 @@ _	donja crta	none
 🤓	štrebersko lice	none
 🧐	lice s monoklom	none
 😕	zbunjeno lice	none
+🫤	lice s nakošenim ustima	none
 😟	zabrinuto lice	none
 🙁	blago namrgođeno lice	none
 ☹	namrgođeno lice	none
@@ -461,6 +431,7 @@ _	donja crta	none
 😲	zapanjeno lice	none
 😳	zarumenjeno lice	none
 🥺	molećivo lice	none
+🥹	lice koje se suzdržava od suza	none
 😦	namrgođeno lice s otvorenim ustima	none
 😧	izmučeno lice	none
 😨	preplašeno lice	none
@@ -504,7 +475,6 @@ _	donja crta	none
 🙈	majmun koji ne vidi ništa loše	none
 🙉	majmun koji ne čuje ništa loše	none
 🙊	majmun koji ne govori ništa loše	none
-💋	otisak usana	none
 💌	ljubavno pismo	none
 💘	srce sa strelicom	none
 💝	srce s trakom	none
@@ -519,14 +489,18 @@ _	donja crta	none
 ❤‍🔥	srce u plamenu	none
 ❤‍🩹	srce koje se liječi	none
 ❤	crveno srce	none
+🩷	ružičasto srce	none
 🧡	narančasto srce	none
 💛	žuto srce	none
 💚	zeleno srce	none
 💙	plavo srce	none
+🩵	svjetloplavo srce	none
 💜	ljubičasto srce	none
 🤎	smeđe srce	none
 🖤	crno srce	none
+🩶	sivo srce	none
 🤍	bijelo srce	none
+💋	otisak usana	none
 💯	sto bodova	none
 💢	simbol ljutnje	none
 💥	sudar	none
@@ -534,7 +508,6 @@ _	donja crta	none
 💦	kapljice znoja	none
 💨	bježanje	none
 🕳	rupa	none
-💣	bomba	none
 💬	govorni oblačić	none
 👁‍🗨	oko u oblačiću	none
 🗨	lijevi govorni oblačić	none
@@ -546,11 +519,18 @@ _	donja crta	none
 🖐	podignuta ruka s raširenim prstima	none
 ✋	podignuta ruka	none
 🖖	vulkanski pozdrav	none
+🫱	ruka okrenuta udesno	none
+🫲	ruka okrenuta ulijevo	none
+🫳	ruka s dlanom okrenutim prema dolje	none
+🫴	ruka s dlanom okrenutim prema gore	none
+🫷	ruka koja gura ulijevo	none
+🫸	ruka koja gura udesno	none
 👌	znak rukom "u redu"	none
 🤌	skupljeni prsti	none
 🤏	ruka koja štipa	none
 ✌	ruka sa znakom pobjede	none
 🤞	prekriženi prsti	none
+🫰	ruka s prekriženim palcem i kažiprstom	none
 🤟	gesta "volim te"	none
 🤘	znak rogova	none
 🤙	nazovi me	none
@@ -560,6 +540,7 @@ _	donja crta	none
 🖕	srednji prst	none
 👇	kažiprst koji pokazuje prema dolje	none
 ☝	kažiprst pokazuje gore	none
+🫵	kažiprst uperen prema gledatelju	none
 👍	palac gore	none
 👎	palac dolje	none
 ✊	podignuta šaka	none
@@ -568,6 +549,7 @@ _	donja crta	none
 🤜	šaka udesno	none
 👏	ruke koje plješću	none
 🙌	podignute ruke	none
+🫶	ruke koje tvore srce	none
 👐	otvorene ruke	none
 🤲	spojeni dlanovi	none
 🤝	rukovanje	none
@@ -592,6 +574,7 @@ _	donja crta	none
 👁	oko	none
 👅	jezik	none
 👄	usta	none
+🫦	ugriz usne	none
 👶	beba	none
 🧒	dijete	none
 👦	dječak	none
@@ -699,6 +682,7 @@ _	donja crta	none
 👷	građevinski radnik	none
 👷‍♂	zidar	none
 👷‍♀	zidarica	none
+🫅	osoba s krunom	none
 🤴	princ	none
 👸	princeza	none
 👳	osoba s turbanom	none
@@ -713,6 +697,8 @@ _	donja crta	none
 👰‍♂	muškarac s velom	none
 👰‍♀	žena s velom	none
 🤰	trudnica	none
+🫃	trudni muškarac	none
+🫄	trudna osoba	none
 🤱	dojenje	none
 👩‍🍼	žena hrani bebu	none
 👨‍🍼	muškarac hrani bebu	none
@@ -748,6 +734,7 @@ _	donja crta	none
 🧟	zombi	none
 🧟‍♂	muški zombi	none
 🧟‍♀	ženski zombi	none
+🧌	trol	none
 💆	osoba na masaži	none
 💆‍♂	muškarac na masaži	none
 💆‍♀	žena na masaži	none
@@ -871,6 +858,8 @@ _	donja crta	none
 🐅	tigar	none
 🐆	leopard	none
 🐴	lice konja	none
+🫎	los	none
+🫏	magarac	none
 🐎	konj	none
 🦄	jednorog	none
 🦓	zebra	none
@@ -933,6 +922,8 @@ _	donja crta	none
 🦩	plamenac	none
 🦚	paun	none
 🦜	papiga	none
+🪽	krilo	none
+🪿	guska	none
 🐸	žaba	none
 🐊	krokodil	none
 🐢	kornjača	none
@@ -952,6 +943,8 @@ _	donja crta	none
 🦈	morski pas	none
 🐙	hobotnica	none
 🐚	spiralna školjka	none
+🪸	koralj	none
+🪼	meduza	none
 🐌	puž	none
 🦋	leptir	none
 🐛	gusjenica	none
@@ -971,6 +964,7 @@ _	donja crta	none
 💐	buket	none
 🌸	trešnjin cvijet	none
 💮	bijeli cvijet	none
+🪷	lotus	none
 🏵	rozeta	none
 🌹	ruža	none
 🥀	uveo cvijet	none
@@ -978,6 +972,7 @@ _	donja crta	none
 🌻	suncokret	none
 🌼	cvjetanje	none
 🌷	tulipan	none
+🪻	zumbul	none
 🌱	sadnica	none
 🪴	biljka u tegli	none
 🌲	zimzeleno drvo	none
@@ -991,6 +986,9 @@ _	donja crta	none
 🍁	javorov list	none
 🍂	otpali list	none
 🍃	list koji treperi na vjetru	none
+🪹	prazno gnijezdo	none
+🪺	gnijezdo s jajima	none
+🍄	gljiva	none
 🍇	grožđe	none
 🍈	dinja	none
 🍉	lubenica	none
@@ -1022,9 +1020,11 @@ _	donja crta	none
 🥦	brokula	none
 🧄	češnjak	none
 🧅	luk	none
-🍄	gljiva	none
 🥜	kikiriki	none
+🫘	grah	none
 🌰	kesten	none
+🫚	đumbir	none
+🫛	mahuna graška	none
 🍞	kruh	none
 🥐	kroasan	none
 🥖	baget	none
@@ -1109,6 +1109,7 @@ _	donja crta	none
 🍻	zdravica kriglama piva	none
 🥂	zdravica	none
 🥃	žestoko piće	none
+🫗	izlijevanje tekućine	none
 🥤	čaša sa slamkom	none
 🧋	mjehuričasti čaj	none
 🧃	sok u tetrapaku	none
@@ -1119,6 +1120,7 @@ _	donja crta	none
 🍴	vilica i nož	none
 🥄	žlica	none
 🔪	kuhinjski nož	none
+🫙	staklenka	none
 🏺	amfora	none
 🌍	globus s prikazom Europe i Afrike	none
 🌎	globus s prikazom Amerika	none
@@ -1181,6 +1183,7 @@ _	donja crta	none
 🌉	most noću	none
 ♨	termalni izvori	none
 🎠	konjić na vrtuljku	none
+🛝	dječji tobogan	none
 🎡	panoramski kotač	none
 🎢	vlak smrti	none
 💈	stup koji označava brijačnicu	none
@@ -1229,12 +1232,14 @@ _	donja crta	none
 🛤	željeznička pruga	none
 🛢	bačva za naftu	none
 ⛽	pumpa za gorivo	none
+🛞	kotač	none
 🚨	policijska rotirka	none
 🚥	vodoravni semafor	none
 🚦	okomiti semafor	none
 🛑	znak stop	none
 🚧	znak radova	none
 ⚓	sidro	none
+🛟	kolut za spašavanje	none
 ⛵	jedrilica	none
 🛶	kanu	none
 🚤	gliser	none
@@ -1392,10 +1397,10 @@ _	donja crta	none
 🎯	pogodak u sredinu	none
 🪀	jo-jo	none
 🪁	papirnati zmaj	none
+🔫	pištolj na vodu	none
 🎱	biljarske kugle	none
 🔮	kristalna kugla	none
 🪄	čarobni štapić	none
-🧿	nazar perlica	none
 🎮	videoigrica	none
 🕹	igraća palica	none
 🎰	jednoruki jack	none
@@ -1403,6 +1408,7 @@ _	donja crta	none
 🧩	slagalica	none
 🧸	medvjedić	none
 🪅	pinjata	none
+🪩	disko kugla	none
 🪆	babuška	none
 ♠	pik	none
 ♥	herc	none
@@ -1439,6 +1445,7 @@ _	donja crta	none
 🩳	kratke hlače	none
 👙	bikini	none
 👚	ženska odjeća	none
+🪭	sklopiva lepeza	none
 👛	novčanik	none
 👜	ručna torbica	none
 👝	torbica	none
@@ -1453,6 +1460,7 @@ _	donja crta	none
 👡	ženska sandala	none
 🩰	baletne papučice	none
 👢	ženska čizma	none
+🪮	češljić	none
 👑	kruna	none
 👒	ženski šešir	none
 🎩	cilindar	none
@@ -1491,6 +1499,8 @@ _	donja crta	none
 🪕	bendžo	none
 🥁	bubanj	none
 🪘	visoki bubanj	none
+🪇	marakasi	none
+🪈	flauta	none
 📱	mobilni telefon	none
 📲	mobilni telefon sa strelicom	none
 ☎	telefon	none
@@ -1498,6 +1508,7 @@ _	donja crta	none
 📟	dojavljivač	none
 📠	faks	none
 🔋	baterija	none
+🪫	baterija s niskom razinom napunjenosti	none
 🔌	strujni utikač	none
 💻	prijenosno računalo	none
 🖥	stolno računalo	none
@@ -1609,7 +1620,7 @@ _	donja crta	none
 🛠	čekić i francuski ključ	none
 🗡	bodež	none
 ⚔	prekriženi mačevi	none
-🔫	pištolj na vodu	none
+💣	bomba	none
 🪃	bumerang	none
 🏹	luk i strijela	none
 🛡	štit	none
@@ -1638,7 +1649,9 @@ _	donja crta	none
 🩸	kap krvi	none
 💊	pilula	none
 🩹	flaster	none
+🩼	štaka	none
 🩺	stetoskop	none
+🩻	rendgenska snimka	none
 🚪	vrata	none
 🛗	dizalo	none
 🪞	zrcalo	none
@@ -1659,6 +1672,7 @@ _	donja crta	none
 🧻	rola papira	none
 🪣	kanta	none
 🧼	sapun	none
+🫧	mjehurići	none
 🪥	četkica za zube	none
 🧽	spužva	none
 🧯	vatrogasni aparat	none
@@ -1667,8 +1681,11 @@ _	donja crta	none
 ⚰	lijes	none
 🪦	nadgrobni spomenik	none
 ⚱	urna	none
+🧿	nazar perlica	none
+🪬	hamsa	none
 🗿	moai	none
 🪧	transparent	none
+🪪	osobna iskaznica	none
 🏧	znak za bankomat	none
 🚮	znak za koš za smeće	none
 🚰	pitka voda	none
@@ -1729,6 +1746,7 @@ _	donja crta	none
 ☮	simbol mira	none
 🕎	menora	none
 🔯	šesterokraka zvijezda s točkom	none
+🪯	khanda	none
 ♈	astrološki znak ovna	none
 ♉	astrološki znak bika	none
 ♊	astrološki znak blizanaca	none
@@ -1764,6 +1782,7 @@ _	donja crta	none
 🔅	tipka za smanjivanje svjetline	none
 🔆	tipka za povećanje svjetline	none
 📶	trakice jačine signala	none
+🛜	bežična mreža	none
 📳	način vibracije	none
 📴	isključen mobilni telefon	none
 ♀	ženski simbol	none
@@ -1773,6 +1792,7 @@ _	donja crta	none
 ➕	plus	none
 ➖	minus	none
 ➗	znak dijeljenja	none
+🟰	podebljani znak jednakosti	none
 ♾	beskonačnost	none
 ‼	dvostruki uskličnik	none
 ⁉	uskličnik-upitnik	none
@@ -1909,26 +1929,31 @@ $	dolar	none
 ²	eksponent 2	none
 ³	eksponent 3	none
 µ	znak mikro	none
-🫃🏻	trudni muškarac svijetla boja kože	none
-🫃🏼	trudni muškarac svijetlo maslinasta boja kože	none
-🫃🏽	trudni muškarac maslinasta boja kože	none
-🫃🏾	trudni muškarac smeđa boja kože	none
-🫃🏿	trudni muškarac tamno smeđa boja kože	none
-🫄🏻	trudna osoba svijetla boja kože	none
-🫄🏼	trudna osoba svijetlo maslinasta boja kože	none
-🫄🏽	trudna osoba maslinasta boja kože	none
-🫄🏾	trudna osoba smeđa boja kože	none
-🫄🏿	trudna osoba tamno smeđa boja kože	none
-🫅🏻	osoba s krunom svijetla boja kože	none
-🫅🏼	osoba s krunom svijetlo maslinasta boja kože	none
-🫅🏽	osoba s krunom maslinasta boja kože	none
-🫅🏾	osoba s krunom smeđa boja kože	none
-🫅🏿	osoba s krunom tamno smeđa boja kože	none
-🫰🏻	ruka s prekriženim palcem i kažiprstom svijetla boja kože	none
-🫰🏼	ruka s prekriženim palcem i kažiprstom svijetlo maslinasta boja kože	none
-🫰🏽	ruka s prekriženim palcem i kažiprstom maslinasta boja kože	none
-🫰🏾	ruka s prekriženim palcem i kažiprstom smeđa boja kože	none
-🫰🏿	ruka s prekriženim palcem i kažiprstom tamno smeđa boja kože	none
+👋🏻	ruka koja maše svijetla boja kože	none
+👋🏼	ruka koja maše svijetlo maslinasta boja kože	none
+👋🏽	ruka koja maše maslinasta boja kože	none
+👋🏾	ruka koja maše smeđa boja kože	none
+👋🏿	ruka koja maše tamno smeđa boja kože	none
+🤚🏻	ruka gore svijetla boja kože	none
+🤚🏼	ruka gore svijetlo maslinasta boja kože	none
+🤚🏽	ruka gore maslinasta boja kože	none
+🤚🏾	ruka gore smeđa boja kože	none
+🤚🏿	ruka gore tamno smeđa boja kože	none
+🖐🏻	podignuta ruka s raširenim prstima svijetla boja kože	none
+🖐🏼	podignuta ruka s raširenim prstima svijetlo maslinasta boja kože	none
+🖐🏽	podignuta ruka s raširenim prstima maslinasta boja kože	none
+🖐🏾	podignuta ruka s raširenim prstima smeđa boja kože	none
+🖐🏿	podignuta ruka s raširenim prstima tamno smeđa boja kože	none
+✋🏻	podignuta ruka svijetla boja kože	none
+✋🏼	podignuta ruka svijetlo maslinasta boja kože	none
+✋🏽	podignuta ruka maslinasta boja kože	none
+✋🏾	podignuta ruka smeđa boja kože	none
+✋🏿	podignuta ruka tamno smeđa boja kože	none
+🖖🏻	vulkanski pozdrav svijetla boja kože	none
+🖖🏼	vulkanski pozdrav svijetlo maslinasta boja kože	none
+🖖🏽	vulkanski pozdrav maslinasta boja kože	none
+🖖🏾	vulkanski pozdrav smeđa boja kože	none
+🖖🏿	vulkanski pozdrav tamno smeđa boja kože	none
 🫱🏻	ruka okrenuta udesno svijetla boja kože	none
 🫱🏼	ruka okrenuta udesno svijetlo maslinasta boja kože	none
 🫱🏽	ruka okrenuta udesno maslinasta boja kože	none
@@ -1969,41 +1994,16 @@ $	dolar	none
 🫴🏽	ruka s dlanom okrenutim prema gore maslinasta boja kože	none
 🫴🏾	ruka s dlanom okrenutim prema gore smeđa boja kože	none
 🫴🏿	ruka s dlanom okrenutim prema gore tamno smeđa boja kože	none
-🫵🏻	kažiprst uperen prema gledatelju svijetla boja kože	none
-🫵🏼	kažiprst uperen prema gledatelju svijetlo maslinasta boja kože	none
-🫵🏽	kažiprst uperen prema gledatelju maslinasta boja kože	none
-🫵🏾	kažiprst uperen prema gledatelju smeđa boja kože	none
-🫵🏿	kažiprst uperen prema gledatelju tamno smeđa boja kože	none
-🫶🏻	ruke koje tvore srce svijetla boja kože	none
-🫶🏼	ruke koje tvore srce svijetlo maslinasta boja kože	none
-🫶🏽	ruke koje tvore srce maslinasta boja kože	none
-🫶🏾	ruke koje tvore srce smeđa boja kože	none
-🫶🏿	ruke koje tvore srce tamno smeđa boja kože	none
-👋🏻	ruka koja maše svijetla boja kože	none
-👋🏼	ruka koja maše svijetlo maslinasta boja kože	none
-👋🏽	ruka koja maše maslinasta boja kože	none
-👋🏾	ruka koja maše smeđa boja kože	none
-👋🏿	ruka koja maše tamno smeđa boja kože	none
-🤚🏻	ruka gore svijetla boja kože	none
-🤚🏼	ruka gore svijetlo maslinasta boja kože	none
-🤚🏽	ruka gore maslinasta boja kože	none
-🤚🏾	ruka gore smeđa boja kože	none
-🤚🏿	ruka gore tamno smeđa boja kože	none
-🖐🏻	podignuta ruka s raširenim prstima svijetla boja kože	none
-🖐🏼	podignuta ruka s raširenim prstima svijetlo maslinasta boja kože	none
-🖐🏽	podignuta ruka s raširenim prstima maslinasta boja kože	none
-🖐🏾	podignuta ruka s raširenim prstima smeđa boja kože	none
-🖐🏿	podignuta ruka s raširenim prstima tamno smeđa boja kože	none
-✋🏻	podignuta ruka svijetla boja kože	none
-✋🏼	podignuta ruka svijetlo maslinasta boja kože	none
-✋🏽	podignuta ruka maslinasta boja kože	none
-✋🏾	podignuta ruka smeđa boja kože	none
-✋🏿	podignuta ruka tamno smeđa boja kože	none
-🖖🏻	vulkanski pozdrav svijetla boja kože	none
-🖖🏼	vulkanski pozdrav svijetlo maslinasta boja kože	none
-🖖🏽	vulkanski pozdrav maslinasta boja kože	none
-🖖🏾	vulkanski pozdrav smeđa boja kože	none
-🖖🏿	vulkanski pozdrav tamno smeđa boja kože	none
+🫷🏻	ruka koja gura ulijevo svijetla boja kože	none
+🫷🏼	ruka koja gura ulijevo svijetlo maslinasta boja kože	none
+🫷🏽	ruka koja gura ulijevo maslinasta boja kože	none
+🫷🏾	ruka koja gura ulijevo smeđa boja kože	none
+🫷🏿	ruka koja gura ulijevo tamno smeđa boja kože	none
+🫸🏻	ruka koja gura udesno svijetla boja kože	none
+🫸🏼	ruka koja gura udesno svijetlo maslinasta boja kože	none
+🫸🏽	ruka koja gura udesno maslinasta boja kože	none
+🫸🏾	ruka koja gura udesno smeđa boja kože	none
+🫸🏿	ruka koja gura udesno tamno smeđa boja kože	none
 👌🏻	znak rukom "u redu" svijetla boja kože	none
 👌🏼	znak rukom "u redu" svijetlo maslinasta boja kože	none
 👌🏽	znak rukom "u redu" maslinasta boja kože	none
@@ -2029,6 +2029,11 @@ $	dolar	none
 🤞🏽	prekriženi prsti maslinasta boja kože	none
 🤞🏾	prekriženi prsti smeđa boja kože	none
 🤞🏿	prekriženi prsti tamno smeđa boja kože	none
+🫰🏻	ruka s prekriženim palcem i kažiprstom svijetla boja kože	none
+🫰🏼	ruka s prekriženim palcem i kažiprstom svijetlo maslinasta boja kože	none
+🫰🏽	ruka s prekriženim palcem i kažiprstom maslinasta boja kože	none
+🫰🏾	ruka s prekriženim palcem i kažiprstom smeđa boja kože	none
+🫰🏿	ruka s prekriženim palcem i kažiprstom tamno smeđa boja kože	none
 🤟🏻	gesta "volim te" svijetla boja kože	none
 🤟🏼	gesta "volim te" svijetlo maslinasta boja kože	none
 🤟🏽	gesta "volim te" maslinasta boja kože	none
@@ -2074,6 +2079,11 @@ $	dolar	none
 ☝🏽	kažiprst pokazuje gore maslinasta boja kože	none
 ☝🏾	kažiprst pokazuje gore smeđa boja kože	none
 ☝🏿	kažiprst pokazuje gore tamno smeđa boja kože	none
+🫵🏻	kažiprst uperen prema gledatelju svijetla boja kože	none
+🫵🏼	kažiprst uperen prema gledatelju svijetlo maslinasta boja kože	none
+🫵🏽	kažiprst uperen prema gledatelju maslinasta boja kože	none
+🫵🏾	kažiprst uperen prema gledatelju smeđa boja kože	none
+🫵🏿	kažiprst uperen prema gledatelju tamno smeđa boja kože	none
 👍🏻	palac gore svijetla boja kože	none
 👍🏼	palac gore svijetlo maslinasta boja kože	none
 👍🏽	palac gore maslinasta boja kože	none
@@ -2114,6 +2124,11 @@ $	dolar	none
 🙌🏽	podignute ruke maslinasta boja kože	none
 🙌🏾	podignute ruke smeđa boja kože	none
 🙌🏿	podignute ruke tamno smeđa boja kože	none
+🫶🏻	ruke koje tvore srce svijetla boja kože	none
+🫶🏼	ruke koje tvore srce svijetlo maslinasta boja kože	none
+🫶🏽	ruke koje tvore srce maslinasta boja kože	none
+🫶🏾	ruke koje tvore srce smeđa boja kože	none
+🫶🏿	ruke koje tvore srce tamno smeđa boja kože	none
 👐🏻	otvorene ruke svijetla boja kože	none
 👐🏼	otvorene ruke svijetlo maslinasta boja kože	none
 👐🏽	otvorene ruke maslinasta boja kože	none
@@ -2976,6 +2991,11 @@ $	dolar	none
 👷🏽‍♀	zidarica maslinasta boja kože	none
 👷🏾‍♀	zidarica smeđa boja kože	none
 👷🏿‍♀	zidarica tamno smeđa boja kože	none
+🫅🏻	osoba s krunom svijetla boja kože	none
+🫅🏼	osoba s krunom svijetlo maslinasta boja kože	none
+🫅🏽	osoba s krunom maslinasta boja kože	none
+🫅🏾	osoba s krunom smeđa boja kože	none
+🫅🏿	osoba s krunom tamno smeđa boja kože	none
 🤴🏻	princ svijetla boja kože	none
 🤴🏼	princ svijetlo maslinasta boja kože	none
 🤴🏽	princ maslinasta boja kože	none
@@ -3046,6 +3066,16 @@ $	dolar	none
 🤰🏽	trudnica maslinasta boja kože	none
 🤰🏾	trudnica smeđa boja kože	none
 🤰🏿	trudnica tamno smeđa boja kože	none
+🫃🏻	trudni muškarac svijetla boja kože	none
+🫃🏼	trudni muškarac svijetlo maslinasta boja kože	none
+🫃🏽	trudni muškarac maslinasta boja kože	none
+🫃🏾	trudni muškarac smeđa boja kože	none
+🫃🏿	trudni muškarac tamno smeđa boja kože	none
+🫄🏻	trudna osoba svijetla boja kože	none
+🫄🏼	trudna osoba svijetlo maslinasta boja kože	none
+🫄🏽	trudna osoba maslinasta boja kože	none
+🫄🏾	trudna osoba smeđa boja kože	none
+🫄🏿	trudna osoba tamno smeđa boja kože	none
 🤱🏻	dojenje svijetla boja kože	none
 🤱🏼	dojenje svijetlo maslinasta boja kože	none
 🤱🏽	dojenje maslinasta boja kože	none
@@ -3775,7 +3805,7 @@ $	dolar	none
 🇨🇬	zastava Kongo - Brazzaville	none
 🇨🇭	zastava Švicarska	none
 🇨🇮	zastava Obala Bjelokosti	none
-🇨🇰	zastava Cookovi Otoci	none
+🇨🇰	zastava Cookovi otoci	none
 🇨🇱	zastava Čile	none
 🇨🇲	zastava Kamerun	none
 🇨🇳	zastava Kina	none
@@ -3885,7 +3915,7 @@ $	dolar	none
 🇲🇳	zastava Mongolija	none
 🇲🇴	zastava PUP Makao Kina	none
 🇲🇵	zastava Sjevernomarijanski otoci	none
-🇲🇶	zastava Martinique	none
+🇲🇶	zastava Martinik	none
 🇲🇷	zastava Mauretanija	none
 🇲🇸	zastava Montserrat	none
 🇲🇹	zastava Malta	none

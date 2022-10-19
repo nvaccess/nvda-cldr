@@ -77,13 +77,6 @@
 ◳	cuadrado vacío con cuadrante superior derecho	none
 ◷	círculo vacío con cuadrante superior derecho	none
 ⨯	producto vectorial	none
-🧌	troll	none
-🪪	identificación	none
-🪷	lotus	none
-🫗	líquido que se vierte	none
-🫘	frijoles	none
-🫙	jarra	none
-🫶	corazón con las manos	none
 😀	cara feliz	none
 😃	sonrisa con boca abierta	none
 😄	boca y ojos sonrientes	none
@@ -102,6 +95,7 @@
 🤔	cara pensante	none
 🤐	cara con la boca cerrada con cierre	none
 🙄	cara revoleando los ojos	none
+🫨	cara que vibra	none
 😷	cara con barbijo	none
 🤕	cabeza vendada	none
 🤧	cara de estornudo	none
@@ -144,6 +138,7 @@
 💞	corazones que giran	none
 💟	corazón de decoración	none
 ❣	exclamación con forma de corazón	none
+🩵	corazón celeste	none
 💯	100 puntos	none
 💢	enojo	none
 💫	mareado	none
@@ -164,6 +159,7 @@
 🤛	puño a la izquierda	none
 🤜	puño a la derecha	none
 🙌	chocar las manos	none
+🫶	corazón con las manos	none
 🤳	selfie	none
 🧓	adulto mayor	none
 👴	hombre mayor	none
@@ -176,6 +172,7 @@
 🎅	Santa Claus	none
 🧑‍🎄	papá noel	none
 🧜‍♂	sireno	none
+🧌	troll	none
 💆	masaje facial	none
 💇	corte de pelo	none
 🕴	hombre de traje	none
@@ -196,22 +193,24 @@
 👣	huellas	none
 🐽	hocico de cerdo	none
 🐤	cara de pollito	none
+🪿	ganso	none
 🦎	lagartija	none
 🐳	ballena soplando un chorro de agua	none
 🐚	caracola marina	none
 🐛	oruga	none
 🕸	telaraña	none
+🪷	lotus	none
+🪻	jacinto	none
 🌱	plántula	none
 🌳	árbol caducifolio	none
 🍃	hoja al viento	none
 🍌	banana	none
 🍑	durazno	none
-🍓	frutilla	none
-🥑	palta	none
 🥔	papa	none
 🌽	mazorca de maíz	none
 🌶	pimiento picante	none
 🥜	maní	none
+🫘	frijoles	none
 🍞	pan	none
 🥐	croissant	none
 🥖	baguette	none
@@ -238,8 +237,10 @@
 🍭	paleta dulce	none
 🍺	tarro de cerveza	none
 🍻	brindis con cerveza	none
+🫗	líquido que se vierte	none
 🍽	plato y cubiertos	none
 🍴	cuchillo y tenedor	none
+🫙	jarra	none
 🏺	vasija	none
 🌍	globo terráqueo Europa/África	none
 🌎	globo terráqueo América	none
@@ -415,6 +416,7 @@
 💉	jeringa	none
 🛒	carrito de compras	none
 🗿	estatua de la isla de Pascua	none
+🪪	identificación	none
 🏧	cajero automático	none
 🚮	cartel cesto de basura	none
 ♿	acceso para silla de ruedas	none
@@ -438,7 +440,6 @@
 ⏭	avanzar a la pista siguiente	none
 ⏯	pausar o reproducir	none
 ◀	retroceder	none
-⏪	retroceso rápido	none
 ⏮	última pista	none
 🔽	botón hacia abajo	none
 🎦	filmar	none
@@ -464,8 +465,6 @@
 Ⓜ	letra m en un círculo	none
 🅿	estacionamiento	none
 🆘	auxilio	none
-🔴	círculo rojo	none
-🔵	círculo azul	none
 🔶	diamante naranja grande	none
 🔷	diamante azul grande	none
 🔸	diamante naranja pequeño	none
@@ -475,11 +474,6 @@
 ₥	mill	none
 ₿	bitcoin	none
 µ	signo micro	none
-🫶🏻	corazón con las manos tono de piel claro	none
-🫶🏼	corazón con las manos tono de piel claro medio	none
-🫶🏽	corazón con las manos tono de piel medio	none
-🫶🏾	corazón con las manos tono de piel oscuro medio	none
-🫶🏿	corazón con las manos tono de piel oscuro	none
 🤚🏻	palma de la mano tono de piel claro	none
 🤚🏼	palma de la mano tono de piel claro medio	none
 🤚🏽	palma de la mano tono de piel medio	none
@@ -540,6 +534,11 @@
 🙌🏽	chocar las manos tono de piel medio	none
 🙌🏾	chocar las manos tono de piel oscuro medio	none
 🙌🏿	chocar las manos tono de piel oscuro	none
+🫶🏻	corazón con las manos tono de piel claro	none
+🫶🏼	corazón con las manos tono de piel claro medio	none
+🫶🏽	corazón con las manos tono de piel medio	none
+🫶🏾	corazón con las manos tono de piel oscuro medio	none
+🫶🏿	corazón con las manos tono de piel oscuro	none
 🤳🏻	selfie tono de piel claro	none
 🤳🏼	selfie tono de piel claro medio	none
 🤳🏽	selfie tono de piel medio	none

@@ -55,14 +55,9 @@
 ◿	weisses Dreieck unten rechts	none
 ♪	Achtelsnote	none
 ⪚	gleich über grösser als	none
-🩻	Röntgen	none
-🪪	ID	none
-🫗	Flüssigkeit ausgiessen	none
-🫡	grüssendes Gesicht	none
-🫦	Auf Lippe beissen	none
-🫧	Seifenblasen	none
 😃	grinsendes Gesicht mit grossen Augen	none
 😅	Lachender Smiley mit kaltem Schweiss	none
+🫡	grüssendes Gesicht	none
 🤐	Smiley mit Reissverschlussmund	none
 😶‍🌫	Kopf in den Wolken	none
 😮‍💨	ausatmendes Gesicht	none
@@ -78,8 +73,11 @@
 💥	Zusammenstoss	none
 💦	Schweisstropfen	none
 🖖	Vulkanischer Gruss	none
+🫷	nach links drückende Hand	none
+🫸	nach rechts drückende Hand	none
 🤘	Teufelsgruss	none
 🦶	Fuss	none
+🫦	Auf Lippe beissen	none
 🧟‍♂	Zombiemann	none
 🚶	Fussgänger(in)	none
 🚶‍♂	Fussgänger	none
@@ -90,10 +88,13 @@
 💐	Blumenstrauss	none
 🌶	Chili	none
 🫑	Peperoni	none
+🫚	Ingwerwurzel	none
+🫛	Erbse	none
 🍗	Pouletschenkel	none
 🍠	Geröstete Süsskartoffel	none
 ☕	Heissgetränk	none
 🫖	Teekrug	none
+🫗	Flüssigkeit ausgiessen	none
 ♨	Heisse Quellen	none
 🚊	Strassenbahn	none
 🚋	Tramwagen	none
@@ -101,16 +102,24 @@
 🌌	Milchstrasse	none
 🌥	Sonne hinter grosser Wolke	none
 ⚽	Fussball	none
+🪭	Fächer	none
 🎒	Schulsack	none
 🩴	Flipflops	none
+🪮	Afro Pick	none
 ⛑	Helm mit weissem Kreuz	none
+🪇	Maraca	none
 📆	Abreisskalender	none
 📌	Reisszwecke	none
 📍	runde Reisszwecke	none
+🩻	Röntgen	none
 🛗	Lift	none
+🫧	Seifenblasen	none
+🪪	ID	none
 🚸	Kinder-queren-die-Strasse-Schild	none
 🚷	Fussgänger-verboten-Schild	none
 ☢	radioaktiv	none
+🪯	Khanda-Emblem	none
+🛜	drahtlos	none
 ➕	Plus	none
 ➖	Minus	none
 ❔	weisses Fragezeichen	none
@@ -148,6 +157,16 @@ $	Dollarzeichen	none
 🖖🏽	Vulkanischer Gruss mittlere Hautfarbe	none
 🖖🏾	Vulkanischer Gruss mitteldunkle Hautfarbe	none
 🖖🏿	Vulkanischer Gruss dunkle Hautfarbe	none
+🫷🏻	nach links drückende Hand helle Hautfarbe	none
+🫷🏼	nach links drückende Hand mittelhelle Hautfarbe	none
+🫷🏽	nach links drückende Hand mittlere Hautfarbe	none
+🫷🏾	nach links drückende Hand mitteldunkle Hautfarbe	none
+🫷🏿	nach links drückende Hand dunkle Hautfarbe	none
+🫸🏻	nach rechts drückende Hand helle Hautfarbe	none
+🫸🏼	nach rechts drückende Hand mittelhelle Hautfarbe	none
+🫸🏽	nach rechts drückende Hand mittlere Hautfarbe	none
+🫸🏾	nach rechts drückende Hand mitteldunkle Hautfarbe	none
+🫸🏿	nach rechts drückende Hand dunkle Hautfarbe	none
 🤘🏻	Teufelsgruss helle Hautfarbe	none
 🤘🏼	Teufelsgruss mittelhelle Hautfarbe	none
 🤘🏽	Teufelsgruss mittlere Hautfarbe	none
@@ -199,7 +218,6 @@ $	Dollarzeichen	none
 🇧🇳	Flagge Brunei	none
 🇧🇼	Flagge Botswana	none
 🇨🇻	Flagge Kapverden	none
-🇬🇧	Flagge Grossbritannien	none
 🇸🇧	Flagge Salomon-Inseln	none
 🇹🇱	Flagge Osttimor	none
 🇿🇼	Flagge Zimbabwe	none

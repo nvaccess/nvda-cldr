@@ -348,43 +348,6 @@ _	sublinhado	none
 ⪺	sucede acima de não quase igual	none
 ♭	bemol	none
 ♯	sustenido	none
-🥹	cara a conter as lágrimas	none
-🧌	troll	none
-🩻	raios X	none
-🩼	canadiana	none
-🪩	bola de espelhos	none
-🪪	cartão de identificação	none
-🪫	bateria fraca	none
-🪬	hamsá	none
-🪷	lótus	none
-🪸	coral	none
-🪹	ninho vazio	none
-🪺	ninho com ovos	none
-🫃	homem grávido	none
-🫄	pessoa grávida	none
-🫅	pessoa com coroa	none
-🫗	a derramar líquido	none
-🫘	feijões	none
-🫙	frasco	none
-🫠	cara a derreter	none
-🫡	cara a saudar	none
-🫢	cara com olhos abertos e mão sobre a boca	none
-🫣	cara com olho a espreitar	none
-🫤	cara com boca diagonal	none
-🫥	cara com linha pontilhada	none
-🫦	morder o lábio	none
-🫧	bolas	none
-🫰	mão com dedo indicador e polegar cruzados	none
-🫱	mão para a direita	none
-🫲	mão para a esquerda	none
-🫳	mão com a palma para baixo	none
-🫴	mão com a palma para cima	none
-🫵	indicador a apontar para o espetador	none
-🫶	mãos em forma de coração	none
-🛝	escorrega	none
-🛞	roda	none
-🛟	boia circular	none
-🟰	sinal de igual pesado	none
 😀	cara sorridente	none
 😃	cara sorridente com olhos bem abertos	none
 😄	cara a sorrir com boca aberta e olhos sorridentes	none
@@ -395,6 +358,7 @@ _	sublinhado	none
 😂	cara com lágrimas de felicidade	none
 🙂	cara a sorrir ligeiramente	none
 🙃	cara ao contrário	none
+🫠	cara a derreter	none
 😉	cara a piscar o olho	none
 😊	cara a sorrir com olhos sorridentes	none
 😇	cara a sorrir com auréola	none
@@ -415,13 +379,17 @@ _	sublinhado	none
 🤑	cara com cifrões	none
 🤗	cara a dar um abraço	none
 🤭	cara com mão na boca	none
+🫢	cara com olhos abertos e mão sobre a boca	none
+🫣	cara com olho a espreitar	none
 🤫	cara de segredo	none
 🤔	cara a pensar	none
+🫡	cara a saudar	none
 🤐	cara com boca com fecho de correr	none
 🤨	cara com sobrancelha levantada	none
 😐	cara neutra	none
 😑	cara sem expressão	none
 😶	cara sem boca	none
+🫥	cara com linha pontilhada	none
 😶‍🌫	cara nas nuvens	none
 😏	cara com sorriso sarcástico	none
 😒	cara aborrecida	none
@@ -429,6 +397,7 @@ _	sublinhado	none
 😬	cara a fazer caretas	none
 😮‍💨	cara a exalar	none
 🤥	cara de mentiroso	none
+🫨	cara a abanar	none
 😌	cara aliviada	none
 😔	cara pensativa	none
 😪	cara sonolenta	none
@@ -453,6 +422,7 @@ _	sublinhado	none
 🤓	cara de cromo	none
 🧐	cara com monóculo	none
 😕	cara confusa	none
+🫤	cara com boca diagonal	none
 😟	cara preocupada	none
 🙁	cara ligeiramente franzida	none
 ☹	cara franzida	none
@@ -461,6 +431,7 @@ _	sublinhado	none
 😲	cara espantada	none
 😳	cara corada	none
 🥺	cara que implora	none
+🥹	cara a conter as lágrimas	none
 😦	cara franzida com boca aberta	none
 😧	cara angustiada	none
 😨	cara cheia de medo	none
@@ -504,7 +475,6 @@ _	sublinhado	none
 🙈	macaco com as mãos a tapar os olhos	none
 🙉	macaco com as mãos a tapar os ouvidos	none
 🙊	macaco com as mãos a tapar a boca	none
-💋	marca de beijo	none
 💌	carta de amor	none
 💘	coração com seta	none
 💝	coração com fita	none
@@ -519,14 +489,18 @@ _	sublinhado	none
 ❤‍🔥	coração em chamas	none
 ❤‍🩹	coração remendado	none
 ❤	coração vermelho	none
+🩷	coração rosa	none
 🧡	coração cor de laranja	none
 💛	coração amarelo	none
 💚	coração verde	none
 💙	coração azul	none
+🩵	coração azul-claro	none
 💜	coração roxo	none
 🤎	coração castanho	none
 🖤	coração preto	none
+🩶	coração cinzento	none
 🤍	coração branco	none
+💋	marca de beijo	none
 💯	cem pontos	none
 💢	símbolo de raiva	none
 💥	colisão	none
@@ -534,7 +508,6 @@ _	sublinhado	none
 💦	gotas de suor	none
 💨	ir-se embora	none
 🕳	buraco	none
-💣	bomba	none
 💬	balão de fala	none
 👁‍🗨	olho em balão de fala	none
 🗨	balão de fala do lado esquerdo	none
@@ -546,11 +519,18 @@ _	sublinhado	none
 🖐	mão erguida com dedos afastados	none
 ✋	mão erguida	none
 🖖	saudação vulcana	none
+🫱	mão para a direita	none
+🫲	mão para a esquerda	none
+🫳	mão com a palma para baixo	none
+🫴	mão com a palma para cima	none
+🫷	mão a empurrar para a esquerda	none
+🫸	mão a empurrar para a direita	none
 👌	gesto de OK	none
 🤌	dedos comprimidos	none
 🤏	mão a dar um beliscão	none
 ✌	mão em V de vitória	none
 🤞	figas	none
+🫰	mão com dedo indicador e polegar cruzados	none
 🤟	gesto "amo-te"	none
 🤘	mão a fazer cornos	none
 🤙	liga-me	none
@@ -560,6 +540,7 @@ _	sublinhado	none
 🖕	dedo médio	none
 👇	costas da mão com dedo indicador a apontar para baixo	none
 ☝	dedo indicador a apontar para cima	none
+🫵	indicador a apontar para o espetador	none
 👍	polegar para cima	none
 👎	polegar para baixo	none
 ✊	punho erguido	none
@@ -568,6 +549,7 @@ _	sublinhado	none
 🤜	punho voltado para a direita	none
 👏	mãos a bater palmas	none
 🙌	mãos no ar	none
+🫶	mãos em forma de coração	none
 👐	mãos abertas	none
 🤲	palmas juntas abertas	none
 🤝	aperto de mão	none
@@ -592,6 +574,7 @@ _	sublinhado	none
 👁	olho	none
 👅	língua	none
 👄	boca	none
+🫦	morder o lábio	none
 👶	bebé	none
 🧒	criança	none
 👦	rapaz	none
@@ -699,6 +682,7 @@ _	sublinhado	none
 👷	pedreiro	none
 👷‍♂	operário da construção civil	none
 👷‍♀	operária da construção civil	none
+🫅	pessoa com coroa	none
 🤴	príncipe	none
 👸	princesa	none
 👳	pessoa com turbante	none
@@ -713,6 +697,8 @@ _	sublinhado	none
 👰‍♂	homem com véu	none
 👰‍♀	mulher com véu	none
 🤰	grávida	none
+🫃	homem grávido	none
+🫄	pessoa grávida	none
 🤱	amamentar	none
 👩‍🍼	mulher a alimentar bebé	none
 👨‍🍼	homem a alimentar bebé	none
@@ -748,6 +734,7 @@ _	sublinhado	none
 🧟	zombie	none
 🧟‍♂	morto-vivo	none
 🧟‍♀	morta-viva	none
+🧌	troll	none
 💆	pessoa a receber uma massagem	none
 💆‍♂	homem a receber uma massagem	none
 💆‍♀	mulher a receber uma massagem	none
@@ -871,6 +858,8 @@ _	sublinhado	none
 🐅	tigre	none
 🐆	leopardo	none
 🐴	cara de cavalo	none
+🫎	alce	none
+🫏	burro	none
 🐎	cavalo	none
 🦄	unicórnio	none
 🦓	zebra	none
@@ -933,6 +922,8 @@ _	sublinhado	none
 🦩	flamingo	none
 🦚	pavão	none
 🦜	papagaio	none
+🪽	asa	none
+🪿	ganso	none
 🐸	sapo	none
 🐊	crocodilo	none
 🐢	tartaruga	none
@@ -952,6 +943,8 @@ _	sublinhado	none
 🦈	tubarão	none
 🐙	polvo	none
 🐚	búzio	none
+🪸	coral	none
+🪼	alforreca	none
 🐌	caracol	none
 🦋	borboleta	none
 🐛	lagarta	none
@@ -971,6 +964,7 @@ _	sublinhado	none
 💐	ramo de flores	none
 🌸	cerejeira em flor	none
 💮	flor branca	none
+🪷	lótus	none
 🏵	rosácea	none
 🌹	rosa	none
 🥀	flor murcha	none
@@ -978,6 +972,7 @@ _	sublinhado	none
 🌻	girassol	none
 🌼	malmequer	none
 🌷	túlipa	none
+🪻	jacinto	none
 🌱	rebento	none
 🪴	vaso com planta	none
 🌲	árvore de folha perene	none
@@ -991,6 +986,9 @@ _	sublinhado	none
 🍁	folha de ácer	none
 🍂	folha caída	none
 🍃	folha a esvoaçar ao vento	none
+🪹	ninho vazio	none
+🪺	ninho com ovos	none
+🍄	cogumelo	none
 🍇	uvas	none
 🍈	meloa	none
 🍉	melancia	none
@@ -1022,9 +1020,11 @@ _	sublinhado	none
 🥦	brócolos	none
 🧄	alho	none
 🧅	cebola	none
-🍄	cogumelo	none
 🥜	amendoins	none
+🫘	feijões	none
 🌰	castanha	none
+🫚	gengibre	none
+🫛	vagem	none
 🍞	pão	none
 🥐	croissant	none
 🥖	baguete	none
@@ -1109,6 +1109,7 @@ _	sublinhado	none
 🍻	brinde com canecas de cerveja	none
 🥂	brinde	none
 🥃	copo de whisky	none
+🫗	a derramar líquido	none
 🥤	copo com palhinha	none
 🧋	chá bubble	none
 🧃	pacote de sumo	none
@@ -1119,6 +1120,7 @@ _	sublinhado	none
 🍴	faca e garfo	none
 🥄	colher	none
 🔪	faca de cozinha	none
+🫙	frasco	none
 🏺	ânfora	none
 🌍	globo com a Europa e a África visíveis	none
 🌎	globo com as Américas visíveis	none
@@ -1181,6 +1183,7 @@ _	sublinhado	none
 🌉	ponte à noite	none
 ♨	termas	none
 🎠	cavalo de carrossel	none
+🛝	escorrega	none
 🎡	roda gigante	none
 🎢	montanha-russa	none
 💈	símbolo de barbearia	none
@@ -1229,12 +1232,14 @@ _	sublinhado	none
 🛤	linha ferroviária	none
 🛢	barril de petróleo	none
 ⛽	bomba de gasolina	none
+🛞	roda	none
 🚨	luz de carro da polícia	none
 🚥	semáforo horizontal	none
 🚦	semáforo vertical	none
 🛑	sinal de stop	none
 🚧	obras	none
 ⚓	âncora	none
+🛟	boia circular	none
 ⛵	veleiro	none
 🛶	canoa	none
 🚤	lancha	none
@@ -1392,10 +1397,10 @@ _	sublinhado	none
 🎯	em cheio no alvo	none
 🪀	ioió	none
 🪁	papagaio de papel	none
+🔫	pistola de água	none
 🎱	bilhar	none
 🔮	bola de cristal	none
 🪄	varinha mágica	none
-🧿	olho grego	none
 🎮	comando de consola	none
 🕹	joystick	none
 🎰	slot machine	none
@@ -1403,6 +1408,7 @@ _	sublinhado	none
 🧩	peça de puzzle	none
 🧸	ursinho de peluche	none
 🪅	pinhata	none
+🪩	bola de espelhos	none
 🪆	boneca russa	none
 ♠	naipe de espadas	none
 ♥	naipe de copas	none
@@ -1439,6 +1445,7 @@ _	sublinhado	none
 🩳	calções de banho	none
 👙	biquíni	none
 👚	roupas de senhora	none
+🪭	leque dobrável	none
 👛	carteira	none
 👜	mala	none
 👝	bolsa pequena	none
@@ -1453,6 +1460,7 @@ _	sublinhado	none
 👡	sandália de senhora	none
 🩰	sapatos de ballet	none
 👢	bota de senhora	none
+🪮	pente garfo	none
 👑	coroa	none
 👒	chapéu de senhora	none
 🎩	cartola	none
@@ -1491,6 +1499,8 @@ _	sublinhado	none
 🪕	banjo	none
 🥁	tambor	none
 🪘	tambor alto	none
+🪇	maracas	none
+🪈	flauta	none
 📱	telemóvel	none
 📲	telemóvel com seta	none
 ☎	telefone	none
@@ -1498,6 +1508,7 @@ _	sublinhado	none
 📟	pager	none
 📠	fax	none
 🔋	bateria	none
+🪫	bateria fraca	none
 🔌	ficha elétrica	none
 💻	computador portátil	none
 🖥	computador de secretária	none
@@ -1609,7 +1620,7 @@ _	sublinhado	none
 🛠	martelo e chave inglesa	none
 🗡	punhal	none
 ⚔	espadas cruzadas	none
-🔫	pistola de água	none
+💣	bomba	none
 🪃	bumerangue	none
 🏹	arco e flecha	none
 🛡	escudo	none
@@ -1638,7 +1649,9 @@ _	sublinhado	none
 🩸	gota de sangue	none
 💊	comprimido	none
 🩹	penso rápido	none
+🩼	canadiana	none
 🩺	estetoscópio	none
+🩻	raios X	none
 🚪	porta	none
 🛗	elevador	none
 🪞	espelho	none
@@ -1659,6 +1672,7 @@ _	sublinhado	none
 🧻	rolo de cozinha	none
 🪣	balde	none
 🧼	sabonete	none
+🫧	bolas	none
 🪥	escova de dentes	none
 🧽	esponja	none
 🧯	extintor	none
@@ -1667,8 +1681,11 @@ _	sublinhado	none
 ⚰	caixão	none
 🪦	lápide	none
 ⚱	urna	none
+🧿	olho grego	none
+🪬	hamsá	none
 🗿	moai	none
 🪧	placard	none
+🪪	cartão de identificação	none
 🏧	sinal de caixa automática	none
 🚮	sinal de lixo no caixote do lixo	none
 🚰	água potável	none
@@ -1729,6 +1746,7 @@ _	sublinhado	none
 ☮	símbolo da paz	none
 🕎	menorá	none
 🔯	estrela de seis pontas com ponto	none
+🪯	khanda	none
 ♈	Carneiro	none
 ♉	Touro	none
 ♊	Gémeos	none
@@ -1764,6 +1782,7 @@ _	sublinhado	none
 🔅	botão de escurecer	none
 🔆	botão de brilho	none
 📶	barras de antena	none
+🛜	sem fios	none
 📳	modo de vibração	none
 📴	telemóvel desligado	none
 ♀	símbolo feminino	none
@@ -1773,6 +1792,7 @@ _	sublinhado	none
 ➕	adição	none
 ➖	subtração	none
 ➗	divisão	none
+🟰	sinal de igual	none
 ♾	infinito	none
 ‼	ponto de exclamação duplo	none
 ⁉	pontos de exclamação e de interrogação	none
@@ -1909,26 +1929,31 @@ $	dólar	none
 ²	número dois sobrescrito	none
 ³	número três sobrescrito	none
 µ	sinal micro	none
-🫃🏻	homem grávido tipo de pele 1–2	none
-🫃🏼	homem grávido tipo de pele 3	none
-🫃🏽	homem grávido tipo de pele 4	none
-🫃🏾	homem grávido tipo de pele 5	none
-🫃🏿	homem grávido tipo de pele 6	none
-🫄🏻	pessoa grávida tipo de pele 1–2	none
-🫄🏼	pessoa grávida tipo de pele 3	none
-🫄🏽	pessoa grávida tipo de pele 4	none
-🫄🏾	pessoa grávida tipo de pele 5	none
-🫄🏿	pessoa grávida tipo de pele 6	none
-🫅🏻	pessoa com coroa tipo de pele 1–2	none
-🫅🏼	pessoa com coroa tipo de pele 3	none
-🫅🏽	pessoa com coroa tipo de pele 4	none
-🫅🏾	pessoa com coroa tipo de pele 5	none
-🫅🏿	pessoa com coroa tipo de pele 6	none
-🫰🏻	mão com dedo indicador e polegar cruzados tipo de pele 1–2	none
-🫰🏼	mão com dedo indicador e polegar cruzados tipo de pele 3	none
-🫰🏽	mão com dedo indicador e polegar cruzados tipo de pele 4	none
-🫰🏾	mão com dedo indicador e polegar cruzados tipo de pele 5	none
-🫰🏿	mão com dedo indicador e polegar cruzados tipo de pele 6	none
+👋🏻	mão a acenar tipo de pele 1–2	none
+👋🏼	mão a acenar tipo de pele 3	none
+👋🏽	mão a acenar tipo de pele 4	none
+👋🏾	mão a acenar tipo de pele 5	none
+👋🏿	mão a acenar tipo de pele 6	none
+🤚🏻	mão com costas para fora tipo de pele 1–2	none
+🤚🏼	mão com costas para fora tipo de pele 3	none
+🤚🏽	mão com costas para fora tipo de pele 4	none
+🤚🏾	mão com costas para fora tipo de pele 5	none
+🤚🏿	mão com costas para fora tipo de pele 6	none
+🖐🏻	mão erguida com dedos afastados tipo de pele 1–2	none
+🖐🏼	mão erguida com dedos afastados tipo de pele 3	none
+🖐🏽	mão erguida com dedos afastados tipo de pele 4	none
+🖐🏾	mão erguida com dedos afastados tipo de pele 5	none
+🖐🏿	mão erguida com dedos afastados tipo de pele 6	none
+✋🏻	mão erguida tipo de pele 1–2	none
+✋🏼	mão erguida tipo de pele 3	none
+✋🏽	mão erguida tipo de pele 4	none
+✋🏾	mão erguida tipo de pele 5	none
+✋🏿	mão erguida tipo de pele 6	none
+🖖🏻	saudação vulcana tipo de pele 1–2	none
+🖖🏼	saudação vulcana tipo de pele 3	none
+🖖🏽	saudação vulcana tipo de pele 4	none
+🖖🏾	saudação vulcana tipo de pele 5	none
+🖖🏿	saudação vulcana tipo de pele 6	none
 🫱🏻	mão para a direita tipo de pele 1–2	none
 🫱🏼	mão para a direita tipo de pele 3	none
 🫱🏽	mão para a direita tipo de pele 4	none
@@ -1969,41 +1994,16 @@ $	dólar	none
 🫴🏽	mão com a palma para cima tipo de pele 4	none
 🫴🏾	mão com a palma para cima tipo de pele 5	none
 🫴🏿	mão com a palma para cima tipo de pele 6	none
-🫵🏻	indicador a apontar para o espetador tipo de pele 1–2	none
-🫵🏼	indicador a apontar para o espetador tipo de pele 3	none
-🫵🏽	indicador a apontar para o espetador tipo de pele 4	none
-🫵🏾	indicador a apontar para o espetador tipo de pele 5	none
-🫵🏿	indicador a apontar para o espetador tipo de pele 6	none
-🫶🏻	mãos em forma de coração tipo de pele 1–2	none
-🫶🏼	mãos em forma de coração tipo de pele 3	none
-🫶🏽	mãos em forma de coração tipo de pele 4	none
-🫶🏾	mãos em forma de coração tipo de pele 5	none
-🫶🏿	mãos em forma de coração tipo de pele 6	none
-👋🏻	mão a acenar tipo de pele 1–2	none
-👋🏼	mão a acenar tipo de pele 3	none
-👋🏽	mão a acenar tipo de pele 4	none
-👋🏾	mão a acenar tipo de pele 5	none
-👋🏿	mão a acenar tipo de pele 6	none
-🤚🏻	mão com costas para fora tipo de pele 1–2	none
-🤚🏼	mão com costas para fora tipo de pele 3	none
-🤚🏽	mão com costas para fora tipo de pele 4	none
-🤚🏾	mão com costas para fora tipo de pele 5	none
-🤚🏿	mão com costas para fora tipo de pele 6	none
-🖐🏻	mão erguida com dedos afastados tipo de pele 1–2	none
-🖐🏼	mão erguida com dedos afastados tipo de pele 3	none
-🖐🏽	mão erguida com dedos afastados tipo de pele 4	none
-🖐🏾	mão erguida com dedos afastados tipo de pele 5	none
-🖐🏿	mão erguida com dedos afastados tipo de pele 6	none
-✋🏻	mão erguida tipo de pele 1–2	none
-✋🏼	mão erguida tipo de pele 3	none
-✋🏽	mão erguida tipo de pele 4	none
-✋🏾	mão erguida tipo de pele 5	none
-✋🏿	mão erguida tipo de pele 6	none
-🖖🏻	saudação vulcana tipo de pele 1–2	none
-🖖🏼	saudação vulcana tipo de pele 3	none
-🖖🏽	saudação vulcana tipo de pele 4	none
-🖖🏾	saudação vulcana tipo de pele 5	none
-🖖🏿	saudação vulcana tipo de pele 6	none
+🫷🏻	mão a empurrar para a esquerda tipo de pele 1–2	none
+🫷🏼	mão a empurrar para a esquerda tipo de pele 3	none
+🫷🏽	mão a empurrar para a esquerda tipo de pele 4	none
+🫷🏾	mão a empurrar para a esquerda tipo de pele 5	none
+🫷🏿	mão a empurrar para a esquerda tipo de pele 6	none
+🫸🏻	mão a empurrar para a direita tipo de pele 1–2	none
+🫸🏼	mão a empurrar para a direita tipo de pele 3	none
+🫸🏽	mão a empurrar para a direita tipo de pele 4	none
+🫸🏾	mão a empurrar para a direita tipo de pele 5	none
+🫸🏿	mão a empurrar para a direita tipo de pele 6	none
 👌🏻	gesto de OK tipo de pele 1–2	none
 👌🏼	gesto de OK tipo de pele 3	none
 👌🏽	gesto de OK tipo de pele 4	none
@@ -2029,6 +2029,11 @@ $	dólar	none
 🤞🏽	figas tipo de pele 4	none
 🤞🏾	figas tipo de pele 5	none
 🤞🏿	figas tipo de pele 6	none
+🫰🏻	mão com dedo indicador e polegar cruzados tipo de pele 1–2	none
+🫰🏼	mão com dedo indicador e polegar cruzados tipo de pele 3	none
+🫰🏽	mão com dedo indicador e polegar cruzados tipo de pele 4	none
+🫰🏾	mão com dedo indicador e polegar cruzados tipo de pele 5	none
+🫰🏿	mão com dedo indicador e polegar cruzados tipo de pele 6	none
 🤟🏻	gesto "amo-te" tipo de pele 1–2	none
 🤟🏼	gesto "amo-te" tipo de pele 3	none
 🤟🏽	gesto "amo-te" tipo de pele 4	none
@@ -2074,6 +2079,11 @@ $	dólar	none
 ☝🏽	dedo indicador a apontar para cima tipo de pele 4	none
 ☝🏾	dedo indicador a apontar para cima tipo de pele 5	none
 ☝🏿	dedo indicador a apontar para cima tipo de pele 6	none
+🫵🏻	indicador a apontar para o espetador tipo de pele 1–2	none
+🫵🏼	indicador a apontar para o espetador tipo de pele 3	none
+🫵🏽	indicador a apontar para o espetador tipo de pele 4	none
+🫵🏾	indicador a apontar para o espetador tipo de pele 5	none
+🫵🏿	indicador a apontar para o espetador tipo de pele 6	none
 👍🏻	polegar para cima tipo de pele 1–2	none
 👍🏼	polegar para cima tipo de pele 3	none
 👍🏽	polegar para cima tipo de pele 4	none
@@ -2114,6 +2124,11 @@ $	dólar	none
 🙌🏽	mãos no ar tipo de pele 4	none
 🙌🏾	mãos no ar tipo de pele 5	none
 🙌🏿	mãos no ar tipo de pele 6	none
+🫶🏻	mãos em forma de coração tipo de pele 1–2	none
+🫶🏼	mãos em forma de coração tipo de pele 3	none
+🫶🏽	mãos em forma de coração tipo de pele 4	none
+🫶🏾	mãos em forma de coração tipo de pele 5	none
+🫶🏿	mãos em forma de coração tipo de pele 6	none
 👐🏻	mãos abertas tipo de pele 1–2	none
 👐🏼	mãos abertas tipo de pele 3	none
 👐🏽	mãos abertas tipo de pele 4	none
@@ -2976,6 +2991,11 @@ $	dólar	none
 👷🏽‍♀	operária da construção civil tipo de pele 4	none
 👷🏾‍♀	operária da construção civil tipo de pele 5	none
 👷🏿‍♀	operária da construção civil tipo de pele 6	none
+🫅🏻	pessoa com coroa tipo de pele 1–2	none
+🫅🏼	pessoa com coroa tipo de pele 3	none
+🫅🏽	pessoa com coroa tipo de pele 4	none
+🫅🏾	pessoa com coroa tipo de pele 5	none
+🫅🏿	pessoa com coroa tipo de pele 6	none
 🤴🏻	príncipe tipo de pele 1–2	none
 🤴🏼	príncipe tipo de pele 3	none
 🤴🏽	príncipe tipo de pele 4	none
@@ -3046,6 +3066,16 @@ $	dólar	none
 🤰🏽	grávida tipo de pele 4	none
 🤰🏾	grávida tipo de pele 5	none
 🤰🏿	grávida tipo de pele 6	none
+🫃🏻	homem grávido tipo de pele 1–2	none
+🫃🏼	homem grávido tipo de pele 3	none
+🫃🏽	homem grávido tipo de pele 4	none
+🫃🏾	homem grávido tipo de pele 5	none
+🫃🏿	homem grávido tipo de pele 6	none
+🫄🏻	pessoa grávida tipo de pele 1–2	none
+🫄🏼	pessoa grávida tipo de pele 3	none
+🫄🏽	pessoa grávida tipo de pele 4	none
+🫄🏾	pessoa grávida tipo de pele 5	none
+🫄🏿	pessoa grávida tipo de pele 6	none
 🤱🏻	amamentar tipo de pele 1–2	none
 🤱🏼	amamentar tipo de pele 3	none
 🤱🏽	amamentar tipo de pele 4	none
@@ -3876,7 +3906,7 @@ $	dólar	none
 🇲🇨	bandeira Mónaco	none
 🇲🇩	bandeira Moldávia	none
 🇲🇪	bandeira Montenegro	none
-🇲🇫	bandeira São Martinho	none
+🇲🇫	bandeira São Martinho (Saint-Martin)	none
 🇲🇬	bandeira Madagáscar	none
 🇲🇭	bandeira Ilhas Marshall	none
 🇲🇰	bandeira Macedónia do Norte	none

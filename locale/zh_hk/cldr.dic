@@ -348,43 +348,6 @@ _	低线	none
 ⪺	后于或不约等于	none
 ♭	降音符	none
 ♯	升号	none
-🥹	強忍眼淚嘅表情	none
-🧌	穴居巨怪	none
-🩻	X射线	none
-🩼	拐杖	none
-🪩	镜球	none
-🪪	名牌	none
-🪫	电池电量不足	none
-🪬	法蒂玛之手	none
-🪷	莲花	none
-🪸	珊瑚	none
-🪹	空巢	none
-🪺	有蛋的巢	none
-🫃	懷孕嘅男人	none
-🫄	怀孕的人	none
-🫅	戴王冠的人	none
-🫗	倾倒液体	none
-🫘	豆	none
-🫙	玻璃樽	none
-🫠	融化嘅表情	none
-🫡	敬禮嘅表情	none
-🫢	打開眼手遮嘴嘅表情	none
-🫣	一隻眼偷睇嘅表情	none
-🫤	藐嘴嘅表情	none
-🫥	虛線嘅表情	none
-🫦	咬住嘴唇	none
-🫧	气泡	none
-🫰	食指与拇指交叉的手	none
-🫱	向右的手	none
-🫲	向左的手	none
-🫳	掌心向下的手	none
-🫴	掌心向上的手	none
-🫵	食指指向觀眾	none
-🫶	雙手比心	none
-🛝	游乐场滑梯	none
-🛞	车轮	none
-🛟	救生圈	none
-🟰	粗等号	none
 😀	嘿嘿	none
 😃	開眼嘅笑臉	none
 😄	含笑同笑嘻嘻嘅表情	none
@@ -395,6 +358,7 @@ _	低线	none
 😂	喜極而泣嘅表情	none
 🙂	稍為微笑嘅表情	none
 🙃	倒脸	none
+🫠	融化嘅表情	none
 😉	眨眼笑嘅表情	none
 😊	瞇眼微笑嘅表情	none
 😇	頭上有個圈嘅笑面	none
@@ -415,13 +379,17 @@ _	低线	none
 🤑	发财	none
 🤗	開心擁抱嘅表情	none
 🤭	手遮住嘴	none
+🫢	打開眼手遮嘴嘅表情	none
+🫣	一隻眼偷睇嘅表情	none
 🤫	安静的脸	none
 🤔	思考中嘅表情	none
+🫡	敬禮嘅表情	none
 🤐	拉鍊嘴嘅表情	none
 🤨	單邊戚眉嘅表情	none
 😐	無話好說	none
 😑	无语	none
 😶	無言嘅表情	none
+🫥	虛線嘅表情	none
 😶‍🌫	迷茫	none
 😏	得意	none
 😒	不高兴	none
@@ -429,6 +397,7 @@ _	低线	none
 😬	依起棚牙	none
 😮‍💨	呼气	none
 🤥	说谎	none
+🫨	動搖嘅表情	none
 😌	松了口气	none
 😔	沉思	none
 😪	困	none
@@ -453,6 +422,7 @@ _	低线	none
 🤓	書呆子	none
 🧐	戴單片眼鏡	none
 😕	困扰	none
+🫤	藐嘴嘅表情	none
 😟	担心	none
 🙁	微微不满	none
 ☹	不满	none
@@ -461,6 +431,7 @@ _	低线	none
 😲	震惊	none
 😳	臉紅	none
 🥺	請求嘅樣	none
+🥹	強忍眼淚嘅表情	none
 😦	皺眉掰大口	none
 😧	苦埋口面	none
 😨	驚恐	none
@@ -504,7 +475,6 @@ _	低线	none
 🙈	非禮勿視馬騮	none
 🙉	非礼勿听	none
 🙊	非礼勿言	none
-💋	唇印	none
 💌	情信	none
 💘	一箭穿心	none
 💝	系有缎带的心	none
@@ -519,14 +489,18 @@ _	低线	none
 ❤‍🔥	火上之心	none
 ❤‍🩹	修复受伤的心灵	none
 ❤	红心	none
+🩷	粉红色的心	none
 🧡	橙心	none
 💛	黄心	none
 💚	绿心	none
 💙	蓝心	none
+🩵	浅蓝色的心	none
 💜	紫心	none
 🤎	啡心｜啡色心｜啡色嘅心	none
 🖤	黑心	none
+🩶	灰色心	none
 🤍	白心｜白色心｜白色嘅心	none
+💋	唇印	none
 💯	100 分	none
 💢	怒	none
 💥	爆炸	none
@@ -534,7 +508,6 @@ _	低线	none
 💦	汗滴	none
 💨	強風	none
 🕳	洞	none
-💣	炸弹	none
 💬	话语气泡	none
 👁‍🗨	眼睛对话框	none
 🗨	朝左的话语气泡	none
@@ -546,11 +519,18 @@ _	低线	none
 🖐	手掌	none
 ✋	举起手	none
 🖖	瓦肯举手礼	none
+🫱	向右的手	none
+🫲	向左的手	none
+🫳	掌心向下的手	none
+🫴	掌心向上的手	none
+🫷	向左推	none
+🫸	向右推	none
 👌	OK	none
 🤌	捏手指	none
 🤏	捏｜少少｜一啲啲	none
 ✌	V字手勢	none
 🤞	交叉的手指	none
+🫰	食指与拇指交叉的手	none
 🤟	我愛你手勢	none
 🤘	摇滚	none
 🤙	call 我	none
@@ -560,6 +540,7 @@ _	低线	none
 🖕	竖中指	none
 👇	反手食指向下指	none
 ☝	食指向上指	none
+🫵	食指指向觀眾	none
 👍	拇指向上	none
 👎	渣	none
 ✊	举起拳头	none
@@ -568,6 +549,7 @@ _	低线	none
 🤜	拳頭向右	none
 👏	拍手	none
 🙌	舉雙手歡呼	none
+🫶	雙手比心	none
 👐	张开双手	none
 🤲	雙手掌心向上	none
 🤝	握手	none
@@ -592,6 +574,7 @@ _	低线	none
 👁	眼睛	none
 👅	舌头	none
 👄	嘴	none
+🫦	咬住嘴唇	none
 👶	嬰兒	none
 🧒	儿童	none
 👦	男孩	none
@@ -699,6 +682,7 @@ _	低线	none
 👷	建筑工人	none
 👷‍♂	男建筑工人	none
 👷‍♀	女建筑工人	none
+🫅	戴王冠的人	none
 🤴	王子	none
 👸	公主	none
 👳	戴頭巾嘅人	none
@@ -713,6 +697,8 @@ _	低线	none
 👰‍♂	戴头纱的男人	none
 👰‍♀	披著頭紗的女人	none
 🤰	孕妇	none
+🫃	懷孕嘅男人	none
+🫄	怀孕的人	none
 🤱	母乳喂养	none
 👩‍🍼	正在餵奶的媽媽	none
 👨‍🍼	哺乳的男人	none
@@ -748,6 +734,7 @@ _	低线	none
 🧟	喪屍	none
 🧟‍♂	男喪屍	none
 🧟‍♀	女喪屍	none
+🧌	穴居巨怪	none
 💆	接受頭部按摩嘅人	none
 💆‍♂	接受頭部按摩嘅男人	none
 💆‍♀	接受頭部按摩嘅女人	none
@@ -871,6 +858,8 @@ _	低线	none
 🐅	老虎	none
 🐆	豹	none
 🐴	马头	none
+🫎	驼鹿	none
+🫏	驴	none
 🐎	马	none
 🦄	独角兽	none
 🦓	斑马	none
@@ -933,6 +922,8 @@ _	低线	none
 🦩	火烈鸟	none
 🦚	孔雀	none
 🦜	鹦鹉	none
+🪽	翅膀	none
+🪿	鹅	none
 🐸	青蛙樣	none
 🐊	鳄鱼	none
 🐢	龟	none
@@ -952,6 +943,8 @@ _	低线	none
 🦈	鲨鱼	none
 🐙	章鱼	none
 🐚	貝殼	none
+🪸	珊瑚	none
+🪼	水母	none
 🐌	蜗牛	none
 🦋	蝴蝶	none
 🐛	毛蟲	none
@@ -971,6 +964,7 @@ _	低线	none
 💐	花束	none
 🌸	樱花	none
 💮	白花	none
+🪷	莲花	none
 🏵	玫瑰花飾	none
 🌹	玫瑰	none
 🥀	枯萎嘅玫瑰	none
@@ -978,6 +972,7 @@ _	低线	none
 🌻	向日葵	none
 🌼	花朵	none
 🌷	郁金香	none
+🪻	风信子	none
 🌱	幼苗	none
 🪴	盆栽植物	none
 🌲	常綠樹	none
@@ -991,6 +986,9 @@ _	低线	none
 🍁	枫叶	none
 🍂	落叶	none
 🍃	隨風飄落嘅樹葉	none
+🪹	空巢	none
+🪺	有蛋的巢	none
+🍄	蘑菇	none
 🍇	葡萄	none
 🍈	蜜瓜	none
 🍉	西瓜	none
@@ -1022,9 +1020,11 @@ _	低线	none
 🥦	西蘭花	none
 🧄	蒜頭	none
 🧅	洋葱	none
-🍄	蘑菇	none
 🥜	花生	none
+🫘	豆	none
 🌰	栗子	none
+🫚	姜	none
+🫛	豌豆荚	none
 🍞	麵包	none
 🥐	牛角包	none
 🥖	法棍包	none
@@ -1109,6 +1109,7 @@ _	低线	none
 🍻	乾杯	none
 🥂	舉杯慶祝	none
 🥃	玻璃杯	none
+🫗	倾倒液体	none
 🥤	有飲管嘅杯	none
 🧋	珍珠奶茶	none
 🧃	紙包裝	none
@@ -1119,6 +1120,7 @@ _	低线	none
 🍴	刀叉	none
 🥄	匙羹	none
 🔪	刀	none
+🫙	玻璃樽	none
 🏺	雙耳瓶	none
 🌍	顯示歐洲同非洲嘅地球	none
 🌎	顯示美洲嘅地球	none
@@ -1181,6 +1183,7 @@ _	低线	none
 🌉	夜晚嘅橋	none
 ♨	温泉	none
 🎠	旋转木马	none
+🛝	游乐场滑梯	none
 🎡	摩天轮	none
 🎢	過山車	none
 💈	髮型屋招牌	none
@@ -1229,12 +1232,14 @@ _	低线	none
 🛤	铁轨	none
 🛢	石油桶	none
 ⛽	油站	none
+🛞	车轮	none
 🚨	警车灯	none
 🚥	横向的红绿灯	none
 🚦	纵向的红绿灯	none
 🛑	停止标志	none
 🚧	路障	none
 ⚓	锚	none
+🛟	救生圈	none
 ⛵	帆船	none
 🛶	独木舟	none
 🚤	快艇	none
@@ -1392,10 +1397,10 @@ _	低线	none
 🎯	正中靶心的飞镖	none
 🪀	搖搖	none
 🪁	风筝	none
+🔫	水枪	none
 🎱	桌球	none
 🔮	水晶球	none
 🪄	神仙棒	none
-🧿	纳扎尔护身符	none
 🎮	電子遊戲	none
 🕹	控制杆	none
 🎰	老虎機	none
@@ -1403,6 +1408,7 @@ _	低线	none
 🧩	拼图	none
 🧸	泰迪熊	none
 🪅	彩罐	none
+🪩	镜球	none
 🪆	套娃	none
 ♠	葵扇	none
 ♥	红桃	none
@@ -1439,6 +1445,7 @@ _	低线	none
 🩳	短褲	none
 👙	比堅尼	none
 👚	女装	none
+🪭	折扇	none
 👛	銀包	none
 👜	手袋	none
 👝	手袋	none
@@ -1453,6 +1460,7 @@ _	低线	none
 👡	女式凉鞋	none
 🩰	芭蕾舞鞋	none
 👢	女靴	none
+🪮	发夹	none
 👑	皇冠	none
 👒	女帽	none
 🎩	礼帽	none
@@ -1491,6 +1499,8 @@ _	低线	none
 🪕	班卓琴	none
 🥁	鼓	none
 🪘	长鼓	none
+🪇	沙球	none
+🪈	长笛	none
 📱	手提電話	none
 📲	個有箭嘴嘅電話	none
 ☎	电话	none
@@ -1498,6 +1508,7 @@ _	低线	none
 📟	傳呼機	none
 📠	传真机	none
 🔋	电池	none
+🪫	电池电量不足	none
 🔌	插蘇	none
 💻	手提電腦	none
 🖥	台式电脑	none
@@ -1609,7 +1620,7 @@ _	低线	none
 🛠	鎚仔同士巴拿	none
 🗡	匕首	none
 ⚔	交叉放置的剑	none
-🔫	水枪	none
+💣	炸弹	none
 🪃	回旋镖	none
 🏹	弓和箭	none
 🛡	盾牌	none
@@ -1638,7 +1649,9 @@ _	低线	none
 🩸	一滴血	none
 💊	药丸	none
 🩹	膠布	none
+🩼	拐杖	none
 🩺	听诊器	none
+🩻	X射线	none
 🚪	门	none
 🛗	电梯	none
 🪞	镜子	none
@@ -1659,6 +1672,7 @@ _	低线	none
 🧻	一捲廁紙	none
 🪣	桶	none
 🧼	番梘	none
+🫧	气泡	none
 🪥	牙刷	none
 🧽	海绵	none
 🧯	滅火筒	none
@@ -1667,8 +1681,11 @@ _	低线	none
 ⚰	棺材	none
 🪦	墓碑	none
 ⚱	骨灰甕	none
+🧿	纳扎尔护身符	none
+🪬	法蒂玛之手	none
 🗿	復活島石像	none
 🪧	标语牌	none
+🪪	名牌	none
 🏧	取款机	none
 🚮	垃圾桶標誌	none
 🚰	饮用水	none
@@ -1729,6 +1746,7 @@ _	低线	none
 ☮	和平符號	none
 🕎	光明節燈台	none
 🔯	中間帶點的六角星	none
+🪯	坎达	none
 ♈	白羊座	none
 ♉	金牛座	none
 ♊	双子座	none
@@ -1764,6 +1782,7 @@ _	低线	none
 🔅	低亮度按钮	none
 🔆	高亮度按钮	none
 📶	手機訊號格	none
+🛜	无线	none
 📳	震機模式	none
 📴	手提電話關閉	none
 ♀	女性符号	none
@@ -1773,6 +1792,7 @@ _	低线	none
 ➕	加號標誌	none
 ➖	減號	none
 ➗	除	none
+🟰	粗等号	none
 ♾	無限	none
 ‼	雙感嘆號	none
 ⁉	感嘆號加問號	none
@@ -1909,26 +1929,31 @@ $	美元符号	none
 ²	上标2	none
 ³	上标3	none
 µ	微的符號	none
-🫃🏻	懷孕嘅男人 白皮膚	none
-🫃🏼	懷孕嘅男人 黃皮膚	none
-🫃🏽	懷孕嘅男人 中等皮膚	none
-🫃🏾	懷孕嘅男人 中深皮膚	none
-🫃🏿	懷孕嘅男人 黑皮膚	none
-🫄🏻	怀孕的人 较浅肤色	none
-🫄🏼	怀孕的人 中等-浅肤色	none
-🫄🏽	懷孕的人 中等皮膚	none
-🫄🏾	懷孕的人 中深皮膚	none
-🫄🏿	怀孕的人 较深肤色	none
-🫅🏻	戴王冠的人 较浅肤色	none
-🫅🏼	戴王冠的人 中等-浅肤色	none
-🫅🏽	戴皇冠的人 中等皮膚	none
-🫅🏾	戴皇冠的人 中深皮膚	none
-🫅🏿	戴王冠的人 较深肤色	none
-🫰🏻	食指与拇指交叉的手 较浅肤色	none
-🫰🏼	食指与拇指交叉的手 中等-浅肤色	none
-🫰🏽	食指和拇指交叉的手 中等皮膚	none
-🫰🏾	食指和拇指交叉的手 中深皮膚	none
-🫰🏿	食指与拇指交叉的手 较深肤色	none
+👋🏻	挥手 较浅肤色	none
+👋🏼	挥手 中等-浅肤色	none
+👋🏽	揮手 中等皮膚	none
+👋🏾	揮手 中深皮膚	none
+👋🏿	挥手 较深肤色	none
+🤚🏻	立起的手背 较浅肤色	none
+🤚🏼	立起的手背 中等-浅肤色	none
+🤚🏽	豎起手掌 中等皮膚	none
+🤚🏾	豎起手掌 中深皮膚	none
+🤚🏿	立起的手背 较深肤色	none
+🖐🏻	手掌 较浅肤色	none
+🖐🏼	手掌 中等-浅肤色	none
+🖐🏽	停止 中等皮膚	none
+🖐🏾	停止 中深皮膚	none
+🖐🏿	手掌 较深肤色	none
+✋🏻	举起手 较浅肤色	none
+✋🏼	举起手 中等-浅肤色	none
+✋🏽	舉手 中等皮膚	none
+✋🏾	舉手 中深皮膚	none
+✋🏿	举起手 较深肤色	none
+🖖🏻	瓦肯举手礼 较浅肤色	none
+🖖🏼	瓦肯举手礼 中等-浅肤色	none
+🖖🏽	你好 中等皮膚	none
+🖖🏾	你好 中深皮膚	none
+🖖🏿	瓦肯举手礼 较深肤色	none
 🫱🏻	向右的手 较浅肤色	none
 🫱🏼	向右的手 中等-浅肤色	none
 🫱🏽	向右的手 中等皮膚	none
@@ -1969,41 +1994,16 @@ $	美元符号	none
 🫴🏽	手掌向上 中等皮膚	none
 🫴🏾	手掌向上 中深皮膚	none
 🫴🏿	掌心向上的手 较深肤色	none
-🫵🏻	食指指向觀眾 白皮膚	none
-🫵🏼	食指指向觀眾 黃皮膚	none
-🫵🏽	食指指向觀眾 中等皮膚	none
-🫵🏾	食指指向觀眾 中深皮膚	none
-🫵🏿	食指指向觀眾 黑皮膚	none
-🫶🏻	雙手比心 白皮膚	none
-🫶🏼	雙手比心 黃皮膚	none
-🫶🏽	雙手比心 中等皮膚	none
-🫶🏾	雙手比心 中深皮膚	none
-🫶🏿	雙手比心 黑皮膚	none
-👋🏻	挥手 较浅肤色	none
-👋🏼	挥手 中等-浅肤色	none
-👋🏽	揮手 中等皮膚	none
-👋🏾	揮手 中深皮膚	none
-👋🏿	挥手 较深肤色	none
-🤚🏻	立起的手背 较浅肤色	none
-🤚🏼	立起的手背 中等-浅肤色	none
-🤚🏽	豎起手掌 中等皮膚	none
-🤚🏾	豎起手掌 中深皮膚	none
-🤚🏿	立起的手背 较深肤色	none
-🖐🏻	手掌 较浅肤色	none
-🖐🏼	手掌 中等-浅肤色	none
-🖐🏽	停止 中等皮膚	none
-🖐🏾	停止 中深皮膚	none
-🖐🏿	手掌 较深肤色	none
-✋🏻	举起手 较浅肤色	none
-✋🏼	举起手 中等-浅肤色	none
-✋🏽	舉手 中等皮膚	none
-✋🏾	舉手 中深皮膚	none
-✋🏿	举起手 较深肤色	none
-🖖🏻	瓦肯举手礼 较浅肤色	none
-🖖🏼	瓦肯举手礼 中等-浅肤色	none
-🖖🏽	你好 中等皮膚	none
-🖖🏾	你好 中深皮膚	none
-🖖🏿	瓦肯举手礼 较深肤色	none
+🫷🏻	向左推 较浅肤色	none
+🫷🏼	向左推 中等-浅肤色	none
+🫷🏽	手向左推 中等皮膚	none
+🫷🏾	手向左推 中深皮膚	none
+🫷🏿	向左推 较深肤色	none
+🫸🏻	向右推 较浅肤色	none
+🫸🏼	向右推 中等-浅肤色	none
+🫸🏽	手向右推 中等皮膚	none
+🫸🏾	手向右推 中深皮膚	none
+🫸🏿	向右推 较深肤色	none
 👌🏻	OK 较浅肤色	none
 👌🏼	OK 中等-浅肤色	none
 👌🏽	OK 手勢 中等皮膚	none
@@ -2029,6 +2029,11 @@ $	美元符号	none
 🤞🏽	祝好運 中等皮膚	none
 🤞🏾	祝好運 中深皮膚	none
 🤞🏿	交叉的手指 较深肤色	none
+🫰🏻	食指与拇指交叉的手 较浅肤色	none
+🫰🏼	食指与拇指交叉的手 中等-浅肤色	none
+🫰🏽	食指和拇指交叉的手 中等皮膚	none
+🫰🏾	食指和拇指交叉的手 中深皮膚	none
+🫰🏿	食指与拇指交叉的手 较深肤色	none
 🤟🏻	我愛你手勢 白皮膚	none
 🤟🏼	我愛你手勢 黃皮膚	none
 🤟🏽	我愛你手勢 中等皮膚	none
@@ -2074,6 +2079,11 @@ $	美元符号	none
 ☝🏽	注意 中等皮膚	none
 ☝🏾	注意 中深皮膚	none
 ☝🏿	食指向上指 较深肤色	none
+🫵🏻	食指指向觀眾 白皮膚	none
+🫵🏼	食指指向觀眾 黃皮膚	none
+🫵🏽	食指指向觀眾 中等皮膚	none
+🫵🏾	食指指向觀眾 中深皮膚	none
+🫵🏿	食指指向觀眾 黑皮膚	none
 👍🏻	拇指向上 较浅肤色	none
 👍🏼	拇指向上 中等-浅肤色	none
 👍🏽	讚 中等皮膚	none
@@ -2114,6 +2124,11 @@ $	美元符号	none
 🙌🏽	舉雙手歡呼 中等皮膚	none
 🙌🏾	舉雙手歡呼 中深皮膚	none
 🙌🏿	舉雙手歡呼 黑皮膚	none
+🫶🏻	雙手比心 白皮膚	none
+🫶🏼	雙手比心 黃皮膚	none
+🫶🏽	雙手比心 中等皮膚	none
+🫶🏾	雙手比心 中深皮膚	none
+🫶🏿	雙手比心 黑皮膚	none
 👐🏻	张开双手 较浅肤色	none
 👐🏼	张开双手 中等-浅肤色	none
 👐🏽	攤開手 中等皮膚	none
@@ -2976,6 +2991,11 @@ $	美元符号	none
 👷🏽‍♀	女建築工人 中等皮膚	none
 👷🏾‍♀	女建築工人 中深皮膚	none
 👷🏿‍♀	女建筑工人 较深肤色	none
+🫅🏻	戴王冠的人 较浅肤色	none
+🫅🏼	戴王冠的人 中等-浅肤色	none
+🫅🏽	戴皇冠的人 中等皮膚	none
+🫅🏾	戴皇冠的人 中深皮膚	none
+🫅🏿	戴王冠的人 较深肤色	none
 🤴🏻	王子 较浅肤色	none
 🤴🏼	王子 中等-浅肤色	none
 🤴🏽	王子 中等皮膚	none
@@ -3046,6 +3066,16 @@ $	美元符号	none
 🤰🏽	孕婦 中等皮膚	none
 🤰🏾	孕婦 中深皮膚	none
 🤰🏿	孕妇 较深肤色	none
+🫃🏻	懷孕嘅男人 白皮膚	none
+🫃🏼	懷孕嘅男人 黃皮膚	none
+🫃🏽	懷孕嘅男人 中等皮膚	none
+🫃🏾	懷孕嘅男人 中深皮膚	none
+🫃🏿	懷孕嘅男人 黑皮膚	none
+🫄🏻	怀孕的人 较浅肤色	none
+🫄🏼	怀孕的人 中等-浅肤色	none
+🫄🏽	懷孕的人 中等皮膚	none
+🫄🏾	懷孕的人 中深皮膚	none
+🫄🏿	怀孕的人 较深肤色	none
 🤱🏻	母乳喂养 较浅肤色	none
 🤱🏼	母乳喂养 中等-浅肤色	none
 🤱🏽	哺乳 中等皮膚	none
@@ -3911,7 +3941,7 @@ $	美元符号	none
 🇵🇦	旗 巴拿马	none
 🇵🇪	旗 秘鲁	none
 🇵🇫	旗子 法屬波利尼西亞	none
-🇵🇬	旗子 巴布亞新幾內亞	none
+🇵🇬	旗子 巴布亞新畿內亞	none
 🇵🇭	旗 菲律宾	none
 🇵🇰	旗 巴基斯坦	none
 🇵🇱	旗 波兰	none
@@ -3939,7 +3969,7 @@ $	美元符号	none
 🇸🇯	旗子 斯瓦爾巴特群島及揚馬延島	none
 🇸🇰	旗 斯洛伐克	none
 🇸🇱	旗子 塞拉利昂	none
-🇸🇲	旗 圣马力诺	none
+🇸🇲	旗子 聖馬力諾	none
 🇸🇳	旗 塞内加尔	none
 🇸🇴	旗子 索馬里	none
 🇸🇷	旗子 蘇里南	none

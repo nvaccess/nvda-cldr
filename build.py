@@ -29,7 +29,8 @@ PathT = str
 
 def createCLDRAnnotationsDict(
 	sources: Iterable[PathT],
-	dest: PathT
+	dest: PathT,
+	level: str,
 ) -> None:
 	"""Produce NVDA dict file based on CLDR annotations.
 	"""
@@ -47,10 +48,8 @@ def createCLDRAnnotationsDict(
 	with codecs.open(dest, "w", "utf_8_sig", errors="replace") as dictFile:
 		dictFile.write(u"symbols:\r\n")
 		for pattern, description in cldrDict.items():
-			# Punctuations are set to none for CLDR characters to be pronounced
-			# even if user set punctuation level to None
 			dictFile.write(
-				f"{pattern}\t{description}\tnone\r\n"
+				f"{pattern}\t{description}\t{level}\r\n"
 			)
 
 
@@ -174,7 +173,14 @@ def createLocalesFromCldr(outDir: PathT) -> None:
 		os.makedirs(localeOutDir)
 		assert os.path.isdir(localeOutDir), f"Locale output dir must exist: {localeOutDir}"
 		outFile = os.path.join(localeOutDir, "cldr.dic")
-		createCLDRAnnotationsDict(cldrSources, outFile)
+		if destLocale == "en":
+			# For English (the default fallback), punctuations are set to none for CLDR characters to be pronounced
+			# even if user set punctuation level to None
+			level = 'none'
+		else:
+			# For other languages the level is set to be inherited from English symbol file or English CLDR file.
+			level = '-'
+		createCLDRAnnotationsDict(cldrSources, outFile, level)
 
 
 def main():

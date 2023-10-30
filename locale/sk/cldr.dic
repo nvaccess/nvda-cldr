@@ -398,6 +398,8 @@ _	podčiarkovník	-
 😮‍💨	vydychujúca tvár	-
 🤥	tvár s dlhým nosom	-
 🫨	roztrasená tvár	-
+🙂‍↔	hlava krútiaca sa zo strany na stranu	-
+🙂‍↕	prikyvujúca hlava	-
 😌	tvár vyjadrujúca úľavu	-
 😔	zamyslená tvár	-
 😪	ospalá tvár	-
@@ -828,11 +830,15 @@ _	podčiarkovník	-
 👬	muži držiaci sa za ruky	-
 💏	bozk	-
 💑	pár so srdcom	-
-👪	rodina	-
 🗣	hovoriaca hlava	-
 👤	silueta busty	-
 👥	silueta búst	-
 🫂	objímajúci sa ľudia	-
+👪	rodina	-
+🧑‍🧑‍🧒	rodina dospelý, dospelý, dieťa	-
+🧑‍🧑‍🧒‍🧒	rodina dospelý, dospelý, dieťa, dieťa	-
+🧑‍🧒	rodina dospelý, dieťa	-
+🧑‍🧒‍🧒	rodina dospelý, dieťa, dieťa	-
 👣	stopy	-
 🦰	ryšavé vlasy	-
 🦱	kučeravé vlasy	-
@@ -923,7 +929,9 @@ _	podčiarkovník	-
 🦚	páv	-
 🦜	papagáj	-
 🪽	krídlo	-
+🐦‍⬛	čierny vták	-
 🪿	hus	-
+🐦‍🔥	fénix	-
 🐸	žaba	-
 🐊	krokodíl	-
 🐢	korytnačka	-
@@ -994,6 +1002,7 @@ _	podčiarkovník	-
 🍉	melón	-
 🍊	mandarínka	-
 🍋	citrón	-
+🍋‍🟩	limetka	-
 🍌	banán	-
 🍍	ananás	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	podčiarkovník	-
 🌰	gaštan	-
 🫚	koreň ďumbiera	-
 🫛	hrachový struk	-
+🍄‍🟫	hnedý hríb	-
 🍞	chlieb	-
 🥐	croissant	-
 🥖	bageta	-
@@ -1633,6 +1643,7 @@ _	podčiarkovník	-
 ⚖	miskové váhy	-
 🦯	slepecká palica	-
 🔗	spojovací článok	-
+⛓‍💥	roztrhnutá reťaz	-
 ⛓	reťaz	-
 🪝	hák	-
 🧰	kufrík na náradie	-
@@ -1918,12 +1929,12 @@ $	dolár	-
 ₰	nemecká penca	-
 ₱	peso	-
 ₳	austral	-
-₶	livre tournois	-
+₶	tourská libra	-
 ₷	spesmilo	-
 ₹	indická rupia	-
 ₽	rubeľ	-
 ₿	bitcoin	-
-₨	rupie	-
+₨	rupia	-
 ﷼	rial	-
 ¹	jedna horný index	-
 ²	dva horný index	-
@@ -4029,7 +4040,6 @@ $	dolár	-
 ៛	kambodžský riel	-
 ₡	kostarický colón	-
 ₦	nigérijská naira	-
-₧	španielska peseta	-
 ₪	izraelský šekel	-
 ₫	vietnamský dong	-
 ₭	laoský kip	-
@@ -4051,3 +4061,4 @@ $	dolár	-
 7⃣	kláves 7	-
 8⃣	kláves 8	-
 9⃣	kláves 9	-
+₧	španielska peseta	-

@@ -398,6 +398,8 @@ _	znak podkreślenia	-
 😮‍💨	twarz wypuszczająca powietrze	-
 🤥	twarz kłamcy	-
 🫨	wstrząśnięta twarz	-
+🙂‍↔	głowa kręcąca się poziomo	-
+🙂‍↕	głowa kiwająca się pionowo	-
 😌	twarz z wyrazem ulgi	-
 😔	zamyślona twarz	-
 😪	senna twarz	-
@@ -828,11 +830,15 @@ _	znak podkreślenia	-
 👬	dwóch mężczyzn trzymających się za ręce	-
 💏	pocałunek	-
 💑	para z sercem	-
-👪	rodzina	-
 🗣	mówiąca głowa	-
 👤	sylwetka popiersia	-
 👥	sylwetki popiersi	-
 🫂	obejmujące się osoby	-
+👪	rodzina	-
+🧑‍🧑‍🧒	rodzina dorosły, dorosły, dziecko	-
+🧑‍🧑‍🧒‍🧒	rodzina dorosły, dorosły, dziecko, dziecko	-
+🧑‍🧒	rodzina dorosły, dziecko	-
+🧑‍🧒‍🧒	rodzina dorosły, dziecko, dziecko	-
 👣	ślady stóp	-
 🦰	rude włosy	-
 🦱	kręcone włosy	-
@@ -923,7 +929,9 @@ _	znak podkreślenia	-
 🦚	paw	-
 🦜	papuga	-
 🪽	skrzydło	-
+🐦‍⬛	czarny ptak	-
 🪿	gęś	-
+🐦‍🔥	feniks	-
 🐸	głowa żaby	-
 🐊	krokodyl	-
 🐢	żółw	-
@@ -994,6 +1002,7 @@ _	znak podkreślenia	-
 🍉	arbuz	-
 🍊	mandarynka	-
 🍋	cytryna	-
+🍋‍🟩	limonka	-
 🍌	banan	-
 🍍	ananas	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	znak podkreślenia	-
 🌰	kasztan	-
 🫚	korzeń imbiru	-
 🫛	strąk grochu	-
+🍄‍🟫	brązowy grzyb	-
 🍞	chleb	-
 🥐	rogalik	-
 🥖	bagietka	-
@@ -1633,6 +1643,7 @@ _	znak podkreślenia	-
 ⚖	waga szalkowa	-
 🦯	biała laska	-
 🔗	ogniwa	-
+⛓‍💥	zerwany łańcuch	-
 ⛓	łańcuchy	-
 🪝	hak	-
 🧰	skrzynka na narzędzia	-
@@ -4029,7 +4040,6 @@ $	dolar	-
 ៛	riel kambodżański	-
 ₡	colon kostarykański	-
 ₦	naira nigeryjska	-
-₧	peseta hiszpańska	-
 ₪	nowy szekel izraelski	-
 ₫	dong wietnamski	-
 ₭	kip laotański	-
@@ -4051,3 +4061,4 @@ $	dolar	-
 7⃣	klawisz 7	-
 8⃣	klawisz 8	-
 9⃣	klawisz 9	-
+₧	peseta hiszpańska	-

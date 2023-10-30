@@ -94,8 +94,8 @@ _	trait de soulignement	-
 ↟	flèche à deux pointes vers le haut	-
 ↠	flèche à deux pointes vers la droite	-
 ↡	flèche à deux pointes vers le bas	-
-↢	empenne vers la gauche	-
-↣	empenne vers la droite	-
+↢	flèche vers la gauche avec empenne	-
+↣	flèche vers la droite avec empenne	-
 ↤	flèche d’un taquet vers la gauche	-
 ↥	flèche d’un taquet vers le haut	-
 ↦	flèche d’un taquet vers la droite	-
@@ -114,7 +114,7 @@ _	trait de soulignement	-
 ↶	flèche semi-circulaire sens antihoraire en chef	-
 ↷	flèche semi-circulaire sens horaire en chef	-
 ↸	flèche nord-ouest jusqu’à un long taquet	-
-↹	flèche vers la gauche jusqu’à un taquet sur flèche vers la droite jusqu’à un taquet	-
+↹	flèches gauche et droite superposées avec taquets	-
 ↺	flèche circulaire ouverte sens antihoraire	-
 ↻	flèche circulaire ouverte sens horaire	-
 ↼	harpon vers la gauche avec barbillon vers le haut	-
@@ -170,9 +170,9 @@ _	trait de soulignement	-
 ∅	ensemble vide	-
 ∆	incrément	-
 ∇	nabla	-
-∈	élément de	-
+∈	appartient à	-
 ∉	n’appartient pas	-
-∋	appartient	-
+∋	contient comme élément	-
 ∎	fin d’article	-
 ∏	produit de la famille	-
 ∑	sommation de la famille	-
@@ -334,7 +334,7 @@ _	trait de soulignement	-
 ◥	triangle rectangle supérieur droit plein	-
 ◦	puce creuse	-
 ◯	grand cercle vide	-
-◳	carré creux avec quadrant supérieur droit	-
+◳	carré creux avec quartier supérieur droit	-
 ◷	cercle creux avec quadrant supérieur droit	-
 ◿	triangle rectangle inférieur droit	-
 ♪	croche	-
@@ -398,6 +398,8 @@ _	trait de soulignement	-
 😮‍💨	visage expirant	-
 🤥	visage de menteur	-
 🫨	visage secoué	-
+🙂‍↔	tête secouée horizontalement	-
+🙂‍↕	tête secouée verticalement	-
 😌	visage soulagé	-
 😔	visage pensif	-
 😪	visage endormi	-
@@ -828,11 +830,15 @@ _	trait de soulignement	-
 👬	deux hommes se tenant la main	-
 💏	bisou	-
 💑	couple avec cœur	-
-👪	famille	-
 🗣	tête qui parle	-
 👤	silhouette de buste	-
 👥	silhouettes de bustes	-
 🫂	étreinte	-
+👪	famille	-
+🧑‍🧑‍🧒	famille  adulte, adulte, enfant	-
+🧑‍🧑‍🧒‍🧒	famille  adulte, adulte, enfant, enfant	-
+🧑‍🧒	famille  adulte, enfant	-
+🧑‍🧒‍🧒	famille  adulte, enfant, enfant	-
 👣	traces de pas	-
 🦰	cheveux roux	-
 🦱	cheveux bouclés	-
@@ -923,7 +929,9 @@ _	trait de soulignement	-
 🦚	paon	-
 🦜	perroquet	-
 🪽	aile	-
+🐦‍⬛	oiseau noir	-
 🪿	oie	-
+🐦‍🔥	phénix	-
 🐸	grenouille	-
 🐊	crocodile	-
 🐢	tortue	-
@@ -994,6 +1002,7 @@ _	trait de soulignement	-
 🍉	pastèque	-
 🍊	mandarine	-
 🍋	citron	-
+🍋‍🟩	citron vert	-
 🍌	banane	-
 🍍	ananas	-
 🥭	mangue	-
@@ -1025,6 +1034,7 @@ _	trait de soulignement	-
 🌰	châtaigne	-
 🫚	racine de gingembre	-
 🫛	cosse de petits pois	-
+🍄‍🟫	champignon marron	-
 🍞	pain	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1633,6 +1643,7 @@ _	trait de soulignement	-
 ⚖	balance à poids	-
 🦯	canne blanche	-
 🔗	chaînons	-
+⛓‍💥	chaîne brisée	-
 ⛓	chaînes	-
 🪝	crochet	-
 🧰	boîte à outils	-
@@ -4029,7 +4040,6 @@ $	dollar	-
 ៛	riel cambodgien	-
 ₡	colón costaricain	-
 ₦	naira nigérian	-
-₧	peseta espagnole	-
 ₪	nouveau shekel israélien	-
 ₫	dông vietnamien	-
 ₭	kip laotien	-
@@ -4051,3 +4061,4 @@ $	dollar	-
 7⃣	touches  7	-
 8⃣	touches  8	-
 9⃣	touches  9	-
+₧	peseta espagnole	-

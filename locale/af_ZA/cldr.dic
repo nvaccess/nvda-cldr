@@ -340,7 +340,7 @@ _	onderste streep	-
 ♪	agstenoot	-
 ⨧	plusteken met onderskrif twee	-
 ⨯	vektor kruisproduk	-
-⨼	interiorproduk	-
+⨼	binneproduk	-
 ⩣	logiese of dubbele onderbalk	-
 ⩽	kleiner-as skuins gelyk aan	-
 ⪍	kleiner-as bo-op soortgelyke gelyk aan	-
@@ -398,6 +398,8 @@ _	onderste streep	-
 😮‍💨	gesig asem uit	-
 🤥	gesig wat jok	-
 🫨	gesig wat skud	-
+🙂‍↔	kop wat horisontaal skud	-
+🙂‍↕	kop wat vertikaal skud	-
 😌	verligte gesig	-
 😔	peinsende gesig	-
 😪	vaak gesig	-
@@ -828,11 +830,15 @@ _	onderste streep	-
 👬	twee mans wat hande vashou	-
 💏	soen	-
 💑	paartjie met hartjie	-
-👪	gesin	-
 🗣	kop wat praat	-
 👤	borssilhoeët	-
 👥	borssilhoeëtte	-
 🫂	mense wat mekaar druk	-
+👪	gesin	-
+🧑‍🧑‍🧒	gesin grootmens, volwasse, kind	-
+🧑‍🧑‍🧒‍🧒	gesin grootmens, volwasse, kind, kind	-
+🧑‍🧒	gesin grootmens, kind	-
+🧑‍🧒‍🧒	gesin grootmens, kind, kind	-
 👣	voetspore	-
 🦰	rooi hare	-
 🦱	krulhare	-
@@ -923,7 +929,9 @@ _	onderste streep	-
 🦚	pou	-
 🦜	papegaai	-
 🪽	vlerk	-
+🐦‍⬛	swart voël	-
 🪿	gans	-
+🐦‍🔥	feniks	-
 🐸	padda	-
 🐊	krokodil	-
 🐢	waterskilpad	-
@@ -994,6 +1002,7 @@ _	onderste streep	-
 🍉	waatlemoen	-
 🍊	nartjie	-
 🍋	suurlemoen	-
+🍋‍🟩	lemmetjie	-
 🍌	piesang	-
 🍍	pynappel	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	onderste streep	-
 🌰	kastaiing	-
 🫚	gemmerwortel	-
 🫛	ertjiepeul	-
+🍄‍🟫	bruin sampioen	-
 🍞	brood	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1122,12 +1132,12 @@ _	onderste streep	-
 🔪	kombuismes	-
 🫙	fles	-
 🏺	amfoor	-
-🌍	aardbol met europa-afrika	-
-🌎	aardbol met amerikas	-
-🌏	aardbol met asië-australië	-
+🌍	aardbol met Europa en Afrika	-
+🌎	aardbol met Amerikas	-
+🌏	aardbol met Asië en Australië	-
 🌐	aardbol met kringlyne	-
 🗺	wêreldkaart	-
-🗾	kaart van japan	-
+🗾	kaart van Japan	-
 🧭	kompas	-
 🏔	berg met sneeu op	-
 ⛰	berg	-
@@ -1160,17 +1170,17 @@ _	onderste streep	-
 🏫	skool	-
 🏬	afdelingswinkel	-
 🏭	fabriek	-
-🏯	japanse kasteel	-
+🏯	Japanse kasteel	-
 🏰	kasteel	-
 💒	troue	-
-🗼	tokio-toring	-
+🗼	Tokio-toring	-
 🗽	vryheidstandbeeld	-
 ⛪	kerk	-
 🕌	moskee	-
 🛕	Hindoetempel	-
 🕍	sinagoge	-
 ⛩	sjinto-altaar	-
-🕋	kaäba	-
+🕋	Kaäba	-
 ⛲	fontein	-
 ⛺	tent	-
 🌁	mistig	-
@@ -1351,7 +1361,7 @@ _	onderste streep	-
 🎊	konfettibal	-
 🎋	tanabataboom	-
 🎍	denneversiering	-
-🎎	japanse poppe	-
+🎎	Japanse poppe	-
 🎏	karpbanier	-
 🎐	windklokkie	-
 🎑	maankykseremonie	-
@@ -1633,6 +1643,7 @@ _	onderste streep	-
 ⚖	weegskaal	-
 🦯	gidsstok	-
 🔗	skakel	-
+⛓‍💥	gebreekte ketting	-
 ⛓	kettings	-
 🪝	hoek	-
 🧰	gereedskaptrommel	-

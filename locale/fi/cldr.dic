@@ -89,7 +89,7 @@ _	alaviiva	-
 ↑	ylös osoittava nuoli	-
 ↓	alas osoittava nuoli	-
 ↜	aaltonuoli vasemmalle	-
-↝	aaltonuoli oikeaan	-
+↝	aaltonuoli oikealle	-
 ↞	kaksipäinen nuoli vasemmalle	-
 ↟	kaksipäinen nuoli ylös	-
 ↠	kaksipäinen nuoli oikealle	-
@@ -210,8 +210,8 @@ _	alaviiva	-
 ∫	integraali	-
 ∬	kaksoisintegraali	-
 ∮	käyräintegraali	-
-∴	koska	-
-∵	siis	-
+∴	siis	-
+∵	koska	-
 ∶	suhde	-
 ∷	suhteellisuus	-
 ∼	tildeoperaattori	-
@@ -398,6 +398,8 @@ _	alaviiva	-
 😮‍💨	hämmästynyt	-
 🤥	valehteleva	-
 🫨	tärisevä	-
+🙂‍↔	ravistaa päätä vaakasuunnassa	-
+🙂‍↕	ravistaa päätä pystysuunnassa	-
 😌	helpottunut	-
 😔	pohdiskeleva	-
 😪	unelias	-
@@ -828,11 +830,15 @@ _	alaviiva	-
 👬	kaksi miestä käsi kädessä	-
 💏	pusu	-
 💑	pariskunta ja sydän	-
-👪	perhe	-
 🗣	puhuva pää	-
 👤	rintasiluetti	-
 👥	kaksi rintasiluettia	-
 🫂	halaus	-
+👪	perhe	-
+🧑‍🧑‍🧒	perhe aikuinen, aikuinen, lapsi	-
+🧑‍🧑‍🧒‍🧒	perhe aikuinen, aikuinen, lapsi, lapsi	-
+🧑‍🧒	perhe aikuinen, lapsi	-
+🧑‍🧒‍🧒	perhe aikuinen, lapsi, lapsi	-
 👣	jalanjäljet	-
 🦰	punatukkainen	-
 🦱	kiharatukkainen	-
@@ -925,6 +931,7 @@ _	alaviiva	-
 🪽	siipi	-
 🐦‍⬛	mustarastas	-
 🪿	hanhi	-
+🐦‍🔥	feeniks	-
 🐸	sammakko	-
 🐊	krokotiili	-
 🐢	kilpikonna	-
@@ -995,6 +1002,7 @@ _	alaviiva	-
 🍉	vesimeloni	-
 🍊	mandariini	-
 🍋	sitruuna	-
+🍋‍🟩	limetti	-
 🍌	banaani	-
 🍍	ananas	-
 🥭	mango	-
@@ -1026,6 +1034,7 @@ _	alaviiva	-
 🌰	kastanja	-
 🫚	inkivääri	-
 🫛	herneenpalko	-
+🍄‍🟫	ruskea herkkusieni	-
 🍞	leipä	-
 🥐	voisarvi	-
 🥖	patonki	-
@@ -1634,6 +1643,7 @@ _	alaviiva	-
 ⚖	vaaka	-
 🦯	valkoinen keppi	-
 🔗	lenkki	-
+⛓‍💥	katkennut ketju	-
 ⛓	ketjut	-
 🪝	koukku	-
 🧰	työkalulaatikko	-
@@ -3967,7 +3977,7 @@ $	dollari	-
 🇸🇬	lippu Singapore	-
 🇸🇭	lippu Saint Helena	-
 🇸🇮	lippu Slovenia	-
-🇸🇯	lippu Svalbard ja Jan Mayen	-
+🇸🇯	lippu Huippuvuoret ja Jan Mayen	-
 🇸🇰	lippu Slovakia	-
 🇸🇱	lippu Sierra Leone	-
 🇸🇲	lippu San Marino	-
@@ -4030,7 +4040,6 @@ $	dollari	-
 ៛	Kambodžan riel	-
 ₡	Costa Rican colón	-
 ₦	Nigerian naira	-
-₧	Espanjan peseta	-
 ₪	Israelin uusi sekeli	-
 ₫	Vietnamin dong	-
 ₭	Laosin kip	-
@@ -4052,3 +4061,4 @@ $	dollari	-
 7⃣	näppäin 7	-
 8⃣	näppäin 8	-
 9⃣	näppäin 9	-
+₧	Espanjan peseta	-

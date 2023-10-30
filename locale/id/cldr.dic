@@ -390,6 +390,7 @@ _	garis bawah	-
 😑	wajah tanpa ekspresi	-
 😶	wajah tanpa mulut	-
 🫥	wajah dengan garis titik-titik	-
+😶‍🌫	wajah di awan	-
 😏	wajah tersenyum sombong	-
 😒	wajah bosan	-
 🙄	wajah dengan mata ke atas	-
@@ -397,6 +398,8 @@ _	garis bawah	-
 😮‍💨	wajah mengembuskan napas	-
 🤥	bohong	-
 🫨	wajah gemetar	-
+🙂‍↔	kepala bergeleng	-
+🙂‍↕	kepala mengangguk	-
 😌	wajah lega	-
 😔	wajah merenung	-
 😪	wajah mengantuk	-
@@ -827,11 +830,15 @@ _	garis bawah	-
 👬	dua pria bergandengan	-
 💏	berciuman	-
 💑	pasangan dengan hati	-
-👪	keluarga	-
 🗣	kepala berbicara	-
 👤	siluet foto setengah badan	-
 👥	beberapa siluet foto setengah badan	-
 🫂	orang berpelukan	-
+👪	keluarga	-
+🧑‍🧑‍🧒	keluarga orang dewasa, orang dewasa, anak	-
+🧑‍🧑‍🧒‍🧒	keluarga orang dewasa, orang dewasa, anak, anak	-
+🧑‍🧒	keluarga orang dewasa, anak	-
+🧑‍🧒‍🧒	keluarga orang dewasa, anak, anak	-
 👣	jejak kaki	-
 🦰	rambut merah	-
 🦱	rambut keriting	-
@@ -922,7 +929,9 @@ _	garis bawah	-
 🦚	merak	-
 🦜	nuri	-
 🪽	sayap	-
+🐦‍⬛	burung hitam	-
 🪿	angsa leher pendek	-
+🐦‍🔥	phoenix	-
 🐸	katak	-
 🐊	buaya	-
 🐢	kura-kura	-
@@ -993,6 +1002,7 @@ _	garis bawah	-
 🍉	semangka	-
 🍊	buah jeruk	-
 🍋	lemon	-
+🍋‍🟩	jeruk limau	-
 🍌	pisang	-
 🍍	nanas	-
 🥭	mangga	-
@@ -1024,6 +1034,7 @@ _	garis bawah	-
 🌰	kastanye	-
 🫚	akar jahe	-
 🫛	kacang polong	-
+🍄‍🟫	jamur cokelat	-
 🍞	roti	-
 🥐	croissant	-
 🥖	roti baguette	-
@@ -1632,6 +1643,7 @@ _	garis bawah	-
 ⚖	timbangan gantung	-
 🦯	tongkat tunanetra	-
 🔗	tautan	-
+⛓‍💥	rantai putus	-
 ⛓	rantai	-
 🪝	kait	-
 🧰	kotak perkakas	-
@@ -3756,9 +3768,6 @@ $	dolar	-
 👩‍👧	keluarga wanita, anak perempuan	-
 👩‍👧‍👦	keluarga wanita, anak perempuan, anak laki-laki	-
 👩‍👧‍👧	keluarga wanita, anak perempuan, anak perempuan	-
-#⃣	keycap #	-
-*⃣	keycap *	-
-🔟	keycap 10	-
 🇦🇨	bendera Pulau Ascension	-
 🇦🇩	bendera Andorra	-
 🇦🇪	bendera Uni Emirat Arab	-
@@ -4028,7 +4037,6 @@ $	dolar	-
 ៛	Riel Kamboja	-
 ₡	Colon Kosta Rika	-
 ₦	Naira Nigeria	-
-₧	Peseta Spanyol	-
 ₪	Shekel Baru Israel	-
 ₫	Dong Vietnam	-
 ₭	Kip Laos	-
@@ -4040,13 +4048,4 @@ $	dolar	-
 ₺	Lira Turki	-
 ₼	Manat Azerbaijan	-
 ₾	Lari Georgia	-
-0⃣	keycap 0	-
-1⃣	keycap 1	-
-2⃣	keycap 2	-
-3⃣	keycap 3	-
-4⃣	keycap 4	-
-5⃣	keycap 5	-
-6⃣	keycap 6	-
-7⃣	keycap 7	-
-8⃣	keycap 8	-
-9⃣	keycap 9	-
+₧	Peseta Spanyol	-

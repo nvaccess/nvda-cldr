@@ -398,6 +398,8 @@ _	understreck	-
 😮‍💨	ansikte andas ut	-
 🤥	ljugande ansikte	-
 🫨	skakande ansikte	-
+🙂‍↔	huvud skakar horisontellt	-
+🙂‍↕	huvud skakar vertikalt	-
 😌	lättat ansikte	-
 😔	funderande ansikte	-
 😪	sömnigt ansikte	-
@@ -828,11 +830,15 @@ _	understreck	-
 👬	två män håller hand	-
 💏	puss	-
 💑	par med hjärta	-
-👪	familj	-
 🗣	silhuett som talar	-
 👤	figur i silhuett	-
 👥	figurer i silhuett	-
 🫂	personer kramas	-
+👪	familj	-
+🧑‍🧑‍🧒	familj, vuxen, vuxen, barn	-
+🧑‍🧑‍🧒‍🧒	familj, vuxen, vuxen, barn, barn	-
+🧑‍🧒	familj, vuxen, barn	-
+🧑‍🧒‍🧒	familj, vuxen, barn, barn	-
 👣	fotavtryck	-
 🦰	rödhårig	-
 🦱	lockigt hår	-
@@ -923,7 +929,9 @@ _	understreck	-
 🦚	påfågel	-
 🦜	papegoja	-
 🪽	vinge	-
+🐦‍⬛	koltrast	-
 🪿	gås	-
+🐦‍🔥	fenix	-
 🐸	grodansikte	-
 🐊	krokodil	-
 🐢	sköldpadda	-
@@ -994,6 +1002,7 @@ _	understreck	-
 🍉	vattenmelon	-
 🍊	mandarin	-
 🍋	citron	-
+🍋‍🟩	lime	-
 🍌	banan	-
 🍍	ananas	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	understreck	-
 🌰	kastanj	-
 🫚	ingefära	-
 🫛	ärtskida	-
+🍄‍🟫	brun svamp	-
 🍞	bröd	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1633,6 +1643,7 @@ _	understreck	-
 ⚖	balansvåg	-
 🦯	blindkäpp	-
 🔗	länk	-
+⛓‍💥	bruten länk	-
 ⛓	kedjor	-
 🪝	krok	-
 🧰	verktygslåda	-
@@ -3757,9 +3768,6 @@ $	dollar	-
 👩‍👧	familj kvinna, flicka	-
 👩‍👧‍👦	familj kvinna, flicka, pojke	-
 👩‍👧‍👧	familj kvinna, flicka, flicka	-
-#⃣	keycap #	-
-*⃣	keycap *	-
-🔟	keycap 10	-
 🇦🇨	flagga Ascension	-
 🇦🇩	flagga Andorra	-
 🇦🇪	flagga Förenade Arabemiraten	-
@@ -3796,7 +3804,7 @@ $	dollar	-
 🇧🇹	flagga Bhutan	-
 🇧🇻	flagga Bouvetön	-
 🇧🇼	flagga Botswana	-
-🇧🇾	flagga Vitryssland	-
+🇧🇾	flagga Belarus	-
 🇧🇿	flagga Belize	-
 🇨🇦	flagga Kanada	-
 🇨🇨	flagga Kokosöarna	-
@@ -3804,7 +3812,7 @@ $	dollar	-
 🇨🇫	flagga Centralafrikanska republiken	-
 🇨🇬	flagga Kongo-Brazzaville	-
 🇨🇭	flagga Schweiz	-
-🇨🇮	flagga Côte d’Ivoire	-
+🇨🇮	flagga Elfenbenskusten	-
 🇨🇰	flagga Cooköarna	-
 🇨🇱	flagga Chile	-
 🇨🇲	flagga Kamerun	-
@@ -4029,7 +4037,6 @@ $	dollar	-
 ៛	kambodjansk riel	-
 ₡	costarikansk colón	-
 ₦	nigeriansk naira	-
-₧	spansk peseta	-
 ₪	israelisk ny shekel	-
 ₫	vietnamesisk dong	-
 ₭	laotisk kip	-
@@ -4041,13 +4048,4 @@ $	dollar	-
 ₺	turkisk lira	-
 ₼	azerbajdzjansk manat	-
 ₾	georgisk lari	-
-0⃣	keycap 0	-
-1⃣	keycap 1	-
-2⃣	keycap 2	-
-3⃣	keycap 3	-
-4⃣	keycap 4	-
-5⃣	keycap 5	-
-6⃣	keycap 6	-
-7⃣	keycap 7	-
-8⃣	keycap 8	-
-9⃣	keycap 9	-
+₧	spansk peseta	-

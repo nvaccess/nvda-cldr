@@ -398,6 +398,8 @@ _	vijë e ulët	-
 😮‍💨	fytyrë me shfryrje	-
 🤥	fytyrë mashtrimi	-
 🫨	fytyrë që tundet	-
+🙂‍↔	kokë që tundet horizontalisht	-
+🙂‍↕	kokë që tundet vertikalisht	-
 😌	fytyrë e lehtësuar	-
 😔	fytyrë e menduar	-
 😪	fytyrë e përgjumur	-
@@ -828,11 +830,15 @@ _	vijë e ulët	-
 👬	dy burra të kapur për duarsh	-
 💏	puthje	-
 💑	çift me zemër	-
-👪	familje	-
 🗣	kokë që flet	-
 👤	bust siluetë	-
 👥	buste siluetë	-
 🫂	njerëz që përqafohen	-
+👪	familje	-
+🧑‍🧑‍🧒	familje i rritur, i rritur, fëmijë	-
+🧑‍🧑‍🧒‍🧒	familje i rritur, i rritur, fëmijë, fëmijë	-
+🧑‍🧒	familje i rritur, fëmijë	-
+🧑‍🧒‍🧒	familje i rritur, fëmijë, fëmijë	-
 👣	gjurmë këmbësh	-
 🦰	flokë të kuqe	-
 🦱	flokë kaçurrele	-
@@ -925,6 +931,7 @@ _	vijë e ulët	-
 🪽	krah	-
 🐦‍⬛	zog i zi	-
 🪿	patë	-
+🐦‍🔥	feniks	-
 🐸	fytyrë bretkose	-
 🐊	krokodil	-
 🐢	breshkë	-
@@ -995,6 +1002,7 @@ _	vijë e ulët	-
 🍉	shalqi	-
 🍊	mandarinë	-
 🍋	limon	-
+🍋‍🟩	limon jeshil	-
 🍌	banane	-
 🍍	ananas	-
 🥭	mango	-
@@ -1026,6 +1034,7 @@ _	vijë e ulët	-
 🌰	lajthi	-
 🫚	rrënjë xhenxhefili	-
 🫛	bizele bishtajë	-
+🍄‍🟫	kërpudhë kafe	-
 🍞	bukë	-
 🥐	kroasant	-
 🥖	bagetë	-
@@ -1634,6 +1643,7 @@ _	vijë e ulët	-
 ⚖	peshore	-
 🦯	shkop gjurmimi	-
 🔗	lidh	-
+⛓‍💥	zinxhir i këputur	-
 ⛓	zinxhirë	-
 🪝	kanxhë	-
 🧰	kuti veglash	-

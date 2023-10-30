@@ -110,7 +110,7 @@ _	donja crta	-
 ↲	strelica prema dolje s vrhom ulijevo	-
 ↳	strelica prema dolje s vrhom udesno	-
 ↴	strelica udesno s kutom prema dolje	-
-↵	strelica prema dolje s kutom ulijevom	-
+↵	strelica prema dolje s kutom ulijevo	-
 ↶	polukružna strelica u smjeru suprotnom od kazaljke na satu	-
 ↷	polukružna strelica u smjeru kazaljke na satu	-
 ↸	strelica s dugom crtom u smjeru sjeverozapada	-
@@ -238,7 +238,7 @@ _	donja crta	-
 ⊁	ne slijedi	-
 ⊂	je pravi podskup od	-
 ⊃	nadskup	-
-⊆	podskup jedna	-
+⊆	podskup jednak	-
 ⊇	nadskup jednak	-
 ⊕	zaokruženi plus	-
 ⊖	zaokruženi minus	-
@@ -398,6 +398,8 @@ _	donja crta	-
 😮‍💨	lice koje izdiše	-
 🤥	lice koje laže	-
 🫨	drhteće lice	-
+🙂‍↔	vodoravno okretanje glavom	-
+🙂‍↕	okomito klimanje glavom	-
 😌	lice s izrazom olakšanja	-
 😔	zamišljeno lice	-
 😪	pospano lice	-
@@ -828,11 +830,15 @@ _	donja crta	-
 👬	muškarci koji se drže za ruke	-
 💏	poljubac	-
 💑	par sa srcem	-
-👪	obitelj	-
 🗣	glava koja govori	-
 👤	poprsje u silueti	-
 👥	poprsja u silueti	-
 🫂	osobe koje se grle	-
+👪	obitelj	-
+🧑‍🧑‍🧒	obitelj odrasla osoba, odrasla osoba, dijete	-
+🧑‍🧑‍🧒‍🧒	obitelj odrasla osoba, odrasla osoba, dijete, dijete	-
+🧑‍🧒	obitelj odrasla osoba, dijete	-
+🧑‍🧒‍🧒	obitelj odrasla osoba, dijete, dijete	-
 👣	otisci stopala	-
 🦰	crvena kosa	-
 🦱	kovrčava kosa	-
@@ -923,7 +929,9 @@ _	donja crta	-
 🦚	paun	-
 🦜	papiga	-
 🪽	krilo	-
+🐦‍⬛	crna ptica	-
 🪿	guska	-
+🐦‍🔥	feniks	-
 🐸	žaba	-
 🐊	krokodil	-
 🐢	kornjača	-
@@ -994,6 +1002,7 @@ _	donja crta	-
 🍉	lubenica	-
 🍊	mandarina	-
 🍋	limun	-
+🍋‍🟩	limeta	-
 🍌	banana	-
 🍍	ananas	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	donja crta	-
 🌰	kesten	-
 🫚	đumbir	-
 🫛	mahuna graška	-
+🍄‍🟫	smeđa gljiva	-
 🍞	kruh	-
 🥐	kroasan	-
 🥖	baget	-
@@ -1633,6 +1643,7 @@ _	donja crta	-
 ⚖	vaga	-
 🦯	bijeli štap	-
 🔗	karika	-
+⛓‍💥	slomljeni lanac	-
 ⛓	lanci	-
 🪝	udica	-
 🧰	kutija za alat	-
@@ -3945,7 +3956,7 @@ $	dolar	-
 🇵🇭	zastava Filipini	-
 🇵🇰	zastava Pakistan	-
 🇵🇱	zastava Poljska	-
-🇵🇲	zastava Saint-Pierre-et-Miquelon	-
+🇵🇲	zastava Sveti Petar i Mikelon	-
 🇵🇳	zastava Otoci Pitcairn	-
 🇵🇷	zastava Portoriko	-
 🇵🇸	zastava Palestinsko područje	-
@@ -4029,7 +4040,6 @@ $	dolar	-
 ៛	kambodžanski rijal	-
 ₡	kostarikanski kolon	-
 ₦	nigerijska naira	-
-₧	španjolska pezeta	-
 ₪	novi izraelski šekel	-
 ₫	vijetnamski dong	-
 ₭	laoski kip	-
@@ -4051,3 +4061,4 @@ $	dolar	-
 7⃣	tipka 7	-
 8⃣	tipka 8	-
 9⃣	tipka 9	-
+₧	španjolska pezeta	-

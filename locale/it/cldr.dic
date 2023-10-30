@@ -174,8 +174,8 @@ _	trattino basso	-
 ∉	non appartiene	-
 ∋	contiene	-
 ∎	end of proof	-
-∏	prodotto n-ary	-
-∑	sommatoria n-ary	-
+∏	prodotto n-ario	-
+∑	sommatoria n-aria	-
 +	segno più	-
 ±	più o meno	-
 ÷	segno di divisione	-
@@ -257,9 +257,9 @@ _	trattino basso	-
 ⊶	originale	-
 ⊹	matrice hermitiana coniugata	-
 ⊿	triangolo rettangolo	-
-⋁	n-ary logico o	-
-⋂	intersezione n-ary	-
-⋃	unione n-ary	-
+⋁	or logico n-ario	-
+⋂	intersezione n-aria	-
+⋃	unione n-aria	-
 ⋅	operatore punto	-
 ⋆	operatore asterisco (*)	-
 ⋈	unione naturale	-
@@ -375,7 +375,7 @@ _	trattino basso	-
 😛	faccina che mostra la lingua	-
 😜	faccina che fa l’occhiolino e mostra la lingua	-
 🤪	faccina impazzita	-
-😝	faccina con un gran sorriso che mostra la lingua	-
+😝	faccina che strizza gli occhi e mostra la lingua	-
 🤑	faccina avida di denaro	-
 🤗	faccina che abbraccia	-
 🤭	faccina con mano sulla bocca	-
@@ -398,6 +398,8 @@ _	trattino basso	-
 😮‍💨	faccina che espira	-
 🤥	faccina bugiarda	-
 🫨	faccina tremante	-
+🙂‍↔	scuotere la testa in senso orizzontale	-
+🙂‍↕	scuotere la testa in senso verticale	-
 😌	faccina sollevata	-
 😔	faccina pensierosa	-
 😪	faccina assonnata	-
@@ -828,11 +830,15 @@ _	trattino basso	-
 👬	due uomini che si tengono per mano	-
 💏	bacio tra coppia	-
 💑	coppia con cuore	-
-👪	famiglia	-
 🗣	persona che parla	-
 👤	profilo di persona	-
 👥	profilo di due persone	-
 🫂	persone che si abbracciano	-
+👪	famiglia	-
+🧑‍🧑‍🧒	famiglia persona adulta, persona adulta, minore	-
+🧑‍🧑‍🧒‍🧒	famiglia persona adulta, persona adulta, minore, minore	-
+🧑‍🧒	famiglia persona adulta, minore	-
+🧑‍🧒‍🧒	famiglia persona adulta, minore, minore	-
 👣	impronta di piedi	-
 🦰	capelli rossi	-
 🦱	capelli ricci	-
@@ -923,7 +929,9 @@ _	trattino basso	-
 🦚	pavone	-
 🦜	pappagallo	-
 🪽	ala	-
+🐦‍⬛	merlo	-
 🪿	oca	-
+🐦‍🔥	fenice	-
 🐸	rana	-
 🐊	coccodrillo	-
 🐢	tartaruga	-
@@ -994,6 +1002,7 @@ _	trattino basso	-
 🍉	anguria	-
 🍊	mandarino	-
 🍋	limone	-
+🍋‍🟩	lime	-
 🍌	banana	-
 🍍	ananas	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	trattino basso	-
 🌰	castagna	-
 🫚	radice di zenzero	-
 🫛	baccello di piselli	-
+🍄‍🟫	fungo marrone	-
 🍞	pane in cassetta	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1633,6 +1643,7 @@ _	trattino basso	-
 ⚖	bilancia a doppio piatto	-
 🦯	bastone per non vedenti	-
 🔗	collegamento	-
+⛓‍💥	catena spezzata	-
 ⛓	catene	-
 🪝	gancio	-
 🧰	cassetta degli attrezzi	-
@@ -3978,7 +3989,7 @@ $	simbolo del dollaro	-
 🇸🇻	bandiera El Salvador	-
 🇸🇽	bandiera Sint Maarten	-
 🇸🇾	bandiera Siria	-
-🇸🇿	bandiera eSwatini	-
+🇸🇿	bandiera Eswatini	-
 🇹🇦	bandiera Tristan da Cunha	-
 🇹🇨	bandiera Isole Turks e Caicos	-
 🇹🇩	bandiera Ciad	-
@@ -4029,7 +4040,6 @@ $	simbolo del dollaro	-
 ៛	riel cambogiano	-
 ₡	colón costaricano	-
 ₦	naira nigeriana	-
-₧	peseta spagnola	-
 ₪	nuovo siclo israeliano	-
 ₫	dong vietnamita	-
 ₭	kip laotiano	-
@@ -4051,3 +4061,4 @@ $	simbolo del dollaro	-
 7⃣	tasto 7	-
 8⃣	tasto 8	-
 9⃣	tasto 9	-
+₧	peseta spagnola	-

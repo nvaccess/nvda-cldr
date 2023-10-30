@@ -113,7 +113,7 @@ _	traço baixo	-
 ↵	seta para baixo com curva para esquerda	-
 ↶	seta de semicírculo superior no sentido anti-horário	-
 ↷	seta de semicírculo superior no sentido horário	-
-↸	seta noroeste para barra longa	-
+↸	seta noroeste sob barra longa	-
 ↹	seta para a esquerda da barra sobre seta para a direita da barra	-
 ↺	seta de círculo aberto no sentido anti-horário	-
 ↻	seta de círculo aberto no sentido horário	-
@@ -156,8 +156,8 @@ _	traço baixo	-
 ⇡	seta tracejada para cima	-
 ⇢	seta tracejada para a direita	-
 ⇣	seta tracejada para baixo	-
-⇤	seta para a esquerda para barra	-
-⇥	seta para a direita para barra	-
+⇤	seta para a esquerda da barra	-
+⇥	seta para a direita da barra	-
 ⇦	seta branca para a esquerda	-
 ⇧	seta branca para cima	-
 ⇨	seta branca para a direita	-
@@ -249,14 +249,14 @@ _	traço baixo	-
 ⊛	operador de asterisco em círculo	-
 ⊞	mais em quadrado	-
 ⊟	menos em quadrado	-
-⊥	torniquete para cima	-
+⊥	contradição arbitrária	-
 ⊮	não força	-
 ⊰	precede em relação	-
 ⊱	sucede em relação	-
 ⋭	não contém como subgrupo normal ou igual	-
 ⊶	original	-
 ⊹	matriz conjugada hermitiana	-
-⊿	matemática	-
+⊿	triângulo retângulo direito	-
 ⋁	ou lógico n-ário	-
 ⋂	interseção n-ária	-
 ⋃	união n-ária	-
@@ -302,9 +302,9 @@ _	traço baixo	-
 ◃	triângulo pequeno vazio apontando para a esquerda	-
 ◄	ponteiro preenchido apontando para a esquerda	-
 ◅	ponteiro vazio apontando para a esquerda	-
-◆	diamante preenchido	-
-◇	diamante vazio	-
-◈	diamante vazio com diamante preenchido	-
+◆	losango preenchido	-
+◇	losango vazio	-
+◈	losango vazio com losango preenchido	-
 ◉	círculo vazio com círculo preenchido	-
 ◊	losango	-
 ○	círculo vazio	-
@@ -320,7 +320,7 @@ _	traço baixo	-
 ◕	círculo preenchido exceto o quadrante superior esquerdo	-
 ◖	metade esquerda do círculo preenchida	-
 ◗	metade direita do círculo preenchida	-
-◘	marca de lista invertida	-
+◘	marcador invertido	-
 ◙	quadrado preenchido com círculo vazio	-
 ◜	quarto de círculo superior esquerdo	-
 ◝	quarto de círculo superior direito	-
@@ -332,11 +332,11 @@ _	traço baixo	-
 ◣	triângulo inferior esquerdo preenchido	-
 ◤	triângulo superior esquerdo preenchido	-
 ◥	triângulo superior direito preenchido	-
-◦	marca de ponto vazia	-
+◦	marcador vazio	-
 ◯	círculo vazio grande	-
 ◳	quadrado vazio com quadrante superior direito	-
 ◷	círculo vazio com quadrante superior direito	-
-◿	triângulo inferior esquerdo	-
+◿	triângulo inferior direito	-
 ♪	colcheia	-
 ⨧	mais com dois subscrito	-
 ⨯	produto vetorial	-
@@ -398,6 +398,8 @@ _	traço baixo	-
 😮‍💨	rosto exalando	-
 🤥	rosto de mentiroso	-
 🫨	rosto tremendo	-
+🙂‍↔	cabeça virando de um lado para o outro	-
+🙂‍↕	cabeça balançando na vertical	-
 😌	rosto aliviado	-
 😔	rosto deprimido	-
 😪	rosto sonolento	-
@@ -828,11 +830,15 @@ _	traço baixo	-
 👬	dois homens de mãos dadas	-
 💏	beijo	-
 💑	casal apaixonado	-
-👪	família	-
 🗣	silhueta falando	-
 👤	silhueta de busto	-
 👥	silhueta de bustos	-
 🫂	pessoas se abraçando	-
+👪	família	-
+🧑‍🧑‍🧒	família adulto, adulto, criança	-
+🧑‍🧑‍🧒‍🧒	família adulto, adulto, criança, criança	-
+🧑‍🧒	família adulto, criança	-
+🧑‍🧒‍🧒	família adulto, criança, criança	-
 👣	pegadas	-
 🦰	cabelo vermelho	-
 🦱	cabelo cacheado	-
@@ -923,7 +929,9 @@ _	traço baixo	-
 🦚	pavão	-
 🦜	papagaio	-
 🪽	asa	-
+🐦‍⬛	pássaro preto	-
 🪿	ganso	-
+🐦‍🔥	fênix	-
 🐸	sapo	-
 🐊	crocodilo	-
 🐢	tartaruga	-
@@ -994,6 +1002,7 @@ _	traço baixo	-
 🍉	melancia	-
 🍊	tangerina	-
 🍋	limão	-
+🍋‍🟩	lima	-
 🍌	banana	-
 🍍	abacaxi	-
 🥭	manga	-
@@ -1025,6 +1034,7 @@ _	traço baixo	-
 🌰	castanha	-
 🫚	gengibre	-
 🫛	vagem	-
+🍄‍🟫	cogumelo marrom	-
 🍞	pão	-
 🥐	croissant	-
 🥖	baguete	-
@@ -1633,6 +1643,7 @@ _	traço baixo	-
 ⚖	balança	-
 🦯	bengala para cegos	-
 🔗	link	-
+⛓‍💥	corrente quebrada	-
 ⛓	correntes	-
 🪝	gancho	-
 🧰	caixa de ferramentas	-
@@ -1722,7 +1733,7 @@ _	traço baixo	-
 ↖	seta para cima e para a esquerda	-
 ↕	seta para cima e para baixo	-
 ↔	seta para esquerda e direita	-
-↮	traçado da seta para direita e esquerda	-
+↮	traçado de seta para direita e esquerda	-
 ↩	seta curva da direita para a esquerda	-
 ↪	seta curva da esquerda para a direita	-
 ⤴	seta para a direita curvada para cima	-
@@ -4029,7 +4040,6 @@ $	dólar	-
 ៛	Riel cambojano	-
 ₡	Colón costarriquenho	-
 ₦	Naira nigeriana	-
-₧	Peseta espanhola	-
 ₪	Novo shekel israelense	-
 ₫	Dong vietnamita	-
 ₭	Kip laosiano	-
@@ -4051,3 +4061,4 @@ $	dólar	-
 7⃣	tecla 7	-
 8⃣	tecla 8	-
 9⃣	tecla 9	-
+₧	Peseta espanhola	-

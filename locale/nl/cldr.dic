@@ -227,7 +227,7 @@ _	underscore	-
 ≣	strict gelijk	-
 ≤	kleiner dan of gelijk aan	-
 ≥	groter dan of gelijk aan	-
-≦	is minder dan of gelijk aan	-
+≦	minder dan boven gelijk aan	-
 ≧	groter dan boven gelijk aan	-
 ≪	veel minder dan	-
 ≫	veel groter dan	-
@@ -398,6 +398,8 @@ _	underscore	-
 😮‍💨	gezicht dat uitademt	-
 🤥	liegend gezicht	-
 🫨	schuddend gezicht	-
+🙂‍↔	hoofd dat horizontaal beweegt	-
+🙂‍↕	hoofd dat verticaal beweegt	-
 😌	opgelucht gezicht	-
 😔	peinzend gezicht	-
 😪	slaperig gezicht	-
@@ -828,11 +830,15 @@ _	underscore	-
 👬	mannen hand in hand	-
 💏	kus	-
 💑	stel met hart	-
-👪	gezin	-
 🗣	silhouet van sprekend hoofd	-
 👤	silhouet van persoon	-
 👥	silhouet van twee personen	-
 🫂	personen in een omhelzing	-
+👪	gezin	-
+🧑‍🧑‍🧒	gezin volwassene, volwassene, kind	-
+🧑‍🧑‍🧒‍🧒	gezin volwassene, volwassene, kind, kind	-
+🧑‍🧒	gezin volwassene, kind	-
+🧑‍🧒‍🧒	gezin volwassene, kind, kind	-
 👣	voetafdrukken	-
 🦰	rood haar	-
 🦱	krullend haar	-
@@ -845,7 +851,7 @@ _	underscore	-
 🐶	hondengezicht	-
 🐕	hond	-
 🦮	blindengeleidehond	-
-🐕‍🦺	as­sis­ten­tie­hond	-
+🐕‍🦺	assistentiehond	-
 🐩	poedel	-
 🐺	wolf	-
 🦊	vos	-
@@ -923,7 +929,9 @@ _	underscore	-
 🦚	pauw	-
 🦜	papegaai	-
 🪽	vleugel	-
+🐦‍⬛	merel	-
 🪿	gans	-
+🐦‍🔥	feniks	-
 🐸	kikker	-
 🐊	krokodil	-
 🐢	schildpad	-
@@ -994,6 +1002,7 @@ _	underscore	-
 🍉	watermeloen	-
 🍊	mandarijn	-
 🍋	citroen	-
+🍋‍🟩	limoen	-
 🍌	banaan	-
 🍍	ananas	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	underscore	-
 🌰	kastanje	-
 🫚	gemberwortel	-
 🫛	erwtendop	-
+🍄‍🟫	bruine paddestoel	-
 🍞	brood	-
 🥐	croissant	-
 🥖	stokbrood	-
@@ -1633,6 +1643,7 @@ _	underscore	-
 ⚖	weegschaal	-
 🦯	taststok	-
 🔗	schakels	-
+⛓‍💥	gebroken ketting	-
 ⛓	kettingen	-
 🪝	haak	-
 🧰	gereedschapskist	-
@@ -4029,7 +4040,6 @@ $	dollar	-
 ៛	Cambodjaanse riel	-
 ₡	Costa Ricaanse colon	-
 ₦	Nigeriaanse naira	-
-₧	Spaanse peseta	-
 ₪	Israëlische nieuwe shekel	-
 ₫	Vietnamese dong	-
 ₭	Laotiaanse kip	-
@@ -4051,3 +4061,4 @@ $	dollar	-
 7⃣	toets 7	-
 8⃣	toets 8	-
 9⃣	toets 9	-
+₧	Spaanse peseta	-

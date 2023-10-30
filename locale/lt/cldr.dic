@@ -398,6 +398,8 @@ _	apatinė linija	-
 😮‍💨	veidas su garu	-
 🤥	meluojantis veidas	-
 🫨	besikratantis veidukas	-
+🙂‍↔	purtantis galvą	-
+🙂‍↕	linksintis galva	-
 😌	veidas su palengvėjimu	-
 😔	susimąstęs veidas	-
 😪	mieguistas veidas	-
@@ -828,11 +830,15 @@ _	apatinė linija	-
 👬	du vyrai, susikibę už rankų	-
 💏	bučinys	-
 💑	pora su širdele	-
-👪	šeima	-
 🗣	kalbanti galva	-
 👤	biusto siluetas	-
 👥	biustų siluetai	-
 🫂	apsikabinę žmonės	-
+👪	šeima	-
+🧑‍🧑‍🧒	šeima suaugusysis, suaugusysis, vaikas	-
+🧑‍🧑‍🧒‍🧒	šeima suaugusysis, suaugusysis, vaikas, vaikas	-
+🧑‍🧒	šeima suaugusysis, vaikas	-
+🧑‍🧒‍🧒	šeima suaugusysis, vaikas, vaikas	-
 👣	pėdsakai	-
 🦰	raudoni plaukai	-
 🦱	garbanoti plaukai	-
@@ -923,7 +929,9 @@ _	apatinė linija	-
 🦚	povas	-
 🦜	papūga	-
 🪽	sparnas	-
+🐦‍⬛	juodas paukštis	-
 🪿	žąsis	-
+🐦‍🔥	feniksas	-
 🐸	varlės snukutis	-
 🐊	krokodilas	-
 🐢	vėžlys	-
@@ -994,6 +1002,7 @@ _	apatinė linija	-
 🍉	arbūzas	-
 🍊	mandarinas	-
 🍋	citrina	-
+🍋‍🟩	žalioji citrina	-
 🍌	bananas	-
 🍍	ananasas	-
 🥭	mangas	-
@@ -1025,6 +1034,7 @@ _	apatinė linija	-
 🌰	lazdyno riešutas	-
 🫚	imbiero šaknis	-
 🫛	žirnių ankštis	-
+🍄‍🟫	baravykas	-
 🍞	duona	-
 🥐	raguolis	-
 🥖	ilgas batonas	-
@@ -1633,6 +1643,7 @@ _	apatinė linija	-
 ⚖	svarstyklės su lėkštėmis	-
 🦯	neregio lazda	-
 🔗	jungtis	-
+⛓‍💥	nutraukta grandinė	-
 ⛓	grandinės	-
 🪝	kablys	-
 🧰	įrankių rinkinys	-
@@ -4029,7 +4040,6 @@ $	dolerio ženklas	-
 ៛	Kambodžos rielis	-
 ₡	Kosta Rikos kolonas	-
 ₦	Nigerijos naira	-
-₧	Ispanijos peseta	-
 ₪	Izraelio naujasis šekelis	-
 ₫	Vietnamo dongas	-
 ₭	Laoso kipas	-
@@ -4051,3 +4061,4 @@ $	dolerio ženklas	-
 7⃣	mygtukas 7	-
 8⃣	mygtukas 8	-
 9⃣	mygtukas 9	-
+₧	Ispanijos peseta	-

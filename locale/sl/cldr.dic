@@ -395,9 +395,11 @@ _	podčrtaj	-
 😒	obraz s hladnim nasmeškom	-
 🙄	obraz z zavijajočimi očmi	-
 😬	spačen obraz	-
-😮‍💨	obraz, ki izdihne	-
+😮‍💨	obraz med izdihovanjem	-
 🤥	lažnivi obraz	-
 🫨	tresoči se obraz	-
+🙂‍↔	vodoravno premikanje glave	-
+🙂‍↕	navpično premikanje glave	-
 😌	olajšan obraz	-
 😔	brezvoljen obraz	-
 😪	zaspan obraz	-
@@ -828,11 +830,15 @@ _	podčrtaj	-
 👬	moška se držita za roke	-
 💏	poljub	-
 💑	par s srčkom	-
-👪	družina	-
 🗣	govoreča glava	-
 👤	silhueta doprsja	-
 👥	silhueti doprsja	-
 🫂	osebi, ki se objemata	-
+👪	družina	-
+🧑‍🧑‍🧒	družina odrasla oseba, odrasla oseba, otrok	-
+🧑‍🧑‍🧒‍🧒	družina odrasla oseba, odrasla oseba, otrok, otrok	-
+🧑‍🧒	družina odrasla oseba, otrok	-
+🧑‍🧒‍🧒	družina odrasla oseba, otrok, otrok	-
 👣	stopinje	-
 🦰	rdeči lasje	-
 🦱	kodrasti lasje	-
@@ -923,7 +929,9 @@ _	podčrtaj	-
 🦚	pav	-
 🦜	papagaj	-
 🪽	krilo	-
+🐦‍⬛	kos	-
 🪿	gos	-
+🐦‍🔥	feniks	-
 🐸	žaba	-
 🐊	krokodil	-
 🐢	želva	-
@@ -994,6 +1002,7 @@ _	podčrtaj	-
 🍉	lubenica	-
 🍊	mandarina	-
 🍋	limona	-
+🍋‍🟩	limeta	-
 🍌	banana	-
 🍍	ananas	-
 🥭	mango	-
@@ -1025,6 +1034,7 @@ _	podčrtaj	-
 🌰	kostanj	-
 🫚	korenina ingverja	-
 🫛	strok graha	-
+🍄‍🟫	šampinjon	-
 🍞	kruh	-
 🥐	rogljič	-
 🥖	bageta	-
@@ -1633,6 +1643,7 @@ _	podčrtaj	-
 ⚖	tehtnica	-
 🦯	palica za slepe	-
 🔗	člen	-
+⛓‍💥	strgana veriga	-
 ⛓	verige	-
 🪝	kljuka	-
 🧰	zaboj za orodje	-
@@ -3757,9 +3768,6 @@ $	dolar	-
 👩‍👧	družina ženska in dekle	-
 👩‍👧‍👦	družina ženska, dekle in fant	-
 👩‍👧‍👧	družina ženska, dekle in dekle	-
-#⃣	keycap #	-
-*⃣	keycap *	-
-🔟	keycap 10	-
 🇦🇨	zastava Otok Ascension	-
 🇦🇩	zastava Andora	-
 🇦🇪	zastava Združeni arabski emirati	-
@@ -4029,7 +4037,6 @@ $	dolar	-
 ៛	kamboški riel	-
 ₡	kostariški kolon	-
 ₦	nigerijska naira	-
-₧	španska pezeta	-
 ₪	izraelski šekel	-
 ₫	vientnamski dong	-
 ₭	laoški kip	-
@@ -4041,13 +4048,4 @@ $	dolar	-
 ₺	nova turška lira	-
 ₼	azerbajdžanski manat	-
 ₾	gruzijski lari	-
-0⃣	keycap 0	-
-1⃣	keycap 1	-
-2⃣	keycap 2	-
-3⃣	keycap 3	-
-4⃣	keycap 4	-
-5⃣	keycap 5	-
-6⃣	keycap 6	-
-7⃣	keycap 7	-
-8⃣	keycap 8	-
-9⃣	keycap 9	-
+₧	španska pezeta	-

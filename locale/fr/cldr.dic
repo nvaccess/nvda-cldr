@@ -3277,6 +3277,24 @@ $	dollar	-
 🚶🏽‍♀	femme qui marche  peau légèrement mate	-
 🚶🏾‍♀	femme qui marche  peau mate	-
 🚶🏿‍♀	femme qui marche  peau foncée	-
+🚶‍➡	personne qui marche vers la droite	-
+🚶🏻‍➡	personne qui marche vers la droite	-
+🚶🏼‍➡	personne qui marche vers la droite	-
+🚶🏽‍➡	personne qui marche vers la droite	-
+🚶🏾‍➡	personne qui marche vers la droite	-
+🚶🏿‍➡	personne qui marche vers la droite	-
+🚶‍♀‍➡	femme qui marche vers la droite	-
+🚶🏻‍♀‍➡	femme qui marche vers la droite	-
+🚶🏼‍♀‍➡	femme qui marche vers la droite	-
+🚶🏽‍♀‍➡	femme qui marche vers la droite	-
+🚶🏾‍♀‍➡	femme qui marche vers la droite	-
+🚶🏿‍♀‍➡	femme qui marche vers la droite	-
+🚶‍♂‍➡	homme qui marche vers la droite	-
+🚶🏻‍♂‍➡	homme qui marche vers la droite	-
+🚶🏼‍♂‍➡	homme qui marche vers la droite	-
+🚶🏽‍♂‍➡	homme qui marche vers la droite	-
+🚶🏾‍♂‍➡	homme qui marche vers la droite	-
+🚶🏿‍♂‍➡	homme qui marche vers la droite	-
 🧍🏻	personne debout  peau claire	-
 🧍🏼	personne debout  peau moyennement claire	-
 🧍🏽	personne debout  peau légèrement mate	-
@@ -3307,51 +3325,123 @@ $	dollar	-
 🧎🏽‍♀	femme à genoux  peau légèrement mate	-
 🧎🏾‍♀	femme à genoux  peau mate	-
 🧎🏿‍♀	femme à genoux  peau foncée	-
+🧎‍➡	personne à genoux vers la droite	-
+🧎🏻‍➡	personne à genoux vers la droite	-
+🧎🏼‍➡	personne à genoux vers la droite	-
+🧎🏽‍➡	personne à genoux vers la droite	-
+🧎🏾‍➡	personne à genoux vers la droite	-
+🧎🏿‍➡	personne à genoux vers la droite	-
+🧎‍♀‍➡	femme à genoux vers la droite	-
+🧎🏻‍♀‍➡	femme à genoux vers la droite	-
+🧎🏼‍♀‍➡	femme à genoux vers la droite	-
+🧎🏽‍♀‍➡	femme à genoux vers la droite	-
+🧎🏾‍♀‍➡	femme à genoux vers la droite	-
+🧎🏿‍♀‍➡	femme à genoux vers la droite	-
+🧎‍♂‍➡	homme à genoux vers la droite	-
+🧎🏻‍♂‍➡	homme à genoux vers la droite	-
+🧎🏼‍♂‍➡	homme à genoux vers la droite	-
+🧎🏽‍♂‍➡	homme à genoux vers la droite	-
+🧎🏾‍♂‍➡	homme à genoux vers la droite	-
+🧎🏿‍♂‍➡	homme à genoux vers la droite	-
 🧑🏻‍🦯	personne avec une canne blanche  peau claire	-
 🧑🏼‍🦯	personne avec une canne blanche  peau moyennement claire	-
 🧑🏽‍🦯	personne avec une canne blanche  peau légèrement mate	-
 🧑🏾‍🦯	personne avec une canne blanche  peau mate	-
 🧑🏿‍🦯	personne avec une canne blanche  peau foncée	-
+🧑‍🦯‍➡	personne avec une canne blanche vers la droite	-
+🧑🏻‍🦯‍➡	personne avec une canne blanche vers la droite	-
+🧑🏼‍🦯‍➡	personne avec une canne blanche vers la droite	-
+🧑🏽‍🦯‍➡	personne avec une canne blanche vers la droite	-
+🧑🏾‍🦯‍➡	personne avec une canne blanche vers la droite	-
+🧑🏿‍🦯‍➡	personne avec une canne blanche vers la droite	-
 👨🏻‍🦯	homme avec canne blanche  peau claire	-
 👨🏼‍🦯	homme avec canne blanche  peau moyennement claire	-
 👨🏽‍🦯	homme avec canne blanche  peau légèrement mate	-
 👨🏾‍🦯	homme avec canne blanche  peau mate	-
 👨🏿‍🦯	homme avec canne blanche  peau foncée	-
+👨‍🦯‍➡	homme avec canne blanche vers la droite	-
+👨🏻‍🦯‍➡	homme avec canne blanche vers la droite	-
+👨🏼‍🦯‍➡	homme avec canne blanche vers la droite	-
+👨🏽‍🦯‍➡	homme avec canne blanche vers la droite	-
+👨🏾‍🦯‍➡	homme avec canne blanche vers la droite	-
+👨🏿‍🦯‍➡	homme avec canne blanche vers la droite	-
 👩🏻‍🦯	femme avec canne blanche  peau claire	-
 👩🏼‍🦯	femme avec canne blanche  peau moyennement claire	-
 👩🏽‍🦯	femme avec canne blanche  peau légèrement mate	-
 👩🏾‍🦯	femme avec canne blanche  peau mate	-
 👩🏿‍🦯	femme avec canne blanche  peau foncée	-
+👩‍🦯‍➡	femme avec canne blanche vers la droite	-
+👩🏻‍🦯‍➡	femme avec canne blanche vers la droite	-
+👩🏼‍🦯‍➡	femme avec canne blanche vers la droite	-
+👩🏽‍🦯‍➡	femme avec canne blanche vers la droite	-
+👩🏾‍🦯‍➡	femme avec canne blanche vers la droite	-
+👩🏿‍🦯‍➡	femme avec canne blanche vers la droite	-
 🧑🏻‍🦼	personne en fauteuil motorisé  peau claire	-
 🧑🏼‍🦼	personne en fauteuil motorisé  peau moyennement claire	-
 🧑🏽‍🦼	personne en fauteuil motorisé  peau légèrement mate	-
 🧑🏾‍🦼	personne en fauteuil motorisé  peau mate	-
 🧑🏿‍🦼	personne en fauteuil motorisé  peau foncée	-
+🧑‍🦼‍➡	personne en fauteuil motorisé vers la droite	-
+🧑🏻‍🦼‍➡	personne en fauteuil motorisé vers la droite	-
+🧑🏼‍🦼‍➡	personne en fauteuil motorisé vers la droite	-
+🧑🏽‍🦼‍➡	personne en fauteuil motorisé vers la droite	-
+🧑🏾‍🦼‍➡	personne en fauteuil motorisé vers la droite	-
+🧑🏿‍🦼‍➡	personne en fauteuil motorisé vers la droite	-
 👨🏻‍🦼	homme en fauteuil motorisé  peau claire	-
 👨🏼‍🦼	homme en fauteuil motorisé  peau moyennement claire	-
 👨🏽‍🦼	homme en fauteuil motorisé  peau légèrement mate	-
 👨🏾‍🦼	homme en fauteuil motorisé  peau mate	-
 👨🏿‍🦼	homme en fauteuil motorisé  peau foncée	-
+👨‍🦼‍➡	homme en fauteuil motorisé vers la droite	-
+👨🏻‍🦼‍➡	homme en fauteuil motorisé vers la droite	-
+👨🏼‍🦼‍➡	homme en fauteuil motorisé vers la droite	-
+👨🏽‍🦼‍➡	homme en fauteuil motorisé vers la droite	-
+👨🏾‍🦼‍➡	homme en fauteuil motorisé vers la droite	-
+👨🏿‍🦼‍➡	homme en fauteuil motorisé vers la droite	-
 👩🏻‍🦼	femme en fauteuil motorisé  peau claire	-
 👩🏼‍🦼	femme en fauteuil motorisé  peau moyennement claire	-
 👩🏽‍🦼	femme en fauteuil motorisé  peau légèrement mate	-
 👩🏾‍🦼	femme en fauteuil motorisé  peau mate	-
 👩🏿‍🦼	femme en fauteuil motorisé  peau foncée	-
+👩‍🦼‍➡	femme en fauteuil motorisé vers la droite	-
+👩🏻‍🦼‍➡	femme en fauteuil motorisé vers la droite	-
+👩🏼‍🦼‍➡	femme en fauteuil motorisé vers la droite	-
+👩🏽‍🦼‍➡	femme en fauteuil motorisé vers la droite	-
+👩🏾‍🦼‍➡	femme en fauteuil motorisé vers la droite	-
+👩🏿‍🦼‍➡	femme en fauteuil motorisé vers la droite	-
 🧑🏻‍🦽	personne en fauteuil roulant manuel  peau claire	-
 🧑🏼‍🦽	personne en fauteuil roulant manuel  peau moyennement claire	-
 🧑🏽‍🦽	personne en fauteuil roulant manuel  peau légèrement mate	-
 🧑🏾‍🦽	personne en fauteuil roulant manuel  peau mate	-
 🧑🏿‍🦽	personne en fauteuil roulant manuel  peau foncée	-
+🧑‍🦽‍➡	personne en fauteuil roulant manuel vers la droite	-
+🧑🏻‍🦽‍➡	personne en fauteuil roulant manuel vers la droite	-
+🧑🏼‍🦽‍➡	personne en fauteuil roulant manuel vers la droite	-
+🧑🏽‍🦽‍➡	personne en fauteuil roulant manuel vers la droite	-
+🧑🏾‍🦽‍➡	personne en fauteuil roulant manuel vers la droite	-
+🧑🏿‍🦽‍➡	personne en fauteuil roulant manuel vers la droite	-
 👨🏻‍🦽	homme en fauteuil roulant manuel  peau claire	-
 👨🏼‍🦽	homme en fauteuil roulant manuel  peau moyennement claire	-
 👨🏽‍🦽	homme en fauteuil roulant manuel  peau légèrement mate	-
 👨🏾‍🦽	homme en fauteuil roulant manuel  peau mate	-
 👨🏿‍🦽	homme en fauteuil roulant manuel  peau foncée	-
+👨‍🦽‍➡	homme en fauteuil roulant manuel vers la droite	-
+👨🏻‍🦽‍➡	homme en fauteuil roulant manuel vers la droite	-
+👨🏼‍🦽‍➡	homme en fauteuil roulant manuel vers la droite	-
+👨🏽‍🦽‍➡	homme en fauteuil roulant manuel vers la droite	-
+👨🏾‍🦽‍➡	homme en fauteuil roulant manuel vers la droite	-
+👨🏿‍🦽‍➡	homme en fauteuil roulant manuel vers la droite	-
 👩🏻‍🦽	femme en fauteuil roulant manuel  peau claire	-
 👩🏼‍🦽	femme en fauteuil roulant manuel  peau moyennement claire	-
 👩🏽‍🦽	femme en fauteuil roulant manuel  peau légèrement mate	-
 👩🏾‍🦽	femme en fauteuil roulant manuel  peau mate	-
 👩🏿‍🦽	femme en fauteuil roulant manuel  peau foncée	-
+👩‍🦽‍➡	femme en fauteuil roulant manuel vers la droite	-
+👩🏻‍🦽‍➡	femme en fauteuil roulant manuel vers la droite	-
+👩🏼‍🦽‍➡	femme en fauteuil roulant manuel vers la droite	-
+👩🏽‍🦽‍➡	femme en fauteuil roulant manuel vers la droite	-
+👩🏾‍🦽‍➡	femme en fauteuil roulant manuel vers la droite	-
+👩🏿‍🦽‍➡	femme en fauteuil roulant manuel vers la droite	-
 🏃🏻	personne qui court  peau claire	-
 🏃🏼	personne qui court  peau moyennement claire	-
 🏃🏽	personne qui court  peau légèrement mate	-
@@ -3367,6 +3457,24 @@ $	dollar	-
 🏃🏽‍♀	femme qui court  peau légèrement mate	-
 🏃🏾‍♀	femme qui court  peau mate	-
 🏃🏿‍♀	femme qui court  peau foncée	-
+🏃‍➡	personne qui court vers la droite	-
+🏃🏻‍➡	personne qui court vers la droite	-
+🏃🏼‍➡	personne qui court vers la droite	-
+🏃🏽‍➡	personne qui court vers la droite	-
+🏃🏾‍➡	personne qui court vers la droite	-
+🏃🏿‍➡	personne qui court vers la droite	-
+🏃‍♀‍➡	femme qui court vers la droite	-
+🏃🏻‍♀‍➡	femme qui court vers la droite	-
+🏃🏼‍♀‍➡	femme qui court vers la droite	-
+🏃🏽‍♀‍➡	femme qui court vers la droite	-
+🏃🏾‍♀‍➡	femme qui court vers la droite	-
+🏃🏿‍♀‍➡	femme qui court vers la droite	-
+🏃‍♂‍➡	homme qui court vers la droite	-
+🏃🏻‍♂‍➡	homme qui court vers la droite	-
+🏃🏼‍♂‍➡	homme qui court vers la droite	-
+🏃🏽‍♂‍➡	homme qui court vers la droite	-
+🏃🏾‍♂‍➡	homme qui court vers la droite	-
+🏃🏿‍♂‍➡	homme qui court vers la droite	-
 💃🏻	danseuse  peau claire	-
 💃🏼	danseuse  peau moyennement claire	-
 💃🏽	danseuse  peau légèrement mate	-

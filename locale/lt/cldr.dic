@@ -405,6 +405,7 @@ _	apatinė linija	-
 😪	mieguistas veidas	-
 🤤	besiseilėjantis veidas	-
 😴	miegantis veidas	-
+🫩	veidas su maišeliais po akimis	-
 😷	veidas su medicinine kauke	-
 🤒	veidas su termometru	-
 🤕	veidas su galvos tvarsčiu	-
@@ -840,6 +841,7 @@ _	apatinė linija	-
 🧑‍🧒	šeima suaugusysis, vaikas	-
 🧑‍🧒‍🧒	šeima suaugusysis, vaikas, vaikas	-
 👣	pėdsakai	-
+🫆	piršto atspaudas	-
 🦰	raudoni plaukai	-
 🦱	garbanoti plaukai	-
 🦳	žili plaukai	-
@@ -953,6 +955,11 @@ _	apatinė linija	-
 🐚	susisukusi kriauklė	-
 🪸	koralas	-
 🪼	medūza	-
+🦀	krabas	-
+🦞	omaras	-
+🦐	krevetė	-
+🦑	kalmaras	-
+🦪	austrė	-
 🐌	sraigė	-
 🦋	drugelis	-
 🐛	vabalas	-
@@ -997,6 +1004,7 @@ _	apatinė linija	-
 🪹	tuščias lizdas	-
 🪺	lizdas su kiaušiniais	-
 🍄	grybas	-
+🪾	medis be lapų	-
 🍇	vynuogės	-
 🍈	melionas	-
 🍉	arbūzas	-
@@ -1035,6 +1043,7 @@ _	apatinė linija	-
 🫚	imbiero šaknis	-
 🫛	žirnių ankštis	-
 🍄‍🟫	baravykas	-
+🫜	šakninė daržovė	-
 🍞	duona	-
 🥐	raguolis	-
 🥖	ilgas batonas	-
@@ -1086,11 +1095,6 @@ _	apatinė linija	-
 🥟	kukulis	-
 🥠	laimės sausainiukas	-
 🥡	dėžutė išsinešti	-
-🦀	krabas	-
-🦞	omaras	-
-🦐	krevetė	-
-🦑	kalmaras	-
-🦪	austrė	-
 🍦	minkšti ledai	-
 🍧	susmulkintas ledas	-
 🍨	ledai	-
@@ -1511,6 +1515,7 @@ _	apatinė linija	-
 🪘	ilgas būgnas	-
 🪇	marakasai	-
 🪈	fleita	-
+🪉	arfa	-
 📱	mobilusis telefonas	-
 📲	mobilusis telefonas su rodykle	-
 ☎	telefonas	-
@@ -1649,6 +1654,7 @@ _	apatinė linija	-
 🧰	įrankių rinkinys	-
 🧲	magnetas	-
 🪜	kopėčios	-
+🪏	kastuvas	-
 ⚗	distiliavimo indas	-
 🧪	mėgintuvėlis	-
 🧫	petri lėkštelė	-
@@ -1835,6 +1841,7 @@ _	apatinė linija	-
 ©	autorių teisės	-
 ®	užregistruota	-
 ™	prekės ženklas	-
+🫟	tiškalas	-
 🔠	įvestis didžiosios lotyniškos raidės	-
 🔡	įvestis mažosios lotyniškos raidės	-
 🔢	įvesties skaičiai	-
@@ -1934,12 +1941,12 @@ $	dolerio ženklas	-
 ₹	Indijos rupija	-
 ₽	rublis	-
 ₿	bitkoino ženklas	-
-₨	rupija	-
-﷼	rialas	-
 ¹	vienetas viršutiniame indekse	-
 ²	dvejetas viršutiniame indekse	-
 ³	trejetas viršutiniame indekse	-
+₨	rupija	-
 µ	„mikro-“ simbolis	-
+﷼	rialas	-
 👋🏻	mojuojanti ranka šviesios odos	-
 👋🏼	mojuojanti ranka vidutinio gymio	-
 👋🏽	mojuojanti ranka rusvos odos	-

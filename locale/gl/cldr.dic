@@ -139,7 +139,7 @@ _	trazo baixo	-
 ⇑	frecha dobre cara arriba	-
 ⇒	frecha dobre cara á dereita	-
 ⇏	frecha dobre cara á dereita con trazo	-
-⇓	frecha dobre cara abaixo	-
+⇓	dobre	-
 ⇔	frecha dobre cara á esquerda e cara á dereita	-
 ⇎	frecha dobre cara á esquerda e cara á dereita con trazo	-
 ⇖	frecha dobre cara ao noroeste	-
@@ -148,8 +148,8 @@ _	trazo baixo	-
 ⇙	frecha dobre cara ao suroeste	-
 ⇚	frecha tripla cara á esquerda	-
 ⇛	frecha tripla cara á dereita	-
-⇜	frecha garabateada cara á esquerda	-
-⇝	frecha garabateada cara á dereita	-
+⇜	frecha esborranchada cara á esquerda	-
+⇝	frecha esborranchada cara á dereita	-
 ⇞	frecha cara arriba con trazo dobre	-
 ⇟	frecha cara abaixo con trazo dobre	-
 ⇠	frecha descontinua cara á esquerda	-
@@ -344,7 +344,7 @@ _	trazo baixo	-
 ⩣	ou lóxico con barra inferior dobre	-
 ⩽	menor que ou igual inclinado	-
 ⪍	menor que sobre similar ou igual	-
-⪚	igual de línea dobre ou maior que	-
+⪚	igual de liña dobre ou maior que	-
 ⪺	sucede sobre non case igual a	-
 ♭	bemol	-
 ♯	díese	-
@@ -405,6 +405,7 @@ _	trazo baixo	-
 😪	cara de sono	-
 🤤	cara babexando	-
 😴	cara durmindo	-
+🫩	cara con olleiras	-
 😷	cara con máscara médica	-
 🤒	cara con termómetro	-
 🤕	cara coa cabeza vendada	-
@@ -456,7 +457,7 @@ _	trazo baixo	-
 😈	cara de demo riseiro	-
 👿	cara de demo	-
 💀	caveira	-
-☠	caveira e osos	-
+☠	caveira e ósos	-
 💩	caca	-
 🤡	cara de pallaso	-
 👹	ogro xaponés	-
@@ -840,6 +841,7 @@ _	trazo baixo	-
 🧑‍🧒	familia adulto, neno	-
 🧑‍🧒‍🧒	familia adulto, neno, neno	-
 👣	pegadas de pés	-
+🫆	impresión dixital	-
 🦰	pelo roxo	-
 🦱	pelo rizado	-
 🦳	pelo cano	-
@@ -953,6 +955,11 @@ _	trazo baixo	-
 🐚	bucina mariña	-
 🪸	coral	-
 🪼	medusa	-
+🦀	caranguexo	-
+🦞	lagosta	-
+🦐	gamba	-
+🦑	lura	-
+🦪	ostra	-
 🐌	caracol	-
 🦋	bolboreta	-
 🐛	cempés	-
@@ -997,6 +1004,7 @@ _	trazo baixo	-
 🪹	niño baleiro	-
 🪺	niño con ovos	-
 🍄	cogomelo	-
+🪾	árbore sen follas	-
 🍇	uvas	-
 🍈	melón	-
 🍉	sandía	-
@@ -1035,6 +1043,7 @@ _	trazo baixo	-
 🫚	xenxibre	-
 🫛	vaíña	-
 🍄‍🟫	cogomelo marrón	-
+🫜	tubérculo	-
 🍞	pan de molde	-
 🥐	croissant	-
 🥖	barra de pan	-
@@ -1071,7 +1080,7 @@ _	trazo baixo	-
 🥫	lata de comida	-
 🍱	caixa de bento	-
 🍘	galleta de arroz	-
-🍙	bola de arroz	-
+🍙	bóla de arroz	-
 🍚	cunca de arroz	-
 🍛	arroz con curry	-
 🍜	fideos chineses	-
@@ -1086,11 +1095,6 @@ _	trazo baixo	-
 🥟	dumpling	-
 🥠	galleta da fortuna	-
 🥡	comida para levar	-
-🦀	caranguexo	-
-🦞	lagosta	-
-🦐	gamba	-
-🦑	lura	-
-🦪	ostra	-
 🍦	xeado de máquina	-
 🍧	sobremesa de xeo picado	-
 🍨	copa de xeado	-
@@ -1358,7 +1362,7 @@ _	trazo baixo	-
 ✨	chispas	-
 🎈	globo	-
 🎉	lanzador de confeti	-
-🎊	bola de confeti	-
+🎊	bóla de confeti	-
 🎋	árbore dos desexos de Tanabata	-
 🎍	decoración con bambú	-
 🎎	bonecas xaponesas	-
@@ -1409,7 +1413,7 @@ _	trazo baixo	-
 🪁	papaventos	-
 🔫	pistola de auga	-
 🎱	billar	-
-🔮	bola de cristal	-
+🔮	bóla de cristal	-
 🪄	variña máxica	-
 🎮	videoxogo	-
 🕹	panca de control	-
@@ -1418,7 +1422,7 @@ _	trazo baixo	-
 🧩	crebacabezas	-
 🧸	osiño	-
 🪅	piñata	-
-🪩	bola de discoteca	-
+🪩	bóla de discoteca	-
 🪆	bonecas rusas	-
 ♠	picas	-
 ♥	corazóns	-
@@ -1511,6 +1515,7 @@ _	trazo baixo	-
 🪘	tambor alto	-
 🪇	maracas	-
 🪈	frauta	-
+🪉	arpa	-
 📱	teléfono móbil	-
 📲	teléfono móbil con frecha	-
 ☎	teléfono	-
@@ -1525,7 +1530,7 @@ _	trazo baixo	-
 🖨	impresora	-
 ⌨	teclado	-
 🖱	rato de ordenador	-
-🖲	rato de bola	-
+🖲	rato de bóla	-
 💽	minidisc	-
 💾	disquete	-
 💿	CD	-
@@ -1649,6 +1654,7 @@ _	trazo baixo	-
 🧰	caixa de ferramentas	-
 🧲	imán	-
 🪜	escada	-
+🪏	pa	-
 ⚗	alambique	-
 🧪	tubo de ensaio	-
 🧫	placa de Petri	-
@@ -1835,6 +1841,7 @@ _	trazo baixo	-
 ©	copyright	-
 ®	marca rexistrada “R”	-
 ™	marca rexistrada “TM”	-
+🫟	salpicadura	-
 🔠	letras en maiúscula	-
 🔡	letras en minúscula	-
 🔢	números	-
@@ -1934,12 +1941,12 @@ $	dólar	-
 ₹	rupia india	-
 ₽	rublo	-
 ₿	bitcoin	-
-₨	rupia	-
-﷼	rial	-
 ¹	un en superíndice	-
 ²	dous en superíndice	-
 ³	tres en superíndice	-
+₨	rupia	-
 µ	signo de micro	-
+﷼	rial	-
 👋🏻	man saudando ton de pel moi claro	-
 👋🏼	man saudando ton de pel claro	-
 👋🏽	man saudando ton de pel medio	-
@@ -3881,15 +3888,15 @@ $	dólar	-
 🔟	tecla 10	-
 🇦🇨	bandeira Illa de Ascensión	-
 🇦🇩	bandeira Andorra	-
-🇦🇪	bandeira Os Emiratos Árabes Unidos	-
+🇦🇪	bandeira Emiratos Árabes Unidos	-
 🇦🇫	bandeira Afganistán	-
 🇦🇬	bandeira Antigua e Barbuda	-
 🇦🇮	bandeira Anguila	-
 🇦🇱	bandeira Albania	-
 🇦🇲	bandeira Armenia	-
 🇦🇴	bandeira Angola	-
-🇦🇶	bandeira A Antártida	-
-🇦🇷	bandeira A Arxentina	-
+🇦🇶	bandeira Antártida	-
+🇦🇷	bandeira Arxentina	-
 🇦🇸	bandeira Samoa Americana	-
 🇦🇹	bandeira Austria	-
 🇦🇺	bandeira Australia	-
@@ -3910,14 +3917,14 @@ $	dólar	-
 🇧🇳	bandeira Brunei	-
 🇧🇴	bandeira Bolivia	-
 🇧🇶	bandeira Caribe Neerlandés	-
-🇧🇷	bandeira O Brasil	-
+🇧🇷	bandeira Brasil	-
 🇧🇸	bandeira Bahamas	-
 🇧🇹	bandeira Bután	-
 🇧🇻	bandeira Illa Bouvet	-
 🇧🇼	bandeira Botswana	-
 🇧🇾	bandeira Belarús	-
 🇧🇿	bandeira Belize	-
-🇨🇦	bandeira O Canadá	-
+🇨🇦	bandeira Canadá	-
 🇨🇨	bandeira Illas Cocos (Keeling)	-
 🇨🇩	bandeira República Democrática do Congo	-
 🇨🇫	bandeira República Centroafricana	-
@@ -3927,7 +3934,7 @@ $	dólar	-
 🇨🇰	bandeira Illas Cook	-
 🇨🇱	bandeira Chile	-
 🇨🇲	bandeira Camerún	-
-🇨🇳	bandeira A China	-
+🇨🇳	bandeira China	-
 🇨🇴	bandeira Colombia	-
 🇨🇵	bandeira Illa Clipperton	-
 🇨🇷	bandeira Costa Rica	-
@@ -3948,7 +3955,7 @@ $	dólar	-
 🇪🇨	bandeira Ecuador	-
 🇪🇪	bandeira Estonia	-
 🇪🇬	bandeira Exipto	-
-🇪🇭	bandeira O Sáhara Occidental	-
+🇪🇭	bandeira Sáhara Occidental	-
 🇪🇷	bandeira Eritrea	-
 🇪🇸	bandeira España	-
 🇪🇹	bandeira Etiopía	-
@@ -3960,7 +3967,7 @@ $	dólar	-
 🇫🇴	bandeira Illas Feroe	-
 🇫🇷	bandeira Francia	-
 🇬🇦	bandeira Gabón	-
-🇬🇧	bandeira O Reino Unido	-
+🇬🇧	bandeira Reino Unido	-
 🇬🇩	bandeira Granada	-
 🇬🇪	bandeira Xeorxia	-
 🇬🇫	bandeira Güiana Francesa	-
@@ -3976,7 +3983,7 @@ $	dólar	-
 🇬🇸	bandeira Illas Xeorxia do Sur e Sandwich do Sur	-
 🇬🇹	bandeira Guatemala	-
 🇬🇺	bandeira Guam	-
-🇬🇼	bandeira A Guinea Bissau	-
+🇬🇼	bandeira Guinea Bissau	-
 🇬🇾	bandeira Güiana	-
 🇭🇰	bandeira Hong Kong RAE da China	-
 🇭🇲	bandeira Illa Heard e Illas McDonald	-
@@ -3989,7 +3996,7 @@ $	dólar	-
 🇮🇪	bandeira Irlanda	-
 🇮🇱	bandeira Israel	-
 🇮🇲	bandeira Illa de Man	-
-🇮🇳	bandeira A India	-
+🇮🇳	bandeira India	-
 🇮🇴	bandeira Territorio Británico do Océano Índico	-
 🇮🇶	bandeira Iraq	-
 🇮🇷	bandeira Irán	-
@@ -3998,7 +4005,7 @@ $	dólar	-
 🇯🇪	bandeira Jersey	-
 🇯🇲	bandeira Xamaica	-
 🇯🇴	bandeira Xordania	-
-🇯🇵	bandeira O Xapón	-
+🇯🇵	bandeira Xapón	-
 🇰🇪	bandeira Kenya	-
 🇰🇬	bandeira Kirguizistán	-
 🇰🇭	bandeira Camboxa	-
@@ -4011,7 +4018,7 @@ $	dólar	-
 🇰🇾	bandeira Illas Caimán	-
 🇰🇿	bandeira Kazakistán	-
 🇱🇦	bandeira Laos	-
-🇱🇧	bandeira O Líbano	-
+🇱🇧	bandeira Líbano	-
 🇱🇨	bandeira Santa Lucía	-
 🇱🇮	bandeira Liechtenstein	-
 🇱🇰	bandeira Sri Lanka	-
@@ -4058,8 +4065,8 @@ $	dólar	-
 🇳🇿	bandeira Nova Zelandia	-
 🇴🇲	bandeira Omán	-
 🇵🇦	bandeira Panamá	-
-🇵🇪	bandeira O Perú	-
-🇵🇫	bandeira A Polinesia Francesa	-
+🇵🇪	bandeira Perú	-
+🇵🇫	bandeira Polinesia Francesa	-
 🇵🇬	bandeira Papúa-Nova Guinea	-
 🇵🇭	bandeira Filipinas	-
 🇵🇰	bandeira Paquistán	-
@@ -4070,7 +4077,7 @@ $	dólar	-
 🇵🇸	bandeira Territorios Palestinos	-
 🇵🇹	bandeira Portugal	-
 🇵🇼	bandeira Palau	-
-🇵🇾	bandeira O Paraguai	-
+🇵🇾	bandeira Paraguai	-
 🇶🇦	bandeira Qatar	-
 🇷🇪	bandeira Reunión	-
 🇷🇴	bandeira Romanía	-
@@ -4080,7 +4087,7 @@ $	dólar	-
 🇸🇦	bandeira Arabia Saudita	-
 🇸🇧	bandeira Illas Salomón	-
 🇸🇨	bandeira Seychelles	-
-🇸🇩	bandeira O Sudán	-
+🇸🇩	bandeira Sudán	-
 🇸🇪	bandeira Suecia	-
 🇸🇬	bandeira Singapur	-
 🇸🇭	bandeira Santa Helena	-
@@ -4092,7 +4099,7 @@ $	dólar	-
 🇸🇳	bandeira Senegal	-
 🇸🇴	bandeira Somalia	-
 🇸🇷	bandeira Suriname	-
-🇸🇸	bandeira O Sudán do Sur	-
+🇸🇸	bandeira Sudán do Sur	-
 🇸🇹	bandeira San Tomé e Príncipe	-
 🇸🇻	bandeira O Salvador	-
 🇸🇽	bandeira Sint Maarten	-
@@ -4119,8 +4126,8 @@ $	dólar	-
 🇺🇬	bandeira Uganda	-
 🇺🇲	bandeira Illas Menores Distantes dos Estados Unidos	-
 🇺🇳	bandeira Nacións Unidas	-
-🇺🇸	bandeira Os Estados Unidos	-
-🇺🇾	bandeira O Uruguai	-
+🇺🇸	bandeira Estados Unidos	-
+🇺🇾	bandeira Uruguai	-
 🇺🇿	bandeira Uzbekistán	-
 🇻🇦	bandeira Cidade do Vaticano	-
 🇻🇨	bandeira San Vicente e as Granadinas	-
@@ -4132,7 +4139,7 @@ $	dólar	-
 🇼🇫	bandeira Wallis e Futuna	-
 🇼🇸	bandeira Samoa	-
 🇽🇰	bandeira Kosovo	-
-🇾🇪	bandeira O Iemen	-
+🇾🇪	bandeira Iemen	-
 🇾🇹	bandeira Mayotte	-
 🇿🇦	bandeira Suráfrica	-
 🇿🇲	bandeira Zambia	-

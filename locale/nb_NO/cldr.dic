@@ -405,6 +405,7 @@ _	understrek	-
 😪	søvnig	-
 🤤	sikler	-
 😴	sover	-
+🫩	fjes med poser under øynene	-
 😷	fjes med munnbind	-
 🤒	fjes med termometer	-
 🤕	bandasjert hode	-
@@ -840,6 +841,7 @@ _	understrek	-
 🧑‍🧒	familie voksen, barn	-
 🧑‍🧒‍🧒	familie voksen, barn, barn	-
 👣	fotavtrykk	-
+🫆	fingeravtrykk	-
 🦰	rødt hår	-
 🦱	kruset hår	-
 🦳	grått hår	-
@@ -953,6 +955,11 @@ _	understrek	-
 🐚	spiralskjell	-
 🪸	korall	-
 🪼	manet	-
+🦀	krabbe	-
+🦞	hummer	-
+🦐	reke	-
+🦑	akkar	-
+🦪	østers	-
 🐌	snegle	-
 🦋	sommerfugl	-
 🐛	insekt	-
@@ -997,8 +1004,9 @@ _	understrek	-
 🪹	tomt rede	-
 🪺	rede med egg	-
 🍄	sopp	-
+🪾	bladløst tre	-
 🍇	druer	-
-🍈	honningmelon	-
+🍈	melon	-
 🍉	vannmelon	-
 🍊	mandarin	-
 🍋	sitron	-
@@ -1035,6 +1043,7 @@ _	understrek	-
 🫚	ingefærrot	-
 🫛	ertebelg	-
 🍄‍🟫	brun sopp	-
+🫜	rotgrønnsak	-
 🍞	brød	-
 🥐	croissant	-
 🥖	bagett	-
@@ -1086,11 +1095,6 @@ _	understrek	-
 🥟	dumpling	-
 🥠	lykkekake	-
 🥡	takeaway-eske	-
-🦀	krabbe	-
-🦞	hummer	-
-🦐	reke	-
-🦑	akkar	-
-🦪	østers	-
 🍦	soft-is	-
 🍧	slush-is	-
 🍨	iskrem	-
@@ -1511,6 +1515,7 @@ _	understrek	-
 🪘	langtromme	-
 🪇	marakas	-
 🪈	fløyte	-
+🪉	harpe	-
 📱	mobiltelefon	-
 📲	mobiltelefon med pil	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	understrek	-
 🧰	verktøykasse	-
 🧲	magnet	-
 🪜	stige	-
+🪏	spade	-
 ⚗	destillerkolbe	-
 🧪	prøverør	-
 🧫	petriskål	-
@@ -1835,6 +1841,7 @@ _	understrek	-
 ©	opphavsrett	-
 ®	registrert varemerke	-
 ™	varemerke	-
+🫟	sprut	-
 🔠	store bokstaver	-
 🔡	små bokstaver	-
 🔢	tall	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	indiske rupi	-
 ₽	rubler	-
 ₿	bitcoin	-
-₨	rupi	-
-﷼	rial	-
 ¹	hevet ettall	-
 ²	hevet totall	-
 ³	hevet tretall	-
+₨	rupi	-
 µ	mikrotegn	-
+﷼	rial	-
 👋🏻	vinkende hånd hudtype 1–2	-
 👋🏼	vinkende hånd hudtype 3	-
 👋🏽	vinkende hånd hudtype 4	-
@@ -3930,6 +3937,7 @@ $	dollar	-
 🇨🇳	flagg Kina	-
 🇨🇴	flagg Colombia	-
 🇨🇵	flagg Clippertonøya	-
+🇨🇶	flagg Sark	-
 🇨🇷	flagg Costa Rica	-
 🇨🇺	flagg Cuba	-
 🇨🇻	flagg Kapp Verde	-

@@ -405,6 +405,7 @@ _	underscore	-
 😪	slaperig gezicht	-
 🤤	kwijlend gezicht	-
 😴	slapend gezicht	-
+🫩	gezicht met wallen onder de ogen	-
 😷	gezicht met doktersmasker	-
 🤒	gezicht met thermometer	-
 🤕	gezicht met een verband om het hoofd	-
@@ -840,6 +841,7 @@ _	underscore	-
 🧑‍🧒	gezin volwassene, kind	-
 🧑‍🧒‍🧒	gezin volwassene, kind, kind	-
 👣	voetafdrukken	-
+🫆	vingerafdruk	-
 🦰	rood haar	-
 🦱	krullend haar	-
 🦳	wit haar	-
@@ -953,6 +955,11 @@ _	underscore	-
 🐚	schelp	-
 🪸	koraal	-
 🪼	kwal	-
+🦀	krab	-
+🦞	kreeft	-
+🦐	garnaal	-
+🦑	inktvis	-
+🦪	oester	-
 🐌	slak	-
 🦋	vlinder	-
 🐛	insect	-
@@ -997,6 +1004,7 @@ _	underscore	-
 🪹	leeg nest	-
 🪺	nest met eieren	-
 🍄	paddenstoel	-
+🪾	boom zonder bladeren	-
 🍇	druiven	-
 🍈	meloen	-
 🍉	watermeloen	-
@@ -1035,6 +1043,7 @@ _	underscore	-
 🫚	gemberwortel	-
 🫛	erwtendop	-
 🍄‍🟫	bruine paddestoel	-
+🫜	knol	-
 🍞	brood	-
 🥐	croissant	-
 🥖	stokbrood	-
@@ -1086,11 +1095,6 @@ _	underscore	-
 🥟	knoedel	-
 🥠	gelukskoekje	-
 🥡	afhaalmaaltijd	-
-🦀	krab	-
-🦞	kreeft	-
-🦐	garnaal	-
-🦑	inktvis	-
-🦪	oester	-
 🍦	softijs	-
 🍧	geschaafd ijs	-
 🍨	ijs	-
@@ -1511,6 +1515,7 @@ _	underscore	-
 🪘	hoge trom	-
 🪇	sambaballen	-
 🪈	fluit	-
+🪉	harp	-
 📱	mobiele telefoon	-
 📲	mobiel met pijl	-
 ☎	telefoon	-
@@ -1649,6 +1654,7 @@ _	underscore	-
 🧰	gereedschapskist	-
 🧲	magneet	-
 🪜	ladder	-
+🪏	schop	-
 ⚗	distilleerkolf	-
 🧪	reageerbuis	-
 🧫	petrischaal	-
@@ -1835,6 +1841,7 @@ _	underscore	-
 ©	copyright	-
 ®	gedeponeerd	-
 ™	handelsmerksymbool	-
+🫟	Gespat	-
 🔠	hoofdletters	-
 🔡	kleine letters	-
 🔢	cijfers	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	Indiase roepie	-
 ₽	roebel	-
 ₿	bitcoin	-
-₨	roepie	-
-﷼	rial	-
 ¹	superscript één	-
 ²	superscript twee	-
 ³	superscript drie	-
+₨	roepie	-
 µ	mu	-
+﷼	rial	-
 👋🏻	zwaaiende hand lichte huidskleur	-
 👋🏼	zwaaiende hand lichtgetinte huidskleur	-
 👋🏽	zwaaiende hand getinte huidskleur	-
@@ -3930,6 +3937,7 @@ $	dollar	-
 🇨🇳	vlag China	-
 🇨🇴	vlag Colombia	-
 🇨🇵	vlag Clipperton	-
+🇨🇶	vlag Sark	-
 🇨🇷	vlag Costa Rica	-
 🇨🇺	vlag Cuba	-
 🇨🇻	vlag Kaapverdië	-

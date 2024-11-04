@@ -172,7 +172,7 @@ _	underscore	-
 ∇	nabla	-
 ∈	element al	-
 ∉	nu aparține lui	-
-∋	include	-
+∋	include ca element	-
 ∎	sfârșitul demonstrației	-
 ∏	produs cartezian	-
 ∑	sumă peste	-
@@ -238,8 +238,8 @@ _	underscore	-
 ⊁	nu succedă	-
 ⊂	submulțime a	-
 ⊃	este o supramulțime pentru	-
-⊆	este o submulțime egală cu	-
-⊇	este o supramulțime egală cu	-
+⊆	este o submulțime pentru sau egală cu	-
+⊇	este o supramulțime pentru sau egală cu	-
 ⊕	plus încercuit	-
 ⊖	minus încercuit	-
 ⊗	ori încercuit	-
@@ -255,7 +255,7 @@ _	underscore	-
 ⊱	succedă sub relație	-
 ⋭	nu conține ca submulțime normală pe sau este egală cu	-
 ⊶	original	-
-⊹	matrice hermiteană conjugată	-
+⊹	matrice hermitic conjugată	-
 ⊿	triunghi dreptunghic	-
 ⋁	sau logic n-ar	-
 ⋂	intersecție n-ară	-
@@ -330,7 +330,7 @@ _	underscore	-
 ◡	semicerc inferior	-
 ◢	triunghi umplut cu unghi drept în dreapta jos	-
 ◣	triunghi umplut cu unghi drept în stânga jos	-
-◤	triunghi umplut stânga sus	-
+◤	triunghi umplut cu unghi drept în stânga sus	-
 ◥	triunghi umplut cu unghi drept în dreapta sus	-
 ◦	marcator gol	-
 ◯	cerc gol mare	-
@@ -405,6 +405,7 @@ _	underscore	-
 😪	față somnoroasă	-
 🤤	față care salivează	-
 😴	față adormită	-
+🫩	față cu cearcăne	-
 😷	față cu mască medicală	-
 🤒	față cu termometru	-
 🤕	față cu capul bandajat	-
@@ -766,7 +767,7 @@ _	underscore	-
 🏃‍♀	femeie care aleargă	-
 💃	dansatoare	-
 🕺	dansator	-
-🕴	bărbat la costum, levitând	-
+🕴	persoană în costum, levitând	-
 👯	persoane care poartă urechi de iepuraș	-
 👯‍♂	bărbați care poartă urechi de iepuraș	-
 👯‍♀	femei care poartă urechi de iepuraș	-
@@ -840,6 +841,7 @@ _	underscore	-
 🧑‍🧒	familie adult, copil	-
 🧑‍🧒‍🧒	familie adult, copil, copil	-
 👣	urme de pași	-
+🫆	amprentă	-
 🦰	păr roșcat	-
 🦱	păr creț	-
 🦳	păr alb	-
@@ -953,6 +955,11 @@ _	underscore	-
 🐚	cochilie spiralată	-
 🪸	coral	-
 🪼	meduză	-
+🦀	rac	-
+🦞	homar	-
+🦐	crevete	-
+🦑	calmar	-
+🦪	stridie	-
 🐌	melc	-
 🦋	fluture	-
 🐛	gândac	-
@@ -997,6 +1004,7 @@ _	underscore	-
 🪹	cuib gol	-
 🪺	cuib cu ouă	-
 🍄	ciupercă	-
+🪾	copac desfrunzit	-
 🍇	struguri	-
 🍈	pepene galben	-
 🍉	pepene verde	-
@@ -1035,6 +1043,7 @@ _	underscore	-
 🫚	rădăcină de ghimbir	-
 🫛	păstaie de mazăre	-
 🍄‍🟫	ciupercă maro	-
+🫜	legumă rădăcinoasă	-
 🍞	pâine	-
 🥐	croasant	-
 🥖	baghetă de pâine	-
@@ -1065,7 +1074,7 @@ _	underscore	-
 🫕	fondue	-
 🥣	castron cu lingură	-
 🥗	salată verde	-
-🍿	floricele de porumb	-
+🍿	popcorn	-
 🧈	unt	-
 🧂	sare	-
 🥫	mâncare la conservă	-
@@ -1086,11 +1095,6 @@ _	underscore	-
 🥟	găluște chinezești	-
 🥠	prăjiturele cu răvaș	-
 🥡	mâncare la pachet	-
-🦀	rac	-
-🦞	homar	-
-🦐	crevete	-
-🦑	calmar	-
-🦪	stridie	-
 🍦	înghețată cremă	-
 🍧	desert din fulgi de gheață	-
 🍨	înghețată	-
@@ -1511,6 +1515,7 @@ _	underscore	-
 🪘	tobă înaltă	-
 🪇	maracas	-
 🪈	flaut	-
+🪉	harpă	-
 📱	telefon mobil	-
 📲	telefon mobil cu săgeată	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	underscore	-
 🧰	trusă de scule	-
 🧲	magnet	-
 🪜	scară	-
+🪏	lopată	-
 ⚗	alambic	-
 🧪	eprubetă	-
 🧫	vas Petri	-
@@ -1835,6 +1841,7 @@ _	underscore	-
 ©	drepturi de autor	-
 ®	marcă înregistrată	-
 ™	marcă comercială	-
+🫟	împroșcare	-
 🔠	introducere majuscule latine	-
 🔡	introducere minuscule latine	-
 🔢	introducere numere	-
@@ -1934,12 +1941,12 @@ $	dolar	-
 ₹	rupie indiană	-
 ₽	rublă	-
 ₿	bitcoin	-
-₨	rupie	-
-﷼	rial	-
 ¹	exponent unu	-
 ²	exponent doi	-
 ³	exponent trei	-
+₨	rupie	-
 µ	semnul micro	-
+﷼	rial	-
 👋🏻	mână fluturată ton deschis al pielii	-
 👋🏼	mână fluturată ton semi‑deschis al pielii	-
 👋🏽	mână fluturată ton mediu al pielii	-
@@ -3485,11 +3492,11 @@ $	dolar	-
 🕺🏽	dansator ton mediu al pielii	-
 🕺🏾	dansator ton semi‑închis al pielii	-
 🕺🏿	dansator ton închis al pielii	-
-🕴🏻	bărbat la costum, levitând ton deschis al pielii	-
-🕴🏼	bărbat la costum, levitând ton semi‑deschis al pielii	-
-🕴🏽	bărbat la costum, levitând ton mediu al pielii	-
-🕴🏾	bărbat la costum, levitând ton semi‑închis al pielii	-
-🕴🏿	bărbat la costum, levitând ton închis al pielii	-
+🕴🏻	persoană în costum, levitând ton deschis al pielii	-
+🕴🏼	persoană în costum, levitând ton semi‑deschis al pielii	-
+🕴🏽	persoană în costum, levitând ton mediu al pielii	-
+🕴🏾	persoană în costum, levitând ton semi‑închis al pielii	-
+🕴🏿	persoană în costum, levitând ton închis al pielii	-
 🧖🏻	persoană în saună ton deschis al pielii	-
 🧖🏼	persoană în saună ton semi‑deschis al pielii	-
 🧖🏽	persoană în saună ton mediu al pielii	-

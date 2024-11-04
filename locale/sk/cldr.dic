@@ -405,6 +405,7 @@ _	podčiarkovník	-
 😪	ospalá tvár	-
 🤤	slintajúca tvár	-
 😴	spiaca tvár	-
+🫩	tvár s kruhmi pod očami	-
 😷	tvár s rúškom	-
 🤒	tvár s teplomerom	-
 🤕	tvár s obväzom	-
@@ -840,6 +841,7 @@ _	podčiarkovník	-
 🧑‍🧒	rodina dospelý, dieťa	-
 🧑‍🧒‍🧒	rodina dospelý, dieťa, dieťa	-
 👣	stopy	-
+🫆	odtlačok prsta	-
 🦰	ryšavé vlasy	-
 🦱	kučeravé vlasy	-
 🦳	sivé vlasy	-
@@ -953,6 +955,11 @@ _	podčiarkovník	-
 🐚	špirálovitá mušľa	-
 🪸	koral	-
 🪼	medúza	-
+🦀	krab	-
+🦞	homár	-
+🦐	kreveta	-
+🦑	kalmár	-
+🦪	ustrica	-
 🐌	slimák	-
 🦋	motýľ	-
 🐛	húsenica	-
@@ -997,6 +1004,7 @@ _	podčiarkovník	-
 🪹	prázdne hniezdo	-
 🪺	hniezdo s vajcami	-
 🍄	huba	-
+🪾	strom bez listov	-
 🍇	hrozno	-
 🍈	cukrový melón	-
 🍉	melón	-
@@ -1035,6 +1043,7 @@ _	podčiarkovník	-
 🫚	koreň ďumbiera	-
 🫛	hrachový struk	-
 🍄‍🟫	hnedý hríb	-
+🫜	koreňová zelenina	-
 🍞	chlieb	-
 🥐	croissant	-
 🥖	bageta	-
@@ -1086,11 +1095,6 @@ _	podčiarkovník	-
 🥟	knedlička	-
 🥠	sušienka s predpoveďou	-
 🥡	rýchle občerstvenie	-
-🦀	krab	-
-🦞	homár	-
-🦐	kreveta	-
-🦑	kalmár	-
-🦪	ustrica	-
 🍦	točená zmrzlina	-
 🍧	mrazená dreň	-
 🍨	zmrzlina	-
@@ -1511,6 +1515,7 @@ _	podčiarkovník	-
 🪘	kongo	-
 🪇	rumbagule	-
 🪈	píšťalka	-
+🪉	harfa	-
 📱	mobil	-
 📲	mobil so šípkou	-
 ☎	telefón	-
@@ -1649,10 +1654,11 @@ _	podčiarkovník	-
 🧰	kufrík na náradie	-
 🧲	magnet	-
 🪜	rebrík	-
+🪏	lopata	-
 ⚗	krivuľa	-
 🧪	skúmavka	-
 🧫	Petriho miska	-
-🧬	skrutkovica	-
+🧬	dna	-
 🔬	mikroskop	-
 🔭	ďalekohľad	-
 📡	satelitná anténa	-
@@ -1676,7 +1682,7 @@ _	podčiarkovník	-
 🛁	vaňa	-
 🪤	pasca na myši	-
 🪒	britva	-
-🧴	vodička	-
+🧴	fľaštička krému	-
 🧷	spínací špendlík	-
 🧹	metla	-
 🧺	kôš	-
@@ -1720,7 +1726,7 @@ _	podčiarkovník	-
 🚱	nepitná voda	-
 🚷	zákaz chodcov	-
 📵	zákaz mobilov	-
-🔞	zákaz vstupu osobám mladším ako osemnásť rokov	-
+🔞	zákaz vstupu do osemnásť rokov	-
 ☢	rádioaktivita	-
 ☣	biologické riziko	-
 ⬆	šípka nahor	-
@@ -1739,7 +1745,7 @@ _	podčiarkovník	-
 ⤴	šípka doprava zakrivená nahor	-
 ⤵	šípka doprava zakrivená nadol	-
 🔃	zvislé šípky v smere hodinových ručičiek	-
-🔄	tlačidlo so šípkami proti smeru hodinových ručičiek	-
+🔄	šípky proti smeru hodinových ručičiek	-
 🔙	šípka BACK	-
 🔚	šípka END	-
 🔛	šípka ON!	-
@@ -1835,6 +1841,7 @@ _	podčiarkovník	-
 ©	copyright	-
 ®	registrovaná známka	-
 ™	obchodná známka	-
+🫟	machuľa	-
 🔠	zadávanie veľkých písmen latinky	-
 🔡	zadávanie malých písmen latinky	-
 🔢	zadávanie čísel	-
@@ -1934,12 +1941,12 @@ $	dolár	-
 ₹	indická rupia	-
 ₽	rubeľ	-
 ₿	bitcoin	-
-₨	rupia	-
-﷼	rial	-
 ¹	jedna horný index	-
 ²	dva horný index	-
 ³	tri horný index	-
+₨	rupia	-
 µ	znak mikro	-
+﷼	rial	-
 👋🏻	mávajúca ruka svetlý tón pleti	-
 👋🏼	mávajúca ruka stredne svetlý tón pleti	-
 👋🏽	mávajúca ruka stredný tón pleti	-

@@ -405,6 +405,7 @@ _	ratlla baixa	-
 😪	cara de son	-
 🤤	cara que baveja	-
 😴	cara de dormir	-
+🫩	cara ullerosa	-
 😷	cara amb mascareta	-
 🤒	cara amb termòmetre	-
 🤕	cara amb el cap embenat	-
@@ -457,10 +458,10 @@ _	ratlla baixa	-
 👿	cara enfadada amb banyes	-
 💀	crani	-
 ☠	crani amb ossos	-
-💩	caca	-
+💩	caca amb ulls	-
 🤡	cara de pallasso	-
-👹	ogre	-
-👺	follet	-
+👹	ogre japonès	-
+👺	follet japonès	-
 👻	fantasma	-
 👽	alienígena	-
 👾	monstre alienígena	-
@@ -635,9 +636,9 @@ _	ratlla baixa	-
 🧑‍⚖	jutge	-
 👨‍⚖	home jutge	-
 👩‍⚖	jutgessa	-
-🧑‍🌾	pagès	-
+🧑‍🌾	agricultor	-
 👨‍🌾	home pagès	-
-👩‍🌾	pagesa	-
+👩‍🌾	agricultora	-
 🧑‍🍳	cuiner	-
 👨‍🍳	home cuiner	-
 👩‍🍳	cuinera	-
@@ -738,8 +739,8 @@ _	ratlla baixa	-
 🧟‍♀	dona zombi	-
 🧌	trol	-
 💆	persona que rep un massatge al cap	-
-💆‍♂	massatge facial a un home	-
-💆‍♀	massatge facial a una dona	-
+💆‍♂	home que rep un massatge al cap	-
+💆‍♀	dona que rep un massatge al cap	-
 💇	persona que es talla els cabells	-
 💇‍♂	home que es talla els cabells	-
 💇‍♀	dona que es talla els cabells	-
@@ -840,6 +841,7 @@ _	ratlla baixa	-
 🧑‍🧒	família adult, infant	-
 🧑‍🧒‍🧒	família adult, infant, infant	-
 👣	petjades	-
+🫆	empremta dactilar	-
 🦰	cabells vermells	-
 🦱	cabells arrissats	-
 🦳	cabells blancs	-
@@ -953,6 +955,11 @@ _	ratlla baixa	-
 🐚	cargol de mar	-
 🪸	corall	-
 🪼	medusa	-
+🦀	cranc	-
+🦞	llagosta	-
+🦐	gamba	-
+🦑	calamar	-
+🦪	ostra	-
 🐌	cargol	-
 🦋	papallona	-
 🐛	eruga	-
@@ -997,6 +1004,7 @@ _	ratlla baixa	-
 🪹	niu buit	-
 🪺	niu amb ous	-
 🍄	bolet	-
+🪾	arbre sense fulles	-
 🍇	raïm	-
 🍈	meló	-
 🍉	síndria	-
@@ -1023,7 +1031,7 @@ _	ratlla baixa	-
 🥕	pastanaga	-
 🌽	panotxa	-
 🌶	bitxo	-
-🫑	pebrot vermell	-
+🫑	pebrot verd	-
 🥒	cogombre	-
 🥬	fulla verda	-
 🥦	bròcoli	-
@@ -1035,6 +1043,7 @@ _	ratlla baixa	-
 🫚	arrel de gingebre	-
 🫛	beina de pèsol	-
 🍄‍🟫	bolet marró	-
+🫜	tubercle	-
 🍞	pa	-
 🥐	croissant	-
 🥖	baguet	-
@@ -1086,11 +1095,6 @@ _	ratlla baixa	-
 🥟	cresta xinesa	-
 🥠	galeta de la sort	-
 🥡	menjar per emportar	-
-🦀	cranc	-
-🦞	llagosta	-
-🦐	gamba	-
-🦑	calamar	-
-🦪	ostra	-
 🍦	gelat de màquina	-
 🍧	granissat	-
 🍨	gelat	-
@@ -1511,6 +1515,7 @@ _	ratlla baixa	-
 🪘	conga	-
 🪇	maraques	-
 🪈	flauta	-
+🪉	arpa	-
 📱	telèfon mòbil	-
 📲	telèfon mòbil amb fletxa	-
 ☎	telèfon	-
@@ -1649,6 +1654,7 @@ _	ratlla baixa	-
 🧰	caixa d’eines	-
 🧲	imant	-
 🪜	escala de mà	-
+🪏	pala	-
 ⚗	alambí	-
 🧪	tub d’assaig	-
 🧫	placa de Petri	-
@@ -1675,7 +1681,7 @@ _	ratlla baixa	-
 🚿	dutxa	-
 🛁	banyera	-
 🪤	ratera	-
-🪒	navalla d’afaitar	-
+🪒	maquineta d’afaitar	-
 🧴	ampolla de crema	-
 🧷	imperdible	-
 🧹	escombra	-
@@ -1835,6 +1841,7 @@ _	ratlla baixa	-
 ©	drets d’autor	-
 ®	marca registrada	-
 ™	marca comercial	-
+🫟	esquitx	-
 🔠	botó de lletres llatines en majúscules	-
 🔡	botó de lletres llatines en minúscules	-
 🔢	botó de números	-
@@ -1934,12 +1941,12 @@ $	dòlar	-
 ₹	rupia índia	-
 ₽	ruble	-
 ₿	bitcoin	-
-₨	rupia	-
-﷼	rial	-
 ¹	superíndex u	-
 ²	superíndex dos	-
 ³	superíndex tres	-
+₨	rupia	-
 µ	signe de micró	-
+﷼	rial	-
 👋🏻	mà que saluda pell molt clara	-
 👋🏼	mà que saluda pell bastant clara	-
 👋🏽	mà que saluda pell morena	-
@@ -2757,21 +2764,21 @@ $	dòlar	-
 👩🏽‍⚖	jutgessa pell morena	-
 👩🏾‍⚖	jutgessa pell fosca	-
 👩🏿‍⚖	jutgessa pell molt fosca	-
-🧑🏻‍🌾	pagès pell molt clara	-
-🧑🏼‍🌾	pagès pell bastant clara	-
-🧑🏽‍🌾	pagès pell morena	-
-🧑🏾‍🌾	pagès pell fosca	-
-🧑🏿‍🌾	pagès pell molt fosca	-
+🧑🏻‍🌾	agricultor pell molt clara	-
+🧑🏼‍🌾	agricultor pell bastant clara	-
+🧑🏽‍🌾	agricultor pell morena	-
+🧑🏾‍🌾	agricultor pell fosca	-
+🧑🏿‍🌾	agricultor pell molt fosca	-
 👨🏻‍🌾	home pagès pell molt clara	-
 👨🏼‍🌾	home pagès pell bastant clara	-
 👨🏽‍🌾	home pagès pell morena	-
 👨🏾‍🌾	home pagès pell fosca	-
 👨🏿‍🌾	home pagès pell molt fosca	-
-👩🏻‍🌾	pagesa pell molt clara	-
-👩🏼‍🌾	pagesa pell bastant clara	-
-👩🏽‍🌾	pagesa pell morena	-
-👩🏾‍🌾	pagesa pell fosca	-
-👩🏿‍🌾	pagesa pell molt fosca	-
+👩🏻‍🌾	agricultora pell molt clara	-
+👩🏼‍🌾	agricultora pell bastant clara	-
+👩🏽‍🌾	agricultora pell morena	-
+👩🏾‍🌾	agricultora pell fosca	-
+👩🏿‍🌾	agricultora pell molt fosca	-
 🧑🏻‍🍳	cuiner pell molt clara	-
 🧑🏼‍🍳	cuiner pell bastant clara	-
 🧑🏽‍🍳	cuiner pell morena	-
@@ -3237,16 +3244,16 @@ $	dòlar	-
 💆🏽	persona que rep un massatge al cap pell morena	-
 💆🏾	persona que rep un massatge al cap pell fosca	-
 💆🏿	persona que rep un massatge al cap pell molt fosca	-
-💆🏻‍♂	massatge facial a un home pell molt clara	-
-💆🏼‍♂	massatge facial a un home pell bastant clara	-
-💆🏽‍♂	massatge facial a un home pell morena	-
-💆🏾‍♂	massatge facial a un home pell fosca	-
-💆🏿‍♂	massatge facial a un home pell molt fosca	-
-💆🏻‍♀	massatge facial a una dona pell molt clara	-
-💆🏼‍♀	massatge facial a una dona pell bastant clara	-
-💆🏽‍♀	massatge facial a una dona pell morena	-
-💆🏾‍♀	massatge facial a una dona pell fosca	-
-💆🏿‍♀	massatge facial a una dona pell molt fosca	-
+💆🏻‍♂	home que rep un massatge al cap pell molt clara	-
+💆🏼‍♂	home que rep un massatge al cap pell bastant clara	-
+💆🏽‍♂	home que rep un massatge al cap pell morena	-
+💆🏾‍♂	home que rep un massatge al cap pell fosca	-
+💆🏿‍♂	home que rep un massatge al cap pell molt fosca	-
+💆🏻‍♀	dona que rep un massatge al cap pell molt clara	-
+💆🏼‍♀	dona que rep un massatge al cap pell bastant clara	-
+💆🏽‍♀	dona que rep un massatge al cap pell morena	-
+💆🏾‍♀	dona que rep un massatge al cap pell fosca	-
+💆🏿‍♀	dona que rep un massatge al cap pell molt fosca	-
 💇🏻	persona que es talla els cabells pell molt clara	-
 💇🏼	persona que es talla els cabells pell bastant clara	-
 💇🏽	persona que es talla els cabells pell morena	-
@@ -3930,6 +3937,7 @@ $	dòlar	-
 🇨🇳	bandera Xina	-
 🇨🇴	bandera Colòmbia	-
 🇨🇵	bandera Illa Clipperton	-
+🇨🇶	bandera Sark	-
 🇨🇷	bandera Costa Rica	-
 🇨🇺	bandera Cuba	-
 🇨🇻	bandera Cap Verd	-
@@ -3955,7 +3963,7 @@ $	dòlar	-
 🇪🇺	bandera Unió Europea	-
 🇫🇮	bandera Finlàndia	-
 🇫🇯	bandera Fiji	-
-🇫🇰	bandera Illes Malvines	-
+🇫🇰	bandera Illes Falkland	-
 🇫🇲	bandera Micronèsia	-
 🇫🇴	bandera Illes Fèroe	-
 🇫🇷	bandera França	-
@@ -4010,7 +4018,7 @@ $	dòlar	-
 🇰🇼	bandera Kuwait	-
 🇰🇾	bandera Illes Caiman	-
 🇰🇿	bandera Kazakhstan	-
-🇱🇦	bandera Laos	-
+🇱🇦	bandera Lao	-
 🇱🇧	bandera Líban	-
 🇱🇨	bandera Saint Lucia	-
 🇱🇮	bandera Liechtenstein	-
@@ -4047,7 +4055,7 @@ $	dòlar	-
 🇳🇦	bandera Namíbia	-
 🇳🇨	bandera Nova Caledònia	-
 🇳🇪	bandera Níger	-
-🇳🇫	bandera Norfolk	-
+🇳🇫	bandera Illa Norfolk	-
 🇳🇬	bandera Nigèria	-
 🇳🇮	bandera Nicaragua	-
 🇳🇱	bandera Països Baixos	-
@@ -4101,7 +4109,7 @@ $	dòlar	-
 🇹🇦	bandera Tristan da Cunha	-
 🇹🇨	bandera Illes Turks i Caicos	-
 🇹🇩	bandera Txad	-
-🇹🇫	bandera Territoris Australs Francesos	-
+🇹🇫	bandera Terres Australs Antàrtiques Franceses	-
 🇹🇬	bandera Togo	-
 🇹🇭	bandera Tailàndia	-
 🇹🇯	bandera Tadjikistan	-
@@ -4111,13 +4119,13 @@ $	dòlar	-
 🇹🇳	bandera Tunísia	-
 🇹🇴	bandera Tonga	-
 🇹🇷	bandera Turquia	-
-🇹🇹	bandera Trinitat i Tobago	-
+🇹🇹	bandera Trinidad i Tobago	-
 🇹🇻	bandera Tuvalu	-
 🇹🇼	bandera Taiwan	-
 🇹🇿	bandera Tanzània	-
 🇺🇦	bandera Ucraïna	-
 🇺🇬	bandera Uganda	-
-🇺🇲	bandera Illes Perifèriques Menors dels EUA	-
+🇺🇲	bandera Illes Menors Allunyades dels Estats Units	-
 🇺🇳	bandera Nacions Unides	-
 🇺🇸	bandera Estats Units	-
 🇺🇾	bandera Uruguai	-
@@ -4125,8 +4133,8 @@ $	dòlar	-
 🇻🇦	bandera Ciutat del Vaticà	-
 🇻🇨	bandera Saint Vincent i les Grenadines	-
 🇻🇪	bandera Veneçuela	-
-🇻🇬	bandera Illes Verges britàniques	-
-🇻🇮	bandera Illes Verges nord-americanes	-
+🇻🇬	bandera Illes Verges Britàniques	-
+🇻🇮	bandera Illes Verges dels Estats Units	-
 🇻🇳	bandera Vietnam	-
 🇻🇺	bandera Vanuatu	-
 🇼🇫	bandera Wallis i Futuna	-
@@ -4134,7 +4142,7 @@ $	dòlar	-
 🇽🇰	bandera Kosovo	-
 🇾🇪	bandera Iemen	-
 🇾🇹	bandera Mayotte	-
-🇿🇦	bandera República de Sud-àfrica	-
+🇿🇦	bandera Sud-àfrica	-
 🇿🇲	bandera Zàmbia	-
 🇿🇼	bandera Zimbàbue	-
 🏴󠁧󠁢󠁥󠁮󠁧󠁿	bandera Anglaterra	-

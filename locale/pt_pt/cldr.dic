@@ -73,7 +73,7 @@ _	sublinhado	-
 ′	apóstrofo	-
 ″	apóstrofo duplo	-
 ‴	apóstrofo triplo	-
-‸	caret	-
+‸	circunflexo	-
 ※	marca de referência	-
 ⁂	asterismo	-
 `	acento grave	-
@@ -405,6 +405,7 @@ _	sublinhado	-
 😪	cara sonolenta	-
 🤤	cara a babar-se	-
 😴	cara a dormir	-
+🫩	cara com olheiras	-
 😷	cara com máscara de médico	-
 🤒	cara com termómetro	-
 🤕	cara com ligadura na cabeça	-
@@ -669,7 +670,7 @@ _	sublinhado	-
 👨‍🚀	astronauta (homem)	-
 👩‍🚀	astronauta (mulher)	-
 🧑‍🚒	bombeiro	-
-👨‍🚒	bombeiro homem	-
+👨‍🚒	bombeiro (homem)	-
 👩‍🚒	bombeira	-
 👮	agente da polícia	-
 👮‍♂	polícia (homem)	-
@@ -807,7 +808,7 @@ _	sublinhado	-
 🤸	pessoa a fazer a roda	-
 🤸‍♂	homem a fazer a roda	-
 🤸‍♀	mulher a fazer a roda	-
-🤼	pessoas lutando	-
+🤼	pessoas a lutar	-
 🤼‍♂	lutador de luta livre	-
 🤼‍♀	lutadora de luta livre	-
 🤽	pessoa a jogar polo aquático	-
@@ -840,6 +841,7 @@ _	sublinhado	-
 🧑‍🧒	família adulto, criança	-
 🧑‍🧒‍🧒	família adulto, criança, criança	-
 👣	pegadas	-
+🫆	impressão digital	-
 🦰	cabelo ruivo	-
 🦱	cabelo encaracolado	-
 🦳	cabelo branco	-
@@ -953,6 +955,11 @@ _	sublinhado	-
 🐚	búzio	-
 🪸	coral	-
 🪼	alforreca	-
+🦀	caranguejo (animal)	-
+🦞	lagosta	-
+🦐	camarão	-
+🦑	lula	-
+🦪	ostra	-
 🐌	caracol	-
 🦋	borboleta	-
 🐛	lagarta	-
@@ -997,6 +1004,7 @@ _	sublinhado	-
 🪹	ninho vazio	-
 🪺	ninho com ovos	-
 🍄	cogumelo	-
+🪾	árvore seca	-
 🍇	uvas	-
 🍈	meloa	-
 🍉	melancia	-
@@ -1035,6 +1043,7 @@ _	sublinhado	-
 🫚	gengibre	-
 🫛	vagem	-
 🍄‍🟫	cogumelo castanho	-
+🫜	tubérculo	-
 🍞	pão	-
 🥐	croissant	-
 🥖	baguete	-
@@ -1086,11 +1095,6 @@ _	sublinhado	-
 🥟	ravioli	-
 🥠	biscoito da sorte	-
 🥡	caixa de takeaway	-
-🦀	caranguejo (animal)	-
-🦞	lagosta	-
-🦐	camarão	-
-🦑	lula	-
-🦪	ostra	-
 🍦	cone de gelado	-
 🍧	granizado	-
 🍨	gelado	-
@@ -1383,7 +1387,7 @@ _	sublinhado	-
 🏀	basquetebol	-
 🏐	voleibol	-
 🏈	bola de futebol americano	-
-🏉	râguebi	-
+🏉	bola de râguebi	-
 🎾	ténis	-
 🥏	frisbee	-
 🎳	bowling	-
@@ -1511,6 +1515,7 @@ _	sublinhado	-
 🪘	tambor alto	-
 🪇	maracas	-
 🪈	flauta	-
+🪉	harpa	-
 📱	telemóvel	-
 📲	telemóvel com seta	-
 ☎	telefone	-
@@ -1649,6 +1654,7 @@ _	sublinhado	-
 🧰	mala de ferramentas	-
 🧲	íman	-
 🪜	escada	-
+🪏	pá	-
 ⚗	balão de vidro	-
 🧪	tubo de ensaio	-
 🧫	placa de Petri	-
@@ -1835,6 +1841,7 @@ _	sublinhado	-
 ©	direitos de autor	-
 ®	marca registada	-
 ™	marca comercial	-
+🫟	respingo	-
 🔠	introdução de maiúsculas latinas	-
 🔡	introdução de minúsculas latinas	-
 🔢	introdução de números	-
@@ -1934,12 +1941,12 @@ $	dólar	-
 ₹	rupia indiana	-
 ₽	rublo	-
 ₿	bitcoin	-
-₨	rupia	-
-﷼	rial	-
 ¹	número um sobrescrito	-
 ²	número dois sobrescrito	-
 ³	número três sobrescrito	-
+₨	rupia	-
 µ	sinal micro	-
+﷼	rial	-
 👋🏻	mão a acenar tipo de pele 1–2	-
 👋🏼	mão a acenar tipo de pele 3	-
 👋🏽	mão a acenar tipo de pele 4	-
@@ -2927,11 +2934,11 @@ $	dólar	-
 🧑🏽‍🚒	bombeiro tipo de pele 4	-
 🧑🏾‍🚒	bombeiro tipo de pele 5	-
 🧑🏿‍🚒	bombeiro tipo de pele 6	-
-👨🏻‍🚒	bombeiro homem tipo de pele 1–2	-
-👨🏼‍🚒	bombeiro homem tipo de pele 3	-
-👨🏽‍🚒	bombeiro homem tipo de pele 4	-
-👨🏾‍🚒	bombeiro homem tipo de pele 5	-
-👨🏿‍🚒	bombeiro homem tipo de pele 6	-
+👨🏻‍🚒	bombeiro (homem) tipo de pele 1–2	-
+👨🏼‍🚒	bombeiro (homem) tipo de pele 3	-
+👨🏽‍🚒	bombeiro (homem) tipo de pele 4	-
+👨🏾‍🚒	bombeiro (homem) tipo de pele 5	-
+👨🏿‍🚒	bombeiro (homem) tipo de pele 6	-
 👩🏻‍🚒	bombeira tipo de pele 1–2	-
 👩🏼‍🚒	bombeira tipo de pele 3	-
 👩🏽‍🚒	bombeira tipo de pele 4	-

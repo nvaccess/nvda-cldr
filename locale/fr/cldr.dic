@@ -405,6 +405,7 @@ _	trait de soulignement	-
 😪	visage endormi	-
 🤤	visage qui bave	-
 😴	visage somnolent	-
+🫩	visage avec des valises sous les yeux	-
 😷	visage avec masque	-
 🤒	visage avec thermomètre	-
 🤕	visage avec bandage autour de la tête	-
@@ -840,6 +841,7 @@ _	trait de soulignement	-
 🧑‍🧒	famille  adulte, enfant	-
 🧑‍🧒‍🧒	famille  adulte, enfant, enfant	-
 👣	traces de pas	-
+🫆	empreinte digitale	-
 🦰	cheveux roux	-
 🦱	cheveux bouclés	-
 🦳	cheveux blancs	-
@@ -953,6 +955,11 @@ _	trait de soulignement	-
 🐚	coquille en spirale	-
 🪸	corail	-
 🪼	méduse	-
+🦀	crabe	-
+🦞	homard	-
+🦐	crevette	-
+🦑	calamar	-
+🦪	huître	-
 🐌	escargot	-
 🦋	papillon	-
 🐛	chenille	-
@@ -997,6 +1004,7 @@ _	trait de soulignement	-
 🪹	nid vide	-
 🪺	nid avec œufs	-
 🍄	champignon	-
+🪾	arbre sans feuille	-
 🍇	raisin	-
 🍈	melon	-
 🍉	pastèque	-
@@ -1035,6 +1043,7 @@ _	trait de soulignement	-
 🫚	racine de gingembre	-
 🫛	cosse de petits pois	-
 🍄‍🟫	champignon marron	-
+🫜	légume-racine	-
 🍞	pain	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1086,11 +1095,6 @@ _	trait de soulignement	-
 🥟	boulette de pâte	-
 🥠	biscuit chinois	-
 🥡	boîte à emporter	-
-🦀	crabe	-
-🦞	homard	-
-🦐	crevette	-
-🦑	calamar	-
-🦪	huître	-
 🍦	glace italienne	-
 🍧	granité	-
 🍨	glace	-
@@ -1511,6 +1515,7 @@ _	trait de soulignement	-
 🪘	djembé	-
 🪇	maracas	-
 🪈	flûte	-
+🪉	harpe	-
 📱	téléphone portable	-
 📲	appel entrant	-
 ☎	téléphone	-
@@ -1649,6 +1654,7 @@ _	trait de soulignement	-
 🧰	boîte à outils	-
 🧲	aimant	-
 🪜	échelle	-
+🪏	pelle	-
 ⚗	alambic	-
 🧪	tube à essai	-
 🧫	boîte de pétri	-
@@ -1835,6 +1841,7 @@ _	trait de soulignement	-
 ©	symbole copyright	-
 ®	marque déposée	-
 ™	marque commerciale déposée	-
+🫟	éclaboussure	-
 🔠	majuscules	-
 🔡	minuscules	-
 🔢	saisie de chiffres	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	roupie indienne	-
 ₽	rouble	-
 ₿	bitcoin	-
-₨	roupie	-
-﷼	rial	-
 ¹	exposant un	-
 ²	exposant deux	-
 ³	exposant trois	-
+₨	roupie	-
 µ	symbole micro	-
+﷼	rial	-
 👋🏻	signe de la main  peau claire	-
 👋🏼	signe de la main  peau moyennement claire	-
 👋🏽	signe de la main  peau légèrement mate	-

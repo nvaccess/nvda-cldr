@@ -405,6 +405,7 @@ _	aláhúzásjel	-
 😪	álmos arc	-
 🤤	nyáladzó fej	-
 😴	alvó arc	-
+🫩	arc táskás szemekkel	-
 😷	arc egészségügyi maszkkal	-
 🤒	arc lázmérővel	-
 🤕	arc bekötött fejjel	-
@@ -454,7 +455,7 @@ _	aláhúzásjel	-
 😠	mérges arc	-
 🤬	arc jelekkel a száján	-
 😈	mosolygó arc szarvakkal	-
-👿	ördög	-
+👿	mérges arc szarvakkal	-
 💀	koponya	-
 ☠	koponya csontokkal	-
 💩	kakihalom	-
@@ -840,6 +841,7 @@ _	aláhúzásjel	-
 🧑‍🧒	család felnőtt, gyerek	-
 🧑‍🧒‍🧒	család felnőtt, gyerek, gyerek	-
 👣	lábnyomok	-
+🫆	ujjlenyomat	-
 🦰	vörös haj	-
 🦱	göndör haj	-
 🦳	ősz haj	-
@@ -953,6 +955,11 @@ _	aláhúzásjel	-
 🐚	tengeri csiga	-
 🪸	korall	-
 🪼	medúza	-
+🦀	rák	-
+🦞	homár	-
+🦐	garnélarák	-
+🦑	tintahal	-
+🦪	osztriga	-
 🐌	csiga	-
 🦋	pillangó	-
 🐛	rovar	-
@@ -997,6 +1004,7 @@ _	aláhúzásjel	-
 🪹	üres fészek	-
 🪺	fészek tojásokkal	-
 🍄	gomba	-
+🪾	levél nélküli fa	-
 🍇	szőlő	-
 🍈	sárgadinnye	-
 🍉	görögdinnye	-
@@ -1035,6 +1043,7 @@ _	aláhúzásjel	-
 🫚	gyömbérgyökér	-
 🫛	borsóhüvely	-
 🍄‍🟫	barna gomba	-
+🫜	gyökérzöldség	-
 🍞	kenyér	-
 🥐	croissant	-
 🥖	bagett	-
@@ -1086,11 +1095,6 @@ _	aláhúzásjel	-
 🥟	gombóc	-
 🥠	szerencsesüti	-
 🥡	elviteles doboz	-
-🦀	rák	-
-🦞	homár	-
-🦐	garnélarák	-
-🦑	tintahal	-
-🦪	osztriga	-
 🍦	lágyfagylalt	-
 🍧	fagylalt öntettel	-
 🍨	fagylalt	-
@@ -1511,6 +1515,7 @@ _	aláhúzásjel	-
 🪘	hosszú dob	-
 🪇	rumbatök	-
 🪈	fuvola	-
+🪉	hárfa	-
 📱	mobiltelefon	-
 📲	mobiltelefon nyíllal	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	aláhúzásjel	-
 🧰	szerszámosláda	-
 🧲	mágnes	-
 🪜	létra	-
+🪏	ásó	-
 ⚗	lombik	-
 🧪	kémcső	-
 🧫	Petri-csésze	-
@@ -1835,6 +1841,7 @@ _	aláhúzásjel	-
 ©	copyright (szerzői jog által védett)	-
 ®	registered (bejegyzett)	-
 ™	védjegy	-
+🫟	fröccsenés	-
 🔠	latin nagybetűs bevitel	-
 🔡	latin kisbetűs bevitel	-
 🔢	számbevitel	-
@@ -1934,12 +1941,12 @@ $	dollár	-
 ₹	indiai rúpia	-
 ₽	rubel	-
 ₿	bitcoin	-
-₨	rúpia	-
-﷼	riál	-
 ¹	egyes felső index	-
 ²	kettes felső index	-
 ³	hármas felső index	-
+₨	rúpia	-
 µ	mikro szimbólum	-
+﷼	riál	-
 👋🏻	integető kéz világos bőrtónus	-
 👋🏼	integető kéz közepesen világos bőrtónus	-
 👋🏽	integető kéz közepes bőrtónus	-
@@ -3930,6 +3937,7 @@ $	dollár	-
 🇨🇳	zászló Kína	-
 🇨🇴	zászló Kolumbia	-
 🇨🇵	zászló Clipperton-sziget	-
+🇨🇶	zászló Sark	-
 🇨🇷	zászló Costa Rica	-
 🇨🇺	zászló Kuba	-
 🇨🇻	zászló Zöld-foki Köztársaság	-

@@ -405,6 +405,7 @@ _	traço baixo	-
 😪	rosto sonolento	-
 🤤	rosto babando	-
 😴	rosto dormindo	-
+🫩	rosto com olheiras	-
 😷	rosto com máscara médica	-
 🤒	rosto com termômetro	-
 🤕	rosto com atadura na cabeça	-
@@ -840,6 +841,7 @@ _	traço baixo	-
 🧑‍🧒	família adulto, criança	-
 🧑‍🧒‍🧒	família adulto, criança, criança	-
 👣	pegadas	-
+🫆	impressão digital	-
 🦰	cabelo vermelho	-
 🦱	cabelo cacheado	-
 🦳	cabelo branco	-
@@ -953,6 +955,11 @@ _	traço baixo	-
 🐚	caramujo	-
 🪸	coral	-
 🪼	água-viva	-
+🦀	caranguejo	-
+🦞	lagosta	-
+🦐	camarão	-
+🦑	lula	-
+🦪	ostra	-
 🐌	caracol	-
 🦋	borboleta	-
 🐛	inseto	-
@@ -997,6 +1004,7 @@ _	traço baixo	-
 🪹	ninho vazio	-
 🪺	ninho com ovos	-
 🍄	cogumelo	-
+🪾	árvore seca	-
 🍇	uvas	-
 🍈	melão	-
 🍉	melancia	-
@@ -1035,12 +1043,13 @@ _	traço baixo	-
 🫚	gengibre	-
 🫛	vagem	-
 🍄‍🟫	cogumelo marrom	-
+🫜	tubérculo	-
 🍞	pão	-
 🥐	croissant	-
 🥖	baguete	-
 🫓	pão sírio	-
 🥨	pretzel	-
-🥯	rosca	-
+🥯	bagel	-
 🥞	panquecas	-
 🧇	waffle	-
 🧀	queijo	-
@@ -1086,11 +1095,6 @@ _	traço baixo	-
 🥟	bolinho asiático	-
 🥠	biscoito da sorte	-
 🥡	caixa para viagem	-
-🦀	caranguejo	-
-🦞	lagosta	-
-🦐	camarão	-
-🦑	lula	-
-🦪	ostra	-
 🍦	sorvete italiano	-
 🍧	raspadinha de gelo	-
 🍨	sorvete	-
@@ -1511,6 +1515,7 @@ _	traço baixo	-
 🪘	tambor comprido	-
 🪇	maracás	-
 🪈	flauta	-
+🪉	harpa	-
 📱	telefone celular	-
 📲	telefone celular com seta	-
 ☎	telefone no gancho	-
@@ -1649,6 +1654,7 @@ _	traço baixo	-
 🧰	caixa de ferramentas	-
 🧲	ímã	-
 🪜	escada	-
+🪏	pá	-
 ⚗	alambique	-
 🧪	tubo de ensaio	-
 🧫	placa de Petri	-
@@ -1835,6 +1841,7 @@ _	traço baixo	-
 ©	símbolo de copyright	-
 ®	símbolo de registrado	-
 ™	símbolo de marca registrada	-
+🫟	respingo	-
 🔠	letras latinas maiúsculas	-
 🔡	letras latinas minúsculas	-
 🔢	números	-
@@ -1934,12 +1941,12 @@ $	dólar	-
 ₹	rupia indiana	-
 ₽	rublo	-
 ₿	bitcoin	-
-₨	rupia	-
-﷼	rial	-
 ¹	número um sobrescrito	-
 ²	número dois sobrescrito	-
 ³	número três sobrescrito	-
+₨	rupia	-
 µ	sinal micro	-
+﷼	rial	-
 👋🏻	mão acenando pele clara	-
 👋🏼	mão acenando pele morena clara	-
 👋🏽	mão acenando pele morena	-

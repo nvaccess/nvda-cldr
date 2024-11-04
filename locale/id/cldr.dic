@@ -405,6 +405,7 @@ _	garis bawah	-
 😪	wajah mengantuk	-
 🤤	ngiler	-
 😴	wajah tidur	-
+🫩	wajah dengan kantung mata	-
 😷	wajah bermasker	-
 🤒	wajah bertermometer	-
 🤕	wajah diperban di kepala	-
@@ -840,6 +841,7 @@ _	garis bawah	-
 🧑‍🧒	keluarga orang dewasa, anak	-
 🧑‍🧒‍🧒	keluarga orang dewasa, anak, anak	-
 👣	jejak kaki	-
+🫆	sidik jari	-
 🦰	rambut merah	-
 🦱	rambut keriting	-
 🦳	rambut putih	-
@@ -953,6 +955,11 @@ _	garis bawah	-
 🐚	cangkang spiral	-
 🪸	terumbu karang	-
 🪼	ubur-ubur	-
+🦀	kepiting	-
+🦞	lobster	-
+🦐	udang	-
+🦑	cumi-cumi	-
+🦪	tiram	-
 🐌	siput	-
 🦋	kupu-kupu	-
 🐛	serangga kecil	-
@@ -989,7 +996,7 @@ _	garis bawah	-
 🌵	kaktus	-
 🌾	seikat padi	-
 🌿	herba	-
-☘	shamrock	-
+☘	semanggi	-
 🍀	empat daun semanggi	-
 🍁	daun maple	-
 🍂	daun berguguran	-
@@ -997,6 +1004,7 @@ _	garis bawah	-
 🪹	sarang burung kosong	-
 🪺	sarang dengan telur	-
 🍄	jamur	-
+🪾	pohon tanpa daun	-
 🍇	anggur	-
 🍈	melon	-
 🍉	semangka	-
@@ -1035,6 +1043,7 @@ _	garis bawah	-
 🫚	akar jahe	-
 🫛	kacang polong	-
 🍄‍🟫	jamur cokelat	-
+🫜	sayuran umbi	-
 🍞	roti	-
 🥐	croissant	-
 🥖	roti baguette	-
@@ -1086,11 +1095,6 @@ _	garis bawah	-
 🥟	dumpling	-
 🥠	kue keberuntungan	-
 🥡	kotak makanan	-
-🦀	kepiting	-
-🦞	lobster	-
-🦐	udang	-
-🦑	cumi-cumi	-
-🦪	tiram	-
 🍦	es krim lembut	-
 🍧	es serut	-
 🍨	es krim	-
@@ -1420,7 +1424,7 @@ _	garis bawah	-
 🪅	pinata	-
 🪩	bola disko	-
 🪆	boneka bersarang	-
-♠	sekop	-
+♠	waru	-
 ♥	hati	-
 ♦	wajik	-
 ♣	keriting	-
@@ -1511,6 +1515,7 @@ _	garis bawah	-
 🪘	gendang	-
 🪇	marakas	-
 🪈	seruling	-
+🪉	harpa	-
 📱	ponsel	-
 📲	telepon masuk	-
 ☎	telepon	-
@@ -1649,6 +1654,7 @@ _	garis bawah	-
 🧰	kotak perkakas	-
 🧲	magnet	-
 🪜	tangga	-
+🪏	sekop	-
 ⚗	alembic	-
 🧪	tabung uji	-
 🧫	cawan petri	-
@@ -1835,6 +1841,7 @@ _	garis bawah	-
 ©	hak cipta	-
 ®	terdaftar	-
 ™	merek dagang	-
+🫟	percikan	-
 🔠	masukan huruf kapital latin	-
 🔡	masukan huruf kecil latin	-
 🔢	masukan angka	-
@@ -1934,12 +1941,12 @@ $	dolar	-
 ₹	rupee india	-
 ₽	ruble	-
 ₿	bitcoin	-
-₨	rupee	-
-﷼	rial	-
 ¹	satu superskrip	-
 ²	dua superskrip	-
 ³	tiga superskrip	-
+₨	rupee	-
 µ	tanda mikro	-
+﷼	rial	-
 👋🏻	tangan melambai warna kulit cerah	-
 👋🏼	tangan melambai warna kulit cerah-sedang	-
 👋🏽	tangan melambai warna kulit sedang	-

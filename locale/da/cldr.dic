@@ -405,6 +405,7 @@ _	lav streg	-
 😪	søvnigt ansigt	-
 🤤	savlende ansigt	-
 😴	sovende ansigt	-
+🫩	ansigt med poser under øjnene	-
 😷	ansigt med mundbind	-
 🤒	ansigt med termometer	-
 🤕	ansigt med bandage	-
@@ -614,7 +615,7 @@ _	lav streg	-
 🧏	døv person	-
 🧏‍♂	døv mand	-
 🧏‍♀	døv kvinde	-
-🙇	bukker	-
+🙇	person bukker dybt	-
 🙇‍♂	mand bukker dybt	-
 🙇‍♀	kvinde bukker dybt	-
 🤦	slå sig for panden	-
@@ -840,6 +841,7 @@ _	lav streg	-
 🧑‍🧒	familie voksen, barn	-
 🧑‍🧒‍🧒	familie voksen, barn, barn	-
 👣	fodspor	-
+🫆	fingeraftryk	-
 🦰	rødt hår	-
 🦱	krøllet hår	-
 🦳	hvidt hår	-
@@ -953,6 +955,11 @@ _	lav streg	-
 🐚	konkylie	-
 🪸	koral	-
 🪼	gople	-
+🦀	krabbe	-
+🦞	hummer	-
+🦐	reje	-
+🦑	sprutte	-
+🦪	østers	-
 🐌	snegl	-
 🦋	sommerfugl	-
 🐛	larve	-
@@ -997,6 +1004,7 @@ _	lav streg	-
 🪹	tom rede	-
 🪺	rede med æg	-
 🍄	svamp	-
+🪾	træ uden blade	-
 🍇	vindruer	-
 🍈	melon	-
 🍉	vandmelon	-
@@ -1035,6 +1043,7 @@ _	lav streg	-
 🫚	ingefærrod	-
 🫛	ærtebælg	-
 🍄‍🟫	brun svamp	-
+🫜	rodfrugt	-
 🍞	brød	-
 🥐	croissant	-
 🥖	flute	-
@@ -1086,11 +1095,6 @@ _	lav streg	-
 🥟	dumpling	-
 🥠	lykkekage	-
 🥡	kinesisk takeaway	-
-🦀	krabbe	-
-🦞	hummer	-
-🦐	reje	-
-🦑	sprutte	-
-🦪	østers	-
 🍦	softice	-
 🍧	isdessert	-
 🍨	is	-
@@ -1511,6 +1515,7 @@ _	lav streg	-
 🪘	høj tromme	-
 🪇	maracas	-
 🪈	fløjte	-
+🪉	harpe	-
 📱	mobil	-
 📲	mobil med pil	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	lav streg	-
 🧰	værktøjskasse	-
 🧲	magnet	-
 🪜	stige	-
+🪏	skovl	-
 ⚗	kolbe	-
 🧪	reagensglas	-
 🧫	petriskål	-
@@ -1835,6 +1841,7 @@ _	lav streg	-
 ©	copyright	-
 ®	registreret varemærke	-
 ™	varemærke	-
+🫟	klat	-
 🔠	store bogstaver	-
 🔡	små bogstaver	-
 🔢	tal	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	indisk rupee	-
 ₽	rubel	-
 ₿	bitcoin	-
-₨	rupee	-
-﷼	rial	-
 ¹	hævet ettal	-
 ²	hævet total	-
 ³	hævet tretal	-
+₨	rupee	-
 µ	mikrotegn	-
+﷼	rial	-
 👋🏻	vinker lys teint	-
 👋🏼	vinker medium til lys teint	-
 👋🏽	vinker medium teint	-
@@ -2652,11 +2659,11 @@ $	dollar	-
 🧏🏽‍♀	døv kvinde medium teint	-
 🧏🏾‍♀	døv kvinde medium til mørk teint	-
 🧏🏿‍♀	døv kvinde mørk teint	-
-🙇🏻	bukker lys teint	-
-🙇🏼	bukker medium til lys teint	-
-🙇🏽	bukker medium teint	-
-🙇🏾	bukker medium til mørk teint	-
-🙇🏿	bukker mørk teint	-
+🙇🏻	person bukker dybt lys teint	-
+🙇🏼	person bukker dybt medium til lys teint	-
+🙇🏽	person bukker dybt medium teint	-
+🙇🏾	person bukker dybt medium til mørk teint	-
+🙇🏿	person bukker dybt mørk teint	-
 🙇🏻‍♂	mand bukker dybt lys teint	-
 🙇🏼‍♂	mand bukker dybt medium til lys teint	-
 🙇🏽‍♂	mand bukker dybt medium teint	-

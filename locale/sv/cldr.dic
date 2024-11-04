@@ -359,7 +359,7 @@ _	understreck	-
 🙂	småleende ansikte	-
 🙃	upp-och-nervänt ansikte	-
 🫠	smältande ansikte	-
-😉	ansikte som blinkar med ögonen	-
+😉	ansikte som blinkar med ett öga	-
 😊	leende ansikte och ögon	-
 😇	leende ansikte med gloria	-
 🥰	leende ansikte med tre hjärtan	-
@@ -405,6 +405,7 @@ _	understreck	-
 😪	sömnigt ansikte	-
 🤤	dreglande ansikte	-
 😴	sovande ansikte	-
+🫩	ansikte med påsar under ögonen	-
 😷	ansikte med munskydd	-
 🤒	ansikte med termometer	-
 🤕	ansikte med bandage på huvudet	-
@@ -450,7 +451,7 @@ _	understreck	-
 😫	trött ansikte	-
 🥱	gäspande ansikte	-
 😤	ansikte med ånga ur näsan	-
-😡	plutande ansikte	-
+😡	rasande ansikte	-
 😠	argt ansikte	-
 🤬	ansikte med symboler på munnen	-
 😈	leende ansikte med horn	-
@@ -840,6 +841,7 @@ _	understreck	-
 🧑‍🧒	familj, vuxen, barn	-
 🧑‍🧒‍🧒	familj, vuxen, barn, barn	-
 👣	fotavtryck	-
+🫆	fingeravtryck	-
 🦰	rödhårig	-
 🦱	lockigt hår	-
 🦳	vithårig	-
@@ -953,6 +955,11 @@ _	understreck	-
 🐚	snäcka	-
 🪸	korall	-
 🪼	manet	-
+🦀	krabba	-
+🦞	hummer	-
+🦐	räka	-
+🦑	mindre bläckfisk	-
+🦪	ostron	-
 🐌	snigel	-
 🦋	fjäril	-
 🐛	tusenfoting	-
@@ -997,6 +1004,7 @@ _	understreck	-
 🪹	tomt bo	-
 🪺	bo med ägg	-
 🍄	svamp	-
+🪾	träd utan löv	-
 🍇	vindruvor	-
 🍈	melon	-
 🍉	vattenmelon	-
@@ -1035,6 +1043,7 @@ _	understreck	-
 🫚	ingefära	-
 🫛	ärtskida	-
 🍄‍🟫	brun svamp	-
+🫜	rotfrukt	-
 🍞	bröd	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1086,11 +1095,6 @@ _	understreck	-
 🥟	dumpling	-
 🥠	lyckokaka	-
 🥡	hämtmatkartong	-
-🦀	krabba	-
-🦞	hummer	-
-🦐	räka	-
-🦑	mindre bläckfisk	-
-🦪	ostron	-
 🍦	mjukglass	-
 🍧	kakigōri	-
 🍨	glass	-
@@ -1511,6 +1515,7 @@ _	understreck	-
 🪘	congatrumma	-
 🪇	maracas	-
 🪈	flöjt	-
+🪉	harpa	-
 📱	mobiltelefon	-
 📲	mobiltelefon med pil	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	understreck	-
 🧰	verktygslåda	-
 🧲	magnet	-
 🪜	stege	-
+🪏	spade	-
 ⚗	retort	-
 🧪	provrör	-
 🧫	petriskål	-
@@ -1835,6 +1841,7 @@ _	understreck	-
 ©	upphovsrättssymbol	-
 ®	registrerat varumärke	-
 ™	skyddat varumärke	-
+🫟	stänk	-
 🔠	versaler	-
 🔡	gemener	-
 🔢	siffror	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	indisk rupie	-
 ₽	rubel	-
 ₿	bitcoin	-
-₨	rupie	-
-﷼	rial	-
 ¹	upphöjt till ett	-
 ²	upphöjt till två	-
 ³	upphöjt till tre	-
+₨	rupie	-
 µ	mikrotecken	-
+﷼	rial	-
 👋🏻	vinkande hand ljus hy	-
 👋🏼	vinkande hand mellanljus hy	-
 👋🏽	vinkande hand mellanfärgad hy	-

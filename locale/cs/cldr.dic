@@ -405,6 +405,7 @@ _	podtržení	-
 😪	ospalý obličej	-
 🤤	slintající obličej	-
 😴	spící obličej	-
+🫩	obličej s kruhy pod očima	-
 😷	obličej s lékařskou rouškou	-
 🤒	obličej s teploměrem	-
 🤕	obličej s ovázanou hlavou	-
@@ -840,6 +841,7 @@ _	podtržení	-
 🧑‍🧒	rodina dospělý, dítě	-
 🧑‍🧒‍🧒	rodina dospělý, dítě, dítě	-
 👣	stopy	-
+🫆	otisk prstu	-
 🦰	zrzavé vlasy	-
 🦱	kudrnaté vlasy	-
 🦳	bílé vlasy	-
@@ -953,6 +955,11 @@ _	podtržení	-
 🐚	ulita	-
 🪸	korál	-
 🪼	medúza	-
+🦀	krab	-
+🦞	humr	-
+🦐	kreveta	-
+🦑	oliheň	-
+🦪	ústřice	-
 🐌	hlemýžď	-
 🦋	motýl	-
 🐛	housenka	-
@@ -997,6 +1004,7 @@ _	podtržení	-
 🪹	prázdné hnízdo	-
 🪺	hnízdo s vejci	-
 🍄	houba	-
+🪾	strom bez listí	-
 🍇	hrozny	-
 🍈	cukrový meloun	-
 🍉	meloun	-
@@ -1035,6 +1043,7 @@ _	podtržení	-
 🫚	zázvor	-
 🫛	hrachový lusk	-
 🍄‍🟫	hnědá houba	-
+🫜	kořenová zelenina	-
 🍞	chleba	-
 🥐	croissant	-
 🥖	bageta	-
@@ -1086,11 +1095,6 @@ _	podtržení	-
 🥟	piroh	-
 🥠	čínský koláček štěstí	-
 🥡	krabice na jídlo	-
-🦀	krab	-
-🦞	humr	-
-🦐	kreveta	-
-🦑	oliheň	-
-🦪	ústřice	-
 🍦	točená zmrzlina	-
 🍧	ledová tříšť	-
 🍨	kopečková zmrzlina	-
@@ -1511,6 +1515,7 @@ _	podtržení	-
 🪘	protáhlý buben	-
 🪇	rumbakoule	-
 🪈	flétna	-
+🪉	harfa	-
 📱	mobil	-
 📲	mobil se šipkou	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	podtržení	-
 🧰	box na nářadí	-
 🧲	magnet	-
 🪜	žebřík	-
+🪏	lopata	-
 ⚗	křivule	-
 🧪	zkumavka	-
 🧫	Petriho miska	-
@@ -1835,6 +1841,7 @@ _	podtržení	-
 ©	znak ochrany autorského práva	-
 ®	znak registrované ochranné známky	-
 ™	znak ochranné známky	-
+🫟	skvrna	-
 🔠	zadávání v latince, velká písmena	-
 🔡	zadávání v latince, malá písmena	-
 🔢	zadávání čísel	-
@@ -1934,12 +1941,12 @@ $	dolar	-
 ₹	indická rupie	-
 ₽	rubl	-
 ₿	bitcoin	-
-₨	rupie	-
-﷼	rijál	-
 ¹	číslice jedna jako horní index	-
 ²	číslice dvě jako horní index	-
 ³	číslice tři jako horní index	-
+₨	rupie	-
 µ	znak mikro	-
+﷼	rijál	-
 👋🏻	mávající ruka světlý odstín pleti	-
 👋🏼	mávající ruka středně světlý odstín pleti	-
 👋🏽	mávající ruka střední odstín pleti	-

@@ -405,6 +405,7 @@ _	lágstrik	-
 😪	syfjað andlit	-
 🤤	slefandi	-
 😴	sofandi	-
+🫩	andlit með poka undir augum	-
 😷	andlit með grímu	-
 🤒	andlit með hitamæli í munninum	-
 🤕	andlit með sárabindi	-
@@ -840,6 +841,7 @@ _	lágstrik	-
 🧑‍🧒	fjölskylda fullorðinn, barn	-
 🧑‍🧒‍🧒	fjölskylda fullorðinn, barn, barn	-
 👣	fótspor	-
+🫆	fingrafar	-
 🦰	rautt hár	-
 🦱	krullur	-
 🦳	hvítt hár	-
@@ -953,6 +955,11 @@ _	lágstrik	-
 🐚	kuðungur	-
 🪸	kórall	-
 🪼	marglytta	-
+🦀	krabbi	-
+🦞	humar	-
+🦐	rækja	-
+🦑	smokkfiskur	-
+🦪	ostra	-
 🐌	snigill	-
 🦋	fiðrildi	-
 🐛	skordýr	-
@@ -997,6 +1004,7 @@ _	lágstrik	-
 🪹	tómt hreiður	-
 🪺	hreiður með eggjum	-
 🍄	sveppur	-
+🪾	blaðlaust tré	-
 🍇	vínber	-
 🍈	melóna	-
 🍉	vatnsmelóna	-
@@ -1035,6 +1043,7 @@ _	lágstrik	-
 🫚	engiferrót	-
 🫛	baunabelgur	-
 🍄‍🟫	brúnn sveppur	-
+🫜	rótargrænmeti	-
 🍞	brauð	-
 🥐	smjördeigshorn	-
 🥖	fransbrauð	-
@@ -1086,11 +1095,6 @@ _	lágstrik	-
 🥟	soðkaka	-
 🥠	spádómskaka	-
 🥡	takeaway-box	-
-🦀	krabbi	-
-🦞	humar	-
-🦐	rækja	-
-🦑	smokkfiskur	-
-🦪	ostra	-
 🍦	rjómaís	-
 🍧	skafís	-
 🍨	kúluís	-
@@ -1511,6 +1515,7 @@ _	lágstrik	-
 🪘	handtromma	-
 🪇	hristur	-
 🪈	flauta	-
+🪉	harpa	-
 📱	farsími	-
 📲	farsími með ör	-
 ☎	sími	-
@@ -1649,6 +1654,7 @@ _	lágstrik	-
 🧰	verkfærakassi	-
 🧲	segull	-
 🪜	stigi	-
+🪏	skófla	-
 ⚗	eimingarflaska	-
 🧪	tilraunaglas	-
 🧫	petrískál	-
@@ -1835,6 +1841,7 @@ _	lágstrik	-
 ©	höfundarréttarmerki	-
 ®	skráð	-
 ™	skrásett vörumerki	-
+🫟	sletta	-
 🔠	hástafir	-
 🔡	lágstafir	-
 🔢	tölustafir	-
@@ -1934,12 +1941,12 @@ $	dalur	-
 ₹	indversk rúpía	-
 ₽	rúbla	-
 ₿	bitcoin	-
-₨	rúpía	-
-﷼	ríal	-
 ¹	brjóstletur einn	-
 ²	brjóstletur tveir	-
 ³	brjóstletur þrír	-
+₨	rúpía	-
 µ	míkró-merki	-
+﷼	ríal	-
 👋🏻	hönd veifar ljós húðlitur	-
 👋🏼	hönd veifar meðalljós húðlitur	-
 👋🏽	hönd veifar millihúðlitur	-
@@ -4097,7 +4104,7 @@ $	dalur	-
 🇸🇻	fáni El Salvador	-
 🇸🇽	fáni Sint Maarten	-
 🇸🇾	fáni Sýrland	-
-🇸🇿	fáni Svasíland	-
+🇸🇿	fáni Esvatíní	-
 🇹🇦	fáni Tristan da Cunha	-
 🇹🇨	fáni Turks- og Caicoseyjar	-
 🇹🇩	fáni Tsjad	-

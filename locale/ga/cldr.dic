@@ -405,6 +405,7 @@ _	líne íseal	-
 😪	straoiseog chodlatach	-
 🤤	straoiseog ag prislíneacht	-
 😴	straoiseog ina codladh	-
+🫩	aghaidh le sprochaillí faoi na súile	-
 😷	straoiseog le masc leighis	-
 🤒	straoiseog le teirmiméadar	-
 🤕	straoiseog le bindealán ar a ceann	-
@@ -840,6 +841,7 @@ _	líne íseal	-
 🧑‍🧒	teaghlach duine fásta, leanbh	-
 🧑‍🧒‍🧒	teaghlach duine fásta, leanbh, leanbh	-
 👣	loirg choise	-
+🫆	méarlorg	-
 🦰	gruaig rua	-
 🦱	gruaig chatach	-
 🦳	gruaig bhán	-
@@ -953,6 +955,11 @@ _	líne íseal	-
 🐚	sliogán	-
 🪸	coiréal	-
 🪼	smugairle róin	-
+🦀	portán	-
+🦞	gliomach	-
+🦐	ribe róibéis	-
+🦑	scuid	-
+🦪	oisre	-
 🐌	seilide	-
 🦋	féileacán	-
 🐛	míol	-
@@ -997,6 +1004,7 @@ _	líne íseal	-
 🪹	nead fholamh	-
 🪺	nead le huibheacha	-
 🍄	beacán	-
+🪾	crann lom	-
 🍇	caora fíniúna	-
 🍈	mealbhacán	-
 🍉	mealbhacán uisce	-
@@ -1035,6 +1043,7 @@ _	líne íseal	-
 🫚	sinséar fréimhe	-
 🫛	faighneog pise	-
 🍄‍🟫	beacán donn	-
+🫜	glasra fréimhe	-
 🍞	arán	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1086,11 +1095,6 @@ _	líne íseal	-
 🥟	domplagán	-
 🥠	brioscán feasa	-
 🥡	bosca beir leat	-
-🦀	portán	-
-🦞	gliomach	-
-🦐	ribe róibéis	-
-🦑	scuid	-
-🦪	oisre	-
 🍦	uachtar reoite coipthe	-
 🍧	oighear bearrtha	-
 🍨	uachtar reoite	-
@@ -1511,6 +1515,7 @@ _	líne íseal	-
 🪘	druma fada	-
 🪇	maracas	-
 🪈	fliúit	-
+🪉	cláirseach	-
 📱	guthán	-
 📲	guthán le saighead	-
 ☎	teileafón	-
@@ -1649,6 +1654,7 @@ _	líne íseal	-
 🧰	bosca uirlisí	-
 🧲	maighnéad	-
 🪜	dréimire	-
+🪏	sluasaid	-
 ⚗	leamóg	-
 🧪	triaileadán	-
 🧫	mias Petri	-
@@ -1835,6 +1841,7 @@ _	líne íseal	-
 ©	cóipcheart	-
 ®	cláraithe	-
 ™	comhartha trádmhairc	-
+🫟	stealladh	-
 🔠	ceannlitreacha Laidineacha ionchuir	-
 🔡	mionlitreacha Laidineacha ionchuir	-
 🔢	uimhreacha ionchuir	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	rúipí na hIndia	-
 ₽	rúbal	-
 ₿	bonn giotáin	-
-₨	rúipí	-
-﷼	rial	-
 ¹	aon forscríofa	-
 ²	dó forscríofa	-
 ³	trí forscríofa	-
+₨	rúipí	-
 µ	comhartha micre	-
+﷼	rial	-
 👋🏻	lámh ag croitheadh ton cnis geal	-
 👋🏼	lámh ag croitheadh ton cnis mheánach-gheal	-
 👋🏽	lámh ag croitheadh ton cnis meánach	-

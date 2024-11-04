@@ -405,6 +405,7 @@ _	xariiq hoose	-
 😪	waji hurdeysan	-
 🤤	waji dhareer	-
 😴	waji hurdadeysan	-
+🫩	weji ay baagag uga hoos yaalan indhaha	-
 😷	waji maaskaro caafimaad leh	-
 🤒	waji leh heerkulbeegga	-
 🤕	waji leh faashid madaxeed	-
@@ -840,6 +841,7 @@ _	xariiq hoose	-
 🧑‍🧒	qoys qof weyn, ilmo	-
 🧑‍🧒‍🧒	qoys qof weyn, ilmo, ilmo	-
 👣	raadad	-
+🫆	sawirka faraha	-
 🦰	timo cas	-
 🦱	timo walaaqan	-
 🦳	caddaan	-
@@ -953,6 +955,11 @@ _	xariiq hoose	-
 🐚	xanjaleel wareegaya	-
 🪸	dhagax badeed	-
 🪼	kaluun qolof leh	-
+🦀	carsaanyo	-
+🦞	argoosto	-
+🦐	kalluun qolof la shiilay	-
+🦑	xayawaan badeed	-
+🦪	lohod	-
 🐌	dixiri qolof leh	-
 🦋	balanbaalis	-
 🐛	kutaan	-
@@ -997,9 +1004,10 @@ _	xariiq hoose	-
 🪹	buul faaruq ah	-
 🪺	buul leh ukumo	-
 🍄	barkin waraabe	-
+🪾	geed caleen la’aan ah	-
 🍇	canab	-
-🍈	qare	-
-🍉	xab-xab	-
+🍈	batiikh	-
+🍉	qare	-
 🍊	liin banbeelo	-
 🍋	liin dhannaan	-
 🍋‍🟩	lin	-
@@ -1035,6 +1043,7 @@ _	xariiq hoose	-
 🫚	xidid sinjibiil	-
 🫛	Qubka digirta	-
 🍄‍🟫	boqoshaa bunni ah	-
+🫜	khudradda xididka ah	-
 🍞	rooti	-
 🥐	qureec faransiis macaan	-
 🥖	rootiga baguette-ka	-
@@ -1086,11 +1095,6 @@ _	xariiq hoose	-
 🥟	cajiimid	-
 🥠	buskud macaan	-
 🥡	sabduuqa lohodka lagu qaato	-
-🦀	carsaanyo	-
-🦞	argoosto	-
-🦐	kalluun qolof la shiilay	-
-🦑	xayawaan badeed	-
-🦪	lohod	-
 🍦	jallaato jilicsan	-
 🍧	macmacaan baraf la buburiyay	-
 🍨	jallaato	-
@@ -1511,6 +1515,7 @@ _	xariiq hoose	-
 🪘	durbaan dheer	-
 🪇	maracas	-
 🪈	biibiile	-
+🪉	gitaar	-
 📱	moobil	-
 📲	moobil leh xariiq	-
 ☎	telefoon	-
@@ -1649,6 +1654,7 @@ _	xariiq hoose	-
 🧰	tuulbogos	-
 🧲	birlab	-
 🪜	jaranjaro	-
+🪏	badeel	-
 ⚗	qalab nadiifin	-
 🧪	tuyuubka tijaabinta	-
 🧫	saxan wax laga dhex arki karo	-
@@ -1835,6 +1841,7 @@ _	xariiq hoose	-
 ©	xuquuqda daabacaadda	-
 ®	diiwaan gashan	-
 ™	sumadda ganacsiga	-
+🫟	firdhiye	-
 🔠	geli xarfa weyn oo latin ah	-
 🔡	geli xarfo latin oo yar yar	-
 🔢	geli tirooyin	-
@@ -1934,12 +1941,12 @@ $	doolar	-
 ₹	rubiiska hindiya	-
 ₽	cutub lacageedka raashiya	-
 ₿	bitkoyn	-
-₨	rupee	-
-﷼	rial	-
 ¹	calaamada koobaad	-
 ²	calaamada labaad	-
 ³	calaamda sadexaad	-
+₨	rupee	-
 µ	astaanta micro	-
+﷼	rial	-
 👋🏻	gacan haadin jidh fudud	-
 👋🏼	gacan haadin jidh fudud oo dhexe	-
 👋🏽	gacan haadin jidh nooc dhexe	-
@@ -4106,7 +4113,7 @@ $	doolar	-
 🇹🇭	calan Taylaand	-
 🇹🇯	calan Tajikistan	-
 🇹🇰	calan Tokelaaw	-
-🇹🇱	calan Timoor	-
+🇹🇱	calan Timor-Leste	-
 🇹🇲	calan Turkmenistan	-
 🇹🇳	calan Tuniisiya	-
 🇹🇴	calan Tonga	-
@@ -4122,7 +4129,7 @@ $	doolar	-
 🇺🇸	calan Maraykanka	-
 🇺🇾	calan Uruguwaay	-
 🇺🇿	calan Usbakistan	-
-🇻🇦	calan Faatikaan	-
+🇻🇦	calan Magaalada Faatikaan	-
 🇻🇨	calan St. Finsent & Girenadiins	-
 🇻🇪	calan Fenisuweela	-
 🇻🇬	calan Biritish Farjin Island	-

@@ -405,6 +405,7 @@ _	alt çizgi	-
 😪	uykulu yüz	-
 🤤	salya akıtan yüz	-
 😴	uyuyan yüz	-
+🫩	gözlerinin altı torbalı yüz	-
 😷	maskeli yüz	-
 🤒	ağzında termometre olan yüz	-
 🤕	kafası sarılı yüz	-
@@ -840,6 +841,7 @@ _	alt çizgi	-
 🧑‍🧒	aile yetişkin, çocuk	-
 🧑‍🧒‍🧒	aile yetişkin, çocuk, çocuk	-
 👣	ayak izi	-
+🫆	parmak izi	-
 🦰	kızıl saç	-
 🦱	kıvırcık saç	-
 🦳	beyaz saç	-
@@ -953,6 +955,11 @@ _	alt çizgi	-
 🐚	deniz kabuğu	-
 🪸	mercan	-
 🪼	denizanası	-
+🦀	yengeç	-
+🦞	ıstakoz	-
+🦐	karides	-
+🦑	mürekkep balığı	-
+🦪	istiridye	-
 🐌	salyangoz	-
 🦋	kelebek	-
 🐛	tırtıl	-
@@ -997,6 +1004,7 @@ _	alt çizgi	-
 🪹	boş yuva	-
 🪺	yumurta bulunan yuva	-
 🍄	mantar	-
+🪾	yapraksız ağaç	-
 🍇	üzüm	-
 🍈	kavun	-
 🍉	karpuz	-
@@ -1035,6 +1043,7 @@ _	alt çizgi	-
 🫚	kök zencefil	-
 🫛	kabuklu bezelye	-
 🍄‍🟫	kahverengi mantar	-
+🫜	kök sebze	-
 🍞	ekmek	-
 🥐	kruvasan	-
 🥖	baget ekmek	-
@@ -1086,11 +1095,6 @@ _	alt çizgi	-
 🥟	mantı	-
 🥠	fal kurabiyesi	-
 🥡	yiyecek paketi	-
-🦀	yengeç	-
-🦞	ıstakoz	-
-🦐	karides	-
-🦑	mürekkep balığı	-
-🦪	istiridye	-
 🍦	yumuşak dondurma	-
 🍧	meyveli buz	-
 🍨	dondurma	-
@@ -1511,6 +1515,7 @@ _	alt çizgi	-
 🪘	uzun davul	-
 🪇	marakas	-
 🪈	flüt	-
+🪉	arp	-
 📱	cep telefonu	-
 📲	ok işaretli cep telefonu	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	alt çizgi	-
 🧰	alet çantası	-
 🧲	mıknatıs	-
 🪜	merdiven	-
+🪏	kürek	-
 ⚗	imbik	-
 🧪	deney tüpü	-
 🧫	petri kabı	-
@@ -1835,6 +1841,7 @@ _	alt çizgi	-
 ©	telif hakkı işareti	-
 ®	tescil işareti	-
 ™	ticari marka işareti	-
+🫟	sıçratma	-
 🔠	büyük harfler	-
 🔡	küçük harfler	-
 🔢	sayılar	-
@@ -1934,12 +1941,12 @@ $	dolar	-
 ₹	hint rupisi	-
 ₽	ruble	-
 ₿	bitcoin	-
-₨	rupi	-
-﷼	riyal	-
 ¹	üs bir	-
 ²	üs iki	-
 ³	üs üç	-
+₨	rupi	-
 µ	mikro işareti	-
+﷼	riyal	-
 👋🏻	el sallama açık cilt tonu	-
 👋🏼	el sallama orta açık cilt tonu	-
 👋🏽	el sallama orta cilt tonu	-

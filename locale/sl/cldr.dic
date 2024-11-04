@@ -405,6 +405,7 @@ _	podčrtaj	-
 😪	zaspan obraz	-
 🤤	obraz, ki se slini	-
 😴	speči obraz	-
+🫩	obraz s podočnjaki	-
 😷	obraz z medicinsko masko	-
 🤒	obraz s termometrom	-
 🤕	obraz, obvezan s povojem	-
@@ -835,11 +836,12 @@ _	podčrtaj	-
 👥	silhueti doprsja	-
 🫂	osebi, ki se objemata	-
 👪	družina	-
-🧑‍🧑‍🧒	družina odrasla oseba, odrasla oseba, otrok	-
-🧑‍🧑‍🧒‍🧒	družina odrasla oseba, odrasla oseba, otrok, otrok	-
+🧑‍🧑‍🧒	družina odrasel, odrasel, otrok	-
+🧑‍🧑‍🧒‍🧒	družina odrasel, odrasel, otrok, otrok	-
 🧑‍🧒	družina odrasla oseba, otrok	-
 🧑‍🧒‍🧒	družina odrasla oseba, otrok, otrok	-
 👣	stopinje	-
+🫆	prstni odtis	-
 🦰	rdeči lasje	-
 🦱	kodrasti lasje	-
 🦳	sivi lasje	-
@@ -953,6 +955,11 @@ _	podčrtaj	-
 🐚	spiralna školjka	-
 🪸	korala	-
 🪼	meduza	-
+🦀	rakovica	-
+🦞	jastog	-
+🦐	morski rakec	-
+🦑	ligenj	-
+🦪	ostriga	-
 🐌	polž	-
 🦋	metulj	-
 🐛	žuželka	-
@@ -997,6 +1004,7 @@ _	podčrtaj	-
 🪹	prazno gnezdo	-
 🪺	gnezdo z jajcema	-
 🍄	goba	-
+🪾	drevo brez listja	-
 🍇	grozdje	-
 🍈	melona	-
 🍉	lubenica	-
@@ -1035,6 +1043,7 @@ _	podčrtaj	-
 🫚	korenina ingverja	-
 🫛	strok graha	-
 🍄‍🟫	šampinjon	-
+🫜	korenasta zelenjava	-
 🍞	kruh	-
 🥐	rogljič	-
 🥖	bageta	-
@@ -1086,11 +1095,6 @@ _	podčrtaj	-
 🥟	cmok	-
 🥠	piškotek sreče	-
 🥡	embalaža za hrano	-
-🦀	rakovica	-
-🦞	jastog	-
-🦐	morski rakec	-
-🦑	ligenj	-
-🦪	ostriga	-
 🍦	rahel sladoled	-
 🍧	nastrgan led	-
 🍨	sladoled	-
@@ -1511,6 +1515,7 @@ _	podčrtaj	-
 🪘	visok boben	-
 🪇	marake	-
 🪈	flavta	-
+🪉	harfa	-
 📱	mobilni telefon	-
 📲	mobilni telefon s puščico	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	podčrtaj	-
 🧰	zaboj za orodje	-
 🧲	magnet	-
 🪜	lestev	-
+🪏	lopata	-
 ⚗	destilator	-
 🧪	epruveta	-
 🧫	petrijevka	-
@@ -1835,6 +1841,7 @@ _	podčrtaj	-
 ©	avtorske pravice	-
 ®	registrirano	-
 ™	blagovna znamka	-
+🫟	packa	-
 🔠	vnos velikih črk latinice	-
 🔡	vnos malih črk latinice	-
 🔢	vnos številk	-
@@ -1934,12 +1941,12 @@ $	dolar	-
 ₹	indijska rupija	-
 ₽	rubelj	-
 ₿	bitcoin	-
-₨	rupija	-
-﷼	rial	-
 ¹	nadpisana enka	-
 ²	nadpisana dvojka	-
 ³	nadpisana trojka	-
+₨	rupija	-
 µ	znak za mikro	-
+﷼	rial	-
 👋🏻	mahajoča dlan svetel ten kože	-
 👋🏼	mahajoča dlan srednje svetel ten kože	-
 👋🏽	mahajoča dlan srednji ten kože	-
@@ -4153,7 +4160,7 @@ $	dolar	-
 ₴	ukrajinska grivna	-
 ₵	ganski cedi	-
 ₸	kazahstanski tenge	-
-₺	nova turška lira	-
+₺	turška lira	-
 ₼	azerbajdžanski manat	-
 ₾	gruzijski lari	-
 ₧	španska pezeta	-

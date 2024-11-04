@@ -405,6 +405,7 @@ _	vijë e ulët	-
 😪	fytyrë e përgjumur	-
 🤤	fytyrë jargëse	-
 😴	fytyrë në gjumë	-
+🫩	fytyrë me qeska poshtë syve	-
 😷	fytyrë me maskë mjekësore	-
 🤒	fytyrë me termometër	-
 🤕	fytyrë me fashë në kokë	-
@@ -840,6 +841,7 @@ _	vijë e ulët	-
 🧑‍🧒	familje i rritur, fëmijë	-
 🧑‍🧒‍🧒	familje i rritur, fëmijë, fëmijë	-
 👣	gjurmë këmbësh	-
+🫆	gjurmë gishti	-
 🦰	flokë të kuqe	-
 🦱	flokë kaçurrele	-
 🦳	flokë të bardha	-
@@ -953,6 +955,11 @@ _	vijë e ulët	-
 🐚	guaskë spirale	-
 🪸	koral	-
 🪼	kandil deti	-
+🦀	gaforre	-
+🦞	karavidhe	-
+🦐	karkalec deti	-
+🦑	kallamar	-
+🦪	gocë deti	-
 🐌	kërmill	-
 🦋	flutur	-
 🐛	shumëkëmbësh	-
@@ -997,6 +1004,7 @@ _	vijë e ulët	-
 🪹	fole bosh	-
 🪺	fole me vezë	-
 🍄	kërpudhë	-
+🪾	pemë e zhveshur	-
 🍇	rrush	-
 🍈	pjepër	-
 🍉	shalqi	-
@@ -1035,6 +1043,7 @@ _	vijë e ulët	-
 🫚	rrënjë xhenxhefili	-
 🫛	bizele bishtajë	-
 🍄‍🟫	kërpudhë kafe	-
+🫜	perime me rrënjë	-
 🍞	bukë	-
 🥐	kroasant	-
 🥖	bagetë	-
@@ -1086,11 +1095,6 @@ _	vijë e ulët	-
 🥟	top brumi i mbushur	-
 🥠	biskotë fati	-
 🥡	kuti për ushqim me vete	-
-🦀	gaforre	-
-🦞	karavidhe	-
-🦐	karkalec deti	-
-🦑	kallamar	-
-🦪	gocë deti	-
 🍦	akullore e butë	-
 🍧	akull i grirë	-
 🍨	akullore	-
@@ -1511,6 +1515,7 @@ _	vijë e ulët	-
 🪘	daulle e gjatë	-
 🪇	maraka	-
 🪈	flaut	-
+🪉	harpë	-
 📱	celular	-
 📲	celular me shigjetë	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	vijë e ulët	-
 🧰	kuti veglash	-
 🧲	magnet	-
 🪜	shkallë	-
+🪏	lopatë	-
 ⚗	lambik	-
 🧪	epruvetë	-
 🧫	lamelë	-
@@ -1835,6 +1841,7 @@ _	vijë e ulët	-
 ©	të drejtat e autorit	-
 ®	i regjistruar	-
 ™	markë tregtare	-
+🫟	spërkë	-
 🔠	fut shkronja latine kapitale	-
 🔡	fut shkronja latine jokapitale	-
 🔢	fut numra	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	rupi indiane	-
 ₽	rubël	-
 ₿	bitcoin	-
-₨	rupje	-
-﷼	rial	-
 ¹	një me superskript	-
 ²	dy me superskript	-
 ³	tre me superskript	-
+₨	rupje	-
 µ	shenja mikro	-
+﷼	rial	-
 👋🏻	dorë që tundet nuancë lëkure e çelët	-
 👋🏼	dorë që tundet nuancë lëkure gjysmë e çelët	-
 👋🏽	dorë që tundet nuancë lëkure zeshkane	-

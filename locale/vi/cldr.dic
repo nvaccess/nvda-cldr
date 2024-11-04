@@ -405,6 +405,7 @@ _	dấu gạch dưới	-
 😪	mặt buồn ngủ	-
 🤤	mặt chảy dãi	-
 😴	mặt đang ngủ	-
+🫩	mặt có túi mắt	-
 😷	mặt đeo khẩu trang y tế	-
 🤒	mặt có miệng ngậm nhiệt kế	-
 🤕	mặt đeo băng đầu	-
@@ -840,6 +841,7 @@ _	dấu gạch dưới	-
 🧑‍🧒	gia đình người lớn, trẻ em	-
 🧑‍🧒‍🧒	gia đình người lớn, trẻ em, trẻ em	-
 👣	dấu chân	-
+🫆	dấu vân tay	-
 🦰	tóc đỏ	-
 🦱	tóc xoăn	-
 🦳	tóc trắng	-
@@ -953,6 +955,11 @@ _	dấu gạch dưới	-
 🐚	vỏ xoắn ốc	-
 🪸	san hô	-
 🪼	sứa	-
+🦀	cua	-
+🦞	tôm hùm	-
+🦐	tôm	-
+🦑	mực ống	-
+🦪	hàu	-
 🐌	ốc sên	-
 🦋	bướm	-
 🐛	con bọ	-
@@ -997,6 +1004,7 @@ _	dấu gạch dưới	-
 🪹	tổ trống rỗng	-
 🪺	tổ có trứng	-
 🍄	nấm	-
+🪾	cây trụi lá	-
 🍇	chùm nho	-
 🍈	dưa	-
 🍉	dưa hấu	-
@@ -1035,6 +1043,7 @@ _	dấu gạch dưới	-
 🫚	củ gừng	-
 🫛	đậu Hà Lan	-
 🍄‍🟫	nấm màu nâu	-
+🫜	rau củ	-
 🍞	bánh mì	-
 🥐	bánh sừng bò	-
 🥖	bánh mì que	-
@@ -1086,11 +1095,6 @@ _	dấu gạch dưới	-
 🥟	bánh bao	-
 🥠	bánh quy may mắn	-
 🥡	hộp đựng đồ ăn mang đi	-
-🦀	cua	-
-🦞	tôm hùm	-
-🦐	tôm	-
-🦑	mực ống	-
-🦪	hàu	-
 🍦	kem mềm	-
 🍧	đá bào	-
 🍨	kem	-
@@ -1511,6 +1515,7 @@ _	dấu gạch dưới	-
 🪘	trống dài	-
 🪇	maraca	-
 🪈	sáo	-
+🪉	đàn hạc	-
 📱	điện thoại di động	-
 📲	điện thoại di động có mũi tên	-
 ☎	điện thoại bàn	-
@@ -1649,6 +1654,7 @@ _	dấu gạch dưới	-
 🧰	hộp dụng cụ	-
 🧲	nam châm	-
 🪜	thang	-
+🪏	xẻng	-
 ⚗	bình chưng cất	-
 🧪	ống nghiệm	-
 🧫	đĩa petri	-
@@ -1835,6 +1841,7 @@ _	dấu gạch dưới	-
 ©	bản quyền	-
 ®	đã đăng ký	-
 ™	nhãn hiệu	-
+🫟	bắn tung tóe	-
 🔠	nhập chữ hoa la tinh	-
 🔡	nhập chữ thường la tinh	-
 🔢	nhập số	-
@@ -1934,12 +1941,12 @@ $	đô la	-
 ₹	rupee Ấn Độ	-
 ₽	rúp	-
 ₿	bitcoin	-
-₨	rupee	-
-﷼	rial	-
 ¹	mũ một	-
 ²	mũ hai	-
 ³	mũ ba	-
+₨	rupee	-
 µ	ký hiệu micro	-
+﷼	rial	-
 👋🏻	vẫy tay màu da sáng	-
 👋🏼	vẫy tay màu da sáng trung bình	-
 👋🏽	vẫy tay màu da trung bình	-
@@ -4118,7 +4125,7 @@ $	đô la	-
 🇺🇦	cờ Ukraina	-
 🇺🇬	cờ Uganda	-
 🇺🇲	cờ Các tiểu đảo xa của Hoa Kỳ	-
-🇺🇳	cờ Liên hiệp quốc	-
+🇺🇳	cờ Liên hợp quốc	-
 🇺🇸	cờ Hoa Kỳ	-
 🇺🇾	cờ Uruguay	-
 🇺🇿	cờ Uzbekistan	-

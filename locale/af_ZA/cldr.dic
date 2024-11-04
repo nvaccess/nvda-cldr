@@ -349,10 +349,10 @@ _	onderste streep	-
 ♭	mol	-
 ♯	kruis	-
 😀	grinnikende gesig	-
-😃	glimlaggende gesig met oop mond	-
-😄	gesig en oë glimlag	-
-😁	grinnikende gesig met glimlaggende oë	-
-😆	glimlaggende gesig met toe oë toe	-
+😃	grinnikende gesiggie met groot oë	-
+😄	grinnikende gesiggie met glimlaggende oë	-
+😁	stralende gesiggie met glimlaggende oë	-
+😆	grynslaggesiggie met toegeknypte oë	-
 😅	lag gesig met sweet	-
 🤣	gesig wat hard lag	-
 😂	gesig met trane van vreugde	-
@@ -405,6 +405,7 @@ _	onderste streep	-
 😪	vaak gesig	-
 🤤	gesig wat kwyl	-
 😴	gesig wat slaap	-
+🫩	gesig met sakke onder oë	-
 😷	gesig met mediese masker	-
 🤒	gesig met koorspen	-
 🤕	gesig met kopverband	-
@@ -840,6 +841,7 @@ _	onderste streep	-
 🧑‍🧒	gesin grootmens, kind	-
 🧑‍🧒‍🧒	gesin grootmens, kind, kind	-
 👣	voetspore	-
+🫆	vingerafdruk	-
 🦰	rooi hare	-
 🦱	krulhare	-
 🦳	wit hare	-
@@ -953,6 +955,11 @@ _	onderste streep	-
 🐚	spiraalskulp	-
 🪸	koraal	-
 🪼	jellievis	-
+🦀	krap	-
+🦞	kreef	-
+🦐	garnaal	-
+🦑	inkvis	-
+🦪	oester	-
 🐌	slak	-
 🦋	skoenlapper	-
 🐛	gogga	-
@@ -997,6 +1004,7 @@ _	onderste streep	-
 🪹	leë nes	-
 🪺	nes met eiers	-
 🍄	sampioen	-
+🪾	blaarlose boom	-
 🍇	druiwe	-
 🍈	spanspek	-
 🍉	waatlemoen	-
@@ -1035,6 +1043,7 @@ _	onderste streep	-
 🫚	gemmerwortel	-
 🫛	ertjiepeul	-
 🍄‍🟫	bruin sampioen	-
+🫜	wortelgroente	-
 🍞	brood	-
 🥐	croissant	-
 🥖	baguette	-
@@ -1086,11 +1095,6 @@ _	onderste streep	-
 🥟	kluitjie	-
 🥠	fortuinkoekie	-
 🥡	wegneemeteboks	-
-🦀	krap	-
-🦞	kreef	-
-🦐	garnaal	-
-🦑	inkvis	-
-🦪	oester	-
 🍦	sagte roomys	-
 🍧	ysskaafsels	-
 🍨	roomys	-
@@ -1511,6 +1515,7 @@ _	onderste streep	-
 🪘	lang drom	-
 🪇	marakkas	-
 🪈	fluit	-
+🪉	harp	-
 📱	selfoon	-
 📲	selfoon met pyl	-
 ☎	telefoon	-
@@ -1649,6 +1654,7 @@ _	onderste streep	-
 🧰	gereedskaptrommel	-
 🧲	magneet	-
 🪜	leer	-
+🪏	graaf	-
 ⚗	alembiek	-
 🧪	proefbuis	-
 🧫	petribakkie	-
@@ -1835,6 +1841,7 @@ _	onderste streep	-
 ©	kopieregmerk	-
 ®	registrasiemerk	-
 ™	handelmerk	-
+🫟	spat	-
 🔠	invoer- Latynse bokas	-
 🔡	invoer- Latynse onderkas	-
 🔢	invoersyfers	-
@@ -1911,8 +1918,8 @@ _	onderste streep	-
 🏁	ruitvlag	-
 🚩	driehoekige vlag	-
 🎌	gekruiste vlae	-
-🏴	wapperende swart vlag	-
-🏳	wapperende wit vlag	-
+🏴	swart vlag	-
+🏳	wit vlag	-
 🏳‍🌈	reënboogvlag	-
 🏳‍⚧	transgendervlag	-
 🏴‍☠	seerowervlag	-
@@ -1934,12 +1941,12 @@ $	dollar	-
 ₹	indiese roepee	-
 ₽	roebel	-
 ₿	bitcoin	-
-₨	roepee	-
-﷼	rial	-
 ¹	boskrif-een	-
 ²	boskrif twee	-
 ³	boskrifdrie	-
+₨	roepee	-
 µ	mikroteken	-
+﷼	rial	-
 👋🏻	wuiwende hand ligte velkleur	-
 👋🏼	wuiwende hand medium-ligte velkleur	-
 👋🏽	wuiwende hand medium velkleur	-
@@ -1970,26 +1977,26 @@ $	dollar	-
 🫱🏽	hand na regs medium velkleur	-
 🫱🏾	hand na regs medium-donker velkleur	-
 🫱🏿	hand na regs donker velkleur	-
-🫱🏻‍🫲🏼	handskud ligte velkleur en medium-ligte velkleur	-
-🫱🏻‍🫲🏽	handskud ligte velkleur en medium velkleur	-
-🫱🏻‍🫲🏾	handskud ligte velkleur en medium-donker velkleur	-
-🫱🏻‍🫲🏿	handskud ligte velkleur en donker velkleur	-
-🫱🏼‍🫲🏻	handskud medium-ligte velkleur en ligte velkleur	-
-🫱🏼‍🫲🏽	handskud medium-ligte velkleur en medium velkleur	-
-🫱🏼‍🫲🏾	handskud medium-ligte velkleur en medium-donker velkleur	-
-🫱🏼‍🫲🏿	handskud medium-ligte velkleur en donker velkleur	-
-🫱🏽‍🫲🏻	handskud medium velkleur en ligte velkleur	-
-🫱🏽‍🫲🏼	handskud medium velkleur en medium-ligte velkleur	-
-🫱🏽‍🫲🏾	handskud medium velkleur en medium-donker velkleur	-
-🫱🏽‍🫲🏿	handskud medium velkleur en donker velkleur	-
-🫱🏾‍🫲🏻	handskud medium-donker velkleur en ligte velkleur	-
-🫱🏾‍🫲🏼	handskud medium-donker velkleur en medium-ligte velkleur	-
-🫱🏾‍🫲🏽	handskud medium-donker velkleur en medium velkleur	-
-🫱🏾‍🫲🏿	handskud medium-donker velkleur en donker velkleur	-
-🫱🏿‍🫲🏻	handskud donker velkleur en ligte velkleur	-
-🫱🏿‍🫲🏼	handskud donker velkleur en medium-ligte velkleur	-
-🫱🏿‍🫲🏽	handskud donker velkleur en medium velkleur	-
-🫱🏿‍🫲🏾	handskud donker velkleur en medium-donker velkleur	-
+🫱🏻‍🫲🏼	handskud ligte velkleur, medium-ligte velkleur	-
+🫱🏻‍🫲🏽	handskud ligte velkleur, medium velkleur	-
+🫱🏻‍🫲🏾	handskud ligte velkleur, medium-donker velkleur	-
+🫱🏻‍🫲🏿	handskud ligte velkleur, donker velkleur	-
+🫱🏼‍🫲🏻	handskud medium-ligte velkleur, ligte velkleur	-
+🫱🏼‍🫲🏽	handskud medium-ligte velkleur, medium velkleur	-
+🫱🏼‍🫲🏾	handskud medium-ligte velkleur, medium-donker velkleur	-
+🫱🏼‍🫲🏿	handskud medium-ligte velkleur, donker velkleur	-
+🫱🏽‍🫲🏻	handskud medium velkleur, ligte velkleur	-
+🫱🏽‍🫲🏼	handskud medium velkleur, medium-ligte velkleur	-
+🫱🏽‍🫲🏾	handskud medium velkleur, medium-donker velkleur	-
+🫱🏽‍🫲🏿	handskud medium velkleur, donker velkleur	-
+🫱🏾‍🫲🏻	handskud medium-donker velkleur, ligte velkleur	-
+🫱🏾‍🫲🏼	handskud medium-donker velkleur, medium-ligte velkleur	-
+🫱🏾‍🫲🏽	handskud medium-donker velkleur, medium velkleur	-
+🫱🏾‍🫲🏿	handskud medium-donker velkleur, donker velkleur	-
+🫱🏿‍🫲🏻	handskud donker velkleur, ligte velkleur	-
+🫱🏿‍🫲🏼	handskud donker velkleur, medium-ligte velkleur	-
+🫱🏿‍🫲🏽	handskud donker velkleur, medium velkleur	-
+🫱🏿‍🫲🏾	handskud donker velkleur, medium-donker velkleur	-
 🫲🏻	hand na links ligte velkleur	-
 🫲🏼	hand na links medium-ligte velkleur	-
 🫲🏽	hand na links medium velkleur	-
@@ -2235,70 +2242,70 @@ $	dollar	-
 👱🏽	persoon met blonde hare medium velkleur	-
 👱🏾	persoon met blonde hare medium-donker velkleur	-
 👱🏿	persoon met blonde hare donker velkleur	-
-🧑🏻‍❤‍💋‍🧑🏼	soen volwassene, volwassene, ligte velkleur en medium-ligte velkleur	-
-🧑🏻‍❤‍💋‍🧑🏽	soen volwassene, volwassene, ligte velkleur en medium velkleur	-
-🧑🏻‍❤‍💋‍🧑🏾	soen volwassene, volwassene, ligte velkleur en medium-donker velkleur	-
-🧑🏻‍❤‍💋‍🧑🏿	soen volwassene, volwassene, ligte velkleur en donker velkleur	-
-🧑🏼‍❤‍💋‍🧑🏻	soen volwassene, volwassene, medium-ligte velkleur en ligte velkleur	-
-🧑🏼‍❤‍💋‍🧑🏽	soen volwassene, volwassene, medium-ligte velkleur en medium velkleur	-
-🧑🏼‍❤‍💋‍🧑🏾	soen volwassene, volwassene, medium-ligte velkleur en medium-donker velkleur	-
-🧑🏼‍❤‍💋‍🧑🏿	soen volwassene, volwassene, medium-ligte velkleur en donker velkleur	-
-🧑🏽‍❤‍💋‍🧑🏻	soen volwassene, volwassene, medium velkleur en ligte velkleur	-
-🧑🏽‍❤‍💋‍🧑🏼	soen volwassene, volwassene, medium velkleur en medium-ligte velkleur	-
-🧑🏽‍❤‍💋‍🧑🏾	soen volwassene, volwassene, medium velkleur en medium-donker velkleur	-
-🧑🏽‍❤‍💋‍🧑🏿	soen volwassene, volwassene, medium velkleur en donker velkleur	-
-🧑🏾‍❤‍💋‍🧑🏻	soen volwassene, volwassene, medium-donker velkleur en ligte velkleur	-
-🧑🏾‍❤‍💋‍🧑🏼	soen volwassene, volwassene, medium-donker velkleur en medium-ligte velkleur	-
-🧑🏾‍❤‍💋‍🧑🏽	soen volwassene, volwassene, medium-donker velkleur en medium velkleur	-
-🧑🏾‍❤‍💋‍🧑🏿	soen volwassene, volwassene, medium-donker velkleur en donker velkleur	-
-🧑🏿‍❤‍💋‍🧑🏻	soen volwassene, volwassene, donker velkleur en ligte velkleur	-
-🧑🏿‍❤‍💋‍🧑🏼	soen volwassene, volwassene, donker velkleur en medium-ligte velkleur	-
-🧑🏿‍❤‍💋‍🧑🏽	soen volwassene, volwassene, donker velkleur en medium velkleur	-
-🧑🏿‍❤‍💋‍🧑🏾	soen volwassene, volwassene, donker velkleur en medium-donker velkleur	-
-🧑🏻‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, ligte velkleur en medium-ligte velkleur	-
-🧑🏻‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, ligte velkleur en medium velkleur	-
-🧑🏻‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, ligte velkleur en medium-donker velkleur	-
-🧑🏻‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, ligte velkleur en donker velkleur	-
-🧑🏼‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur en ligte velkleur	-
-🧑🏼‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur en medium velkleur	-
-🧑🏼‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur en medium-donker velkleur	-
-🧑🏼‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur en donker velkleur	-
-🧑🏽‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, medium velkleur en ligte velkleur	-
-🧑🏽‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, medium velkleur en medium-ligte velkleur	-
-🧑🏽‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, medium velkleur en medium-donker velkleur	-
-🧑🏽‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, medium velkleur en donker velkleur	-
-🧑🏾‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, medium-donker velkleur en ligte velkleur	-
-🧑🏾‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, medium-donker velkleur en medium-ligte velkleur	-
-🧑🏾‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, medium-donker velkleur en medium velkleur	-
-🧑🏾‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, medium-donker velkleur en donker velkleur	-
-🧑🏿‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, donker velkleur en ligte velkleur	-
-🧑🏿‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, donker velkleur en medium-ligte velkleur	-
-🧑🏿‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, donker velkleur en medium velkleur	-
-🧑🏿‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, donker velkleur en medium-donker velkleur	-
+🧑🏻‍❤‍💋‍🧑🏼	soen volwassene, volwassene, ligte velkleur, medium-ligte velkleur	-
+🧑🏻‍❤‍💋‍🧑🏽	soen volwassene, volwassene, ligte velkleur, medium velkleur	-
+🧑🏻‍❤‍💋‍🧑🏾	soen volwassene, volwassene, ligte velkleur, medium-donker velkleur	-
+🧑🏻‍❤‍💋‍🧑🏿	soen volwassene, volwassene, ligte velkleur, donker velkleur	-
+🧑🏼‍❤‍💋‍🧑🏻	soen volwassene, volwassene, medium-ligte velkleur, ligte velkleur	-
+🧑🏼‍❤‍💋‍🧑🏽	soen volwassene, volwassene, medium-ligte velkleur, medium velkleur	-
+🧑🏼‍❤‍💋‍🧑🏾	soen volwassene, volwassene, medium-ligte velkleur, medium-donker velkleur	-
+🧑🏼‍❤‍💋‍🧑🏿	soen volwassene, volwassene, medium-ligte velkleur, donker velkleur	-
+🧑🏽‍❤‍💋‍🧑🏻	soen volwassene, volwassene, medium velkleur, ligte velkleur	-
+🧑🏽‍❤‍💋‍🧑🏼	soen volwassene, volwassene, medium velkleur, medium-ligte velkleur	-
+🧑🏽‍❤‍💋‍🧑🏾	soen volwassene, volwassene, medium velkleur, medium-donker velkleur	-
+🧑🏽‍❤‍💋‍🧑🏿	soen volwassene, volwassene, medium velkleur, donker velkleur	-
+🧑🏾‍❤‍💋‍🧑🏻	soen volwassene, volwassene, medium-donker velkleur, ligte velkleur	-
+🧑🏾‍❤‍💋‍🧑🏼	soen volwassene, volwassene, medium-donker velkleur, medium-ligte velkleur	-
+🧑🏾‍❤‍💋‍🧑🏽	soen volwassene, volwassene, medium-donker velkleur, medium velkleur	-
+🧑🏾‍❤‍💋‍🧑🏿	soen volwassene, volwassene, medium-donker velkleur, donker velkleur	-
+🧑🏿‍❤‍💋‍🧑🏻	soen volwassene, volwassene, donker velkleur, ligte velkleur	-
+🧑🏿‍❤‍💋‍🧑🏼	soen volwassene, volwassene, donker velkleur, medium-ligte velkleur	-
+🧑🏿‍❤‍💋‍🧑🏽	soen volwassene, volwassene, donker velkleur, medium velkleur	-
+🧑🏿‍❤‍💋‍🧑🏾	soen volwassene, volwassene, donker velkleur, medium-donker velkleur	-
+🧑🏻‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, ligte velkleur, medium-ligte velkleur	-
+🧑🏻‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, ligte velkleur, medium velkleur	-
+🧑🏻‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, ligte velkleur, medium-donker velkleur	-
+🧑🏻‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, ligte velkleur, donker velkleur	-
+🧑🏼‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur, ligte velkleur	-
+🧑🏼‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur, medium velkleur	-
+🧑🏼‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur, medium-donker velkleur	-
+🧑🏼‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, medium-ligte velkleur, donker velkleur	-
+🧑🏽‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, medium velkleur, ligte velkleur	-
+🧑🏽‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, medium velkleur, medium-ligte velkleur	-
+🧑🏽‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, medium velkleur, medium-donker velkleur	-
+🧑🏽‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, medium velkleur, donker velkleur	-
+🧑🏾‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, medium-donker velkleur, ligte velkleur	-
+🧑🏾‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, medium-donker velkleur, medium-ligte velkleur	-
+🧑🏾‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, medium-donker velkleur, medium velkleur	-
+🧑🏾‍❤‍🧑🏿	paartjie met hartjie volwassene, volwassene, medium-donker velkleur, donker velkleur	-
+🧑🏿‍❤‍🧑🏻	paartjie met hartjie volwassene, volwassene, donker velkleur, ligte velkleur	-
+🧑🏿‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, donker velkleur, medium-ligte velkleur	-
+🧑🏿‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, donker velkleur, medium velkleur	-
+🧑🏿‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, donker velkleur, medium-donker velkleur	-
 🧑‍🦰	volwassene rooi hare	-
-🧑🏻‍🦰	volwassene ligte velkleur en rooi hare	-
-🧑🏼‍🦰	volwassene medium-ligte velkleur en rooi hare	-
-🧑🏽‍🦰	volwassene medium velkleur en rooi hare	-
-🧑🏾‍🦰	volwassene medium-donker velkleur en rooi hare	-
-🧑🏿‍🦰	volwassene donker velkleur en rooi hare	-
+🧑🏻‍🦰	volwassene ligte velkleur, rooi hare	-
+🧑🏼‍🦰	volwassene medium-ligte velkleur, rooi hare	-
+🧑🏽‍🦰	volwassene medium velkleur, rooi hare	-
+🧑🏾‍🦰	volwassene medium-donker velkleur, rooi hare	-
+🧑🏿‍🦰	volwassene donker velkleur, rooi hare	-
 🧑‍🦱	volwassene krulhare	-
-🧑🏻‍🦱	volwassene ligte velkleur en krulhare	-
-🧑🏼‍🦱	volwassene medium-ligte velkleur en krulhare	-
-🧑🏽‍🦱	volwassene medium velkleur en krulhare	-
-🧑🏾‍🦱	volwassene medium-donker velkleur en krulhare	-
-🧑🏿‍🦱	volwassene donker velkleur en krulhare	-
+🧑🏻‍🦱	volwassene ligte velkleur, krulhare	-
+🧑🏼‍🦱	volwassene medium-ligte velkleur, krulhare	-
+🧑🏽‍🦱	volwassene medium velkleur, krulhare	-
+🧑🏾‍🦱	volwassene medium-donker velkleur, krulhare	-
+🧑🏿‍🦱	volwassene donker velkleur, krulhare	-
 🧑‍🦳	volwassene wit hare	-
-🧑🏻‍🦳	volwassene ligte velkleur en wit hare	-
-🧑🏼‍🦳	volwassene medium-ligte velkleur en wit hare	-
-🧑🏽‍🦳	volwassene medium velkleur en wit hare	-
-🧑🏾‍🦳	volwassene medium-donker velkleur en wit hare	-
-🧑🏿‍🦳	volwassene donker velkleur en wit hare	-
+🧑🏻‍🦳	volwassene ligte velkleur, wit hare	-
+🧑🏼‍🦳	volwassene medium-ligte velkleur, wit hare	-
+🧑🏽‍🦳	volwassene medium velkleur, wit hare	-
+🧑🏾‍🦳	volwassene medium-donker velkleur, wit hare	-
+🧑🏿‍🦳	volwassene donker velkleur, wit hare	-
 🧑‍🦲	volwassene bles	-
-🧑🏻‍🦲	volwassene ligte velkleur en bles	-
-🧑🏼‍🦲	volwassene medium-ligte velkleur en bles	-
-🧑🏽‍🦲	volwassene medium velkleur en bles	-
-🧑🏾‍🦲	volwassene medium-donker velkleur en bles	-
-🧑🏿‍🦲	volwassene donker velkleur en bles	-
+🧑🏻‍🦲	volwassene ligte velkleur, bles	-
+🧑🏼‍🦲	volwassene medium-ligte velkleur, bles	-
+🧑🏽‍🦲	volwassene medium velkleur, bles	-
+🧑🏾‍🦲	volwassene medium-donker velkleur, bles	-
+🧑🏿‍🦲	volwassene donker velkleur, bles	-
 👨🏻	man ligte velkleur	-
 👨🏼	man medium-ligte velkleur	-
 👨🏽	man medium velkleur	-
@@ -2309,229 +2316,229 @@ $	dollar	-
 🧔🏽	bebaarde persoon medium velkleur	-
 🧔🏾	bebaarde persoon medium-donker velkleur	-
 🧔🏿	bebaarde persoon donker velkleur	-
-🧔🏻‍♂	man ligte velkleur en baard	-
-🧔🏼‍♂	man medium-ligte velkleur en baard	-
-🧔🏽‍♂	man medium velkleur en baard	-
-🧔🏾‍♂	man medium-donker velkleur en baard	-
-🧔🏿‍♂	man donker velkleur en baard	-
+🧔🏻‍♂	man ligte velkleur, baard	-
+🧔🏼‍♂	man medium-ligte velkleur, baard	-
+🧔🏽‍♂	man medium velkleur, baard	-
+🧔🏾‍♂	man medium-donker velkleur, baard	-
+🧔🏿‍♂	man donker velkleur, baard	-
 👱🏻‍♂	blonde man ligte velkleur	-
 👱🏼‍♂	blonde man medium-ligte velkleur	-
 👱🏽‍♂	blonde man medium velkleur	-
 👱🏾‍♂	blonde man medium-donker velkleur	-
 👱🏿‍♂	blonde man donker velkleur	-
-👨🏻‍❤‍💋‍👨🏻	soen man, man en ligte velkleur	-
-👨🏻‍❤‍💋‍👨🏼	soen man, man, ligte velkleur en medium-ligte velkleur	-
-👨🏻‍❤‍💋‍👨🏽	soen man, man, ligte velkleur en medium velkleur	-
-👨🏻‍❤‍💋‍👨🏾	soen man, man, ligte velkleur en medium-donker velkleur	-
-👨🏻‍❤‍💋‍👨🏿	soen man, man, ligte velkleur en donker velkleur	-
-👨🏼‍❤‍💋‍👨🏻	soen man, man, medium-ligte velkleur en ligte velkleur	-
-👨🏼‍❤‍💋‍👨🏼	soen man, man en medium-ligte velkleur	-
-👨🏼‍❤‍💋‍👨🏽	soen man, man, medium-ligte velkleur en medium velkleur	-
-👨🏼‍❤‍💋‍👨🏾	soen man, man, medium-ligte velkleur en medium-donker velkleur	-
-👨🏼‍❤‍💋‍👨🏿	soen man, man, medium-ligte velkleur en donker velkleur	-
-👨🏽‍❤‍💋‍👨🏻	soen man, man, medium velkleur en ligte velkleur	-
-👨🏽‍❤‍💋‍👨🏼	soen man, man, medium velkleur en medium-ligte velkleur	-
-👨🏽‍❤‍💋‍👨🏽	soen man, man en medium velkleur	-
-👨🏽‍❤‍💋‍👨🏾	soen man, man, medium velkleur en medium-donker velkleur	-
-👨🏽‍❤‍💋‍👨🏿	soen man, man, medium velkleur en donker velkleur	-
-👨🏾‍❤‍💋‍👨🏻	soen man, man, medium-donker velkleur en ligte velkleur	-
-👨🏾‍❤‍💋‍👨🏼	soen man, man, medium-donker velkleur en medium-ligte velkleur	-
-👨🏾‍❤‍💋‍👨🏽	soen man, man, medium-donker velkleur en medium velkleur	-
-👨🏾‍❤‍💋‍👨🏾	soen man, man en medium-donker velkleur	-
-👨🏾‍❤‍💋‍👨🏿	soen man, man, medium-donker velkleur en donker velkleur	-
-👨🏿‍❤‍💋‍👨🏻	soen man, man, donker velkleur en ligte velkleur	-
-👨🏿‍❤‍💋‍👨🏼	soen man, man, donker velkleur en medium-ligte velkleur	-
-👨🏿‍❤‍💋‍👨🏽	soen man, man, donker velkleur en medium velkleur	-
-👨🏿‍❤‍💋‍👨🏾	soen man, man, donker velkleur en medium-donker velkleur	-
-👨🏿‍❤‍💋‍👨🏿	soen man, man en donker velkleur	-
-👨🏻‍❤‍👨🏻	paartjie met hartjie man, man en ligte velkleur	-
-👨🏻‍❤‍👨🏼	paartjie met hartjie man, man, ligte velkleur en medium-ligte velkleur	-
-👨🏻‍❤‍👨🏽	paartjie met hartjie man, man, ligte velkleur en medium velkleur	-
-👨🏻‍❤‍👨🏾	paartjie met hartjie man, man, ligte velkleur en medium-donker velkleur	-
-👨🏻‍❤‍👨🏿	paartjie met hartjie man, man, ligte velkleur en donker velkleur	-
-👨🏼‍❤‍👨🏻	paartjie met hartjie man, man, medium-ligte velkleur en ligte velkleur	-
-👨🏼‍❤‍👨🏼	paartjie met hartjie man, man en medium-ligte velkleur	-
-👨🏼‍❤‍👨🏽	paartjie met hartjie man, man, medium-ligte velkleur en medium velkleur	-
-👨🏼‍❤‍👨🏾	paartjie met hartjie man, man, medium-ligte velkleur en medium-donker velkleur	-
-👨🏼‍❤‍👨🏿	paartjie met hartjie man, man, medium-ligte velkleur en donker velkleur	-
-👨🏽‍❤‍👨🏻	paartjie met hartjie man, man, medium velkleur en ligte velkleur	-
-👨🏽‍❤‍👨🏼	paartjie met hartjie man, man, medium velkleur en medium-ligte velkleur	-
-👨🏽‍❤‍👨🏽	paartjie met hartjie man, man en medium velkleur	-
-👨🏽‍❤‍👨🏾	paartjie met hartjie man, man, medium velkleur en medium-donker velkleur	-
-👨🏽‍❤‍👨🏿	paartjie met hartjie man, man, medium velkleur en donker velkleur	-
-👨🏾‍❤‍👨🏻	paartjie met hartjie man, man, medium-donker velkleur en ligte velkleur	-
-👨🏾‍❤‍👨🏼	paartjie met hartjie man, man, medium-donker velkleur en medium-ligte velkleur	-
-👨🏾‍❤‍👨🏽	paartjie met hartjie man, man, medium-donker velkleur en medium velkleur	-
-👨🏾‍❤‍👨🏾	paartjie met hartjie man, man en medium-donker velkleur	-
-👨🏾‍❤‍👨🏿	paartjie met hartjie man, man, medium-donker velkleur en donker velkleur	-
-👨🏿‍❤‍👨🏻	paartjie met hartjie man, man, donker velkleur en ligte velkleur	-
-👨🏿‍❤‍👨🏼	paartjie met hartjie man, man, donker velkleur en medium-ligte velkleur	-
-👨🏿‍❤‍👨🏽	paartjie met hartjie man, man, donker velkleur en medium velkleur	-
-👨🏿‍❤‍👨🏾	paartjie met hartjie man, man, donker velkleur en medium-donker velkleur	-
-👨🏿‍❤‍👨🏿	paartjie met hartjie man, man en donker velkleur	-
+👨🏻‍❤‍💋‍👨🏻	soen man, man, ligte velkleur	-
+👨🏻‍❤‍💋‍👨🏼	soen man, man, ligte velkleur, medium-ligte velkleur	-
+👨🏻‍❤‍💋‍👨🏽	soen man, man, ligte velkleur, medium velkleur	-
+👨🏻‍❤‍💋‍👨🏾	soen man, man, ligte velkleur, medium-donker velkleur	-
+👨🏻‍❤‍💋‍👨🏿	soen man, man, ligte velkleur, donker velkleur	-
+👨🏼‍❤‍💋‍👨🏻	soen man, man, medium-ligte velkleur, ligte velkleur	-
+👨🏼‍❤‍💋‍👨🏼	soen man, man, medium-ligte velkleur	-
+👨🏼‍❤‍💋‍👨🏽	soen man, man, medium-ligte velkleur, medium velkleur	-
+👨🏼‍❤‍💋‍👨🏾	soen man, man, medium-ligte velkleur, medium-donker velkleur	-
+👨🏼‍❤‍💋‍👨🏿	soen man, man, medium-ligte velkleur, donker velkleur	-
+👨🏽‍❤‍💋‍👨🏻	soen man, man, medium velkleur, ligte velkleur	-
+👨🏽‍❤‍💋‍👨🏼	soen man, man, medium velkleur, medium-ligte velkleur	-
+👨🏽‍❤‍💋‍👨🏽	soen man, man, medium velkleur	-
+👨🏽‍❤‍💋‍👨🏾	soen man, man, medium velkleur, medium-donker velkleur	-
+👨🏽‍❤‍💋‍👨🏿	soen man, man, medium velkleur, donker velkleur	-
+👨🏾‍❤‍💋‍👨🏻	soen man, man, medium-donker velkleur, ligte velkleur	-
+👨🏾‍❤‍💋‍👨🏼	soen man, man, medium-donker velkleur, medium-ligte velkleur	-
+👨🏾‍❤‍💋‍👨🏽	soen man, man, medium-donker velkleur, medium velkleur	-
+👨🏾‍❤‍💋‍👨🏾	soen man, man, medium-donker velkleur	-
+👨🏾‍❤‍💋‍👨🏿	soen man, man, medium-donker velkleur, donker velkleur	-
+👨🏿‍❤‍💋‍👨🏻	soen man, man, donker velkleur, ligte velkleur	-
+👨🏿‍❤‍💋‍👨🏼	soen man, man, donker velkleur, medium-ligte velkleur	-
+👨🏿‍❤‍💋‍👨🏽	soen man, man, donker velkleur, medium velkleur	-
+👨🏿‍❤‍💋‍👨🏾	soen man, man, donker velkleur, medium-donker velkleur	-
+👨🏿‍❤‍💋‍👨🏿	soen man, man, donker velkleur	-
+👨🏻‍❤‍👨🏻	paartjie met hartjie man, man, ligte velkleur	-
+👨🏻‍❤‍👨🏼	paartjie met hartjie man, man, ligte velkleur, medium-ligte velkleur	-
+👨🏻‍❤‍👨🏽	paartjie met hartjie man, man, ligte velkleur, medium velkleur	-
+👨🏻‍❤‍👨🏾	paartjie met hartjie man, man, ligte velkleur, medium-donker velkleur	-
+👨🏻‍❤‍👨🏿	paartjie met hartjie man, man, ligte velkleur, donker velkleur	-
+👨🏼‍❤‍👨🏻	paartjie met hartjie man, man, medium-ligte velkleur, ligte velkleur	-
+👨🏼‍❤‍👨🏼	paartjie met hartjie man, man, medium-ligte velkleur	-
+👨🏼‍❤‍👨🏽	paartjie met hartjie man, man, medium-ligte velkleur, medium velkleur	-
+👨🏼‍❤‍👨🏾	paartjie met hartjie man, man, medium-ligte velkleur, medium-donker velkleur	-
+👨🏼‍❤‍👨🏿	paartjie met hartjie man, man, medium-ligte velkleur, donker velkleur	-
+👨🏽‍❤‍👨🏻	paartjie met hartjie man, man, medium velkleur, ligte velkleur	-
+👨🏽‍❤‍👨🏼	paartjie met hartjie man, man, medium velkleur, medium-ligte velkleur	-
+👨🏽‍❤‍👨🏽	paartjie met hartjie man, man, medium velkleur	-
+👨🏽‍❤‍👨🏾	paartjie met hartjie man, man, medium velkleur, medium-donker velkleur	-
+👨🏽‍❤‍👨🏿	paartjie met hartjie man, man, medium velkleur, donker velkleur	-
+👨🏾‍❤‍👨🏻	paartjie met hartjie man, man, medium-donker velkleur, ligte velkleur	-
+👨🏾‍❤‍👨🏼	paartjie met hartjie man, man, medium-donker velkleur, medium-ligte velkleur	-
+👨🏾‍❤‍👨🏽	paartjie met hartjie man, man, medium-donker velkleur, medium velkleur	-
+👨🏾‍❤‍👨🏾	paartjie met hartjie man, man, medium-donker velkleur	-
+👨🏾‍❤‍👨🏿	paartjie met hartjie man, man, medium-donker velkleur, donker velkleur	-
+👨🏿‍❤‍👨🏻	paartjie met hartjie man, man, donker velkleur, ligte velkleur	-
+👨🏿‍❤‍👨🏼	paartjie met hartjie man, man, donker velkleur, medium-ligte velkleur	-
+👨🏿‍❤‍👨🏽	paartjie met hartjie man, man, donker velkleur, medium velkleur	-
+👨🏿‍❤‍👨🏾	paartjie met hartjie man, man, donker velkleur, medium-donker velkleur	-
+👨🏿‍❤‍👨🏿	paartjie met hartjie man, man, donker velkleur	-
 👨‍🦰	man rooi hare	-
-👨🏻‍🦰	man ligte velkleur en rooi hare	-
-👨🏼‍🦰	man medium-ligte velkleur en rooi hare	-
-👨🏽‍🦰	man medium velkleur en rooi hare	-
-👨🏾‍🦰	man medium-donker velkleur en rooi hare	-
-👨🏿‍🦰	man donker velkleur en rooi hare	-
+👨🏻‍🦰	man ligte velkleur, rooi hare	-
+👨🏼‍🦰	man medium-ligte velkleur, rooi hare	-
+👨🏽‍🦰	man medium velkleur, rooi hare	-
+👨🏾‍🦰	man medium-donker velkleur, rooi hare	-
+👨🏿‍🦰	man donker velkleur, rooi hare	-
 👨‍🦱	man krulhare	-
-👨🏻‍🦱	man ligte velkleur en krulhare	-
-👨🏼‍🦱	man medium-ligte velkleur en krulhare	-
-👨🏽‍🦱	man medium velkleur en krulhare	-
-👨🏾‍🦱	man medium-donker velkleur en krulhare	-
-👨🏿‍🦱	man donker velkleur en krulhare	-
+👨🏻‍🦱	man ligte velkleur, krulhare	-
+👨🏼‍🦱	man medium-ligte velkleur, krulhare	-
+👨🏽‍🦱	man medium velkleur, krulhare	-
+👨🏾‍🦱	man medium-donker velkleur, krulhare	-
+👨🏿‍🦱	man donker velkleur, krulhare	-
 👨‍🦳	man wit hare	-
-👨🏻‍🦳	man ligte velkleur en wit hare	-
-👨🏼‍🦳	man medium-ligte velkleur en wit hare	-
-👨🏽‍🦳	man medium velkleur en wit hare	-
-👨🏾‍🦳	man medium-donker velkleur en wit hare	-
-👨🏿‍🦳	man donker velkleur en wit hare	-
+👨🏻‍🦳	man ligte velkleur, wit hare	-
+👨🏼‍🦳	man medium-ligte velkleur, wit hare	-
+👨🏽‍🦳	man medium velkleur, wit hare	-
+👨🏾‍🦳	man medium-donker velkleur, wit hare	-
+👨🏿‍🦳	man donker velkleur, wit hare	-
 👨‍🦲	man bles	-
-👨🏻‍🦲	man ligte velkleur en bles	-
-👨🏼‍🦲	man medium-ligte velkleur en bles	-
-👨🏽‍🦲	man medium velkleur en bles	-
-👨🏾‍🦲	man medium-donker velkleur en bles	-
-👨🏿‍🦲	man donker velkleur en bles	-
+👨🏻‍🦲	man ligte velkleur, bles	-
+👨🏼‍🦲	man medium-ligte velkleur, bles	-
+👨🏽‍🦲	man medium velkleur, bles	-
+👨🏾‍🦲	man medium-donker velkleur, bles	-
+👨🏿‍🦲	man donker velkleur, bles	-
 👩🏻	vrou ligte velkleur	-
 👩🏼	vrou medium-ligte velkleur	-
 👩🏽	vrou medium velkleur	-
 👩🏾	vrou medium-donker velkleur	-
 👩🏿	vrou donker velkleur	-
-🧔🏻‍♀	vrou ligte velkleur en baard	-
-🧔🏼‍♀	vrou medium-ligte velkleur en baard	-
-🧔🏽‍♀	vrou medium velkleur en baard	-
-🧔🏾‍♀	vrou medium-donker velkleur en baard	-
-🧔🏿‍♀	vrou donker velkleur en baard	-
+🧔🏻‍♀	vrou ligte velkleur, baard	-
+🧔🏼‍♀	vrou medium-ligte velkleur, baard	-
+🧔🏽‍♀	vrou medium velkleur, baard	-
+🧔🏾‍♀	vrou medium-donker velkleur, baard	-
+🧔🏿‍♀	vrou donker velkleur, baard	-
 👱🏻‍♀	blondine ligte velkleur	-
 👱🏼‍♀	blondine medium-ligte velkleur	-
 👱🏽‍♀	blondine medium velkleur	-
 👱🏾‍♀	blondine medium-donker velkleur	-
 👱🏿‍♀	blondine donker velkleur	-
-👩🏻‍❤‍💋‍👨🏻	soen vrou, man en ligte velkleur	-
-👩🏻‍❤‍💋‍👨🏼	soen vrou, man, ligte velkleur en medium-ligte velkleur	-
-👩🏻‍❤‍💋‍👨🏽	soen vrou, man, ligte velkleur en medium velkleur	-
-👩🏻‍❤‍💋‍👨🏾	soen vrou, man, ligte velkleur en medium-donker velkleur	-
-👩🏻‍❤‍💋‍👨🏿	soen vrou, man, ligte velkleur en donker velkleur	-
-👩🏼‍❤‍💋‍👨🏻	soen vrou, man, medium-ligte velkleur en ligte velkleur	-
-👩🏼‍❤‍💋‍👨🏼	soen vrou, man en medium-ligte velkleur	-
-👩🏼‍❤‍💋‍👨🏽	soen vrou, man, medium-ligte velkleur en medium velkleur	-
-👩🏼‍❤‍💋‍👨🏾	soen vrou, man, medium-ligte velkleur en medium-donker velkleur	-
-👩🏼‍❤‍💋‍👨🏿	soen vrou, man, medium-ligte velkleur en donker velkleur	-
-👩🏽‍❤‍💋‍👨🏻	soen vrou, man, medium velkleur en ligte velkleur	-
-👩🏽‍❤‍💋‍👨🏼	soen vrou, man, medium velkleur en medium-ligte velkleur	-
-👩🏽‍❤‍💋‍👨🏽	soen vrou, man en medium velkleur	-
-👩🏽‍❤‍💋‍👨🏾	soen vrou, man, medium velkleur en medium-donker velkleur	-
-👩🏽‍❤‍💋‍👨🏿	soen vrou, man, medium velkleur en donker velkleur	-
-👩🏾‍❤‍💋‍👨🏻	soen vrou, man, medium-donker velkleur en ligte velkleur	-
-👩🏾‍❤‍💋‍👨🏼	soen vrou, man, medium-donker velkleur en medium-ligte velkleur	-
-👩🏾‍❤‍💋‍👨🏽	soen vrou, man, medium-donker velkleur en medium velkleur	-
-👩🏾‍❤‍💋‍👨🏾	soen vrou, man en medium-donker velkleur	-
-👩🏾‍❤‍💋‍👨🏿	soen vrou, man, medium-donker velkleur en donker velkleur	-
-👩🏿‍❤‍💋‍👨🏻	soen vrou, man, donker velkleur en ligte velkleur	-
-👩🏿‍❤‍💋‍👨🏼	soen vrou, man, donker velkleur en medium-ligte velkleur	-
-👩🏿‍❤‍💋‍👨🏽	soen vrou, man, donker velkleur en medium velkleur	-
-👩🏿‍❤‍💋‍👨🏾	soen vrou, man, donker velkleur en medium-donker velkleur	-
-👩🏿‍❤‍💋‍👨🏿	soen vrou, man en donker velkleur	-
-👩🏻‍❤‍💋‍👩🏻	soen vrou, vrou en ligte velkleur	-
-👩🏻‍❤‍💋‍👩🏼	soen vrou, vrou, ligte velkleur en medium-ligte velkleur	-
-👩🏻‍❤‍💋‍👩🏽	soen vrou, vrou, ligte velkleur en medium velkleur	-
-👩🏻‍❤‍💋‍👩🏾	soen vrou, vrou, ligte velkleur en medium-donker velkleur	-
-👩🏻‍❤‍💋‍👩🏿	soen vrou, vrou, ligte velkleur en donker velkleur	-
-👩🏼‍❤‍💋‍👩🏻	soen vrou, vrou, medium-ligte velkleur en ligte velkleur	-
-👩🏼‍❤‍💋‍👩🏼	soen vrou, vrou en medium-ligte velkleur	-
-👩🏼‍❤‍💋‍👩🏽	soen vrou, vrou, medium-ligte velkleur en medium velkleur	-
-👩🏼‍❤‍💋‍👩🏾	soen vrou, vrou, medium-ligte velkleur en medium-donker velkleur	-
-👩🏼‍❤‍💋‍👩🏿	soen vrou, vrou, medium-ligte velkleur en donker velkleur	-
-👩🏽‍❤‍💋‍👩🏻	soen vrou, vrou, medium velkleur en ligte velkleur	-
-👩🏽‍❤‍💋‍👩🏼	soen vrou, vrou, medium velkleur en medium-ligte velkleur	-
-👩🏽‍❤‍💋‍👩🏽	soen vrou, vrou en medium velkleur	-
-👩🏽‍❤‍💋‍👩🏾	soen vrou, vrou, medium velkleur en medium-donker velkleur	-
-👩🏽‍❤‍💋‍👩🏿	soen vrou, vrou, medium velkleur en donker velkleur	-
-👩🏾‍❤‍💋‍👩🏻	soen vrou, vrou, medium-donker velkleur en ligte velkleur	-
-👩🏾‍❤‍💋‍👩🏼	soen vrou, vrou, medium-donker velkleur en medium-ligte velkleur	-
-👩🏾‍❤‍💋‍👩🏽	soen vrou, vrou, medium-donker velkleur en medium velkleur	-
-👩🏾‍❤‍💋‍👩🏾	soen vrou, vrou en medium-donker velkleur	-
-👩🏾‍❤‍💋‍👩🏿	soen vrou, vrou, medium-donker velkleur en donker velkleur	-
-👩🏿‍❤‍💋‍👩🏻	soen vrou, vrou, donker velkleur en ligte velkleur	-
-👩🏿‍❤‍💋‍👩🏼	soen vrou, vrou, donker velkleur en medium-ligte velkleur	-
-👩🏿‍❤‍💋‍👩🏽	soen vrou, vrou, donker velkleur en medium velkleur	-
-👩🏿‍❤‍💋‍👩🏾	soen vrou, vrou, donker velkleur en medium-donker velkleur	-
-👩🏿‍❤‍💋‍👩🏿	soen vrou, vrou en donker velkleur	-
-👩🏻‍❤‍👨🏻	paartjie met hartjie vrou, man en ligte velkleur	-
-👩🏻‍❤‍👨🏼	paartjie met hartjie vrou, man, ligte velkleur en medium-ligte velkleur	-
-👩🏻‍❤‍👨🏽	paartjie met hartjie vrou, man, ligte velkleur en medium velkleur	-
-👩🏻‍❤‍👨🏾	paartjie met hartjie vrou, man, ligte velkleur en medium-donker velkleur	-
-👩🏻‍❤‍👨🏿	paartjie met hartjie vrou, man, ligte velkleur en donker velkleur	-
-👩🏼‍❤‍👨🏻	paartjie met hartjie vrou, man, medium-ligte velkleur en ligte velkleur	-
-👩🏼‍❤‍👨🏼	paartjie met hartjie vrou, man en medium-ligte velkleur	-
-👩🏼‍❤‍👨🏽	paartjie met hartjie vrou, man, medium-ligte velkleur en medium velkleur	-
-👩🏼‍❤‍👨🏾	paartjie met hartjie vrou, man, medium-ligte velkleur en medium-donker velkleur	-
-👩🏼‍❤‍👨🏿	paartjie met hartjie vrou, man, medium-ligte velkleur en donker velkleur	-
-👩🏽‍❤‍👨🏻	paartjie met hartjie vrou, man, medium velkleur en ligte velkleur	-
-👩🏽‍❤‍👨🏼	paartjie met hartjie vrou, man, medium velkleur en medium-ligte velkleur	-
-👩🏽‍❤‍👨🏽	paartjie met hartjie vrou, man en medium velkleur	-
-👩🏽‍❤‍👨🏾	paartjie met hartjie vrou, man, medium velkleur en medium-donker velkleur	-
-👩🏽‍❤‍👨🏿	paartjie met hartjie vrou, man, medium velkleur en donker velkleur	-
-👩🏾‍❤‍👨🏻	paartjie met hartjie vrou, man, medium-donker velkleur en ligte velkleur	-
-👩🏾‍❤‍👨🏼	paartjie met hartjie vrou, man, medium-donker velkleur en medium-ligte velkleur	-
-👩🏾‍❤‍👨🏽	paartjie met hartjie vrou, man, medium-donker velkleur en medium velkleur	-
-👩🏾‍❤‍👨🏾	paartjie met hartjie vrou, man en medium-donker velkleur	-
-👩🏾‍❤‍👨🏿	paartjie met hartjie vrou, man, medium-donker velkleur en donker velkleur	-
-👩🏿‍❤‍👨🏻	paartjie met hartjie vrou, man, donker velkleur en ligte velkleur	-
-👩🏿‍❤‍👨🏼	paartjie met hartjie vrou, man, donker velkleur en medium-ligte velkleur	-
-👩🏿‍❤‍👨🏽	paartjie met hartjie vrou, man, donker velkleur en medium velkleur	-
-👩🏿‍❤‍👨🏾	paartjie met hartjie vrou, man, donker velkleur en medium-donker velkleur	-
-👩🏿‍❤‍👨🏿	paartjie met hartjie vrou, man en donker velkleur	-
-👩🏻‍❤‍👩🏻	paartjie met hartjie vrou, vrou en ligte velkleur	-
-👩🏻‍❤‍👩🏼	paartjie met hartjie vrou, vrou, ligte velkleur en medium-ligte velkleur	-
-👩🏻‍❤‍👩🏽	paartjie met hartjie vrou, vrou, ligte velkleur en medium velkleur	-
-👩🏻‍❤‍👩🏾	paartjie met hartjie vrou, vrou, ligte velkleur en medium-donker velkleur	-
-👩🏻‍❤‍👩🏿	paartjie met hartjie vrou, vrou, ligte velkleur en donker velkleur	-
-👩🏼‍❤‍👩🏻	paartjie met hartjie vrou, vrou, medium-ligte velkleur en ligte velkleur	-
-👩🏼‍❤‍👩🏼	paartjie met hartjie vrou, vrou en medium-ligte velkleur	-
-👩🏼‍❤‍👩🏽	paartjie met hartjie vrou, vrou, medium-ligte velkleur en medium velkleur	-
-👩🏼‍❤‍👩🏾	paartjie met hartjie vrou, vrou, medium-ligte velkleur en medium-donker velkleur	-
-👩🏼‍❤‍👩🏿	paartjie met hartjie vrou, vrou, medium-ligte velkleur en donker velkleur	-
-👩🏽‍❤‍👩🏻	paartjie met hartjie vrou, vrou, medium velkleur en ligte velkleur	-
-👩🏽‍❤‍👩🏼	paartjie met hartjie vrou, vrou, medium velkleur en medium-ligte velkleur	-
-👩🏽‍❤‍👩🏽	paartjie met hartjie vrou, vrou en medium velkleur	-
-👩🏽‍❤‍👩🏾	paartjie met hartjie vrou, vrou, medium velkleur en medium-donker velkleur	-
-👩🏽‍❤‍👩🏿	paartjie met hartjie vrou, vrou, medium velkleur en donker velkleur	-
-👩🏾‍❤‍👩🏻	paartjie met hartjie vrou, vrou, medium-donker velkleur en ligte velkleur	-
-👩🏾‍❤‍👩🏼	paartjie met hartjie vrou, vrou, medium-donker velkleur en medium-ligte velkleur	-
-👩🏾‍❤‍👩🏽	paartjie met hartjie vrou, vrou, medium-donker velkleur en medium velkleur	-
-👩🏾‍❤‍👩🏾	paartjie met hartjie vrou, vrou en medium-donker velkleur	-
-👩🏾‍❤‍👩🏿	paartjie met hartjie vrou, vrou, medium-donker velkleur en donker velkleur	-
-👩🏿‍❤‍👩🏻	paartjie met hartjie vrou, vrou, donker velkleur en ligte velkleur	-
-👩🏿‍❤‍👩🏼	paartjie met hartjie vrou, vrou, donker velkleur en medium-ligte velkleur	-
-👩🏿‍❤‍👩🏽	paartjie met hartjie vrou, vrou, donker velkleur en medium velkleur	-
-👩🏿‍❤‍👩🏾	paartjie met hartjie vrou, vrou, donker velkleur en medium-donker velkleur	-
-👩🏿‍❤‍👩🏿	paartjie met hartjie vrou, vrou en donker velkleur	-
+👩🏻‍❤‍💋‍👨🏻	soen vrou, man, ligte velkleur	-
+👩🏻‍❤‍💋‍👨🏼	soen vrou, man, ligte velkleur, medium-ligte velkleur	-
+👩🏻‍❤‍💋‍👨🏽	soen vrou, man, ligte velkleur, medium velkleur	-
+👩🏻‍❤‍💋‍👨🏾	soen vrou, man, ligte velkleur, medium-donker velkleur	-
+👩🏻‍❤‍💋‍👨🏿	soen vrou, man, ligte velkleur, donker velkleur	-
+👩🏼‍❤‍💋‍👨🏻	soen vrou, man, medium-ligte velkleur, ligte velkleur	-
+👩🏼‍❤‍💋‍👨🏼	soen vrou, man, medium-ligte velkleur	-
+👩🏼‍❤‍💋‍👨🏽	soen vrou, man, medium-ligte velkleur, medium velkleur	-
+👩🏼‍❤‍💋‍👨🏾	soen vrou, man, medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍❤‍💋‍👨🏿	soen vrou, man, medium-ligte velkleur, donker velkleur	-
+👩🏽‍❤‍💋‍👨🏻	soen vrou, man, medium velkleur, ligte velkleur	-
+👩🏽‍❤‍💋‍👨🏼	soen vrou, man, medium velkleur, medium-ligte velkleur	-
+👩🏽‍❤‍💋‍👨🏽	soen vrou, man, medium velkleur	-
+👩🏽‍❤‍💋‍👨🏾	soen vrou, man, medium velkleur, medium-donker velkleur	-
+👩🏽‍❤‍💋‍👨🏿	soen vrou, man, medium velkleur, donker velkleur	-
+👩🏾‍❤‍💋‍👨🏻	soen vrou, man, medium-donker velkleur, ligte velkleur	-
+👩🏾‍❤‍💋‍👨🏼	soen vrou, man, medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍❤‍💋‍👨🏽	soen vrou, man, medium-donker velkleur, medium velkleur	-
+👩🏾‍❤‍💋‍👨🏾	soen vrou, man, medium-donker velkleur	-
+👩🏾‍❤‍💋‍👨🏿	soen vrou, man, medium-donker velkleur, donker velkleur	-
+👩🏿‍❤‍💋‍👨🏻	soen vrou, man, donker velkleur, ligte velkleur	-
+👩🏿‍❤‍💋‍👨🏼	soen vrou, man, donker velkleur, medium-ligte velkleur	-
+👩🏿‍❤‍💋‍👨🏽	soen vrou, man, donker velkleur, medium velkleur	-
+👩🏿‍❤‍💋‍👨🏾	soen vrou, man, donker velkleur, medium-donker velkleur	-
+👩🏿‍❤‍💋‍👨🏿	soen vrou, man, donker velkleur	-
+👩🏻‍❤‍💋‍👩🏻	soen vrou, vrou, ligte velkleur	-
+👩🏻‍❤‍💋‍👩🏼	soen vrou, vrou, ligte velkleur, medium-ligte velkleur	-
+👩🏻‍❤‍💋‍👩🏽	soen vrou, vrou, ligte velkleur, medium velkleur	-
+👩🏻‍❤‍💋‍👩🏾	soen vrou, vrou, ligte velkleur, medium-donker velkleur	-
+👩🏻‍❤‍💋‍👩🏿	soen vrou, vrou, ligte velkleur, donker velkleur	-
+👩🏼‍❤‍💋‍👩🏻	soen vrou, vrou, medium-ligte velkleur, ligte velkleur	-
+👩🏼‍❤‍💋‍👩🏼	soen vrou, vrou, medium-ligte velkleur	-
+👩🏼‍❤‍💋‍👩🏽	soen vrou, vrou, medium-ligte velkleur, medium velkleur	-
+👩🏼‍❤‍💋‍👩🏾	soen vrou, vrou, medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍❤‍💋‍👩🏿	soen vrou, vrou, medium-ligte velkleur, donker velkleur	-
+👩🏽‍❤‍💋‍👩🏻	soen vrou, vrou, medium velkleur, ligte velkleur	-
+👩🏽‍❤‍💋‍👩🏼	soen vrou, vrou, medium velkleur, medium-ligte velkleur	-
+👩🏽‍❤‍💋‍👩🏽	soen vrou, vrou, medium velkleur	-
+👩🏽‍❤‍💋‍👩🏾	soen vrou, vrou, medium velkleur, medium-donker velkleur	-
+👩🏽‍❤‍💋‍👩🏿	soen vrou, vrou, medium velkleur, donker velkleur	-
+👩🏾‍❤‍💋‍👩🏻	soen vrou, vrou, medium-donker velkleur, ligte velkleur	-
+👩🏾‍❤‍💋‍👩🏼	soen vrou, vrou, medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍❤‍💋‍👩🏽	soen vrou, vrou, medium-donker velkleur, medium velkleur	-
+👩🏾‍❤‍💋‍👩🏾	soen vrou, vrou, medium-donker velkleur	-
+👩🏾‍❤‍💋‍👩🏿	soen vrou, vrou, medium-donker velkleur, donker velkleur	-
+👩🏿‍❤‍💋‍👩🏻	soen vrou, vrou, donker velkleur, ligte velkleur	-
+👩🏿‍❤‍💋‍👩🏼	soen vrou, vrou, donker velkleur, medium-ligte velkleur	-
+👩🏿‍❤‍💋‍👩🏽	soen vrou, vrou, donker velkleur, medium velkleur	-
+👩🏿‍❤‍💋‍👩🏾	soen vrou, vrou, donker velkleur, medium-donker velkleur	-
+👩🏿‍❤‍💋‍👩🏿	soen vrou, vrou, donker velkleur	-
+👩🏻‍❤‍👨🏻	paartjie met hartjie vrou, man, ligte velkleur	-
+👩🏻‍❤‍👨🏼	paartjie met hartjie vrou, man, ligte velkleur, medium-ligte velkleur	-
+👩🏻‍❤‍👨🏽	paartjie met hartjie vrou, man, ligte velkleur, medium velkleur	-
+👩🏻‍❤‍👨🏾	paartjie met hartjie vrou, man, ligte velkleur, medium-donker velkleur	-
+👩🏻‍❤‍👨🏿	paartjie met hartjie vrou, man, ligte velkleur, donker velkleur	-
+👩🏼‍❤‍👨🏻	paartjie met hartjie vrou, man, medium-ligte velkleur, ligte velkleur	-
+👩🏼‍❤‍👨🏼	paartjie met hartjie vrou, man, medium-ligte velkleur	-
+👩🏼‍❤‍👨🏽	paartjie met hartjie vrou, man, medium-ligte velkleur, medium velkleur	-
+👩🏼‍❤‍👨🏾	paartjie met hartjie vrou, man, medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍❤‍👨🏿	paartjie met hartjie vrou, man, medium-ligte velkleur, donker velkleur	-
+👩🏽‍❤‍👨🏻	paartjie met hartjie vrou, man, medium velkleur, ligte velkleur	-
+👩🏽‍❤‍👨🏼	paartjie met hartjie vrou, man, medium velkleur, medium-ligte velkleur	-
+👩🏽‍❤‍👨🏽	paartjie met hartjie vrou, man, medium velkleur	-
+👩🏽‍❤‍👨🏾	paartjie met hartjie vrou, man, medium velkleur, medium-donker velkleur	-
+👩🏽‍❤‍👨🏿	paartjie met hartjie vrou, man, medium velkleur, donker velkleur	-
+👩🏾‍❤‍👨🏻	paartjie met hartjie vrou, man, medium-donker velkleur, ligte velkleur	-
+👩🏾‍❤‍👨🏼	paartjie met hartjie vrou, man, medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍❤‍👨🏽	paartjie met hartjie vrou, man, medium-donker velkleur, medium velkleur	-
+👩🏾‍❤‍👨🏾	paartjie met hartjie vrou, man, medium-donker velkleur	-
+👩🏾‍❤‍👨🏿	paartjie met hartjie vrou, man, medium-donker velkleur, donker velkleur	-
+👩🏿‍❤‍👨🏻	paartjie met hartjie vrou, man, donker velkleur, ligte velkleur	-
+👩🏿‍❤‍👨🏼	paartjie met hartjie vrou, man, donker velkleur, medium-ligte velkleur	-
+👩🏿‍❤‍👨🏽	paartjie met hartjie vrou, man, donker velkleur, medium velkleur	-
+👩🏿‍❤‍👨🏾	paartjie met hartjie vrou, man, donker velkleur, medium-donker velkleur	-
+👩🏿‍❤‍👨🏿	paartjie met hartjie vrou, man, donker velkleur	-
+👩🏻‍❤‍👩🏻	paartjie met hartjie vrou, vrou, ligte velkleur	-
+👩🏻‍❤‍👩🏼	paartjie met hartjie vrou, vrou, ligte velkleur, medium-ligte velkleur	-
+👩🏻‍❤‍👩🏽	paartjie met hartjie vrou, vrou, ligte velkleur, medium velkleur	-
+👩🏻‍❤‍👩🏾	paartjie met hartjie vrou, vrou, ligte velkleur, medium-donker velkleur	-
+👩🏻‍❤‍👩🏿	paartjie met hartjie vrou, vrou, ligte velkleur, donker velkleur	-
+👩🏼‍❤‍👩🏻	paartjie met hartjie vrou, vrou, medium-ligte velkleur, ligte velkleur	-
+👩🏼‍❤‍👩🏼	paartjie met hartjie vrou, vrou, medium-ligte velkleur	-
+👩🏼‍❤‍👩🏽	paartjie met hartjie vrou, vrou, medium-ligte velkleur, medium velkleur	-
+👩🏼‍❤‍👩🏾	paartjie met hartjie vrou, vrou, medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍❤‍👩🏿	paartjie met hartjie vrou, vrou, medium-ligte velkleur, donker velkleur	-
+👩🏽‍❤‍👩🏻	paartjie met hartjie vrou, vrou, medium velkleur, ligte velkleur	-
+👩🏽‍❤‍👩🏼	paartjie met hartjie vrou, vrou, medium velkleur, medium-ligte velkleur	-
+👩🏽‍❤‍👩🏽	paartjie met hartjie vrou, vrou, medium velkleur	-
+👩🏽‍❤‍👩🏾	paartjie met hartjie vrou, vrou, medium velkleur, medium-donker velkleur	-
+👩🏽‍❤‍👩🏿	paartjie met hartjie vrou, vrou, medium velkleur, donker velkleur	-
+👩🏾‍❤‍👩🏻	paartjie met hartjie vrou, vrou, medium-donker velkleur, ligte velkleur	-
+👩🏾‍❤‍👩🏼	paartjie met hartjie vrou, vrou, medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍❤‍👩🏽	paartjie met hartjie vrou, vrou, medium-donker velkleur, medium velkleur	-
+👩🏾‍❤‍👩🏾	paartjie met hartjie vrou, vrou, medium-donker velkleur	-
+👩🏾‍❤‍👩🏿	paartjie met hartjie vrou, vrou, medium-donker velkleur, donker velkleur	-
+👩🏿‍❤‍👩🏻	paartjie met hartjie vrou, vrou, donker velkleur, ligte velkleur	-
+👩🏿‍❤‍👩🏼	paartjie met hartjie vrou, vrou, donker velkleur, medium-ligte velkleur	-
+👩🏿‍❤‍👩🏽	paartjie met hartjie vrou, vrou, donker velkleur, medium velkleur	-
+👩🏿‍❤‍👩🏾	paartjie met hartjie vrou, vrou, donker velkleur, medium-donker velkleur	-
+👩🏿‍❤‍👩🏿	paartjie met hartjie vrou, vrou, donker velkleur	-
 👩‍🦰	vrou rooi hare	-
-👩🏻‍🦰	vrou ligte velkleur en rooi hare	-
-👩🏼‍🦰	vrou medium-ligte velkleur en rooi hare	-
-👩🏽‍🦰	vrou medium velkleur en rooi hare	-
-👩🏾‍🦰	vrou medium-donker velkleur en rooi hare	-
-👩🏿‍🦰	vrou donker velkleur en rooi hare	-
+👩🏻‍🦰	vrou ligte velkleur, rooi hare	-
+👩🏼‍🦰	vrou medium-ligte velkleur, rooi hare	-
+👩🏽‍🦰	vrou medium velkleur, rooi hare	-
+👩🏾‍🦰	vrou medium-donker velkleur, rooi hare	-
+👩🏿‍🦰	vrou donker velkleur, rooi hare	-
 👩‍🦱	vrou krulhare	-
-👩🏻‍🦱	vrou ligte velkleur en krulhare	-
-👩🏼‍🦱	vrou medium-ligte velkleur en krulhare	-
-👩🏽‍🦱	vrou medium velkleur en krulhare	-
-👩🏾‍🦱	vrou medium-donker velkleur en krulhare	-
-👩🏿‍🦱	vrou donker velkleur en krulhare	-
+👩🏻‍🦱	vrou ligte velkleur, krulhare	-
+👩🏼‍🦱	vrou medium-ligte velkleur, krulhare	-
+👩🏽‍🦱	vrou medium velkleur, krulhare	-
+👩🏾‍🦱	vrou medium-donker velkleur, krulhare	-
+👩🏿‍🦱	vrou donker velkleur, krulhare	-
 👩‍🦳	vrou wit hare	-
-👩🏻‍🦳	vrou ligte velkleur en wit hare	-
-👩🏼‍🦳	vrou medium-ligte velkleur en wit hare	-
-👩🏽‍🦳	vrou medium velkleur en wit hare	-
-👩🏾‍🦳	vrou medium-donker velkleur en wit hare	-
-👩🏿‍🦳	vrou donker velkleur en wit hare	-
+👩🏻‍🦳	vrou ligte velkleur, wit hare	-
+👩🏼‍🦳	vrou medium-ligte velkleur, wit hare	-
+👩🏽‍🦳	vrou medium velkleur, wit hare	-
+👩🏾‍🦳	vrou medium-donker velkleur, wit hare	-
+👩🏿‍🦳	vrou donker velkleur, wit hare	-
 👩‍🦲	vrou bles	-
-👩🏻‍🦲	vrou ligte velkleur en bles	-
-👩🏼‍🦲	vrou medium-ligte velkleur en bles	-
-👩🏽‍🦲	vrou medium velkleur en bles	-
-👩🏾‍🦲	vrou medium-donker velkleur en bles	-
-👩🏿‍🦲	vrou donker velkleur en bles	-
+👩🏻‍🦲	vrou ligte velkleur, bles	-
+👩🏼‍🦲	vrou medium-ligte velkleur, bles	-
+👩🏽‍🦲	vrou medium velkleur, bles	-
+👩🏾‍🦲	vrou medium-donker velkleur, bles	-
+👩🏿‍🦲	vrou donker velkleur, bles	-
 🧓🏻	ouer volwassene ligte velkleur	-
 🧓🏼	ouer volwassene medium-ligte velkleur	-
 🧓🏽	ouer volwassene medium velkleur	-
@@ -3736,146 +3743,146 @@ $	dollar	-
 🛌🏾	persoon in bed medium-donker velkleur	-
 🛌🏿	persoon in bed donker velkleur	-
 🧑🏻‍🤝‍🧑🏻	mense wat hande vashou ligte velkleur	-
-🧑🏻‍🤝‍🧑🏼	mense wat hande vashou ligte velkleur en medium-ligte velkleur	-
-🧑🏻‍🤝‍🧑🏽	mense wat hande vashou ligte velkleur en medium velkleur	-
-🧑🏻‍🤝‍🧑🏾	mense wat hande vashou ligte velkleur en medium-donker velkleur	-
-🧑🏻‍🤝‍🧑🏿	mense wat hande vashou ligte velkleur en donker velkleur	-
-🧑🏼‍🤝‍🧑🏻	mense wat hande vashou medium-ligte velkleur en ligte velkleur	-
+🧑🏻‍🤝‍🧑🏼	mense wat hande vashou ligte velkleur, medium-ligte velkleur	-
+🧑🏻‍🤝‍🧑🏽	mense wat hande vashou ligte velkleur, medium velkleur	-
+🧑🏻‍🤝‍🧑🏾	mense wat hande vashou ligte velkleur, medium-donker velkleur	-
+🧑🏻‍🤝‍🧑🏿	mense wat hande vashou ligte velkleur, donker velkleur	-
+🧑🏼‍🤝‍🧑🏻	mense wat hande vashou medium-ligte velkleur, ligte velkleur	-
 🧑🏼‍🤝‍🧑🏼	mense wat hande vashou medium-ligte velkleur	-
-🧑🏼‍🤝‍🧑🏽	mense wat hande vashou medium-ligte velkleur en medium velkleur	-
-🧑🏼‍🤝‍🧑🏾	mense wat hande vashou medium-ligte velkleur en medium-donker velkleur	-
-🧑🏼‍🤝‍🧑🏿	mense wat hande vashou medium-ligte velkleur en donker velkleur	-
-🧑🏽‍🤝‍🧑🏻	mense wat hande vashou medium velkleur en ligte velkleur	-
-🧑🏽‍🤝‍🧑🏼	mense wat hande vashou medium velkleur en medium-ligte velkleur	-
+🧑🏼‍🤝‍🧑🏽	mense wat hande vashou medium-ligte velkleur, medium velkleur	-
+🧑🏼‍🤝‍🧑🏾	mense wat hande vashou medium-ligte velkleur, medium-donker velkleur	-
+🧑🏼‍🤝‍🧑🏿	mense wat hande vashou medium-ligte velkleur, donker velkleur	-
+🧑🏽‍🤝‍🧑🏻	mense wat hande vashou medium velkleur, ligte velkleur	-
+🧑🏽‍🤝‍🧑🏼	mense wat hande vashou medium velkleur, medium-ligte velkleur	-
 🧑🏽‍🤝‍🧑🏽	mense wat hande vashou medium velkleur	-
-🧑🏽‍🤝‍🧑🏾	mense wat hande vashou medium velkleur en medium-donker velkleur	-
-🧑🏽‍🤝‍🧑🏿	mense wat hande vashou medium velkleur en donker velkleur	-
-🧑🏾‍🤝‍🧑🏻	mense wat hande vashou medium-donker velkleur en ligte velkleur	-
-🧑🏾‍🤝‍🧑🏼	mense wat hande vashou medium-donker velkleur en medium-ligte velkleur	-
-🧑🏾‍🤝‍🧑🏽	mense wat hande vashou medium-donker velkleur en medium velkleur	-
+🧑🏽‍🤝‍🧑🏾	mense wat hande vashou medium velkleur, medium-donker velkleur	-
+🧑🏽‍🤝‍🧑🏿	mense wat hande vashou medium velkleur, donker velkleur	-
+🧑🏾‍🤝‍🧑🏻	mense wat hande vashou medium-donker velkleur, ligte velkleur	-
+🧑🏾‍🤝‍🧑🏼	mense wat hande vashou medium-donker velkleur, medium-ligte velkleur	-
+🧑🏾‍🤝‍🧑🏽	mense wat hande vashou medium-donker velkleur, medium velkleur	-
 🧑🏾‍🤝‍🧑🏾	mense wat hande vashou medium-donker velkleur	-
-🧑🏾‍🤝‍🧑🏿	mense wat hande vashou medium-donker velkleur en donker velkleur	-
-🧑🏿‍🤝‍🧑🏻	mense wat hande vashou donker velkleur en ligte velkleur	-
-🧑🏿‍🤝‍🧑🏼	mense wat hande vashou donker velkleur en medium-ligte velkleur	-
-🧑🏿‍🤝‍🧑🏽	mense wat hande vashou donker velkleur en medium velkleur	-
-🧑🏿‍🤝‍🧑🏾	mense wat hande vashou donker velkleur en medium-donker velkleur	-
+🧑🏾‍🤝‍🧑🏿	mense wat hande vashou medium-donker velkleur, donker velkleur	-
+🧑🏿‍🤝‍🧑🏻	mense wat hande vashou donker velkleur, ligte velkleur	-
+🧑🏿‍🤝‍🧑🏼	mense wat hande vashou donker velkleur, medium-ligte velkleur	-
+🧑🏿‍🤝‍🧑🏽	mense wat hande vashou donker velkleur, medium velkleur	-
+🧑🏿‍🤝‍🧑🏾	mense wat hande vashou donker velkleur, medium-donker velkleur	-
 🧑🏿‍🤝‍🧑🏿	mense wat hande vashou donker velkleur	-
 👭🏻	twee vroue wat hande vashou ligte velkleur	-
-👩🏻‍🤝‍👩🏼	twee vroue wat hande vashou ligte velkleur en medium-ligte velkleur	-
-👩🏻‍🤝‍👩🏽	twee vroue wat hande vashou ligte velkleur en medium velkleur	-
-👩🏻‍🤝‍👩🏾	twee vroue wat hande vashou ligte velkleur en medium-donker velkleur	-
-👩🏻‍🤝‍👩🏿	twee vroue wat hande vashou ligte velkleur en donker velkleur	-
-👩🏼‍🤝‍👩🏻	twee vroue wat hande vashou medium-ligte velkleur en ligte velkleur	-
+👩🏻‍🤝‍👩🏼	twee vroue wat hande vashou ligte velkleur, medium-ligte velkleur	-
+👩🏻‍🤝‍👩🏽	twee vroue wat hande vashou ligte velkleur, medium velkleur	-
+👩🏻‍🤝‍👩🏾	twee vroue wat hande vashou ligte velkleur, medium-donker velkleur	-
+👩🏻‍🤝‍👩🏿	twee vroue wat hande vashou ligte velkleur, donker velkleur	-
+👩🏼‍🤝‍👩🏻	twee vroue wat hande vashou medium-ligte velkleur, ligte velkleur	-
 👭🏼	twee vroue wat hande vashou medium-ligte velkleur	-
-👩🏼‍🤝‍👩🏽	twee vroue wat hande vashou medium-ligte velkleur en medium velkleur	-
-👩🏼‍🤝‍👩🏾	twee vroue wat hande vashou medium-ligte velkleur en medium-donker velkleur	-
-👩🏼‍🤝‍👩🏿	twee vroue wat hande vashou medium-ligte velkleur en donker velkleur	-
-👩🏽‍🤝‍👩🏻	twee vroue wat hande vashou medium velkleur en ligte velkleur	-
-👩🏽‍🤝‍👩🏼	twee vroue wat hande vashou medium velkleur en medium-ligte velkleur	-
+👩🏼‍🤝‍👩🏽	twee vroue wat hande vashou medium-ligte velkleur, medium velkleur	-
+👩🏼‍🤝‍👩🏾	twee vroue wat hande vashou medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍🤝‍👩🏿	twee vroue wat hande vashou medium-ligte velkleur, donker velkleur	-
+👩🏽‍🤝‍👩🏻	twee vroue wat hande vashou medium velkleur, ligte velkleur	-
+👩🏽‍🤝‍👩🏼	twee vroue wat hande vashou medium velkleur, medium-ligte velkleur	-
 👭🏽	twee vroue wat hande vashou medium velkleur	-
-👩🏽‍🤝‍👩🏾	twee vroue wat hande vashou medium velkleur en medium-donker velkleur	-
-👩🏽‍🤝‍👩🏿	twee vroue wat hande vashou medium velkleur en donker velkleur	-
-👩🏾‍🤝‍👩🏻	twee vroue wat hande vashou medium-donker velkleur en ligte velkleur	-
-👩🏾‍🤝‍👩🏼	twee vroue wat hande vashou medium-donker velkleur en medium-ligte velkleur	-
-👩🏾‍🤝‍👩🏽	twee vroue wat hande vashou medium-donker velkleur en medium velkleur	-
+👩🏽‍🤝‍👩🏾	twee vroue wat hande vashou medium velkleur, medium-donker velkleur	-
+👩🏽‍🤝‍👩🏿	twee vroue wat hande vashou medium velkleur, donker velkleur	-
+👩🏾‍🤝‍👩🏻	twee vroue wat hande vashou medium-donker velkleur, ligte velkleur	-
+👩🏾‍🤝‍👩🏼	twee vroue wat hande vashou medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍🤝‍👩🏽	twee vroue wat hande vashou medium-donker velkleur, medium velkleur	-
 👭🏾	twee vroue wat hande vashou medium-donker velkleur	-
-👩🏾‍🤝‍👩🏿	twee vroue wat hande vashou medium-donker velkleur en donker velkleur	-
-👩🏿‍🤝‍👩🏻	twee vroue wat hande vashou donker velkleur en ligte velkleur	-
-👩🏿‍🤝‍👩🏼	twee vroue wat hande vashou donker velkleur en medium-ligte velkleur	-
-👩🏿‍🤝‍👩🏽	twee vroue wat hande vashou donker velkleur en medium velkleur	-
-👩🏿‍🤝‍👩🏾	twee vroue wat hande vashou donker velkleur en medium-donker velkleur	-
+👩🏾‍🤝‍👩🏿	twee vroue wat hande vashou medium-donker velkleur, donker velkleur	-
+👩🏿‍🤝‍👩🏻	twee vroue wat hande vashou donker velkleur, ligte velkleur	-
+👩🏿‍🤝‍👩🏼	twee vroue wat hande vashou donker velkleur, medium-ligte velkleur	-
+👩🏿‍🤝‍👩🏽	twee vroue wat hande vashou donker velkleur, medium velkleur	-
+👩🏿‍🤝‍👩🏾	twee vroue wat hande vashou donker velkleur, medium-donker velkleur	-
 👭🏿	twee vroue wat hande vashou donker velkleur	-
 👫🏻	man en vrou wat hande vashou ligte velkleur	-
-👩🏻‍🤝‍👨🏼	man en vrou wat hande vashou ligte velkleur en medium-ligte velkleur	-
-👩🏻‍🤝‍👨🏽	man en vrou wat hande vashou ligte velkleur en medium velkleur	-
-👩🏻‍🤝‍👨🏾	man en vrou wat hande vashou ligte velkleur en medium-donker velkleur	-
-👩🏻‍🤝‍👨🏿	man en vrou wat hande vashou ligte velkleur en donker velkleur	-
-👩🏼‍🤝‍👨🏻	man en vrou wat hande vashou medium-ligte velkleur en ligte velkleur	-
+👩🏻‍🤝‍👨🏼	man en vrou wat hande vashou ligte velkleur, medium-ligte velkleur	-
+👩🏻‍🤝‍👨🏽	man en vrou wat hande vashou ligte velkleur, medium velkleur	-
+👩🏻‍🤝‍👨🏾	man en vrou wat hande vashou ligte velkleur, medium-donker velkleur	-
+👩🏻‍🤝‍👨🏿	man en vrou wat hande vashou ligte velkleur, donker velkleur	-
+👩🏼‍🤝‍👨🏻	man en vrou wat hande vashou medium-ligte velkleur, ligte velkleur	-
 👫🏼	man en vrou wat hande vashou medium-ligte velkleur	-
-👩🏼‍🤝‍👨🏽	man en vrou wat hande vashou medium-ligte velkleur en medium velkleur	-
-👩🏼‍🤝‍👨🏾	man en vrou wat hande vashou medium-ligte velkleur en medium-donker velkleur	-
-👩🏼‍🤝‍👨🏿	man en vrou wat hande vashou medium-ligte velkleur en donker velkleur	-
-👩🏽‍🤝‍👨🏻	man en vrou wat hande vashou medium velkleur en ligte velkleur	-
-👩🏽‍🤝‍👨🏼	man en vrou wat hande vashou medium velkleur en medium-ligte velkleur	-
+👩🏼‍🤝‍👨🏽	man en vrou wat hande vashou medium-ligte velkleur, medium velkleur	-
+👩🏼‍🤝‍👨🏾	man en vrou wat hande vashou medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍🤝‍👨🏿	man en vrou wat hande vashou medium-ligte velkleur, donker velkleur	-
+👩🏽‍🤝‍👨🏻	man en vrou wat hande vashou medium velkleur, ligte velkleur	-
+👩🏽‍🤝‍👨🏼	man en vrou wat hande vashou medium velkleur, medium-ligte velkleur	-
 👫🏽	man en vrou wat hande vashou medium velkleur	-
-👩🏽‍🤝‍👨🏾	man en vrou wat hande vashou medium velkleur en medium-donker velkleur	-
-👩🏽‍🤝‍👨🏿	man en vrou wat hande vashou medium velkleur en donker velkleur	-
-👩🏾‍🤝‍👨🏻	man en vrou wat hande vashou medium-donker velkleur en ligte velkleur	-
-👩🏾‍🤝‍👨🏼	man en vrou wat hande vashou medium-donker velkleur en medium-ligte velkleur	-
-👩🏾‍🤝‍👨🏽	man en vrou wat hande vashou medium-donker velkleur en medium velkleur	-
+👩🏽‍🤝‍👨🏾	man en vrou wat hande vashou medium velkleur, medium-donker velkleur	-
+👩🏽‍🤝‍👨🏿	man en vrou wat hande vashou medium velkleur, donker velkleur	-
+👩🏾‍🤝‍👨🏻	man en vrou wat hande vashou medium-donker velkleur, ligte velkleur	-
+👩🏾‍🤝‍👨🏼	man en vrou wat hande vashou medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍🤝‍👨🏽	man en vrou wat hande vashou medium-donker velkleur, medium velkleur	-
 👫🏾	man en vrou wat hande vashou medium-donker velkleur	-
-👩🏾‍🤝‍👨🏿	man en vrou wat hande vashou medium-donker velkleur en donker velkleur	-
-👩🏿‍🤝‍👨🏻	man en vrou wat hande vashou donker velkleur en ligte velkleur	-
-👩🏿‍🤝‍👨🏼	man en vrou wat hande vashou donker velkleur en medium-ligte velkleur	-
-👩🏿‍🤝‍👨🏽	man en vrou wat hande vashou donker velkleur en medium velkleur	-
-👩🏿‍🤝‍👨🏾	man en vrou wat hande vashou donker velkleur en medium-donker velkleur	-
+👩🏾‍🤝‍👨🏿	man en vrou wat hande vashou medium-donker velkleur, donker velkleur	-
+👩🏿‍🤝‍👨🏻	man en vrou wat hande vashou donker velkleur, ligte velkleur	-
+👩🏿‍🤝‍👨🏼	man en vrou wat hande vashou donker velkleur, medium-ligte velkleur	-
+👩🏿‍🤝‍👨🏽	man en vrou wat hande vashou donker velkleur, medium velkleur	-
+👩🏿‍🤝‍👨🏾	man en vrou wat hande vashou donker velkleur, medium-donker velkleur	-
 👫🏿	man en vrou wat hande vashou donker velkleur	-
 👬🏻	twee mans wat hande vashou ligte velkleur	-
-👨🏻‍🤝‍👨🏼	twee mans wat hande vashou ligte velkleur en medium-ligte velkleur	-
-👨🏻‍🤝‍👨🏽	twee mans wat hande vashou ligte velkleur en medium velkleur	-
-👨🏻‍🤝‍👨🏾	twee mans wat hande vashou ligte velkleur en medium-donker velkleur	-
-👨🏻‍🤝‍👨🏿	twee mans wat hande vashou ligte velkleur en donker velkleur	-
-👨🏼‍🤝‍👨🏻	twee mans wat hande vashou medium-ligte velkleur en ligte velkleur	-
+👨🏻‍🤝‍👨🏼	twee mans wat hande vashou ligte velkleur, medium-ligte velkleur	-
+👨🏻‍🤝‍👨🏽	twee mans wat hande vashou ligte velkleur, medium velkleur	-
+👨🏻‍🤝‍👨🏾	twee mans wat hande vashou ligte velkleur, medium-donker velkleur	-
+👨🏻‍🤝‍👨🏿	twee mans wat hande vashou ligte velkleur, donker velkleur	-
+👨🏼‍🤝‍👨🏻	twee mans wat hande vashou medium-ligte velkleur, ligte velkleur	-
 👬🏼	twee mans wat hande vashou medium-ligte velkleur	-
-👨🏼‍🤝‍👨🏽	twee mans wat hande vashou medium-ligte velkleur en medium velkleur	-
-👨🏼‍🤝‍👨🏾	twee mans wat hande vashou medium-ligte velkleur en medium-donker velkleur	-
-👨🏼‍🤝‍👨🏿	twee mans wat hande vashou medium-ligte velkleur en donker velkleur	-
-👨🏽‍🤝‍👨🏻	twee mans wat hande vashou medium velkleur en ligte velkleur	-
-👨🏽‍🤝‍👨🏼	twee mans wat hande vashou medium velkleur en medium-ligte velkleur	-
+👨🏼‍🤝‍👨🏽	twee mans wat hande vashou medium-ligte velkleur, medium velkleur	-
+👨🏼‍🤝‍👨🏾	twee mans wat hande vashou medium-ligte velkleur, medium-donker velkleur	-
+👨🏼‍🤝‍👨🏿	twee mans wat hande vashou medium-ligte velkleur, donker velkleur	-
+👨🏽‍🤝‍👨🏻	twee mans wat hande vashou medium velkleur, ligte velkleur	-
+👨🏽‍🤝‍👨🏼	twee mans wat hande vashou medium velkleur, medium-ligte velkleur	-
 👬🏽	twee mans wat hande vashou medium velkleur	-
-👨🏽‍🤝‍👨🏾	twee mans wat hande vashou medium velkleur en medium-donker velkleur	-
-👨🏽‍🤝‍👨🏿	twee mans wat hande vashou medium velkleur en donker velkleur	-
-👨🏾‍🤝‍👨🏻	twee mans wat hande vashou medium-donker velkleur en ligte velkleur	-
-👨🏾‍🤝‍👨🏼	twee mans wat hande vashou medium-donker velkleur en medium-ligte velkleur	-
-👨🏾‍🤝‍👨🏽	twee mans wat hande vashou medium-donker velkleur en medium velkleur	-
+👨🏽‍🤝‍👨🏾	twee mans wat hande vashou medium velkleur, medium-donker velkleur	-
+👨🏽‍🤝‍👨🏿	twee mans wat hande vashou medium velkleur, donker velkleur	-
+👨🏾‍🤝‍👨🏻	twee mans wat hande vashou medium-donker velkleur, ligte velkleur	-
+👨🏾‍🤝‍👨🏼	twee mans wat hande vashou medium-donker velkleur, medium-ligte velkleur	-
+👨🏾‍🤝‍👨🏽	twee mans wat hande vashou medium-donker velkleur, medium velkleur	-
 👬🏾	twee mans wat hande vashou medium-donker velkleur	-
-👨🏾‍🤝‍👨🏿	twee mans wat hande vashou medium-donker velkleur en donker velkleur	-
-👨🏿‍🤝‍👨🏻	twee mans wat hande vashou donker velkleur en ligte velkleur	-
-👨🏿‍🤝‍👨🏼	twee mans wat hande vashou donker velkleur en medium-ligte velkleur	-
-👨🏿‍🤝‍👨🏽	twee mans wat hande vashou donker velkleur en medium velkleur	-
-👨🏿‍🤝‍👨🏾	twee mans wat hande vashou donker velkleur en medium-donker velkleur	-
+👨🏾‍🤝‍👨🏿	twee mans wat hande vashou medium-donker velkleur, donker velkleur	-
+👨🏿‍🤝‍👨🏻	twee mans wat hande vashou donker velkleur, ligte velkleur	-
+👨🏿‍🤝‍👨🏼	twee mans wat hande vashou donker velkleur, medium-ligte velkleur	-
+👨🏿‍🤝‍👨🏽	twee mans wat hande vashou donker velkleur, medium velkleur	-
+👨🏿‍🤝‍👨🏾	twee mans wat hande vashou donker velkleur, medium-donker velkleur	-
 👬🏿	twee mans wat hande vashou donker velkleur	-
 💏🏻	soen ligte velkleur	-
 💏🏼	soen medium-ligte velkleur	-
 💏🏽	soen medium velkleur	-
 💏🏾	soen medium-donker velkleur	-
 💏🏿	soen donker velkleur	-
-👩‍❤‍💋‍👨	soen vrou en man	-
-👨‍❤‍💋‍👨	soen man en man	-
-👩‍❤‍💋‍👩	soen vrou en vrou	-
+👩‍❤‍💋‍👨	soen vrou, man	-
+👨‍❤‍💋‍👨	soen man, man	-
+👩‍❤‍💋‍👩	soen vrou, vrou	-
 💑🏻	paartjie met hartjie ligte velkleur	-
 💑🏼	paartjie met hartjie medium-ligte velkleur	-
 💑🏽	paartjie met hartjie medium velkleur	-
 💑🏾	paartjie met hartjie medium-donker velkleur	-
 💑🏿	paartjie met hartjie donker velkleur	-
-👩‍❤‍👨	paartjie met hartjie vrou en man	-
-👨‍❤‍👨	paartjie met hartjie man en man	-
-👩‍❤‍👩	paartjie met hartjie vrou en vrou	-
-👨‍👩‍👦	gesin man, vrou en seun	-
-👨‍👩‍👧	gesin man, vrou en meisie	-
-👨‍👩‍👧‍👦	gesin man, vrou, meisie en seun	-
-👨‍👩‍👦‍👦	gesin man, vrou, seun en seun	-
-👨‍👩‍👧‍👧	gesin man, vrou, meisie en meisie	-
-👨‍👨‍👦	gesin man, man en seun	-
-👨‍👨‍👧	gesin man, man en meisie	-
-👨‍👨‍👧‍👦	gesin man, man, meisie en seun	-
-👨‍👨‍👦‍👦	gesin man, man, seun en seun	-
-👨‍👨‍👧‍👧	gesin man, man, meisie en meisie	-
-👩‍👩‍👦	gesin vrou, vrou en seun	-
-👩‍👩‍👧	gesin vrou, vrou en meisie	-
-👩‍👩‍👧‍👦	gesin vrou, vrou, meisie en seun	-
-👩‍👩‍👦‍👦	gesin vrou, vrou, seun en seun	-
-👩‍👩‍👧‍👧	gesin vrou, vrou, meisie en meisie	-
-👨‍👦	gesin man en seun	-
-👨‍👦‍👦	gesin man, seun en seun	-
-👨‍👧	gesin man en meisie	-
-👨‍👧‍👦	gesin man, meisie en seun	-
-👨‍👧‍👧	gesin man, meisie en meisie	-
-👩‍👦	gesin vrou en seun	-
-👩‍👦‍👦	gesin vrou, seun en seun	-
-👩‍👧	gesin vrou en meisie	-
-👩‍👧‍👦	gesin vrou, meisie en seun	-
-👩‍👧‍👧	gesin vrou, meisie en meisie	-
+👩‍❤‍👨	paartjie met hartjie vrou, man	-
+👨‍❤‍👨	paartjie met hartjie man, man	-
+👩‍❤‍👩	paartjie met hartjie vrou, vrou	-
+👨‍👩‍👦	gesin man, vrou, seun	-
+👨‍👩‍👧	gesin man, vrou, meisie	-
+👨‍👩‍👧‍👦	gesin man, vrou, meisie, seun	-
+👨‍👩‍👦‍👦	gesin man, vrou, seun, seun	-
+👨‍👩‍👧‍👧	gesin man, vrou, meisie, meisie	-
+👨‍👨‍👦	gesin man, man, seun	-
+👨‍👨‍👧	gesin man, man, meisie	-
+👨‍👨‍👧‍👦	gesin man, man, meisie, seun	-
+👨‍👨‍👦‍👦	gesin man, man, seun, seun	-
+👨‍👨‍👧‍👧	gesin man, man, meisie, meisie	-
+👩‍👩‍👦	gesin vrou, vrou, seun	-
+👩‍👩‍👧	gesin vrou, vrou, meisie	-
+👩‍👩‍👧‍👦	gesin vrou, vrou, meisie, seun	-
+👩‍👩‍👦‍👦	gesin vrou, vrou, seun, seun	-
+👩‍👩‍👧‍👧	gesin vrou, vrou, meisie, meisie	-
+👨‍👦	gesin man, seun	-
+👨‍👦‍👦	gesin man, seun, seun	-
+👨‍👧	gesin man, meisie	-
+👨‍👧‍👦	gesin man, meisie, seun	-
+👨‍👧‍👧	gesin man, meisie, meisie	-
+👩‍👦	gesin vrou, seun	-
+👩‍👦‍👦	gesin vrou, seun, seun	-
+👩‍👧	gesin vrou, meisie	-
+👩‍👧‍👦	gesin vrou, meisie, seun	-
+👩‍👧‍👧	gesin vrou, meisie, meisie	-
 #⃣	knoppiesimbool #	-
 *⃣	knoppiesimbool *	-
 🔟	knoppiesimbool 10	-
@@ -3921,7 +3928,7 @@ $	dollar	-
 🇨🇨	vlag Kokoseilande	-
 🇨🇩	vlag Demokratiese Republiek van die Kongo	-
 🇨🇫	vlag Sentraal-Afrikaanse Republiek	-
-🇨🇬	vlag Kongo - Brazzaville	-
+🇨🇬	vlag Kongo-Brazzaville	-
 🇨🇭	vlag Switserland	-
 🇨🇮	vlag Ivoorkus	-
 🇨🇰	vlag Cookeilande	-

@@ -405,6 +405,7 @@ _	guion bajo	-
 😪	cara de sueño	-
 🤤	cara babeando	-
 😴	cara durmiendo	-
+🫩	cara con ojeras	-
 😷	cara con mascarilla médica	-
 🤒	cara con termómetro	-
 🤕	cara con la cabeza vendada	-
@@ -840,6 +841,7 @@ _	guion bajo	-
 🧑‍🧒	familia adulto, niño	-
 🧑‍🧒‍🧒	familia adulto, niño, niño	-
 👣	huellas de pies	-
+🫆	huella dactilar	-
 🦰	pelo pelirrojo	-
 🦱	pelo rizado	-
 🦳	pelo blanco	-
@@ -953,6 +955,11 @@ _	guion bajo	-
 🐚	caracola	-
 🪸	coral	-
 🪼	medusa	-
+🦀	cangrejo	-
+🦞	bogavante	-
+🦐	gamba	-
+🦑	calamar	-
+🦪	ostra	-
 🐌	caracol	-
 🦋	mariposa	-
 🐛	bicho	-
@@ -997,6 +1004,7 @@ _	guion bajo	-
 🪹	nido vacío	-
 🪺	nido con huevos	-
 🍄	champiñón	-
+🪾	árbol sin hojas	-
 🍇	uvas	-
 🍈	melón	-
 🍉	sandía	-
@@ -1035,6 +1043,7 @@ _	guion bajo	-
 🫚	raíz de jengibre	-
 🫛	vaina	-
 🍄‍🟫	champiñón marrón	-
+🫜	túberculo comestible	-
 🍞	pan de molde	-
 🥐	cruasán	-
 🥖	baguete	-
@@ -1086,11 +1095,6 @@ _	guion bajo	-
 🥟	dumpling	-
 🥠	galleta de la fortuna	-
 🥡	caja para llevar	-
-🦀	cangrejo	-
-🦞	bogavante	-
-🦐	gamba	-
-🦑	calamar	-
-🦪	ostra	-
 🍦	cucurucho de helado	-
 🍧	granizado hawaiano	-
 🍨	helado	-
@@ -1511,6 +1515,7 @@ _	guion bajo	-
 🪘	tamboril	-
 🪇	maracas	-
 🪈	flauta	-
+🪉	arpa	-
 📱	teléfono móvil	-
 📲	móvil con una flecha	-
 ☎	teléfono	-
@@ -1649,6 +1654,7 @@ _	guion bajo	-
 🧰	caja de herramientas	-
 🧲	imán	-
 🪜	escalera	-
+🪏	pala	-
 ⚗	alambique	-
 🧪	tubo de ensayo	-
 🧫	placa de petri	-
@@ -1835,6 +1841,7 @@ _	guion bajo	-
 ©	copyright	-
 ®	marca registrada	-
 ™	símbolo de marca comercial	-
+🫟	salpicadura	-
 🔠	letras latinas mayúsculas	-
 🔡	letras latinas minúsculas	-
 🔢	números	-
@@ -1934,12 +1941,12 @@ $	dólar	-
 ₹	rupia india	-
 ₽	rublo	-
 ₿	bitcóin	-
-₨	rupia	-
-﷼	rial	-
 ¹	uno en superíndice	-
 ²	dos en superíndice	-
 ³	tres en superíndice	-
+₨	rupia	-
 µ	símbolo de micro	-
+﷼	rial	-
 👋🏻	mano saludando tono de piel claro	-
 👋🏼	mano saludando tono de piel claro medio	-
 👋🏽	mano saludando tono de piel medio	-
@@ -4141,24 +4148,24 @@ $	dólar	-
 🏴󠁧󠁢󠁳󠁣󠁴󠁿	Bandera Escocia	-
 🏴󠁧󠁢󠁷󠁬󠁳󠁿	Bandera Gales	-
 ¤	moneda desconocida	-
-֏	dram	-
-؋	afgani	-
-৳	taka	-
-฿	bat	-
-៛	riel	-
+֏	dram armenio	-
+؋	afgani afgano	-
+৳	taka bangladesí	-
+฿	bat tailandés	-
+៛	riel camboyano	-
 ₡	colón costarricense	-
-₦	naira	-
+₦	naira nigeriano	-
 ₪	nuevo séquel israelí	-
-₫	dong	-
-₭	kip	-
-₮	tugrik	-
+₫	dong vietnamita	-
+₭	kip laosiano	-
+₮	tugrik mongol	-
 ₲	guaraní paraguayo	-
-₴	grivna	-
-₵	cedi	-
+₴	grivna ucraniana	-
+₵	cedi ghanés	-
 ₸	tengue kazajo	-
 ₺	lira turca	-
 ₼	manat azerbaiyano	-
-₾	lari	-
+₾	lari georgiano	-
 0⃣	Teclas 0	-
 1⃣	Teclas 1	-
 2⃣	Teclas 2	-

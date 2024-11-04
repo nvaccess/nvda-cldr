@@ -1,5 +1,4 @@
 ﻿symbols:
-‾	overline	-
 -	bindestrek-minus-teikn	-
 ―	vassrett strek	-
 !	utropsteikn	-
@@ -47,18 +46,16 @@
 °	gradeteikn	-
 →	pil mot høgre	-
 ↛	pil høgre med skråstrek	-
-↜	bølgeforma pil venstre	-
-↝	bølgeforma pil høgre	-
+↝	bølgepil mot høgre	-
 ↞	pil venstre med to mothakar	-
 ↟	pil opp med to mothakar	-
 ↠	pil høgre med to mothakar	-
 ↡	pil ned med to mothakar	-
-↢	venstrepil med hale	-
-↣	høgrepil med hale	-
-↤	venstrepil frå line	-
-↥	oppoverpil frå line	-
-↦	høgrepil frå line	-
-↧	nedoverpil frå line	-
+↣	pil høgre med styrefjær	-
+↤	pil venstre frå loddrett strek	-
+↥	pil opp frå vassrett strek	-
+↦	pil høgre frå loddrett strek	-
+↧	pil ned frå vassrett strek	-
 ↬	pil høgre med løkke	-
 ↭	bølgepil mot høgre og venstre	-
 ↱	pil opp med spiss mot høgre	-
@@ -241,6 +238,7 @@
 😌	letta	-
 🤤	siklar	-
 😴	søv	-
+🫩	fjes med posar under auga	-
 🤕	bandasjert hovud	-
 🤮	kastar opp	-
 🤧	nys	-
@@ -501,6 +499,7 @@
 🗣	snakkande hovud i profil	-
 🧑‍🧑‍🧒	familie vaksen, vaksen, barn	-
 🧑‍🧑‍🧒‍🧒	familie vaksen, vaksen, barn, barn	-
+🧑‍🧒	familie vaksen, barn	-
 🧑‍🧒‍🧒	familie vaksen, barn, barn	-
 🦰	raudt hår	-
 🦱	krusete hår	-
@@ -520,6 +519,7 @@
 🐳	sprutande kval	-
 🐋	kval	-
 🐚	spiralskjel	-
+🦞	hummar	-
 🐌	snigel	-
 🦋	sommarfugl	-
 🦗	grashoppe	-
@@ -535,12 +535,14 @@
 🍃	blad i vind	-
 🪹	tomt reir	-
 🪺	reir med egg	-
+🪾	bladlaust tre	-
 🍉	vassmelon	-
 🍎	raudt eple	-
 🌶	raud chili	-
 🥬	bladgrønsaker	-
 🧄	kvitlauk	-
 🧅	lauk	-
+🫜	rotgrønsak	-
 🍖	kjøt med bein	-
 🥩	kjøtstykke	-
 🍔	hamburgar	-
@@ -548,7 +550,6 @@
 🥣	bolle med skei	-
 🥗	grøn salat	-
 🍜	matbolle som dampar	-
-🦞	hummar	-
 🍦	softis	-
 🍭	slikkepinne	-
 🥛	mjølkeglas	-
@@ -808,6 +809,8 @@
 ⚪	kvit sirkel	-
 🟥	raudt kvadrat	-
 ⬜	stor kvit firkant	-
+◻	mellomstort kvitt kvadrat	-
+◽	lite/mellomstort kvitt kvadrat	-
 ▫	liten kvit firkant	-
 🔶	stort oransje rombesymbol	-
 🔺	raud trekant som peikar opp	-
@@ -2127,7 +2130,7 @@
 🇹🇫	flagg Dei franske sørterritoria	-
 🇹🇱	flagg Aust-Timor	-
 🇺🇲	flagg USAs ytre småøyar	-
-🇺🇳	flagg Sameinte nasjonar	-
+🇺🇳	flagg Dei sameinte nasjonane	-
 🇻🇨	flagg St. Vincent og Grenadinane	-
 🇻🇬	flagg Dei britiske Jomfruøyane	-
 🇻🇮	flagg Dei amerikanske Jomfruøyane	-

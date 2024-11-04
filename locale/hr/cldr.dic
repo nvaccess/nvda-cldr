@@ -405,6 +405,7 @@ _	donja crta	-
 😪	pospano lice	-
 🤤	lice koje slini	-
 😴	lice koje spava	-
+🫩	lice s podočnjacima	-
 😷	lice s medicinskom maskom	-
 🤒	lice s toplomjerom	-
 🤕	lice sa zavojem	-
@@ -840,6 +841,7 @@ _	donja crta	-
 🧑‍🧒	obitelj odrasla osoba, dijete	-
 🧑‍🧒‍🧒	obitelj odrasla osoba, dijete, dijete	-
 👣	otisci stopala	-
+🫆	otisak prsta	-
 🦰	crvena kosa	-
 🦱	kovrčava kosa	-
 🦳	sijeda kosa	-
@@ -953,6 +955,11 @@ _	donja crta	-
 🐚	spiralna školjka	-
 🪸	koralj	-
 🪼	meduza	-
+🦀	rak	-
+🦞	jastog	-
+🦐	škamp	-
+🦑	lignja	-
+🦪	kamenica	-
 🐌	puž	-
 🦋	leptir	-
 🐛	gusjenica	-
@@ -997,6 +1004,7 @@ _	donja crta	-
 🪹	prazno gnijezdo	-
 🪺	gnijezdo s jajima	-
 🍄	gljiva	-
+🪾	stablo bez lišća	-
 🍇	grožđe	-
 🍈	dinja	-
 🍉	lubenica	-
@@ -1035,6 +1043,7 @@ _	donja crta	-
 🫚	đumbir	-
 🫛	mahuna graška	-
 🍄‍🟫	smeđa gljiva	-
+🫜	korjenasto povrće	-
 🍞	kruh	-
 🥐	kroasan	-
 🥖	baget	-
@@ -1086,11 +1095,6 @@ _	donja crta	-
 🥟	okruglica	-
 🥠	kolačić sreće	-
 🥡	kutija za dostavu	-
-🦀	rak	-
-🦞	jastog	-
-🦐	škamp	-
-🦑	lignja	-
-🦪	kamenica	-
 🍦	meki sladoled	-
 🍧	sladoled s komadićima leda	-
 🍨	sladoled	-
@@ -1511,6 +1515,7 @@ _	donja crta	-
 🪘	visoki bubanj	-
 🪇	marakasi	-
 🪈	flauta	-
+🪉	harfa	-
 📱	mobilni telefon	-
 📲	mobilni telefon sa strelicom	-
 ☎	telefon	-
@@ -1649,6 +1654,7 @@ _	donja crta	-
 🧰	kutija za alat	-
 🧲	magnet	-
 🪜	ljestve	-
+🪏	lopata	-
 ⚗	retorta	-
 🧪	epruveta	-
 🧫	petrijeva zdjelica	-
@@ -1792,7 +1798,7 @@ _	donja crta	-
 🎦	kino	-
 🔅	tipka za smanjivanje svjetline	-
 🔆	tipka za povećanje svjetline	-
-📶	trakice jačine signala	-
+📶	crtice jačine signala	-
 🛜	bežična mreža	-
 📳	način vibracije	-
 📴	isključen mobilni telefon	-
@@ -1835,6 +1841,7 @@ _	donja crta	-
 ©	znak za autorska prava	-
 ®	znak za registrirano	-
 ™	zaštitni znak tm	-
+🫟	mrlja	-
 🔠	unos velikih latiničnih slova	-
 🔡	unos malih latiničnih slova	-
 🔢	unos brojeva	-
@@ -1934,12 +1941,12 @@ $	dolar	-
 ₹	indijska rupija	-
 ₽	rubalj	-
 ₿	bitcoin	-
-₨	rupija	-
-﷼	rijal	-
 ¹	eksponent 1	-
 ²	eksponent 2	-
 ³	eksponent 3	-
+₨	rupija	-
 µ	znak mikro	-
+﷼	rijal	-
 👋🏻	ruka koja maše svijetla boja kože	-
 👋🏼	ruka koja maše svijetlo maslinasta boja kože	-
 👋🏽	ruka koja maše maslinasta boja kože	-
@@ -3879,7 +3886,7 @@ $	dolar	-
 #⃣	tipka #	-
 *⃣	tipka *	-
 🔟	tipka 10	-
-🇦🇨	zastava Otok Ascension	-
+🇦🇨	zastava Otok Uzašašća	-
 🇦🇩	zastava Andora	-
 🇦🇪	zastava Ujedinjeni Arapski Emirati	-
 🇦🇫	zastava Afganistan	-
@@ -3918,13 +3925,13 @@ $	dolar	-
 🇧🇾	zastava Bjelorusija	-
 🇧🇿	zastava Belize	-
 🇨🇦	zastava Kanada	-
-🇨🇨	zastava Kokosovi (Keelingovi) otoci	-
+🇨🇨	zastava Kokosovi (Keelingovi) Otoci	-
 🇨🇩	zastava Kongo - Kinshasa	-
 🇨🇫	zastava Srednjoafrička Republika	-
 🇨🇬	zastava Kongo - Brazzaville	-
 🇨🇭	zastava Švicarska	-
 🇨🇮	zastava Obala Bjelokosti	-
-🇨🇰	zastava Cookovi otoci	-
+🇨🇰	zastava Cookovi Otoci	-
 🇨🇱	zastava Čile	-
 🇨🇲	zastava Kamerun	-
 🇨🇳	zastava Kina	-
@@ -3934,7 +3941,7 @@ $	dolar	-
 🇨🇺	zastava Kuba	-
 🇨🇻	zastava Zelenortska Republika	-
 🇨🇼	zastava Curaçao	-
-🇨🇽	zastava Božićni otok	-
+🇨🇽	zastava Božićni Otok	-
 🇨🇾	zastava Cipar	-
 🇨🇿	zastava Češka	-
 🇩🇪	zastava Njemačka	-
@@ -3955,9 +3962,9 @@ $	dolar	-
 🇪🇺	zastava Europska unija	-
 🇫🇮	zastava Finska	-
 🇫🇯	zastava Fidži	-
-🇫🇰	zastava Falklandski otoci	-
+🇫🇰	zastava Falklandski Otoci	-
 🇫🇲	zastava Mikronezija	-
-🇫🇴	zastava Farski otoci	-
+🇫🇴	zastava Ovčji Otoci	-
 🇫🇷	zastava Francuska	-
 🇬🇦	zastava Gabon	-
 🇬🇧	zastava Ujedinjeno Kraljevstvo	-
@@ -3973,7 +3980,7 @@ $	dolar	-
 🇬🇵	zastava Guadalupe	-
 🇬🇶	zastava Ekvatorska Gvineja	-
 🇬🇷	zastava Grčka	-
-🇬🇸	zastava Južna Georgija i Južni Sendvički Otoci	-
+🇬🇸	zastava Južna Georgia i Otoci Južni Sandwich	-
 🇬🇹	zastava Gvatemala	-
 🇬🇺	zastava Guam	-
 🇬🇼	zastava Gvineja Bisau	-
@@ -3984,13 +3991,13 @@ $	dolar	-
 🇭🇷	zastava Hrvatska	-
 🇭🇹	zastava Haiti	-
 🇭🇺	zastava Mađarska	-
-🇮🇨	zastava Kanarski otoci	-
+🇮🇨	zastava Kanari	-
 🇮🇩	zastava Indonezija	-
 🇮🇪	zastava Irska	-
 🇮🇱	zastava Izrael	-
 🇮🇲	zastava Otok Man	-
 🇮🇳	zastava Indija	-
-🇮🇴	zastava Britanski Indijskooceanski teritorij	-
+🇮🇴	zastava Britanski Indijskooceanski Teritorij	-
 🇮🇶	zastava Irak	-
 🇮🇷	zastava Iran	-
 🇮🇸	zastava Island	-
@@ -4008,7 +4015,7 @@ $	dolar	-
 🇰🇵	zastava Sjeverna Koreja	-
 🇰🇷	zastava Južna Koreja	-
 🇰🇼	zastava Kuvajt	-
-🇰🇾	zastava Kajmanski otoci	-
+🇰🇾	zastava Kajmanski Otoci	-
 🇰🇿	zastava Kazahstan	-
 🇱🇦	zastava Laos	-
 🇱🇧	zastava Libanon	-
@@ -4033,7 +4040,7 @@ $	dolar	-
 🇲🇲	zastava Mjanmar (Burma)	-
 🇲🇳	zastava Mongolija	-
 🇲🇴	zastava PUP Makao Kina	-
-🇲🇵	zastava Sjevernomarijanski otoci	-
+🇲🇵	zastava Sjevernomarijanski Otoci	-
 🇲🇶	zastava Martinik	-
 🇲🇷	zastava Mauretanija	-
 🇲🇸	zastava Montserrat	-
@@ -4065,7 +4072,7 @@ $	dolar	-
 🇵🇰	zastava Pakistan	-
 🇵🇱	zastava Poljska	-
 🇵🇲	zastava Sveti Petar i Mikelon	-
-🇵🇳	zastava Otoci Pitcairn	-
+🇵🇳	zastava Pitcairnovi Otoci	-
 🇵🇷	zastava Portoriko	-
 🇵🇸	zastava Palestinsko područje	-
 🇵🇹	zastava Portugal	-
@@ -4078,7 +4085,7 @@ $	dolar	-
 🇷🇺	zastava Rusija	-
 🇷🇼	zastava Ruanda	-
 🇸🇦	zastava Saudijska Arabija	-
-🇸🇧	zastava Salomonski Otoci	-
+🇸🇧	zastava Salomonovi Otoci	-
 🇸🇨	zastava Sejšeli	-
 🇸🇩	zastava Sudan	-
 🇸🇪	zastava Švedska	-
@@ -4101,7 +4108,7 @@ $	dolar	-
 🇹🇦	zastava Tristan da Cunha	-
 🇹🇨	zastava Otoci Turks i Caicos	-
 🇹🇩	zastava Čad	-
-🇹🇫	zastava Francuski južni i antarktički teritoriji	-
+🇹🇫	zastava Francuski Južni Teritoriji	-
 🇹🇬	zastava Togo	-
 🇹🇭	zastava Tajland	-
 🇹🇯	zastava Tadžikistan	-
@@ -4122,11 +4129,11 @@ $	dolar	-
 🇺🇸	zastava Sjedinjene Američke Države	-
 🇺🇾	zastava Urugvaj	-
 🇺🇿	zastava Uzbekistan	-
-🇻🇦	zastava Vatikanski Grad	-
+🇻🇦	zastava Vatikan	-
 🇻🇨	zastava Sveti Vincent i Grenadini	-
 🇻🇪	zastava Venezuela	-
-🇻🇬	zastava Britanski Djevičanski otoci	-
-🇻🇮	zastava Američki Djevičanski otoci	-
+🇻🇬	zastava Britanski Djevičanski Otoci	-
+🇻🇮	zastava Američki Djevičanski Otoci	-
 🇻🇳	zastava Vijetnam	-
 🇻🇺	zastava Vanuatu	-
 🇼🇫	zastava Wallis i Futuna	-

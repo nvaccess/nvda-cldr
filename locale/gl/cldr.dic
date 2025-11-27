@@ -433,6 +433,7 @@ _	trazo baixo	-
 😯	cara estupefacta	-
 😲	cara abraiada	-
 😳	cara arroibada	-
+🫪	cara desencaixada	-
 🥺	cara de súplica	-
 🥹	cara contendo as bágoas	-
 😦	cara triste coa boca aberta	-
@@ -506,6 +507,7 @@ _	trazo baixo	-
 💋	marca de bico	-
 💯	100 puntos	-
 💢	símbolo de enfado	-
+🫯	liorta	-
 💥	explosión	-
 💫	símbolo de atordamento	-
 💦	pingas de suor	-
@@ -738,6 +740,7 @@ _	trazo baixo	-
 🧟‍♂	zombi de sexo masculino	-
 🧟‍♀	zombi de sexo feminino	-
 🧌	troll	-
+🫈	criatura peluda	-
 💆	masaxe facial	-
 💆‍♂	masaxe facial a home	-
 💆‍♀	masaxe facial a muller	-
@@ -765,6 +768,7 @@ _	trazo baixo	-
 🏃	persoa correndo	-
 🏃‍♂	home correndo	-
 🏃‍♀	muller correndo	-
+🧑‍🩰	intérprete de ballet	-
 💃	bailarina	-
 🕺	bailarín	-
 🕴	home de negocios	-
@@ -946,6 +950,7 @@ _	trazo baixo	-
 🐳	balea botando un chorro	-
 🐋	balea	-
 🐬	golfiño	-
+🫍	candorca	-
 🦭	foca	-
 🐟	peixe	-
 🐠	peixe tropical	-
@@ -1145,6 +1150,7 @@ _	trazo baixo	-
 🧭	compás	-
 🏔	montañas nevadas	-
 ⛰	montañas	-
+🛘	desprendemento de terras	-
 🌋	volcán	-
 🗻	monte Fuji	-
 🏕	cámping	-
@@ -1505,10 +1511,11 @@ _	trazo baixo	-
 🎧	auriculares	-
 📻	radio	-
 🎷	saxofón	-
+🎺	trompeta	-
+🪊	trombón	-
 🪗	acordeón	-
 🎸	guitarra	-
 🎹	teclado musical	-
-🎺	trompeta	-
 🎻	violín	-
 🪕	banxo	-
 🥁	tambor	-
@@ -1569,8 +1576,9 @@ _	trazo baixo	-
 📑	marcador autoadhesivo	-
 🔖	marcapáxinas	-
 🏷	etiqueta	-
-💰	saco de diñeiro	-
 🪙	moeda	-
+💰	saco de diñeiro	-
+🪎	cofre do tesouro	-
 💴	billete de ien	-
 💵	billete de dólar	-
 💶	billete de euro	-
@@ -1941,6 +1949,16 @@ $	dólar	-
 ₹	rupia india	-
 ₽	rublo	-
 ₿	bitcoin	-
+0⃣	tecla 0	-
+1⃣	tecla 1	-
+2⃣	tecla 2	-
+3⃣	tecla 3	-
+4⃣	tecla 4	-
+5⃣	tecla 5	-
+6⃣	tecla 6	-
+7⃣	tecla 7	-
+8⃣	tecla 8	-
+9⃣	tecla 9	-
 ¹	un en superíndice	-
 ²	dous en superíndice	-
 ³	tres en superíndice	-
@@ -2282,6 +2300,26 @@ $	dólar	-
 🧑🏿‍❤‍🧑🏼	parella cun corazón persoa, persoa, ton de pel moi escuro, ton de pel claro	-
 🧑🏿‍❤‍🧑🏽	parella cun corazón persoa, persoa, ton de pel moi escuro, ton de pel medio	-
 🧑🏿‍❤‍🧑🏾	parella cun corazón persoa, persoa, ton de pel moi escuro, ton de pel escuro	-
+🧑🏻‍🫯‍🧑🏼	loita libre ton de pel moi claro, ton de pel claro	-
+🧑🏻‍🫯‍🧑🏽	loita libre ton de pel moi claro, ton de pel medio	-
+🧑🏻‍🫯‍🧑🏾	loita libre ton de pel moi claro, ton de pel escuro	-
+🧑🏻‍🫯‍🧑🏿	loita libre ton de pel moi claro, ton de pel moi escuro	-
+🧑🏼‍🫯‍🧑🏻	loita libre ton de pel claro, ton de pel moi claro	-
+🧑🏼‍🫯‍🧑🏽	loita libre ton de pel claro, ton de pel medio	-
+🧑🏼‍🫯‍🧑🏾	loita libre ton de pel claro, ton de pel escuro	-
+🧑🏼‍🫯‍🧑🏿	loita libre ton de pel claro, ton de pel moi escuro	-
+🧑🏽‍🫯‍🧑🏻	loita libre ton de pel medio, ton de pel moi claro	-
+🧑🏽‍🫯‍🧑🏼	loita libre ton de pel medio, ton de pel claro	-
+🧑🏽‍🫯‍🧑🏾	loita libre ton de pel medio, ton de pel escuro	-
+🧑🏽‍🫯‍🧑🏿	loita libre ton de pel medio, ton de pel moi escuro	-
+🧑🏾‍🫯‍🧑🏻	loita libre ton de pel escuro, ton de pel moi claro	-
+🧑🏾‍🫯‍🧑🏼	loita libre ton de pel escuro, ton de pel claro	-
+🧑🏾‍🫯‍🧑🏽	loita libre ton de pel escuro, ton de pel medio	-
+🧑🏾‍🫯‍🧑🏿	loita libre ton de pel escuro, ton de pel moi escuro	-
+🧑🏿‍🫯‍🧑🏻	loita libre ton de pel moi escuro, ton de pel moi claro	-
+🧑🏿‍🫯‍🧑🏼	loita libre ton de pel moi escuro, ton de pel claro	-
+🧑🏿‍🫯‍🧑🏽	loita libre ton de pel moi escuro, ton de pel medio	-
+🧑🏿‍🫯‍🧑🏾	loita libre ton de pel moi escuro, ton de pel escuro	-
 🧑‍🦰	persoa pelo roxo	-
 🧑🏻‍🦰	persoa ton de pel moi claro, pelo roxo	-
 🧑🏼‍🦰	persoa ton de pel claro, pelo roxo	-
@@ -2306,6 +2344,26 @@ $	dólar	-
 🧑🏽‍🦲	persoa ton de pel medio, sen pelo	-
 🧑🏾‍🦲	persoa ton de pel escuro, sen pelo	-
 🧑🏿‍🦲	persoa ton de pel moi escuro, sen pelo	-
+🧑🏻‍🐰‍🧑🏼	xente de festa ton de pel moi claro, ton de pel claro	-
+🧑🏻‍🐰‍🧑🏽	xente de festa ton de pel moi claro, ton de pel medio	-
+🧑🏻‍🐰‍🧑🏾	xente de festa ton de pel moi claro, ton de pel escuro	-
+🧑🏻‍🐰‍🧑🏿	xente de festa ton de pel moi claro, ton de pel moi escuro	-
+🧑🏼‍🐰‍🧑🏻	xente de festa ton de pel claro, ton de pel moi claro	-
+🧑🏼‍🐰‍🧑🏽	xente de festa ton de pel claro, ton de pel medio	-
+🧑🏼‍🐰‍🧑🏾	xente de festa ton de pel claro, ton de pel escuro	-
+🧑🏼‍🐰‍🧑🏿	xente de festa ton de pel claro, ton de pel moi escuro	-
+🧑🏽‍🐰‍🧑🏻	xente de festa ton de pel medio, ton de pel moi claro	-
+🧑🏽‍🐰‍🧑🏼	xente de festa ton de pel medio, ton de pel claro	-
+🧑🏽‍🐰‍🧑🏾	xente de festa ton de pel medio, ton de pel escuro	-
+🧑🏽‍🐰‍🧑🏿	xente de festa ton de pel medio, ton de pel moi escuro	-
+🧑🏾‍🐰‍🧑🏻	xente de festa ton de pel escuro, ton de pel moi claro	-
+🧑🏾‍🐰‍🧑🏼	xente de festa ton de pel escuro, ton de pel claro	-
+🧑🏾‍🐰‍🧑🏽	xente de festa ton de pel escuro, ton de pel medio	-
+🧑🏾‍🐰‍🧑🏿	xente de festa ton de pel escuro, ton de pel moi escuro	-
+🧑🏿‍🐰‍🧑🏻	xente de festa ton de pel moi escuro, ton de pel moi claro	-
+🧑🏿‍🐰‍🧑🏼	xente de festa ton de pel moi escuro, ton de pel claro	-
+🧑🏿‍🐰‍🧑🏽	xente de festa ton de pel moi escuro, ton de pel medio	-
+🧑🏿‍🐰‍🧑🏾	xente de festa ton de pel moi escuro, ton de pel escuro	-
 👨🏻	home ton de pel moi claro	-
 👨🏼	home ton de pel claro	-
 👨🏽	home ton de pel medio	-
@@ -2376,6 +2434,26 @@ $	dólar	-
 👨🏿‍❤‍👨🏽	parella cun corazón home, home, ton de pel moi escuro, ton de pel medio	-
 👨🏿‍❤‍👨🏾	parella cun corazón home, home, ton de pel moi escuro, ton de pel escuro	-
 👨🏿‍❤‍👨🏿	parella cun corazón home, home, ton de pel moi escuro	-
+👨🏻‍🫯‍👨🏼	homes practicando loita libre ton de pel moi claro, ton de pel claro	-
+👨🏻‍🫯‍👨🏽	homes practicando loita libre ton de pel moi claro, ton de pel medio	-
+👨🏻‍🫯‍👨🏾	homes practicando loita libre ton de pel moi claro, ton de pel escuro	-
+👨🏻‍🫯‍👨🏿	homes practicando loita libre ton de pel moi claro, ton de pel moi escuro	-
+👨🏼‍🫯‍👨🏻	homes practicando loita libre ton de pel claro, ton de pel moi claro	-
+👨🏼‍🫯‍👨🏽	homes practicando loita libre ton de pel claro, ton de pel medio	-
+👨🏼‍🫯‍👨🏾	homes practicando loita libre ton de pel claro, ton de pel escuro	-
+👨🏼‍🫯‍👨🏿	homes practicando loita libre ton de pel claro, ton de pel moi escuro	-
+👨🏽‍🫯‍👨🏻	homes practicando loita libre ton de pel medio, ton de pel moi claro	-
+👨🏽‍🫯‍👨🏼	homes practicando loita libre ton de pel medio, ton de pel claro	-
+👨🏽‍🫯‍👨🏾	homes practicando loita libre ton de pel medio, ton de pel escuro	-
+👨🏽‍🫯‍👨🏿	homes practicando loita libre ton de pel medio, ton de pel moi escuro	-
+👨🏾‍🫯‍👨🏻	homes practicando loita libre ton de pel escuro, ton de pel moi claro	-
+👨🏾‍🫯‍👨🏼	homes practicando loita libre ton de pel escuro, ton de pel claro	-
+👨🏾‍🫯‍👨🏽	homes practicando loita libre ton de pel escuro, ton de pel medio	-
+👨🏾‍🫯‍👨🏿	homes practicando loita libre ton de pel escuro, ton de pel moi escuro	-
+👨🏿‍🫯‍👨🏻	homes practicando loita libre ton de pel moi escuro, ton de pel moi claro	-
+👨🏿‍🫯‍👨🏼	homes practicando loita libre ton de pel moi escuro, ton de pel claro	-
+👨🏿‍🫯‍👨🏽	homes practicando loita libre ton de pel moi escuro, ton de pel medio	-
+👨🏿‍🫯‍👨🏾	homes practicando loita libre ton de pel moi escuro, ton de pel escuro	-
 👨‍🦰	home pelo roxo	-
 👨🏻‍🦰	home ton de pel moi claro, pelo roxo	-
 👨🏼‍🦰	home ton de pel claro, pelo roxo	-
@@ -2400,6 +2478,26 @@ $	dólar	-
 👨🏽‍🦲	home ton de pel medio, sen pelo	-
 👨🏾‍🦲	home ton de pel escuro, sen pelo	-
 👨🏿‍🦲	home ton de pel moi escuro, sen pelo	-
+👨🏻‍🐰‍👨🏼	homes de festa ton de pel moi claro, ton de pel claro	-
+👨🏻‍🐰‍👨🏽	homes de festa ton de pel moi claro, ton de pel medio	-
+👨🏻‍🐰‍👨🏾	homes de festa ton de pel moi claro, ton de pel escuro	-
+👨🏻‍🐰‍👨🏿	homes de festa ton de pel moi claro, ton de pel moi escuro	-
+👨🏼‍🐰‍👨🏻	homes de festa ton de pel claro, ton de pel moi claro	-
+👨🏼‍🐰‍👨🏽	homes de festa ton de pel claro, ton de pel medio	-
+👨🏼‍🐰‍👨🏾	homes de festa ton de pel claro, ton de pel escuro	-
+👨🏼‍🐰‍👨🏿	homes de festa ton de pel claro, ton de pel moi escuro	-
+👨🏽‍🐰‍👨🏻	homes de festa ton de pel medio, ton de pel moi claro	-
+👨🏽‍🐰‍👨🏼	homes de festa ton de pel medio, ton de pel claro	-
+👨🏽‍🐰‍👨🏾	homes de festa ton de pel medio, ton de pel escuro	-
+👨🏽‍🐰‍👨🏿	homes de festa ton de pel medio, ton de pel moi escuro	-
+👨🏾‍🐰‍👨🏻	homes de festa ton de pel escuro, ton de pel moi claro	-
+👨🏾‍🐰‍👨🏼	homes de festa ton de pel escuro, ton de pel claro	-
+👨🏾‍🐰‍👨🏽	homes de festa ton de pel escuro, ton de pel medio	-
+👨🏾‍🐰‍👨🏿	homes de festa ton de pel escuro, ton de pel moi escuro	-
+👨🏿‍🐰‍👨🏻	homes de festa ton de pel moi escuro, ton de pel moi claro	-
+👨🏿‍🐰‍👨🏼	homes de festa ton de pel moi escuro, ton de pel claro	-
+👨🏿‍🐰‍👨🏽	homes de festa ton de pel moi escuro, ton de pel medio	-
+👨🏿‍🐰‍👨🏾	homes de festa ton de pel moi escuro, ton de pel escuro	-
 👩🏻	muller ton de pel moi claro	-
 👩🏼	muller ton de pel claro	-
 👩🏽	muller ton de pel medio	-
@@ -2515,6 +2613,26 @@ $	dólar	-
 👩🏿‍❤‍👩🏽	parella cun corazón muller, muller, ton de pel moi escuro, ton de pel medio	-
 👩🏿‍❤‍👩🏾	parella cun corazón muller, muller, ton de pel moi escuro, ton de pel escuro	-
 👩🏿‍❤‍👩🏿	parella cun corazón muller, muller, ton de pel moi escuro	-
+👩🏻‍🫯‍👩🏼	mulleres practicando loita libre ton de pel moi claro, ton de pel claro	-
+👩🏻‍🫯‍👩🏽	mulleres practicando loita libre ton de pel moi claro, ton de pel medio	-
+👩🏻‍🫯‍👩🏾	mulleres practicando loita libre ton de pel moi claro, ton de pel escuro	-
+👩🏻‍🫯‍👩🏿	mulleres practicando loita libre ton de pel moi claro, ton de pel moi escuro	-
+👩🏼‍🫯‍👩🏻	mulleres practicando loita libre ton de pel claro, ton de pel moi claro	-
+👩🏼‍🫯‍👩🏽	mulleres practicando loita libre ton de pel claro, ton de pel medio	-
+👩🏼‍🫯‍👩🏾	mulleres practicando loita libre ton de pel claro, ton de pel escuro	-
+👩🏼‍🫯‍👩🏿	mulleres practicando loita libre ton de pel claro, ton de pel moi escuro	-
+👩🏽‍🫯‍👩🏻	mulleres practicando loita libre ton de pel medio, ton de pel moi claro	-
+👩🏽‍🫯‍👩🏼	mulleres practicando loita libre ton de pel medio, ton de pel claro	-
+👩🏽‍🫯‍👩🏾	mulleres practicando loita libre ton de pel medio, ton de pel escuro	-
+👩🏽‍🫯‍👩🏿	mulleres practicando loita libre ton de pel medio, ton de pel moi escuro	-
+👩🏾‍🫯‍👩🏻	mulleres practicando loita libre ton de pel escuro, ton de pel moi claro	-
+👩🏾‍🫯‍👩🏼	mulleres practicando loita libre ton de pel escuro, ton de pel claro	-
+👩🏾‍🫯‍👩🏽	mulleres practicando loita libre ton de pel escuro, ton de pel medio	-
+👩🏾‍🫯‍👩🏿	mulleres practicando loita libre ton de pel escuro, ton de pel moi escuro	-
+👩🏿‍🫯‍👩🏻	mulleres practicando loita libre ton de pel moi escuro, ton de pel moi claro	-
+👩🏿‍🫯‍👩🏼	mulleres practicando loita libre ton de pel moi escuro, ton de pel claro	-
+👩🏿‍🫯‍👩🏽	mulleres practicando loita libre ton de pel moi escuro, ton de pel medio	-
+👩🏿‍🫯‍👩🏾	mulleres practicando loita libre ton de pel moi escuro, ton de pel escuro	-
 👩‍🦰	muller pelo roxo	-
 👩🏻‍🦰	muller ton de pel moi claro, pelo roxo	-
 👩🏼‍🦰	muller ton de pel claro, pelo roxo	-
@@ -2539,6 +2657,26 @@ $	dólar	-
 👩🏽‍🦲	muller ton de pel medio, sen pelo	-
 👩🏾‍🦲	muller ton de pel escuro, sen pelo	-
 👩🏿‍🦲	muller ton de pel moi escuro, sen pelo	-
+👩🏻‍🐰‍👩🏼	mulleres de festa ton de pel moi claro, ton de pel claro	-
+👩🏻‍🐰‍👩🏽	mulleres de festa ton de pel moi claro, ton de pel medio	-
+👩🏻‍🐰‍👩🏾	mulleres de festa ton de pel moi claro, ton de pel escuro	-
+👩🏻‍🐰‍👩🏿	mulleres de festa ton de pel moi claro, ton de pel moi escuro	-
+👩🏼‍🐰‍👩🏻	mulleres de festa ton de pel claro, ton de pel moi claro	-
+👩🏼‍🐰‍👩🏽	mulleres de festa ton de pel claro, ton de pel medio	-
+👩🏼‍🐰‍👩🏾	mulleres de festa ton de pel claro, ton de pel escuro	-
+👩🏼‍🐰‍👩🏿	mulleres de festa ton de pel claro, ton de pel moi escuro	-
+👩🏽‍🐰‍👩🏻	mulleres de festa ton de pel medio, ton de pel moi claro	-
+👩🏽‍🐰‍👩🏼	mulleres de festa ton de pel medio, ton de pel claro	-
+👩🏽‍🐰‍👩🏾	mulleres de festa ton de pel medio, ton de pel escuro	-
+👩🏽‍🐰‍👩🏿	mulleres de festa ton de pel medio, ton de pel moi escuro	-
+👩🏾‍🐰‍👩🏻	mulleres de festa ton de pel escuro, ton de pel moi claro	-
+👩🏾‍🐰‍👩🏼	mulleres de festa ton de pel escuro, ton de pel claro	-
+👩🏾‍🐰‍👩🏽	mulleres de festa ton de pel escuro, ton de pel medio	-
+👩🏾‍🐰‍👩🏿	mulleres de festa ton de pel escuro, ton de pel moi escuro	-
+👩🏿‍🐰‍👩🏻	mulleres de festa ton de pel moi escuro, ton de pel moi claro	-
+👩🏿‍🐰‍👩🏼	mulleres de festa ton de pel moi escuro, ton de pel claro	-
+👩🏿‍🐰‍👩🏽	mulleres de festa ton de pel moi escuro, ton de pel medio	-
+👩🏿‍🐰‍👩🏾	mulleres de festa ton de pel moi escuro, ton de pel escuro	-
 🧓🏻	persoa maior ton de pel moi claro	-
 🧓🏼	persoa maior ton de pel claro	-
 🧓🏽	persoa maior ton de pel medio	-
@@ -3482,6 +3620,11 @@ $	dólar	-
 🏃🏽‍♂‍➡	home correndo ton de pel medio, cara á dereita	-
 🏃🏾‍♂‍➡	home correndo ton de pel escuro, cara á dereita	-
 🏃🏿‍♂‍➡	home correndo ton de pel moi escuro, cara á dereita	-
+🧑🏻‍🩰	intérprete de ballet ton de pel moi claro	-
+🧑🏼‍🩰	intérprete de ballet ton de pel claro	-
+🧑🏽‍🩰	intérprete de ballet ton de pel medio	-
+🧑🏾‍🩰	intérprete de ballet ton de pel escuro	-
+🧑🏿‍🩰	intérprete de ballet ton de pel moi escuro	-
 💃🏻	bailarina ton de pel moi claro	-
 💃🏼	bailarina ton de pel claro	-
 💃🏽	bailarina ton de pel medio	-
@@ -3497,6 +3640,21 @@ $	dólar	-
 🕴🏽	home de negocios ton de pel medio	-
 🕴🏾	home de negocios ton de pel escuro	-
 🕴🏿	home de negocios ton de pel moi escuro	-
+👯🏻	xente de festa ton de pel moi claro	-
+👯🏼	xente de festa ton de pel claro	-
+👯🏽	xente de festa ton de pel medio	-
+👯🏾	xente de festa ton de pel escuro	-
+👯🏿	xente de festa ton de pel moi escuro	-
+👯🏻‍♂	homes de festa ton de pel moi claro	-
+👯🏼‍♂	homes de festa ton de pel claro	-
+👯🏽‍♂	homes de festa ton de pel medio	-
+👯🏾‍♂	homes de festa ton de pel escuro	-
+👯🏿‍♂	homes de festa ton de pel moi escuro	-
+👯🏻‍♀	mulleres de festa ton de pel moi claro	-
+👯🏼‍♀	mulleres de festa ton de pel claro	-
+👯🏽‍♀	mulleres de festa ton de pel medio	-
+👯🏾‍♀	mulleres de festa ton de pel escuro	-
+👯🏿‍♀	mulleres de festa ton de pel moi escuro	-
 🧖🏻	baño de vapor ton de pel moi claro	-
 🧖🏼	baño de vapor ton de pel claro	-
 🧖🏽	baño de vapor ton de pel medio	-
@@ -3672,6 +3830,21 @@ $	dólar	-
 🤸🏽‍♀	muller facendo unha viravolta lateral ton de pel medio	-
 🤸🏾‍♀	muller facendo unha viravolta lateral ton de pel escuro	-
 🤸🏿‍♀	muller facendo unha viravolta lateral ton de pel moi escuro	-
+🤼🏻	loita libre ton de pel moi claro	-
+🤼🏼	loita libre ton de pel claro	-
+🤼🏽	loita libre ton de pel medio	-
+🤼🏾	loita libre ton de pel escuro	-
+🤼🏿	loita libre ton de pel moi escuro	-
+🤼🏻‍♂	homes practicando loita libre ton de pel moi claro	-
+🤼🏼‍♂	homes practicando loita libre ton de pel claro	-
+🤼🏽‍♂	homes practicando loita libre ton de pel medio	-
+🤼🏾‍♂	homes practicando loita libre ton de pel escuro	-
+🤼🏿‍♂	homes practicando loita libre ton de pel moi escuro	-
+🤼🏻‍♀	mulleres practicando loita libre ton de pel moi claro	-
+🤼🏼‍♀	mulleres practicando loita libre ton de pel claro	-
+🤼🏽‍♀	mulleres practicando loita libre ton de pel medio	-
+🤼🏾‍♀	mulleres practicando loita libre ton de pel escuro	-
+🤼🏿‍♀	mulleres practicando loita libre ton de pel moi escuro	-
 🤽🏻	wáter-polo ton de pel moi claro	-
 🤽🏼	wáter-polo ton de pel claro	-
 🤽🏽	wáter-polo ton de pel medio	-
@@ -3937,6 +4110,7 @@ $	dólar	-
 🇨🇳	bandeira China	-
 🇨🇴	bandeira Colombia	-
 🇨🇵	bandeira Illa Clipperton	-
+🇨🇶	bandeira Sark	-
 🇨🇷	bandeira Costa Rica	-
 🇨🇺	bandeira Cuba	-
 🇨🇻	bandeira Cabo Verde	-
@@ -4166,14 +4340,4 @@ $	dólar	-
 ₺	lira turca	-
 ₼	manat acerbaixano	-
 ₾	lari xeorxiano	-
-0⃣	tecla 0	-
-1⃣	tecla 1	-
-2⃣	tecla 2	-
-3⃣	tecla 3	-
-4⃣	tecla 4	-
-5⃣	tecla 5	-
-6⃣	tecla 6	-
-7⃣	tecla 7	-
-8⃣	tecla 8	-
-9⃣	tecla 9	-
 ₧	Peseta española	-

@@ -433,6 +433,7 @@ _	sublinhado	-
 😯	cara expectante	-
 😲	cara espantada	-
 😳	cara corada	-
+🫪	cara distorcida	-
 🥺	cara que implora	-
 🥹	cara a conter as lágrimas	-
 😦	cara franzida com boca aberta	-
@@ -506,6 +507,7 @@ _	sublinhado	-
 💋	marca de beijo	-
 💯	cem pontos	-
 💢	símbolo de raiva	-
+🫯	nuvem de luta	-
 💥	colisão	-
 💫	tonto	-
 💦	gotas de suor	-
@@ -738,6 +740,7 @@ _	sublinhado	-
 🧟‍♂	morto-vivo	-
 🧟‍♀	morta-viva	-
 🧌	troll	-
+🫈	criatura peluda	-
 💆	pessoa a receber uma massagem	-
 💆‍♂	homem a receber uma massagem	-
 💆‍♀	mulher a receber uma massagem	-
@@ -765,6 +768,7 @@ _	sublinhado	-
 🏃	pessoa a correr	-
 🏃‍♂	homem a correr	-
 🏃‍♀	mulher a correr	-
+🧑‍🩰	bailarino	-
 💃	mulher a dançar	-
 🕺	homem a dançar	-
 🕴	homem em fato executivo a levitar	-
@@ -802,7 +806,7 @@ _	sublinhado	-
 🚴	ciclista	-
 🚴‍♂	ciclista (homem)	-
 🚴‍♀	ciclista (mulher)	-
-🚵	praticante de BTT	-
+🚵	betetista	-
 🚵‍♂	betetista (homem)	-
 🚵‍♀	betetista (mulher)	-
 🤸	pessoa a fazer a roda	-
@@ -946,6 +950,7 @@ _	sublinhado	-
 🐳	baleia com esguicho de água	-
 🐋	baleia	-
 🐬	golfinho	-
+🫍	orca	-
 🦭	foca	-
 🐟	peixe	-
 🐠	peixe tropical	-
@@ -1145,6 +1150,7 @@ _	sublinhado	-
 🧭	bússola	-
 🏔	montanha coberta de neve	-
 ⛰	montanha	-
+🛘	deslizamento	-
 🌋	vulcão	-
 🗻	monte Fuji	-
 🏕	campismo	-
@@ -1505,10 +1511,11 @@ _	sublinhado	-
 🎧	auscultador	-
 📻	rádio	-
 🎷	saxofone	-
+🎺	trompete	-
+🪊	trombone	-
 🪗	acordeão	-
 🎸	guitarra elétrica	-
 🎹	teclado musical	-
-🎺	trompete	-
 🎻	violino	-
 🪕	banjo	-
 🥁	tambor	-
@@ -1569,8 +1576,9 @@ _	sublinhado	-
 📑	marcadores de folhas	-
 🔖	marcador de livros	-
 🏷	etiqueta	-
-💰	saco de dinheiro	-
 🪙	moeda	-
+💰	saco de dinheiro	-
+🪎	baú de tesouro	-
 💴	nota de iene	-
 💵	nota de dólar	-
 💶	nota de euro	-
@@ -1941,6 +1949,16 @@ $	dólar	-
 ₹	rupia indiana	-
 ₽	rublo	-
 ₿	bitcoin	-
+0⃣	tecla 0	-
+1⃣	tecla 1	-
+2⃣	tecla 2	-
+3⃣	tecla 3	-
+4⃣	tecla 4	-
+5⃣	tecla 5	-
+6⃣	tecla 6	-
+7⃣	tecla 7	-
+8⃣	tecla 8	-
+9⃣	tecla 9	-
 ¹	número um sobrescrito	-
 ²	número dois sobrescrito	-
 ³	número três sobrescrito	-
@@ -2282,6 +2300,26 @@ $	dólar	-
 🧑🏿‍❤‍🧑🏼	casal com coração pessoa, pessoa, tipo de pele 6 e tipo de pele 3	-
 🧑🏿‍❤‍🧑🏽	casal com coração pessoa, pessoa, tipo de pele 6 e tipo de pele 4	-
 🧑🏿‍❤‍🧑🏾	casal com coração pessoa, pessoa, tipo de pele 6 e tipo de pele 5	-
+🧑🏻‍🫯‍🧑🏼	pessoas a lutar tipo de pele 1–2 e tipo de pele 3	-
+🧑🏻‍🫯‍🧑🏽	pessoas a lutar tipo de pele 1–2 e tipo de pele 4	-
+🧑🏻‍🫯‍🧑🏾	pessoas a lutar tipo de pele 1–2 e tipo de pele 5	-
+🧑🏻‍🫯‍🧑🏿	pessoas a lutar tipo de pele 1–2 e tipo de pele 6	-
+🧑🏼‍🫯‍🧑🏻	pessoas a lutar tipo de pele 3 e tipo de pele 1–2	-
+🧑🏼‍🫯‍🧑🏽	pessoas a lutar tipo de pele 3 e tipo de pele 4	-
+🧑🏼‍🫯‍🧑🏾	pessoas a lutar tipo de pele 3 e tipo de pele 5	-
+🧑🏼‍🫯‍🧑🏿	pessoas a lutar tipo de pele 3 e tipo de pele 6	-
+🧑🏽‍🫯‍🧑🏻	pessoas a lutar tipo de pele 4 e tipo de pele 1–2	-
+🧑🏽‍🫯‍🧑🏼	pessoas a lutar tipo de pele 4 e tipo de pele 3	-
+🧑🏽‍🫯‍🧑🏾	pessoas a lutar tipo de pele 4 e tipo de pele 5	-
+🧑🏽‍🫯‍🧑🏿	pessoas a lutar tipo de pele 4 e tipo de pele 6	-
+🧑🏾‍🫯‍🧑🏻	pessoas a lutar tipo de pele 5 e tipo de pele 1–2	-
+🧑🏾‍🫯‍🧑🏼	pessoas a lutar tipo de pele 5 e tipo de pele 3	-
+🧑🏾‍🫯‍🧑🏽	pessoas a lutar tipo de pele 5 e tipo de pele 4	-
+🧑🏾‍🫯‍🧑🏿	pessoas a lutar tipo de pele 5 e tipo de pele 6	-
+🧑🏿‍🫯‍🧑🏻	pessoas a lutar tipo de pele 6 e tipo de pele 1–2	-
+🧑🏿‍🫯‍🧑🏼	pessoas a lutar tipo de pele 6 e tipo de pele 3	-
+🧑🏿‍🫯‍🧑🏽	pessoas a lutar tipo de pele 6 e tipo de pele 4	-
+🧑🏿‍🫯‍🧑🏾	pessoas a lutar tipo de pele 6 e tipo de pele 5	-
 🧑‍🦰	pessoa cabelo ruivo	-
 🧑🏻‍🦰	pessoa tipo de pele 1–2 e cabelo ruivo	-
 🧑🏼‍🦰	pessoa tipo de pele 3 e cabelo ruivo	-
@@ -2306,6 +2344,26 @@ $	dólar	-
 🧑🏽‍🦲	pessoa tipo de pele 4 e careca	-
 🧑🏾‍🦲	pessoa tipo de pele 5 e careca	-
 🧑🏿‍🦲	pessoa tipo de pele 6 e careca	-
+🧑🏻‍🐰‍🧑🏼	pessoas com orelhas de coelho tipo de pele 1–2 e tipo de pele 3	-
+🧑🏻‍🐰‍🧑🏽	pessoas com orelhas de coelho tipo de pele 1–2 e tipo de pele 4	-
+🧑🏻‍🐰‍🧑🏾	pessoas com orelhas de coelho tipo de pele 1–2 e tipo de pele 5	-
+🧑🏻‍🐰‍🧑🏿	pessoas com orelhas de coelho tipo de pele 1–2 e tipo de pele 6	-
+🧑🏼‍🐰‍🧑🏻	pessoas com orelhas de coelho tipo de pele 3 e tipo de pele 1–2	-
+🧑🏼‍🐰‍🧑🏽	pessoas com orelhas de coelho tipo de pele 3 e tipo de pele 4	-
+🧑🏼‍🐰‍🧑🏾	pessoas com orelhas de coelho tipo de pele 3 e tipo de pele 5	-
+🧑🏼‍🐰‍🧑🏿	pessoas com orelhas de coelho tipo de pele 3 e tipo de pele 6	-
+🧑🏽‍🐰‍🧑🏻	pessoas com orelhas de coelho tipo de pele 4 e tipo de pele 1–2	-
+🧑🏽‍🐰‍🧑🏼	pessoas com orelhas de coelho tipo de pele 4 e tipo de pele 3	-
+🧑🏽‍🐰‍🧑🏾	pessoas com orelhas de coelho tipo de pele 4 e tipo de pele 5	-
+🧑🏽‍🐰‍🧑🏿	pessoas com orelhas de coelho tipo de pele 4 e tipo de pele 6	-
+🧑🏾‍🐰‍🧑🏻	pessoas com orelhas de coelho tipo de pele 5 e tipo de pele 1–2	-
+🧑🏾‍🐰‍🧑🏼	pessoas com orelhas de coelho tipo de pele 5 e tipo de pele 3	-
+🧑🏾‍🐰‍🧑🏽	pessoas com orelhas de coelho tipo de pele 5 e tipo de pele 4	-
+🧑🏾‍🐰‍🧑🏿	pessoas com orelhas de coelho tipo de pele 5 e tipo de pele 6	-
+🧑🏿‍🐰‍🧑🏻	pessoas com orelhas de coelho tipo de pele 6 e tipo de pele 1–2	-
+🧑🏿‍🐰‍🧑🏼	pessoas com orelhas de coelho tipo de pele 6 e tipo de pele 3	-
+🧑🏿‍🐰‍🧑🏽	pessoas com orelhas de coelho tipo de pele 6 e tipo de pele 4	-
+🧑🏿‍🐰‍🧑🏾	pessoas com orelhas de coelho tipo de pele 6 e tipo de pele 5	-
 👨🏻	homem tipo de pele 1–2	-
 👨🏼	homem tipo de pele 3	-
 👨🏽	homem tipo de pele 4	-
@@ -2376,6 +2434,26 @@ $	dólar	-
 👨🏿‍❤‍👨🏽	casal com coração homem, homem, tipo de pele 6 e tipo de pele 4	-
 👨🏿‍❤‍👨🏾	casal com coração homem, homem, tipo de pele 6 e tipo de pele 5	-
 👨🏿‍❤‍👨🏿	casal com coração homem, homem e tipo de pele 6	-
+👨🏻‍🫯‍👨🏼	lutador de luta livre tipo de pele 1–2 e tipo de pele 3	-
+👨🏻‍🫯‍👨🏽	lutador de luta livre tipo de pele 1–2 e tipo de pele 4	-
+👨🏻‍🫯‍👨🏾	lutador de luta livre tipo de pele 1–2 e tipo de pele 5	-
+👨🏻‍🫯‍👨🏿	lutador de luta livre tipo de pele 1–2 e tipo de pele 6	-
+👨🏼‍🫯‍👨🏻	lutador de luta livre tipo de pele 3 e tipo de pele 1–2	-
+👨🏼‍🫯‍👨🏽	lutador de luta livre tipo de pele 3 e tipo de pele 4	-
+👨🏼‍🫯‍👨🏾	lutador de luta livre tipo de pele 3 e tipo de pele 5	-
+👨🏼‍🫯‍👨🏿	lutador de luta livre tipo de pele 3 e tipo de pele 6	-
+👨🏽‍🫯‍👨🏻	lutador de luta livre tipo de pele 4 e tipo de pele 1–2	-
+👨🏽‍🫯‍👨🏼	lutador de luta livre tipo de pele 4 e tipo de pele 3	-
+👨🏽‍🫯‍👨🏾	lutador de luta livre tipo de pele 4 e tipo de pele 5	-
+👨🏽‍🫯‍👨🏿	lutador de luta livre tipo de pele 4 e tipo de pele 6	-
+👨🏾‍🫯‍👨🏻	lutador de luta livre tipo de pele 5 e tipo de pele 1–2	-
+👨🏾‍🫯‍👨🏼	lutador de luta livre tipo de pele 5 e tipo de pele 3	-
+👨🏾‍🫯‍👨🏽	lutador de luta livre tipo de pele 5 e tipo de pele 4	-
+👨🏾‍🫯‍👨🏿	lutador de luta livre tipo de pele 5 e tipo de pele 6	-
+👨🏿‍🫯‍👨🏻	lutador de luta livre tipo de pele 6 e tipo de pele 1–2	-
+👨🏿‍🫯‍👨🏼	lutador de luta livre tipo de pele 6 e tipo de pele 3	-
+👨🏿‍🫯‍👨🏽	lutador de luta livre tipo de pele 6 e tipo de pele 4	-
+👨🏿‍🫯‍👨🏾	lutador de luta livre tipo de pele 6 e tipo de pele 5	-
 👨‍🦰	homem cabelo ruivo	-
 👨🏻‍🦰	homem tipo de pele 1–2 e cabelo ruivo	-
 👨🏼‍🦰	homem tipo de pele 3 e cabelo ruivo	-
@@ -2400,6 +2478,26 @@ $	dólar	-
 👨🏽‍🦲	homem tipo de pele 4 e careca	-
 👨🏾‍🦲	homem tipo de pele 5 e careca	-
 👨🏿‍🦲	homem tipo de pele 6 e careca	-
+👨🏻‍🐰‍👨🏼	homens com orelhas de coelho tipo de pele 1–2 e tipo de pele 3	-
+👨🏻‍🐰‍👨🏽	homens com orelhas de coelho tipo de pele 1–2 e tipo de pele 4	-
+👨🏻‍🐰‍👨🏾	homens com orelhas de coelho tipo de pele 1–2 e tipo de pele 5	-
+👨🏻‍🐰‍👨🏿	homens com orelhas de coelho tipo de pele 1–2 e tipo de pele 6	-
+👨🏼‍🐰‍👨🏻	homens com orelhas de coelho tipo de pele 3 e tipo de pele 1–2	-
+👨🏼‍🐰‍👨🏽	homens com orelhas de coelho tipo de pele 3 e tipo de pele 4	-
+👨🏼‍🐰‍👨🏾	homens com orelhas de coelho tipo de pele 3 e tipo de pele 5	-
+👨🏼‍🐰‍👨🏿	homens com orelhas de coelho tipo de pele 3 e tipo de pele 6	-
+👨🏽‍🐰‍👨🏻	homens com orelhas de coelho tipo de pele 4 e tipo de pele 1–2	-
+👨🏽‍🐰‍👨🏼	homens com orelhas de coelho tipo de pele 4 e tipo de pele 3	-
+👨🏽‍🐰‍👨🏾	homens com orelhas de coelho tipo de pele 4 e tipo de pele 5	-
+👨🏽‍🐰‍👨🏿	homens com orelhas de coelho tipo de pele 4 e tipo de pele 6	-
+👨🏾‍🐰‍👨🏻	homens com orelhas de coelho tipo de pele 5 e tipo de pele 1–2	-
+👨🏾‍🐰‍👨🏼	homens com orelhas de coelho tipo de pele 5 e tipo de pele 3	-
+👨🏾‍🐰‍👨🏽	homens com orelhas de coelho tipo de pele 5 e tipo de pele 4	-
+👨🏾‍🐰‍👨🏿	homens com orelhas de coelho tipo de pele 5 e tipo de pele 6	-
+👨🏿‍🐰‍👨🏻	homens com orelhas de coelho tipo de pele 6 e tipo de pele 1–2	-
+👨🏿‍🐰‍👨🏼	homens com orelhas de coelho tipo de pele 6 e tipo de pele 3	-
+👨🏿‍🐰‍👨🏽	homens com orelhas de coelho tipo de pele 6 e tipo de pele 4	-
+👨🏿‍🐰‍👨🏾	homens com orelhas de coelho tipo de pele 6 e tipo de pele 5	-
 👩🏻	mulher tipo de pele 1–2	-
 👩🏼	mulher tipo de pele 3	-
 👩🏽	mulher tipo de pele 4	-
@@ -2515,6 +2613,26 @@ $	dólar	-
 👩🏿‍❤‍👩🏽	casal com coração mulher, mulher, tipo de pele 6 e tipo de pele 4	-
 👩🏿‍❤‍👩🏾	casal com coração mulher, mulher, tipo de pele 6 e tipo de pele 5	-
 👩🏿‍❤‍👩🏿	casal com coração mulher, mulher e tipo de pele 6	-
+👩🏻‍🫯‍👩🏼	lutadora de luta livre tipo de pele 1–2 e tipo de pele 3	-
+👩🏻‍🫯‍👩🏽	lutadora de luta livre tipo de pele 1–2 e tipo de pele 4	-
+👩🏻‍🫯‍👩🏾	lutadora de luta livre tipo de pele 1–2 e tipo de pele 5	-
+👩🏻‍🫯‍👩🏿	lutadora de luta livre tipo de pele 1–2 e tipo de pele 6	-
+👩🏼‍🫯‍👩🏻	lutadora de luta livre tipo de pele 3 e tipo de pele 1–2	-
+👩🏼‍🫯‍👩🏽	lutadora de luta livre tipo de pele 3 e tipo de pele 4	-
+👩🏼‍🫯‍👩🏾	lutadora de luta livre tipo de pele 3 e tipo de pele 5	-
+👩🏼‍🫯‍👩🏿	lutadora de luta livre tipo de pele 3 e tipo de pele 6	-
+👩🏽‍🫯‍👩🏻	lutadora de luta livre tipo de pele 4 e tipo de pele 1–2	-
+👩🏽‍🫯‍👩🏼	lutadora de luta livre tipo de pele 4 e tipo de pele 3	-
+👩🏽‍🫯‍👩🏾	lutadora de luta livre tipo de pele 4 e tipo de pele 5	-
+👩🏽‍🫯‍👩🏿	lutadora de luta livre tipo de pele 4 e tipo de pele 6	-
+👩🏾‍🫯‍👩🏻	lutadora de luta livre tipo de pele 5 e tipo de pele 1–2	-
+👩🏾‍🫯‍👩🏼	lutadora de luta livre tipo de pele 5 e tipo de pele 3	-
+👩🏾‍🫯‍👩🏽	lutadora de luta livre tipo de pele 5 e tipo de pele 4	-
+👩🏾‍🫯‍👩🏿	lutadora de luta livre tipo de pele 5 e tipo de pele 6	-
+👩🏿‍🫯‍👩🏻	lutadora de luta livre tipo de pele 6 e tipo de pele 1–2	-
+👩🏿‍🫯‍👩🏼	lutadora de luta livre tipo de pele 6 e tipo de pele 3	-
+👩🏿‍🫯‍👩🏽	lutadora de luta livre tipo de pele 6 e tipo de pele 4	-
+👩🏿‍🫯‍👩🏾	lutadora de luta livre tipo de pele 6 e tipo de pele 5	-
 👩‍🦰	mulher cabelo ruivo	-
 👩🏻‍🦰	mulher tipo de pele 1–2 e cabelo ruivo	-
 👩🏼‍🦰	mulher tipo de pele 3 e cabelo ruivo	-
@@ -2539,6 +2657,26 @@ $	dólar	-
 👩🏽‍🦲	mulher tipo de pele 4 e careca	-
 👩🏾‍🦲	mulher tipo de pele 5 e careca	-
 👩🏿‍🦲	mulher tipo de pele 6 e careca	-
+👩🏻‍🐰‍👩🏼	mulheres com orelhas de coelho tipo de pele 1–2 e tipo de pele 3	-
+👩🏻‍🐰‍👩🏽	mulheres com orelhas de coelho tipo de pele 1–2 e tipo de pele 4	-
+👩🏻‍🐰‍👩🏾	mulheres com orelhas de coelho tipo de pele 1–2 e tipo de pele 5	-
+👩🏻‍🐰‍👩🏿	mulheres com orelhas de coelho tipo de pele 1–2 e tipo de pele 6	-
+👩🏼‍🐰‍👩🏻	mulheres com orelhas de coelho tipo de pele 3 e tipo de pele 1–2	-
+👩🏼‍🐰‍👩🏽	mulheres com orelhas de coelho tipo de pele 3 e tipo de pele 4	-
+👩🏼‍🐰‍👩🏾	mulheres com orelhas de coelho tipo de pele 3 e tipo de pele 5	-
+👩🏼‍🐰‍👩🏿	mulheres com orelhas de coelho tipo de pele 3 e tipo de pele 6	-
+👩🏽‍🐰‍👩🏻	mulheres com orelhas de coelho tipo de pele 4 e tipo de pele 1–2	-
+👩🏽‍🐰‍👩🏼	mulheres com orelhas de coelho tipo de pele 4 e tipo de pele 3	-
+👩🏽‍🐰‍👩🏾	mulheres com orelhas de coelho tipo de pele 4 e tipo de pele 5	-
+👩🏽‍🐰‍👩🏿	mulheres com orelhas de coelho tipo de pele 4 e tipo de pele 6	-
+👩🏾‍🐰‍👩🏻	mulheres com orelhas de coelho tipo de pele 5 e tipo de pele 1–2	-
+👩🏾‍🐰‍👩🏼	mulheres com orelhas de coelho tipo de pele 5 e tipo de pele 3	-
+👩🏾‍🐰‍👩🏽	mulheres com orelhas de coelho tipo de pele 5 e tipo de pele 4	-
+👩🏾‍🐰‍👩🏿	mulheres com orelhas de coelho tipo de pele 5 e tipo de pele 6	-
+👩🏿‍🐰‍👩🏻	mulheres com orelhas de coelho tipo de pele 6 e tipo de pele 1–2	-
+👩🏿‍🐰‍👩🏼	mulheres com orelhas de coelho tipo de pele 6 e tipo de pele 3	-
+👩🏿‍🐰‍👩🏽	mulheres com orelhas de coelho tipo de pele 6 e tipo de pele 4	-
+👩🏿‍🐰‍👩🏾	mulheres com orelhas de coelho tipo de pele 6 e tipo de pele 5	-
 🧓🏻	pessoa idosa tipo de pele 1–2	-
 🧓🏼	pessoa idosa tipo de pele 3	-
 🧓🏽	pessoa idosa tipo de pele 4	-
@@ -3482,6 +3620,11 @@ $	dólar	-
 🏃🏽‍♂‍➡	homem a correr tipo de pele 4 e de frente para a direita	-
 🏃🏾‍♂‍➡	homem a correr tipo de pele 5 e de frente para a direita	-
 🏃🏿‍♂‍➡	homem a correr tipo de pele 6 e de frente para a direita	-
+🧑🏻‍🩰	bailarino tipo de pele 1–2	-
+🧑🏼‍🩰	bailarino tipo de pele 3	-
+🧑🏽‍🩰	bailarino tipo de pele 4	-
+🧑🏾‍🩰	bailarino tipo de pele 5	-
+🧑🏿‍🩰	bailarino tipo de pele 6	-
 💃🏻	mulher a dançar tipo de pele 1–2	-
 💃🏼	mulher a dançar tipo de pele 3	-
 💃🏽	mulher a dançar tipo de pele 4	-
@@ -3497,6 +3640,21 @@ $	dólar	-
 🕴🏽	homem em fato executivo a levitar tipo de pele 4	-
 🕴🏾	homem em fato executivo a levitar tipo de pele 5	-
 🕴🏿	homem em fato executivo a levitar tipo de pele 6	-
+👯🏻	pessoas com orelhas de coelho tipo de pele 1–2	-
+👯🏼	pessoas com orelhas de coelho tipo de pele 3	-
+👯🏽	pessoas com orelhas de coelho tipo de pele 4	-
+👯🏾	pessoas com orelhas de coelho tipo de pele 5	-
+👯🏿	pessoas com orelhas de coelho tipo de pele 6	-
+👯🏻‍♂	homens com orelhas de coelho tipo de pele 1–2	-
+👯🏼‍♂	homens com orelhas de coelho tipo de pele 3	-
+👯🏽‍♂	homens com orelhas de coelho tipo de pele 4	-
+👯🏾‍♂	homens com orelhas de coelho tipo de pele 5	-
+👯🏿‍♂	homens com orelhas de coelho tipo de pele 6	-
+👯🏻‍♀	mulheres com orelhas de coelho tipo de pele 1–2	-
+👯🏼‍♀	mulheres com orelhas de coelho tipo de pele 3	-
+👯🏽‍♀	mulheres com orelhas de coelho tipo de pele 4	-
+👯🏾‍♀	mulheres com orelhas de coelho tipo de pele 5	-
+👯🏿‍♀	mulheres com orelhas de coelho tipo de pele 6	-
 🧖🏻	pessoa na sauna tipo de pele 1–2	-
 🧖🏼	pessoa na sauna tipo de pele 3	-
 🧖🏽	pessoa na sauna tipo de pele 4	-
@@ -3642,11 +3800,11 @@ $	dólar	-
 🚴🏽‍♀	ciclista (mulher) tipo de pele 4	-
 🚴🏾‍♀	ciclista (mulher) tipo de pele 5	-
 🚴🏿‍♀	ciclista (mulher) tipo de pele 6	-
-🚵🏻	praticante de BTT tipo de pele 1–2	-
-🚵🏼	praticante de BTT tipo de pele 3	-
-🚵🏽	praticante de BTT tipo de pele 4	-
-🚵🏾	praticante de BTT tipo de pele 5	-
-🚵🏿	praticante de BTT tipo de pele 6	-
+🚵🏻	betetista tipo de pele 1–2	-
+🚵🏼	betetista tipo de pele 3	-
+🚵🏽	betetista tipo de pele 4	-
+🚵🏾	betetista tipo de pele 5	-
+🚵🏿	betetista tipo de pele 6	-
 🚵🏻‍♂	betetista (homem) tipo de pele 1–2	-
 🚵🏼‍♂	betetista (homem) tipo de pele 3	-
 🚵🏽‍♂	betetista (homem) tipo de pele 4	-
@@ -3672,6 +3830,21 @@ $	dólar	-
 🤸🏽‍♀	mulher a fazer a roda tipo de pele 4	-
 🤸🏾‍♀	mulher a fazer a roda tipo de pele 5	-
 🤸🏿‍♀	mulher a fazer a roda tipo de pele 6	-
+🤼🏻	pessoas a lutar tipo de pele 1–2	-
+🤼🏼	pessoas a lutar tipo de pele 3	-
+🤼🏽	pessoas a lutar tipo de pele 4	-
+🤼🏾	pessoas a lutar tipo de pele 5	-
+🤼🏿	pessoas a lutar tipo de pele 6	-
+🤼🏻‍♂	lutador de luta livre tipo de pele 1–2	-
+🤼🏼‍♂	lutador de luta livre tipo de pele 3	-
+🤼🏽‍♂	lutador de luta livre tipo de pele 4	-
+🤼🏾‍♂	lutador de luta livre tipo de pele 5	-
+🤼🏿‍♂	lutador de luta livre tipo de pele 6	-
+🤼🏻‍♀	lutadora de luta livre tipo de pele 1–2	-
+🤼🏼‍♀	lutadora de luta livre tipo de pele 3	-
+🤼🏽‍♀	lutadora de luta livre tipo de pele 4	-
+🤼🏾‍♀	lutadora de luta livre tipo de pele 5	-
+🤼🏿‍♀	lutadora de luta livre tipo de pele 6	-
 🤽🏻	pessoa a jogar polo aquático tipo de pele 1–2	-
 🤽🏼	pessoa a jogar polo aquático tipo de pele 3	-
 🤽🏽	pessoa a jogar polo aquático tipo de pele 4	-
@@ -3937,6 +4110,7 @@ $	dólar	-
 🇨🇳	bandeira China	-
 🇨🇴	bandeira Colômbia	-
 🇨🇵	bandeira Ilha de Clipperton	-
+🇨🇶	bandeira Sark	-
 🇨🇷	bandeira Costa Rica	-
 🇨🇺	bandeira Cuba	-
 🇨🇻	bandeira Cabo Verde	-
@@ -4166,14 +4340,4 @@ $	dólar	-
 ₺	lira turca	-
 ₼	manat azeri	-
 ₾	lari georgiano	-
-0⃣	tecla 0	-
-1⃣	tecla 1	-
-2⃣	tecla 2	-
-3⃣	tecla 3	-
-4⃣	tecla 4	-
-5⃣	tecla 5	-
-6⃣	tecla 6	-
-7⃣	tecla 7	-
-8⃣	tecla 8	-
-9⃣	tecla 9	-
 ₧	Peseta espanhola	-

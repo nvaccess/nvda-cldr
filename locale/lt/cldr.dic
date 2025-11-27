@@ -433,6 +433,7 @@ _	apatinė linija	-
 😯	nuščiuvęs veidas	-
 😲	apstulbęs veidas	-
 😳	nuraudęs veidas	-
+🫪	ištįsęs veidas	-
 🥺	maldaujantis veidas	-
 🥹	ašaras tramdantis veidas	-
 😦	paniuręs išsižiojęs veidas	-
@@ -506,6 +507,7 @@ _	apatinė linija	-
 💋	bučinio žymė	-
 💯	šimtas taškų	-
 💢	pykčio simbolis	-
+🫯	kovos debesis	-
 💥	susidūrimas	-
 💫	apsvaigęs	-
 💦	prakaito lašeliai	-
@@ -738,6 +740,7 @@ _	apatinė linija	-
 🧟‍♂	zombis vyras	-
 🧟‍♀	zombė	-
 🧌	trolis	-
+🫈	plaukuotas padaras	-
 💆	veido masažas	-
 💆‍♂	masažuojama vyro galva	-
 💆‍♀	masažuojama moters galva	-
@@ -765,6 +768,7 @@ _	apatinė linija	-
 🏃	bėgikas	-
 🏃‍♂	bėgantis vyras	-
 🏃‍♀	bėganti moteris	-
+🧑‍🩰	baleto šokėjas	-
 💃	šokanti moteris	-
 🕺	šokantis vyras	-
 🕴	į orą kylantis vyras su kostiumu	-
@@ -946,6 +950,7 @@ _	apatinė linija	-
 🐳	purškiantis banginis	-
 🐋	banginis	-
 🐬	delfinas	-
+🫍	orka	-
 🦭	ruonis	-
 🐟	žuvis	-
 🐠	tropinė žuvis	-
@@ -1145,6 +1150,7 @@ _	apatinė linija	-
 🧭	kompasas	-
 🏔	kalnas su snieguota viršūne	-
 ⛰	kalnas	-
+🛘	nuošliauža	-
 🌋	ugnikalnis	-
 🗻	Fudžio kalnas	-
 🏕	stovyklavimas	-
@@ -1505,10 +1511,11 @@ _	apatinė linija	-
 🎧	ausinės	-
 📻	radijas	-
 🎷	saksofonas	-
+🎺	trimitas	-
+🪊	trombonas	-
 🪗	akordeonas	-
 🎸	gitara	-
 🎹	muzikos klaviatūra	-
-🎺	trimitas	-
 🎻	smuikas	-
 🪕	bandža	-
 🥁	būgnas	-
@@ -1569,8 +1576,9 @@ _	apatinė linija	-
 📑	žymių skirtukai	-
 🔖	žymė	-
 🏷	etiketė	-
-💰	pinigų maišas	-
 🪙	moneta	-
+💰	pinigų maišas	-
+🪎	lobių skrynia	-
 💴	jenos banknotas	-
 💵	dolerio banknotas	-
 💶	euro banknotas	-
@@ -1941,6 +1949,16 @@ $	dolerio ženklas	-
 ₹	Indijos rupija	-
 ₽	rublis	-
 ₿	bitkoino ženklas	-
+0⃣	mygtukas 0	-
+1⃣	mygtukas 1	-
+2⃣	mygtukas 2	-
+3⃣	mygtukas 3	-
+4⃣	mygtukas 4	-
+5⃣	mygtukas 5	-
+6⃣	mygtukas 6	-
+7⃣	mygtukas 7	-
+8⃣	mygtukas 8	-
+9⃣	mygtukas 9	-
 ¹	vienetas viršutiniame indekse	-
 ²	dvejetas viršutiniame indekse	-
 ³	trejetas viršutiniame indekse	-
@@ -2282,6 +2300,26 @@ $	dolerio ženklas	-
 🧑🏿‍❤‍🧑🏼	pora su širdele suaugusysis suaugusysis itin tamsios odos vidutinio gymio	-
 🧑🏿‍❤‍🧑🏽	pora su širdele suaugusysis suaugusysis itin tamsios odos rusvos odos	-
 🧑🏿‍❤‍🧑🏾	pora su širdele suaugusysis suaugusysis itin tamsios odos tamsios odos	-
+🧑🏻‍🫯‍🧑🏼	imtynininkai šviesios odos vidutinio gymio	-
+🧑🏻‍🫯‍🧑🏽	imtynininkai šviesios odos rusvos odos	-
+🧑🏻‍🫯‍🧑🏾	imtynininkai šviesios odos tamsios odos	-
+🧑🏻‍🫯‍🧑🏿	imtynininkai šviesios odos itin tamsios odos	-
+🧑🏼‍🫯‍🧑🏻	imtynininkai vidutinio gymio šviesios odos	-
+🧑🏼‍🫯‍🧑🏽	imtynininkai vidutinio gymio rusvos odos	-
+🧑🏼‍🫯‍🧑🏾	imtynininkai vidutinio gymio tamsios odos	-
+🧑🏼‍🫯‍🧑🏿	imtynininkai vidutinio gymio itin tamsios odos	-
+🧑🏽‍🫯‍🧑🏻	imtynininkai rusvos odos šviesios odos	-
+🧑🏽‍🫯‍🧑🏼	imtynininkai rusvos odos vidutinio gymio	-
+🧑🏽‍🫯‍🧑🏾	imtynininkai rusvos odos tamsios odos	-
+🧑🏽‍🫯‍🧑🏿	imtynininkai rusvos odos itin tamsios odos	-
+🧑🏾‍🫯‍🧑🏻	imtynininkai tamsios odos šviesios odos	-
+🧑🏾‍🫯‍🧑🏼	imtynininkai tamsios odos vidutinio gymio	-
+🧑🏾‍🫯‍🧑🏽	imtynininkai tamsios odos rusvos odos	-
+🧑🏾‍🫯‍🧑🏿	imtynininkai tamsios odos itin tamsios odos	-
+🧑🏿‍🫯‍🧑🏻	imtynininkai itin tamsios odos šviesios odos	-
+🧑🏿‍🫯‍🧑🏼	imtynininkai itin tamsios odos vidutinio gymio	-
+🧑🏿‍🫯‍🧑🏽	imtynininkai itin tamsios odos rusvos odos	-
+🧑🏿‍🫯‍🧑🏾	imtynininkai itin tamsios odos tamsios odos	-
 🧑‍🦰	suaugusysis raudoni plaukai	-
 🧑🏻‍🦰	suaugusysis šviesios odos raudoni plaukai	-
 🧑🏼‍🦰	suaugusysis vidutinio gymio raudoni plaukai	-
@@ -2306,6 +2344,26 @@ $	dolerio ženklas	-
 🧑🏽‍🦲	suaugusysis rusvos odos plikas	-
 🧑🏾‍🦲	suaugusysis tamsios odos plikas	-
 🧑🏿‍🦲	suaugusysis itin tamsios odos plikas	-
+🧑🏻‍🐰‍🧑🏼	besilinksminančios moterys šviesios odos vidutinio gymio	-
+🧑🏻‍🐰‍🧑🏽	besilinksminančios moterys šviesios odos rusvos odos	-
+🧑🏻‍🐰‍🧑🏾	besilinksminančios moterys šviesios odos tamsios odos	-
+🧑🏻‍🐰‍🧑🏿	besilinksminančios moterys šviesios odos itin tamsios odos	-
+🧑🏼‍🐰‍🧑🏻	besilinksminančios moterys vidutinio gymio šviesios odos	-
+🧑🏼‍🐰‍🧑🏽	besilinksminančios moterys vidutinio gymio rusvos odos	-
+🧑🏼‍🐰‍🧑🏾	besilinksminančios moterys vidutinio gymio tamsios odos	-
+🧑🏼‍🐰‍🧑🏿	besilinksminančios moterys vidutinio gymio itin tamsios odos	-
+🧑🏽‍🐰‍🧑🏻	besilinksminančios moterys rusvos odos šviesios odos	-
+🧑🏽‍🐰‍🧑🏼	besilinksminančios moterys rusvos odos vidutinio gymio	-
+🧑🏽‍🐰‍🧑🏾	besilinksminančios moterys rusvos odos tamsios odos	-
+🧑🏽‍🐰‍🧑🏿	besilinksminančios moterys rusvos odos itin tamsios odos	-
+🧑🏾‍🐰‍🧑🏻	besilinksminančios moterys tamsios odos šviesios odos	-
+🧑🏾‍🐰‍🧑🏼	besilinksminančios moterys tamsios odos vidutinio gymio	-
+🧑🏾‍🐰‍🧑🏽	besilinksminančios moterys tamsios odos rusvos odos	-
+🧑🏾‍🐰‍🧑🏿	besilinksminančios moterys tamsios odos itin tamsios odos	-
+🧑🏿‍🐰‍🧑🏻	besilinksminančios moterys itin tamsios odos šviesios odos	-
+🧑🏿‍🐰‍🧑🏼	besilinksminančios moterys itin tamsios odos vidutinio gymio	-
+🧑🏿‍🐰‍🧑🏽	besilinksminančios moterys itin tamsios odos rusvos odos	-
+🧑🏿‍🐰‍🧑🏾	besilinksminančios moterys itin tamsios odos tamsios odos	-
 👨🏻	vyras šviesios odos	-
 👨🏼	vyras vidutinio gymio	-
 👨🏽	vyras rusvos odos	-
@@ -2376,6 +2434,26 @@ $	dolerio ženklas	-
 👨🏿‍❤‍👨🏽	pora su širdele vyras vyras itin tamsios odos rusvos odos	-
 👨🏿‍❤‍👨🏾	pora su širdele vyras vyras itin tamsios odos tamsios odos	-
 👨🏿‍❤‍👨🏿	pora su širdele vyras vyras itin tamsios odos	-
+👨🏻‍🫯‍👨🏼	vyrų imtynės šviesios odos vidutinio gymio	-
+👨🏻‍🫯‍👨🏽	vyrų imtynės šviesios odos rusvos odos	-
+👨🏻‍🫯‍👨🏾	vyrų imtynės šviesios odos tamsios odos	-
+👨🏻‍🫯‍👨🏿	vyrų imtynės šviesios odos itin tamsios odos	-
+👨🏼‍🫯‍👨🏻	vyrų imtynės vidutinio gymio šviesios odos	-
+👨🏼‍🫯‍👨🏽	vyrų imtynės vidutinio gymio rusvos odos	-
+👨🏼‍🫯‍👨🏾	vyrų imtynės vidutinio gymio tamsios odos	-
+👨🏼‍🫯‍👨🏿	vyrų imtynės vidutinio gymio itin tamsios odos	-
+👨🏽‍🫯‍👨🏻	vyrų imtynės rusvos odos šviesios odos	-
+👨🏽‍🫯‍👨🏼	vyrų imtynės rusvos odos vidutinio gymio	-
+👨🏽‍🫯‍👨🏾	vyrų imtynės rusvos odos tamsios odos	-
+👨🏽‍🫯‍👨🏿	vyrų imtynės rusvos odos itin tamsios odos	-
+👨🏾‍🫯‍👨🏻	vyrų imtynės tamsios odos šviesios odos	-
+👨🏾‍🫯‍👨🏼	vyrų imtynės tamsios odos vidutinio gymio	-
+👨🏾‍🫯‍👨🏽	vyrų imtynės tamsios odos rusvos odos	-
+👨🏾‍🫯‍👨🏿	vyrų imtynės tamsios odos itin tamsios odos	-
+👨🏿‍🫯‍👨🏻	vyrų imtynės itin tamsios odos šviesios odos	-
+👨🏿‍🫯‍👨🏼	vyrų imtynės itin tamsios odos vidutinio gymio	-
+👨🏿‍🫯‍👨🏽	vyrų imtynės itin tamsios odos rusvos odos	-
+👨🏿‍🫯‍👨🏾	vyrų imtynės itin tamsios odos tamsios odos	-
 👨‍🦰	vyras raudoni plaukai	-
 👨🏻‍🦰	vyras šviesios odos raudoni plaukai	-
 👨🏼‍🦰	vyras vidutinio gymio raudoni plaukai	-
@@ -2400,6 +2478,26 @@ $	dolerio ženklas	-
 👨🏽‍🦲	vyras rusvos odos plikas	-
 👨🏾‍🦲	vyras tamsios odos plikas	-
 👨🏿‍🦲	vyras itin tamsios odos plikas	-
+👨🏻‍🐰‍👨🏼	vakarėlyje dalyvaujantys vyrai šviesios odos vidutinio gymio	-
+👨🏻‍🐰‍👨🏽	vakarėlyje dalyvaujantys vyrai šviesios odos rusvos odos	-
+👨🏻‍🐰‍👨🏾	vakarėlyje dalyvaujantys vyrai šviesios odos tamsios odos	-
+👨🏻‍🐰‍👨🏿	vakarėlyje dalyvaujantys vyrai šviesios odos itin tamsios odos	-
+👨🏼‍🐰‍👨🏻	vakarėlyje dalyvaujantys vyrai vidutinio gymio šviesios odos	-
+👨🏼‍🐰‍👨🏽	vakarėlyje dalyvaujantys vyrai vidutinio gymio rusvos odos	-
+👨🏼‍🐰‍👨🏾	vakarėlyje dalyvaujantys vyrai vidutinio gymio tamsios odos	-
+👨🏼‍🐰‍👨🏿	vakarėlyje dalyvaujantys vyrai vidutinio gymio itin tamsios odos	-
+👨🏽‍🐰‍👨🏻	vakarėlyje dalyvaujantys vyrai rusvos odos šviesios odos	-
+👨🏽‍🐰‍👨🏼	vakarėlyje dalyvaujantys vyrai rusvos odos vidutinio gymio	-
+👨🏽‍🐰‍👨🏾	vakarėlyje dalyvaujantys vyrai rusvos odos tamsios odos	-
+👨🏽‍🐰‍👨🏿	vakarėlyje dalyvaujantys vyrai rusvos odos itin tamsios odos	-
+👨🏾‍🐰‍👨🏻	vakarėlyje dalyvaujantys vyrai tamsios odos šviesios odos	-
+👨🏾‍🐰‍👨🏼	vakarėlyje dalyvaujantys vyrai tamsios odos vidutinio gymio	-
+👨🏾‍🐰‍👨🏽	vakarėlyje dalyvaujantys vyrai tamsios odos rusvos odos	-
+👨🏾‍🐰‍👨🏿	vakarėlyje dalyvaujantys vyrai tamsios odos itin tamsios odos	-
+👨🏿‍🐰‍👨🏻	vakarėlyje dalyvaujantys vyrai itin tamsios odos šviesios odos	-
+👨🏿‍🐰‍👨🏼	vakarėlyje dalyvaujantys vyrai itin tamsios odos vidutinio gymio	-
+👨🏿‍🐰‍👨🏽	vakarėlyje dalyvaujantys vyrai itin tamsios odos rusvos odos	-
+👨🏿‍🐰‍👨🏾	vakarėlyje dalyvaujantys vyrai itin tamsios odos tamsios odos	-
 👩🏻	moteris šviesios odos	-
 👩🏼	moteris vidutinio gymio	-
 👩🏽	moteris rusvos odos	-
@@ -2515,6 +2613,26 @@ $	dolerio ženklas	-
 👩🏿‍❤‍👩🏽	pora su širdele moteris moteris itin tamsios odos rusvos odos	-
 👩🏿‍❤‍👩🏾	pora su širdele moteris moteris itin tamsios odos tamsios odos	-
 👩🏿‍❤‍👩🏿	pora su širdele moteris moteris itin tamsios odos	-
+👩🏻‍🫯‍👩🏼	moterų imtynės šviesios odos vidutinio gymio	-
+👩🏻‍🫯‍👩🏽	moterų imtynės šviesios odos rusvos odos	-
+👩🏻‍🫯‍👩🏾	moterų imtynės šviesios odos tamsios odos	-
+👩🏻‍🫯‍👩🏿	moterų imtynės šviesios odos itin tamsios odos	-
+👩🏼‍🫯‍👩🏻	moterų imtynės vidutinio gymio šviesios odos	-
+👩🏼‍🫯‍👩🏽	moterų imtynės vidutinio gymio rusvos odos	-
+👩🏼‍🫯‍👩🏾	moterų imtynės vidutinio gymio tamsios odos	-
+👩🏼‍🫯‍👩🏿	moterų imtynės vidutinio gymio itin tamsios odos	-
+👩🏽‍🫯‍👩🏻	moterų imtynės rusvos odos šviesios odos	-
+👩🏽‍🫯‍👩🏼	moterų imtynės rusvos odos vidutinio gymio	-
+👩🏽‍🫯‍👩🏾	moterų imtynės rusvos odos tamsios odos	-
+👩🏽‍🫯‍👩🏿	moterų imtynės rusvos odos itin tamsios odos	-
+👩🏾‍🫯‍👩🏻	moterų imtynės tamsios odos šviesios odos	-
+👩🏾‍🫯‍👩🏼	moterų imtynės tamsios odos vidutinio gymio	-
+👩🏾‍🫯‍👩🏽	moterų imtynės tamsios odos rusvos odos	-
+👩🏾‍🫯‍👩🏿	moterų imtynės tamsios odos itin tamsios odos	-
+👩🏿‍🫯‍👩🏻	moterų imtynės itin tamsios odos šviesios odos	-
+👩🏿‍🫯‍👩🏼	moterų imtynės itin tamsios odos vidutinio gymio	-
+👩🏿‍🫯‍👩🏽	moterų imtynės itin tamsios odos rusvos odos	-
+👩🏿‍🫯‍👩🏾	moterų imtynės itin tamsios odos tamsios odos	-
 👩‍🦰	moteris raudoni plaukai	-
 👩🏻‍🦰	moteris šviesios odos raudoni plaukai	-
 👩🏼‍🦰	moteris vidutinio gymio raudoni plaukai	-
@@ -2539,6 +2657,26 @@ $	dolerio ženklas	-
 👩🏽‍🦲	moteris rusvos odos plikas	-
 👩🏾‍🦲	moteris tamsios odos plikas	-
 👩🏿‍🦲	moteris itin tamsios odos plikas	-
+👩🏻‍🐰‍👩🏼	vakarėlyje dalyvaujančios moterys šviesios odos vidutinio gymio	-
+👩🏻‍🐰‍👩🏽	vakarėlyje dalyvaujančios moterys šviesios odos rusvos odos	-
+👩🏻‍🐰‍👩🏾	vakarėlyje dalyvaujančios moterys šviesios odos tamsios odos	-
+👩🏻‍🐰‍👩🏿	vakarėlyje dalyvaujančios moterys šviesios odos itin tamsios odos	-
+👩🏼‍🐰‍👩🏻	vakarėlyje dalyvaujančios moterys vidutinio gymio šviesios odos	-
+👩🏼‍🐰‍👩🏽	vakarėlyje dalyvaujančios moterys vidutinio gymio rusvos odos	-
+👩🏼‍🐰‍👩🏾	vakarėlyje dalyvaujančios moterys vidutinio gymio tamsios odos	-
+👩🏼‍🐰‍👩🏿	vakarėlyje dalyvaujančios moterys vidutinio gymio itin tamsios odos	-
+👩🏽‍🐰‍👩🏻	vakarėlyje dalyvaujančios moterys rusvos odos šviesios odos	-
+👩🏽‍🐰‍👩🏼	vakarėlyje dalyvaujančios moterys rusvos odos vidutinio gymio	-
+👩🏽‍🐰‍👩🏾	vakarėlyje dalyvaujančios moterys rusvos odos tamsios odos	-
+👩🏽‍🐰‍👩🏿	vakarėlyje dalyvaujančios moterys rusvos odos itin tamsios odos	-
+👩🏾‍🐰‍👩🏻	vakarėlyje dalyvaujančios moterys tamsios odos šviesios odos	-
+👩🏾‍🐰‍👩🏼	vakarėlyje dalyvaujančios moterys tamsios odos vidutinio gymio	-
+👩🏾‍🐰‍👩🏽	vakarėlyje dalyvaujančios moterys tamsios odos rusvos odos	-
+👩🏾‍🐰‍👩🏿	vakarėlyje dalyvaujančios moterys tamsios odos itin tamsios odos	-
+👩🏿‍🐰‍👩🏻	vakarėlyje dalyvaujančios moterys itin tamsios odos šviesios odos	-
+👩🏿‍🐰‍👩🏼	vakarėlyje dalyvaujančios moterys itin tamsios odos vidutinio gymio	-
+👩🏿‍🐰‍👩🏽	vakarėlyje dalyvaujančios moterys itin tamsios odos rusvos odos	-
+👩🏿‍🐰‍👩🏾	vakarėlyje dalyvaujančios moterys itin tamsios odos tamsios odos	-
 🧓🏻	kitas suaugusysis šviesios odos	-
 🧓🏼	kitas suaugusysis vidutinio gymio	-
 🧓🏽	kitas suaugusysis rusvos odos	-
@@ -3482,6 +3620,11 @@ $	dolerio ženklas	-
 🏃🏽‍♂‍➡	bėgantis vyras rusvos odos atsisukęs į dešinę	-
 🏃🏾‍♂‍➡	bėgantis vyras tamsios odos atsisukęs į dešinę	-
 🏃🏿‍♂‍➡	bėgantis vyras itin tamsios odos atsisukęs į dešinę	-
+🧑🏻‍🩰	baleto šokėjas šviesios odos	-
+🧑🏼‍🩰	baleto šokėjas vidutinio gymio	-
+🧑🏽‍🩰	baleto šokėjas rusvos odos	-
+🧑🏾‍🩰	baleto šokėjas tamsios odos	-
+🧑🏿‍🩰	baleto šokėjas itin tamsios odos	-
 💃🏻	šokanti moteris šviesios odos	-
 💃🏼	šokanti moteris vidutinio gymio	-
 💃🏽	šokanti moteris rusvos odos	-
@@ -3497,6 +3640,21 @@ $	dolerio ženklas	-
 🕴🏽	į orą kylantis vyras su kostiumu rusvos odos	-
 🕴🏾	į orą kylantis vyras su kostiumu tamsios odos	-
 🕴🏿	į orą kylantis vyras su kostiumu itin tamsios odos	-
+👯🏻	besilinksminančios moterys šviesios odos	-
+👯🏼	besilinksminančios moterys vidutinio gymio	-
+👯🏽	besilinksminančios moterys rusvos odos	-
+👯🏾	besilinksminančios moterys tamsios odos	-
+👯🏿	besilinksminančios moterys itin tamsios odos	-
+👯🏻‍♂	vakarėlyje dalyvaujantys vyrai šviesios odos	-
+👯🏼‍♂	vakarėlyje dalyvaujantys vyrai vidutinio gymio	-
+👯🏽‍♂	vakarėlyje dalyvaujantys vyrai rusvos odos	-
+👯🏾‍♂	vakarėlyje dalyvaujantys vyrai tamsios odos	-
+👯🏿‍♂	vakarėlyje dalyvaujantys vyrai itin tamsios odos	-
+👯🏻‍♀	vakarėlyje dalyvaujančios moterys šviesios odos	-
+👯🏼‍♀	vakarėlyje dalyvaujančios moterys vidutinio gymio	-
+👯🏽‍♀	vakarėlyje dalyvaujančios moterys rusvos odos	-
+👯🏾‍♀	vakarėlyje dalyvaujančios moterys tamsios odos	-
+👯🏿‍♀	vakarėlyje dalyvaujančios moterys itin tamsios odos	-
 🧖🏻	asmuo garų kambaryje šviesios odos	-
 🧖🏼	asmuo garų kambaryje vidutinio gymio	-
 🧖🏽	asmuo garų kambaryje rusvos odos	-
@@ -3672,6 +3830,21 @@ $	dolerio ženklas	-
 🤸🏽‍♀	moteris daro suktuką rusvos odos	-
 🤸🏾‍♀	moteris daro suktuką tamsios odos	-
 🤸🏿‍♀	moteris daro suktuką itin tamsios odos	-
+🤼🏻	imtynininkai šviesios odos	-
+🤼🏼	imtynininkai vidutinio gymio	-
+🤼🏽	imtynininkai rusvos odos	-
+🤼🏾	imtynininkai tamsios odos	-
+🤼🏿	imtynininkai itin tamsios odos	-
+🤼🏻‍♂	vyrų imtynės šviesios odos	-
+🤼🏼‍♂	vyrų imtynės vidutinio gymio	-
+🤼🏽‍♂	vyrų imtynės rusvos odos	-
+🤼🏾‍♂	vyrų imtynės tamsios odos	-
+🤼🏿‍♂	vyrų imtynės itin tamsios odos	-
+🤼🏻‍♀	moterų imtynės šviesios odos	-
+🤼🏼‍♀	moterų imtynės vidutinio gymio	-
+🤼🏽‍♀	moterų imtynės rusvos odos	-
+🤼🏾‍♀	moterų imtynės tamsios odos	-
+🤼🏿‍♀	moterų imtynės itin tamsios odos	-
 🤽🏻	vandensvydis šviesios odos	-
 🤽🏼	vandensvydis vidutinio gymio	-
 🤽🏽	vandensvydis rusvos odos	-
@@ -3937,6 +4110,7 @@ $	dolerio ženklas	-
 🇨🇳	vėliava Kinija	-
 🇨🇴	vėliava Kolumbija	-
 🇨🇵	vėliava Klipertono sala	-
+🇨🇶	vėliava Sarkas	-
 🇨🇷	vėliava Kosta Rika	-
 🇨🇺	vėliava Kuba	-
 🇨🇻	vėliava Žaliasis Kyšulys	-
@@ -3962,7 +4136,7 @@ $	dolerio ženklas	-
 🇪🇺	vėliava Europos Sąjunga	-
 🇫🇮	vėliava Suomija	-
 🇫🇯	vėliava Fidžis	-
-🇫🇰	vėliava Folklando Salos	-
+🇫🇰	vėliava Folklando salos	-
 🇫🇲	vėliava Mikronezija	-
 🇫🇴	vėliava Farerų Salos	-
 🇫🇷	vėliava Prancūzija	-
@@ -4166,14 +4340,4 @@ $	dolerio ženklas	-
 ₺	Turkijos lira	-
 ₼	Azerbaidžano manatas	-
 ₾	Gruzijos laris	-
-0⃣	mygtukas 0	-
-1⃣	mygtukas 1	-
-2⃣	mygtukas 2	-
-3⃣	mygtukas 3	-
-4⃣	mygtukas 4	-
-5⃣	mygtukas 5	-
-6⃣	mygtukas 6	-
-7⃣	mygtukas 7	-
-8⃣	mygtukas 8	-
-9⃣	mygtukas 9	-
 ₧	Ispanijos peseta	-

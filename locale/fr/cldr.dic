@@ -433,6 +433,7 @@ _	trait de soulignement	-
 😯	visage ébahi	-
 😲	visage stupéfait	-
 😳	visage qui rougit	-
+🫪	visage déformé	-
 🥺	visage implorant	-
 🥹	visage retenant ses larmes	-
 😦	visage mécontent avec bouche ouverte	-
@@ -506,6 +507,7 @@ _	trait de soulignement	-
 💋	trace de rouge à lèvres	-
 💯	cent points	-
 💢	symbole de colère	-
+🫯	nuage de colère	-
 💥	explosion	-
 💫	étourdissement	-
 💦	gouttes de sueur	-
@@ -738,6 +740,7 @@ _	trait de soulignement	-
 🧟‍♂	zombie homme	-
 🧟‍♀	zombie femme	-
 🧌	troll	-
+🫈	créature velue	-
 💆	personne qui se fait masser	-
 💆‍♂	homme qui se fait masser	-
 💆‍♀	femme qui se fait masser	-
@@ -765,6 +768,7 @@ _	trait de soulignement	-
 🏃	personne qui court	-
 🏃‍♂	homme qui court	-
 🏃‍♀	femme qui court	-
+🧑‍🩰	danseuse de ballet	-
 💃	danseuse	-
 🕺	danseur	-
 🕴	homme d’affaires en lévitation	-
@@ -946,6 +950,7 @@ _	trait de soulignement	-
 🐳	baleine soufflant par son évent	-
 🐋	baleine	-
 🐬	dauphin	-
+🫍	orque	-
 🦭	phoque	-
 🐟	poisson	-
 🐠	poisson tropical	-
@@ -1145,6 +1150,7 @@ _	trait de soulignement	-
 🧭	boussole	-
 🏔	montagne enneigée	-
 ⛰	montagne	-
+🛘	éboulement	-
 🌋	volcan	-
 🗻	mont Fuji	-
 🏕	camping	-
@@ -1505,10 +1511,10 @@ _	trait de soulignement	-
 🎧	casque	-
 📻	radio	-
 🎷	saxophone	-
+🎺	trompette	-
 🪗	accordéon	-
 🎸	guitare	-
 🎹	piano	-
-🎺	trompette	-
 🎻	violon	-
 🪕	banjo	-
 🥁	batterie	-
@@ -1569,8 +1575,9 @@ _	trait de soulignement	-
 📑	signets	-
 🔖	marque-page	-
 🏷	étiquette	-
-💰	sac plein d’argent	-
 🪙	pièce	-
+💰	sac plein d’argent	-
+🪎	coffre au trésor	-
 💴	billet en yens	-
 💵	billet en dollars	-
 💶	billet en euros	-
@@ -1941,6 +1948,16 @@ $	dollar	-
 ₹	roupie indienne	-
 ₽	rouble	-
 ₿	bitcoin	-
+0⃣	touches  0	-
+1⃣	touches  1	-
+2⃣	touches  2	-
+3⃣	touches  3	-
+4⃣	touches  4	-
+5⃣	touches  5	-
+6⃣	touches  6	-
+7⃣	touches  7	-
+8⃣	touches  8	-
+9⃣	touches  9	-
 ¹	exposant un	-
 ²	exposant deux	-
 ³	exposant trois	-
@@ -2282,6 +2299,26 @@ $	dollar	-
 🧑🏿‍❤‍🧑🏼	couple avec cœur  adulte, adulte, peau foncée et peau moyennement claire	-
 🧑🏿‍❤‍🧑🏽	couple avec cœur  adulte, adulte, peau foncée et peau légèrement mate	-
 🧑🏿‍❤‍🧑🏾	couple avec cœur  adulte, adulte, peau foncée et peau mate	-
+🧑🏻‍🫯‍🧑🏼	personnes faisant de la lutte  peau claire et peau moyennement claire	-
+🧑🏻‍🫯‍🧑🏽	personnes faisant de la lutte  peau claire et peau légèrement mate	-
+🧑🏻‍🫯‍🧑🏾	personnes faisant de la lutte  peau claire et peau mate	-
+🧑🏻‍🫯‍🧑🏿	personnes faisant de la lutte  peau claire et peau foncée	-
+🧑🏼‍🫯‍🧑🏻	personnes faisant de la lutte  peau moyennement claire et peau claire	-
+🧑🏼‍🫯‍🧑🏽	personnes faisant de la lutte  peau moyennement claire et peau légèrement mate	-
+🧑🏼‍🫯‍🧑🏾	personnes faisant de la lutte  peau moyennement claire et peau mate	-
+🧑🏼‍🫯‍🧑🏿	personnes faisant de la lutte  peau moyennement claire et peau foncée	-
+🧑🏽‍🫯‍🧑🏻	personnes faisant de la lutte  peau légèrement mate et peau claire	-
+🧑🏽‍🫯‍🧑🏼	personnes faisant de la lutte  peau légèrement mate et peau moyennement claire	-
+🧑🏽‍🫯‍🧑🏾	personnes faisant de la lutte  peau légèrement mate et peau mate	-
+🧑🏽‍🫯‍🧑🏿	personnes faisant de la lutte  peau légèrement mate et peau foncée	-
+🧑🏾‍🫯‍🧑🏻	personnes faisant de la lutte  peau mate et peau claire	-
+🧑🏾‍🫯‍🧑🏼	personnes faisant de la lutte  peau mate et peau moyennement claire	-
+🧑🏾‍🫯‍🧑🏽	personnes faisant de la lutte  peau mate et peau légèrement mate	-
+🧑🏾‍🫯‍🧑🏿	personnes faisant de la lutte  peau mate et peau foncée	-
+🧑🏿‍🫯‍🧑🏻	personnes faisant de la lutte  peau foncée et peau claire	-
+🧑🏿‍🫯‍🧑🏼	personnes faisant de la lutte  peau foncée et peau moyennement claire	-
+🧑🏿‍🫯‍🧑🏽	personnes faisant de la lutte  peau foncée et peau légèrement mate	-
+🧑🏿‍🫯‍🧑🏾	personnes faisant de la lutte  peau foncée et peau mate	-
 🧑‍🦰	adulte  cheveux roux	-
 🧑🏻‍🦰	adulte  peau claire et cheveux roux	-
 🧑🏼‍🦰	adulte  peau moyennement claire et cheveux roux	-
@@ -2306,6 +2343,26 @@ $	dollar	-
 🧑🏽‍🦲	adulte  peau légèrement mate et chauve	-
 🧑🏾‍🦲	adulte  peau mate et chauve	-
 🧑🏿‍🦲	adulte  peau foncée et chauve	-
+🧑🏻‍🐰‍🧑🏼	personnes avec des oreilles de lapin  peau claire et peau moyennement claire	-
+🧑🏻‍🐰‍🧑🏽	personnes avec des oreilles de lapin  peau claire et peau légèrement mate	-
+🧑🏻‍🐰‍🧑🏾	personnes avec des oreilles de lapin  peau claire et peau mate	-
+🧑🏻‍🐰‍🧑🏿	personnes avec des oreilles de lapin  peau claire et peau foncée	-
+🧑🏼‍🐰‍🧑🏻	personnes avec des oreilles de lapin  peau moyennement claire et peau claire	-
+🧑🏼‍🐰‍🧑🏽	personnes avec des oreilles de lapin  peau moyennement claire et peau légèrement mate	-
+🧑🏼‍🐰‍🧑🏾	personnes avec des oreilles de lapin  peau moyennement claire et peau mate	-
+🧑🏼‍🐰‍🧑🏿	personnes avec des oreilles de lapin  peau moyennement claire et peau foncée	-
+🧑🏽‍🐰‍🧑🏻	personnes avec des oreilles de lapin  peau légèrement mate et peau claire	-
+🧑🏽‍🐰‍🧑🏼	personnes avec des oreilles de lapin  peau légèrement mate et peau moyennement claire	-
+🧑🏽‍🐰‍🧑🏾	personnes avec des oreilles de lapin  peau légèrement mate et peau mate	-
+🧑🏽‍🐰‍🧑🏿	personnes avec des oreilles de lapin  peau légèrement mate et peau foncée	-
+🧑🏾‍🐰‍🧑🏻	personnes avec des oreilles de lapin  peau mate et peau claire	-
+🧑🏾‍🐰‍🧑🏼	personnes avec des oreilles de lapin  peau mate et peau moyennement claire	-
+🧑🏾‍🐰‍🧑🏽	personnes avec des oreilles de lapin  peau mate et peau légèrement mate	-
+🧑🏾‍🐰‍🧑🏿	personnes avec des oreilles de lapin  peau mate et peau foncée	-
+🧑🏿‍🐰‍🧑🏻	personnes avec des oreilles de lapin  peau foncée et peau claire	-
+🧑🏿‍🐰‍🧑🏼	personnes avec des oreilles de lapin  peau foncée et peau moyennement claire	-
+🧑🏿‍🐰‍🧑🏽	personnes avec des oreilles de lapin  peau foncée et peau légèrement mate	-
+🧑🏿‍🐰‍🧑🏾	personnes avec des oreilles de lapin  peau foncée et peau mate	-
 👨🏻	homme  peau claire	-
 👨🏼	homme  peau moyennement claire	-
 👨🏽	homme  peau légèrement mate	-
@@ -2376,6 +2433,26 @@ $	dollar	-
 👨🏿‍❤‍👨🏽	couple avec cœur  homme, homme, peau foncée et peau légèrement mate	-
 👨🏿‍❤‍👨🏾	couple avec cœur  homme, homme, peau foncée et peau mate	-
 👨🏿‍❤‍👨🏿	couple avec cœur  homme, homme et peau foncée	-
+👨🏻‍🫯‍👨🏼	lutteurs  peau claire et peau moyennement claire	-
+👨🏻‍🫯‍👨🏽	lutteurs  peau claire et peau légèrement mate	-
+👨🏻‍🫯‍👨🏾	lutteurs  peau claire et peau mate	-
+👨🏻‍🫯‍👨🏿	lutteurs  peau claire et peau foncée	-
+👨🏼‍🫯‍👨🏻	lutteurs  peau moyennement claire et peau claire	-
+👨🏼‍🫯‍👨🏽	lutteurs  peau moyennement claire et peau légèrement mate	-
+👨🏼‍🫯‍👨🏾	lutteurs  peau moyennement claire et peau mate	-
+👨🏼‍🫯‍👨🏿	lutteurs  peau moyennement claire et peau foncée	-
+👨🏽‍🫯‍👨🏻	lutteurs  peau légèrement mate et peau claire	-
+👨🏽‍🫯‍👨🏼	lutteurs  peau légèrement mate et peau moyennement claire	-
+👨🏽‍🫯‍👨🏾	lutteurs  peau légèrement mate et peau mate	-
+👨🏽‍🫯‍👨🏿	lutteurs  peau légèrement mate et peau foncée	-
+👨🏾‍🫯‍👨🏻	lutteurs  peau mate et peau claire	-
+👨🏾‍🫯‍👨🏼	lutteurs  peau mate et peau moyennement claire	-
+👨🏾‍🫯‍👨🏽	lutteurs  peau mate et peau légèrement mate	-
+👨🏾‍🫯‍👨🏿	lutteurs  peau mate et peau foncée	-
+👨🏿‍🫯‍👨🏻	lutteurs  peau foncée et peau claire	-
+👨🏿‍🫯‍👨🏼	lutteurs  peau foncée et peau moyennement claire	-
+👨🏿‍🫯‍👨🏽	lutteurs  peau foncée et peau légèrement mate	-
+👨🏿‍🫯‍👨🏾	lutteurs  peau foncée et peau mate	-
 👨‍🦰	homme  cheveux roux	-
 👨🏻‍🦰	homme  peau claire et cheveux roux	-
 👨🏼‍🦰	homme  peau moyennement claire et cheveux roux	-
@@ -2400,6 +2477,26 @@ $	dollar	-
 👨🏽‍🦲	homme  peau légèrement mate et chauve	-
 👨🏾‍🦲	homme  peau mate et chauve	-
 👨🏿‍🦲	homme  peau foncée et chauve	-
+👨🏻‍🐰‍👨🏼	hommes avec des oreilles de lapin  peau claire et peau moyennement claire	-
+👨🏻‍🐰‍👨🏽	hommes avec des oreilles de lapin  peau claire et peau légèrement mate	-
+👨🏻‍🐰‍👨🏾	hommes avec des oreilles de lapin  peau claire et peau mate	-
+👨🏻‍🐰‍👨🏿	hommes avec des oreilles de lapin  peau claire et peau foncée	-
+👨🏼‍🐰‍👨🏻	hommes avec des oreilles de lapin  peau moyennement claire et peau claire	-
+👨🏼‍🐰‍👨🏽	hommes avec des oreilles de lapin  peau moyennement claire et peau légèrement mate	-
+👨🏼‍🐰‍👨🏾	hommes avec des oreilles de lapin  peau moyennement claire et peau mate	-
+👨🏼‍🐰‍👨🏿	hommes avec des oreilles de lapin  peau moyennement claire et peau foncée	-
+👨🏽‍🐰‍👨🏻	hommes avec des oreilles de lapin  peau légèrement mate et peau claire	-
+👨🏽‍🐰‍👨🏼	hommes avec des oreilles de lapin  peau légèrement mate et peau moyennement claire	-
+👨🏽‍🐰‍👨🏾	hommes avec des oreilles de lapin  peau légèrement mate et peau mate	-
+👨🏽‍🐰‍👨🏿	hommes avec des oreilles de lapin  peau légèrement mate et peau foncée	-
+👨🏾‍🐰‍👨🏻	hommes avec des oreilles de lapin  peau mate et peau claire	-
+👨🏾‍🐰‍👨🏼	hommes avec des oreilles de lapin  peau mate et peau moyennement claire	-
+👨🏾‍🐰‍👨🏽	hommes avec des oreilles de lapin  peau mate et peau légèrement mate	-
+👨🏾‍🐰‍👨🏿	hommes avec des oreilles de lapin  peau mate et peau foncée	-
+👨🏿‍🐰‍👨🏻	hommes avec des oreilles de lapin  peau foncée et peau claire	-
+👨🏿‍🐰‍👨🏼	hommes avec des oreilles de lapin  peau foncée et peau moyennement claire	-
+👨🏿‍🐰‍👨🏽	hommes avec des oreilles de lapin  peau foncée et peau légèrement mate	-
+👨🏿‍🐰‍👨🏾	hommes avec des oreilles de lapin  peau foncée et peau mate	-
 👩🏻	femme  peau claire	-
 👩🏼	femme  peau moyennement claire	-
 👩🏽	femme  peau légèrement mate	-
@@ -2515,6 +2612,26 @@ $	dollar	-
 👩🏿‍❤‍👩🏽	couple avec cœur  femme, femme, peau foncée et peau légèrement mate	-
 👩🏿‍❤‍👩🏾	couple avec cœur  femme, femme, peau foncée et peau mate	-
 👩🏿‍❤‍👩🏿	couple avec cœur  femme, femme et peau foncée	-
+👩🏻‍🫯‍👩🏼	lutteuses  peau claire et peau moyennement claire	-
+👩🏻‍🫯‍👩🏽	lutteuses  peau claire et peau légèrement mate	-
+👩🏻‍🫯‍👩🏾	lutteuses  peau claire et peau mate	-
+👩🏻‍🫯‍👩🏿	lutteuses  peau claire et peau foncée	-
+👩🏼‍🫯‍👩🏻	lutteuses  peau moyennement claire et peau claire	-
+👩🏼‍🫯‍👩🏽	lutteuses  peau moyennement claire et peau légèrement mate	-
+👩🏼‍🫯‍👩🏾	lutteuses  peau moyennement claire et peau mate	-
+👩🏼‍🫯‍👩🏿	lutteuses  peau moyennement claire et peau foncée	-
+👩🏽‍🫯‍👩🏻	lutteuses  peau légèrement mate et peau claire	-
+👩🏽‍🫯‍👩🏼	lutteuses  peau légèrement mate et peau moyennement claire	-
+👩🏽‍🫯‍👩🏾	lutteuses  peau légèrement mate et peau mate	-
+👩🏽‍🫯‍👩🏿	lutteuses  peau légèrement mate et peau foncée	-
+👩🏾‍🫯‍👩🏻	lutteuses  peau mate et peau claire	-
+👩🏾‍🫯‍👩🏼	lutteuses  peau mate et peau moyennement claire	-
+👩🏾‍🫯‍👩🏽	lutteuses  peau mate et peau légèrement mate	-
+👩🏾‍🫯‍👩🏿	lutteuses  peau mate et peau foncée	-
+👩🏿‍🫯‍👩🏻	lutteuses  peau foncée et peau claire	-
+👩🏿‍🫯‍👩🏼	lutteuses  peau foncée et peau moyennement claire	-
+👩🏿‍🫯‍👩🏽	lutteuses  peau foncée et peau légèrement mate	-
+👩🏿‍🫯‍👩🏾	lutteuses  peau foncée et peau mate	-
 👩‍🦰	femme  cheveux roux	-
 👩🏻‍🦰	femme  peau claire et cheveux roux	-
 👩🏼‍🦰	femme  peau moyennement claire et cheveux roux	-
@@ -2539,6 +2656,26 @@ $	dollar	-
 👩🏽‍🦲	femme  peau légèrement mate et chauve	-
 👩🏾‍🦲	femme  peau mate et chauve	-
 👩🏿‍🦲	femme  peau foncée et chauve	-
+👩🏻‍🐰‍👩🏼	femmes avec des oreilles de lapin  peau claire et peau moyennement claire	-
+👩🏻‍🐰‍👩🏽	femmes avec des oreilles de lapin  peau claire et peau légèrement mate	-
+👩🏻‍🐰‍👩🏾	femmes avec des oreilles de lapin  peau claire et peau mate	-
+👩🏻‍🐰‍👩🏿	femmes avec des oreilles de lapin  peau claire et peau foncée	-
+👩🏼‍🐰‍👩🏻	femmes avec des oreilles de lapin  peau moyennement claire et peau claire	-
+👩🏼‍🐰‍👩🏽	femmes avec des oreilles de lapin  peau moyennement claire et peau légèrement mate	-
+👩🏼‍🐰‍👩🏾	femmes avec des oreilles de lapin  peau moyennement claire et peau mate	-
+👩🏼‍🐰‍👩🏿	femmes avec des oreilles de lapin  peau moyennement claire et peau foncée	-
+👩🏽‍🐰‍👩🏻	femmes avec des oreilles de lapin  peau légèrement mate et peau claire	-
+👩🏽‍🐰‍👩🏼	femmes avec des oreilles de lapin  peau légèrement mate et peau moyennement claire	-
+👩🏽‍🐰‍👩🏾	femmes avec des oreilles de lapin  peau légèrement mate et peau mate	-
+👩🏽‍🐰‍👩🏿	femmes avec des oreilles de lapin  peau légèrement mate et peau foncée	-
+👩🏾‍🐰‍👩🏻	femmes avec des oreilles de lapin  peau mate et peau claire	-
+👩🏾‍🐰‍👩🏼	femmes avec des oreilles de lapin  peau mate et peau moyennement claire	-
+👩🏾‍🐰‍👩🏽	femmes avec des oreilles de lapin  peau mate et peau légèrement mate	-
+👩🏾‍🐰‍👩🏿	femmes avec des oreilles de lapin  peau mate et peau foncée	-
+👩🏿‍🐰‍👩🏻	femmes avec des oreilles de lapin  peau foncée et peau claire	-
+👩🏿‍🐰‍👩🏼	femmes avec des oreilles de lapin  peau foncée et peau moyennement claire	-
+👩🏿‍🐰‍👩🏽	femmes avec des oreilles de lapin  peau foncée et peau légèrement mate	-
+👩🏿‍🐰‍👩🏾	femmes avec des oreilles de lapin  peau foncée et peau mate	-
 🧓🏻	personne âgée  peau claire	-
 🧓🏼	personne âgée  peau moyennement claire	-
 🧓🏽	personne âgée  peau légèrement mate	-
@@ -3482,6 +3619,11 @@ $	dollar	-
 🏃🏽‍♂‍➡	homme qui court  peau légèrement mate et vers la droite	-
 🏃🏾‍♂‍➡	homme qui court  peau mate et vers la droite	-
 🏃🏿‍♂‍➡	homme qui court  peau foncée et vers la droite	-
+🧑🏻‍🩰	danseuse de ballet  peau claire	-
+🧑🏼‍🩰	danseuse de ballet  peau moyennement claire	-
+🧑🏽‍🩰	danseuse de ballet  peau légèrement mate	-
+🧑🏾‍🩰	danseuse de ballet  peau mate	-
+🧑🏿‍🩰	danseuse de ballet  peau foncée	-
 💃🏻	danseuse  peau claire	-
 💃🏼	danseuse  peau moyennement claire	-
 💃🏽	danseuse  peau légèrement mate	-
@@ -3497,6 +3639,21 @@ $	dollar	-
 🕴🏽	homme d’affaires en lévitation  peau légèrement mate	-
 🕴🏾	homme d’affaires en lévitation  peau mate	-
 🕴🏿	homme d’affaires en lévitation  peau foncée	-
+👯🏻	personnes avec des oreilles de lapin  peau claire	-
+👯🏼	personnes avec des oreilles de lapin  peau moyennement claire	-
+👯🏽	personnes avec des oreilles de lapin  peau légèrement mate	-
+👯🏾	personnes avec des oreilles de lapin  peau mate	-
+👯🏿	personnes avec des oreilles de lapin  peau foncée	-
+👯🏻‍♂	hommes avec des oreilles de lapin  peau claire	-
+👯🏼‍♂	hommes avec des oreilles de lapin  peau moyennement claire	-
+👯🏽‍♂	hommes avec des oreilles de lapin  peau légèrement mate	-
+👯🏾‍♂	hommes avec des oreilles de lapin  peau mate	-
+👯🏿‍♂	hommes avec des oreilles de lapin  peau foncée	-
+👯🏻‍♀	femmes avec des oreilles de lapin  peau claire	-
+👯🏼‍♀	femmes avec des oreilles de lapin  peau moyennement claire	-
+👯🏽‍♀	femmes avec des oreilles de lapin  peau légèrement mate	-
+👯🏾‍♀	femmes avec des oreilles de lapin  peau mate	-
+👯🏿‍♀	femmes avec des oreilles de lapin  peau foncée	-
 🧖🏻	personne au hammam  peau claire	-
 🧖🏼	personne au hammam  peau moyennement claire	-
 🧖🏽	personne au hammam  peau légèrement mate	-
@@ -3672,6 +3829,21 @@ $	dollar	-
 🤸🏽‍♀	femme faisant la roue  peau légèrement mate	-
 🤸🏾‍♀	femme faisant la roue  peau mate	-
 🤸🏿‍♀	femme faisant la roue  peau foncée	-
+🤼🏻	personnes faisant de la lutte  peau claire	-
+🤼🏼	personnes faisant de la lutte  peau moyennement claire	-
+🤼🏽	personnes faisant de la lutte  peau légèrement mate	-
+🤼🏾	personnes faisant de la lutte  peau mate	-
+🤼🏿	personnes faisant de la lutte  peau foncée	-
+🤼🏻‍♂	lutteurs  peau claire	-
+🤼🏼‍♂	lutteurs  peau moyennement claire	-
+🤼🏽‍♂	lutteurs  peau légèrement mate	-
+🤼🏾‍♂	lutteurs  peau mate	-
+🤼🏿‍♂	lutteurs  peau foncée	-
+🤼🏻‍♀	lutteuses  peau claire	-
+🤼🏼‍♀	lutteuses  peau moyennement claire	-
+🤼🏽‍♀	lutteuses  peau légèrement mate	-
+🤼🏾‍♀	lutteuses  peau mate	-
+🤼🏿‍♀	lutteuses  peau foncée	-
 🤽🏻	personne jouant au water-polo  peau claire	-
 🤽🏼	personne jouant au water-polo  peau moyennement claire	-
 🤽🏽	personne jouant au water-polo  peau légèrement mate	-
@@ -3937,6 +4109,7 @@ $	dollar	-
 🇨🇳	drapeau  Chine	-
 🇨🇴	drapeau  Colombie	-
 🇨🇵	drapeau  Île Clipperton	-
+🇨🇶	drapeau  Sercq	-
 🇨🇷	drapeau  Costa Rica	-
 🇨🇺	drapeau  Cuba	-
 🇨🇻	drapeau  Cap-Vert	-
@@ -4166,14 +4339,4 @@ $	dollar	-
 ₺	livre turque	-
 ₼	manat azéri	-
 ₾	lari géorgien	-
-0⃣	touches  0	-
-1⃣	touches  1	-
-2⃣	touches  2	-
-3⃣	touches  3	-
-4⃣	touches  4	-
-5⃣	touches  5	-
-6⃣	touches  6	-
-7⃣	touches  7	-
-8⃣	touches  8	-
-9⃣	touches  9	-
 ₧	peseta espagnole	-

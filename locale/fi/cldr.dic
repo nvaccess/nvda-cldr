@@ -433,6 +433,7 @@ _	alaviiva	-
 😯	järkyttynyt	-
 😲	ällistynyt	-
 😳	punastunut naama	-
+🫪	vääristyneet kasvot	-
 🥺	anova	-
 🥹	kyyneliä pidättelevä naama	-
 😦	surullinen ja suu auki	-
@@ -506,6 +507,7 @@ _	alaviiva	-
 💋	huulipunajälki	-
 💯	sata pistettä	-
 💢	viha	-
+🫯	tappelupilvi	-
 💥	törmäys	-
 💫	pyörryttävä	-
 💦	hikipisarat	-
@@ -738,6 +740,7 @@ _	alaviiva	-
 🧟‍♂	mieszombi	-
 🧟‍♀	naiszombi	-
 🧌	trolli	-
+🫈	karvainen otus	-
 💆	hieronta	-
 💆‍♂	hieronnassa oleva mies	-
 💆‍♀	hieronnassa oleva nainen	-
@@ -765,6 +768,7 @@ _	alaviiva	-
 🏃	juoksija	-
 🏃‍♂	juokseva mies	-
 🏃‍♀	juokseva nainen	-
+🧑‍🩰	balettitanssija	-
 💃	tanssiva nainen	-
 🕺	tanssiva mies	-
 🕴	levitoiva mies puvussa	-
@@ -946,6 +950,7 @@ _	alaviiva	-
 🐳	suihkuttava valas	-
 🐋	valas	-
 🐬	delfiini	-
+🫍	miekkavalas	-
 🦭	hylje	-
 🐟	kala	-
 🐠	trooppinen kala	-
@@ -1145,6 +1150,7 @@ _	alaviiva	-
 🧭	kompassi	-
 🏔	lumihuippuinen vuori	-
 ⛰	vuori	-
+🛘	maanvyörymä	-
 🌋	tulivuori	-
 🗻	Fuji-vuori	-
 🏕	telttailu	-
@@ -1505,10 +1511,11 @@ _	alaviiva	-
 🎧	kuuloke	-
 📻	radio	-
 🎷	saksofoni	-
+🎺	trumpetti	-
+🪊	pasuuna	-
 🪗	harmonikka	-
 🎸	kitara	-
 🎹	koskettimet	-
-🎺	trumpetti	-
 🎻	viulu	-
 🪕	banjo	-
 🥁	rumpu	-
@@ -1569,8 +1576,9 @@ _	alaviiva	-
 📑	kirjanmerkkivälilehdet	-
 🔖	kirjanmerkki	-
 🏷	lappu	-
-💰	rahasäkki	-
 🪙	kolikko	-
+💰	rahasäkki	-
+🪎	aarrearkku	-
 💴	yen-seteli	-
 💵	dollariseteli	-
 💶	euroseteli	-
@@ -1941,6 +1949,16 @@ $	dollari	-
 ₹	Intian rupia	-
 ₽	rupla	-
 ₿	bitcoin	-
+0⃣	näppäin 0	-
+1⃣	näppäin 1	-
+2⃣	näppäin 2	-
+3⃣	näppäin 3	-
+4⃣	näppäin 4	-
+5⃣	näppäin 5	-
+6⃣	näppäin 6	-
+7⃣	näppäin 7	-
+8⃣	näppäin 8	-
+9⃣	näppäin 9	-
 ¹	yläindeksi yksi	-
 ²	yläindeksi kaksi	-
 ³	yläindeksi kolme	-
@@ -2282,6 +2300,26 @@ $	dollari	-
 🧑🏿‍❤‍🧑🏼	pariskunta ja sydän aikuinen, aikuinen, tumma iho, keskivaalea iho	-
 🧑🏿‍❤‍🧑🏽	pariskunta ja sydän aikuinen, aikuinen, tumma iho, tummanvaalea iho	-
 🧑🏿‍❤‍🧑🏾	pariskunta ja sydän aikuinen, aikuinen, tumma iho, keskitumma iho	-
+🧑🏻‍🫯‍🧑🏼	painijat vaalea iho, keskivaalea iho	-
+🧑🏻‍🫯‍🧑🏽	painijat vaalea iho, tummanvaalea iho	-
+🧑🏻‍🫯‍🧑🏾	painijat vaalea iho, keskitumma iho	-
+🧑🏻‍🫯‍🧑🏿	painijat vaalea iho, tumma iho	-
+🧑🏼‍🫯‍🧑🏻	painijat keskivaalea iho, vaalea iho	-
+🧑🏼‍🫯‍🧑🏽	painijat keskivaalea iho, tummanvaalea iho	-
+🧑🏼‍🫯‍🧑🏾	painijat keskivaalea iho, keskitumma iho	-
+🧑🏼‍🫯‍🧑🏿	painijat keskivaalea iho, tumma iho	-
+🧑🏽‍🫯‍🧑🏻	painijat tummanvaalea iho, vaalea iho	-
+🧑🏽‍🫯‍🧑🏼	painijat tummanvaalea iho, keskivaalea iho	-
+🧑🏽‍🫯‍🧑🏾	painijat tummanvaalea iho, keskitumma iho	-
+🧑🏽‍🫯‍🧑🏿	painijat tummanvaalea iho, tumma iho	-
+🧑🏾‍🫯‍🧑🏻	painijat keskitumma iho, vaalea iho	-
+🧑🏾‍🫯‍🧑🏼	painijat keskitumma iho, keskivaalea iho	-
+🧑🏾‍🫯‍🧑🏽	painijat keskitumma iho, tummanvaalea iho	-
+🧑🏾‍🫯‍🧑🏿	painijat keskitumma iho, tumma iho	-
+🧑🏿‍🫯‍🧑🏻	painijat tumma iho, vaalea iho	-
+🧑🏿‍🫯‍🧑🏼	painijat tumma iho, keskivaalea iho	-
+🧑🏿‍🫯‍🧑🏽	painijat tumma iho, tummanvaalea iho	-
+🧑🏿‍🫯‍🧑🏾	painijat tumma iho, keskitumma iho	-
 🧑‍🦰	aikuinen punatukkainen	-
 🧑🏻‍🦰	aikuinen vaalea iho, punatukkainen	-
 🧑🏼‍🦰	aikuinen keskivaalea iho, punatukkainen	-
@@ -2306,6 +2344,26 @@ $	dollari	-
 🧑🏽‍🦲	aikuinen tummanvaalea iho, kalju	-
 🧑🏾‍🦲	aikuinen keskitumma iho, kalju	-
 🧑🏿‍🦲	aikuinen tumma iho, kalju	-
+🧑🏻‍🐰‍🧑🏼	puputytöt vaalea iho, keskivaalea iho	-
+🧑🏻‍🐰‍🧑🏽	puputytöt vaalea iho, tummanvaalea iho	-
+🧑🏻‍🐰‍🧑🏾	puputytöt vaalea iho, keskitumma iho	-
+🧑🏻‍🐰‍🧑🏿	puputytöt vaalea iho, tumma iho	-
+🧑🏼‍🐰‍🧑🏻	puputytöt keskivaalea iho, vaalea iho	-
+🧑🏼‍🐰‍🧑🏽	puputytöt keskivaalea iho, tummanvaalea iho	-
+🧑🏼‍🐰‍🧑🏾	puputytöt keskivaalea iho, keskitumma iho	-
+🧑🏼‍🐰‍🧑🏿	puputytöt keskivaalea iho, tumma iho	-
+🧑🏽‍🐰‍🧑🏻	puputytöt tummanvaalea iho, vaalea iho	-
+🧑🏽‍🐰‍🧑🏼	puputytöt tummanvaalea iho, keskivaalea iho	-
+🧑🏽‍🐰‍🧑🏾	puputytöt tummanvaalea iho, keskitumma iho	-
+🧑🏽‍🐰‍🧑🏿	puputytöt tummanvaalea iho, tumma iho	-
+🧑🏾‍🐰‍🧑🏻	puputytöt keskitumma iho, vaalea iho	-
+🧑🏾‍🐰‍🧑🏼	puputytöt keskitumma iho, keskivaalea iho	-
+🧑🏾‍🐰‍🧑🏽	puputytöt keskitumma iho, tummanvaalea iho	-
+🧑🏾‍🐰‍🧑🏿	puputytöt keskitumma iho, tumma iho	-
+🧑🏿‍🐰‍🧑🏻	puputytöt tumma iho, vaalea iho	-
+🧑🏿‍🐰‍🧑🏼	puputytöt tumma iho, keskivaalea iho	-
+🧑🏿‍🐰‍🧑🏽	puputytöt tumma iho, tummanvaalea iho	-
+🧑🏿‍🐰‍🧑🏾	puputytöt tumma iho, keskitumma iho	-
 👨🏻	mies vaalea iho	-
 👨🏼	mies keskivaalea iho	-
 👨🏽	mies tummanvaalea iho	-
@@ -2376,6 +2434,26 @@ $	dollari	-
 👨🏿‍❤‍👨🏽	pariskunta ja sydän mies, mies, tumma iho, tummanvaalea iho	-
 👨🏿‍❤‍👨🏾	pariskunta ja sydän mies, mies, tumma iho, keskitumma iho	-
 👨🏿‍❤‍👨🏿	pariskunta ja sydän mies, mies, tumma iho	-
+👨🏻‍🫯‍👨🏼	painivat miehet vaalea iho, keskivaalea iho	-
+👨🏻‍🫯‍👨🏽	painivat miehet vaalea iho, tummanvaalea iho	-
+👨🏻‍🫯‍👨🏾	painivat miehet vaalea iho, keskitumma iho	-
+👨🏻‍🫯‍👨🏿	painivat miehet vaalea iho, tumma iho	-
+👨🏼‍🫯‍👨🏻	painivat miehet keskivaalea iho, vaalea iho	-
+👨🏼‍🫯‍👨🏽	painivat miehet keskivaalea iho, tummanvaalea iho	-
+👨🏼‍🫯‍👨🏾	painivat miehet keskivaalea iho, keskitumma iho	-
+👨🏼‍🫯‍👨🏿	painivat miehet keskivaalea iho, tumma iho	-
+👨🏽‍🫯‍👨🏻	painivat miehet tummanvaalea iho, vaalea iho	-
+👨🏽‍🫯‍👨🏼	painivat miehet tummanvaalea iho, keskivaalea iho	-
+👨🏽‍🫯‍👨🏾	painivat miehet tummanvaalea iho, keskitumma iho	-
+👨🏽‍🫯‍👨🏿	painivat miehet tummanvaalea iho, tumma iho	-
+👨🏾‍🫯‍👨🏻	painivat miehet keskitumma iho, vaalea iho	-
+👨🏾‍🫯‍👨🏼	painivat miehet keskitumma iho, keskivaalea iho	-
+👨🏾‍🫯‍👨🏽	painivat miehet keskitumma iho, tummanvaalea iho	-
+👨🏾‍🫯‍👨🏿	painivat miehet keskitumma iho, tumma iho	-
+👨🏿‍🫯‍👨🏻	painivat miehet tumma iho, vaalea iho	-
+👨🏿‍🫯‍👨🏼	painivat miehet tumma iho, keskivaalea iho	-
+👨🏿‍🫯‍👨🏽	painivat miehet tumma iho, tummanvaalea iho	-
+👨🏿‍🫯‍👨🏾	painivat miehet tumma iho, keskitumma iho	-
 👨‍🦰	mies punatukkainen	-
 👨🏻‍🦰	mies vaalea iho, punatukkainen	-
 👨🏼‍🦰	mies keskivaalea iho, punatukkainen	-
@@ -2400,6 +2478,26 @@ $	dollari	-
 👨🏽‍🦲	mies tummanvaalea iho, kalju	-
 👨🏾‍🦲	mies keskitumma iho, kalju	-
 👨🏿‍🦲	mies tumma iho, kalju	-
+👨🏻‍🐰‍👨🏼	tanssivat pupupojat vaalea iho, keskivaalea iho	-
+👨🏻‍🐰‍👨🏽	tanssivat pupupojat vaalea iho, tummanvaalea iho	-
+👨🏻‍🐰‍👨🏾	tanssivat pupupojat vaalea iho, keskitumma iho	-
+👨🏻‍🐰‍👨🏿	tanssivat pupupojat vaalea iho, tumma iho	-
+👨🏼‍🐰‍👨🏻	tanssivat pupupojat keskivaalea iho, vaalea iho	-
+👨🏼‍🐰‍👨🏽	tanssivat pupupojat keskivaalea iho, tummanvaalea iho	-
+👨🏼‍🐰‍👨🏾	tanssivat pupupojat keskivaalea iho, keskitumma iho	-
+👨🏼‍🐰‍👨🏿	tanssivat pupupojat keskivaalea iho, tumma iho	-
+👨🏽‍🐰‍👨🏻	tanssivat pupupojat tummanvaalea iho, vaalea iho	-
+👨🏽‍🐰‍👨🏼	tanssivat pupupojat tummanvaalea iho, keskivaalea iho	-
+👨🏽‍🐰‍👨🏾	tanssivat pupupojat tummanvaalea iho, keskitumma iho	-
+👨🏽‍🐰‍👨🏿	tanssivat pupupojat tummanvaalea iho, tumma iho	-
+👨🏾‍🐰‍👨🏻	tanssivat pupupojat keskitumma iho, vaalea iho	-
+👨🏾‍🐰‍👨🏼	tanssivat pupupojat keskitumma iho, keskivaalea iho	-
+👨🏾‍🐰‍👨🏽	tanssivat pupupojat keskitumma iho, tummanvaalea iho	-
+👨🏾‍🐰‍👨🏿	tanssivat pupupojat keskitumma iho, tumma iho	-
+👨🏿‍🐰‍👨🏻	tanssivat pupupojat tumma iho, vaalea iho	-
+👨🏿‍🐰‍👨🏼	tanssivat pupupojat tumma iho, keskivaalea iho	-
+👨🏿‍🐰‍👨🏽	tanssivat pupupojat tumma iho, tummanvaalea iho	-
+👨🏿‍🐰‍👨🏾	tanssivat pupupojat tumma iho, keskitumma iho	-
 👩🏻	nainen vaalea iho	-
 👩🏼	nainen keskivaalea iho	-
 👩🏽	nainen tummanvaalea iho	-
@@ -2515,6 +2613,26 @@ $	dollari	-
 👩🏿‍❤‍👩🏽	pariskunta ja sydän nainen, nainen, tumma iho, tummanvaalea iho	-
 👩🏿‍❤‍👩🏾	pariskunta ja sydän nainen, nainen, tumma iho, keskitumma iho	-
 👩🏿‍❤‍👩🏿	pariskunta ja sydän nainen, nainen, tumma iho	-
+👩🏻‍🫯‍👩🏼	painivat naiset vaalea iho, keskivaalea iho	-
+👩🏻‍🫯‍👩🏽	painivat naiset vaalea iho, tummanvaalea iho	-
+👩🏻‍🫯‍👩🏾	painivat naiset vaalea iho, keskitumma iho	-
+👩🏻‍🫯‍👩🏿	painivat naiset vaalea iho, tumma iho	-
+👩🏼‍🫯‍👩🏻	painivat naiset keskivaalea iho, vaalea iho	-
+👩🏼‍🫯‍👩🏽	painivat naiset keskivaalea iho, tummanvaalea iho	-
+👩🏼‍🫯‍👩🏾	painivat naiset keskivaalea iho, keskitumma iho	-
+👩🏼‍🫯‍👩🏿	painivat naiset keskivaalea iho, tumma iho	-
+👩🏽‍🫯‍👩🏻	painivat naiset tummanvaalea iho, vaalea iho	-
+👩🏽‍🫯‍👩🏼	painivat naiset tummanvaalea iho, keskivaalea iho	-
+👩🏽‍🫯‍👩🏾	painivat naiset tummanvaalea iho, keskitumma iho	-
+👩🏽‍🫯‍👩🏿	painivat naiset tummanvaalea iho, tumma iho	-
+👩🏾‍🫯‍👩🏻	painivat naiset keskitumma iho, vaalea iho	-
+👩🏾‍🫯‍👩🏼	painivat naiset keskitumma iho, keskivaalea iho	-
+👩🏾‍🫯‍👩🏽	painivat naiset keskitumma iho, tummanvaalea iho	-
+👩🏾‍🫯‍👩🏿	painivat naiset keskitumma iho, tumma iho	-
+👩🏿‍🫯‍👩🏻	painivat naiset tumma iho, vaalea iho	-
+👩🏿‍🫯‍👩🏼	painivat naiset tumma iho, keskivaalea iho	-
+👩🏿‍🫯‍👩🏽	painivat naiset tumma iho, tummanvaalea iho	-
+👩🏿‍🫯‍👩🏾	painivat naiset tumma iho, keskitumma iho	-
 👩‍🦰	nainen punatukkainen	-
 👩🏻‍🦰	nainen vaalea iho, punatukkainen	-
 👩🏼‍🦰	nainen keskivaalea iho, punatukkainen	-
@@ -2539,6 +2657,26 @@ $	dollari	-
 👩🏽‍🦲	nainen tummanvaalea iho, kalju	-
 👩🏾‍🦲	nainen keskitumma iho, kalju	-
 👩🏿‍🦲	nainen tumma iho, kalju	-
+👩🏻‍🐰‍👩🏼	tanssivat puputytöt vaalea iho, keskivaalea iho	-
+👩🏻‍🐰‍👩🏽	tanssivat puputytöt vaalea iho, tummanvaalea iho	-
+👩🏻‍🐰‍👩🏾	tanssivat puputytöt vaalea iho, keskitumma iho	-
+👩🏻‍🐰‍👩🏿	tanssivat puputytöt vaalea iho, tumma iho	-
+👩🏼‍🐰‍👩🏻	tanssivat puputytöt keskivaalea iho, vaalea iho	-
+👩🏼‍🐰‍👩🏽	tanssivat puputytöt keskivaalea iho, tummanvaalea iho	-
+👩🏼‍🐰‍👩🏾	tanssivat puputytöt keskivaalea iho, keskitumma iho	-
+👩🏼‍🐰‍👩🏿	tanssivat puputytöt keskivaalea iho, tumma iho	-
+👩🏽‍🐰‍👩🏻	tanssivat puputytöt tummanvaalea iho, vaalea iho	-
+👩🏽‍🐰‍👩🏼	tanssivat puputytöt tummanvaalea iho, keskivaalea iho	-
+👩🏽‍🐰‍👩🏾	tanssivat puputytöt tummanvaalea iho, keskitumma iho	-
+👩🏽‍🐰‍👩🏿	tanssivat puputytöt tummanvaalea iho, tumma iho	-
+👩🏾‍🐰‍👩🏻	tanssivat puputytöt keskitumma iho, vaalea iho	-
+👩🏾‍🐰‍👩🏼	tanssivat puputytöt keskitumma iho, keskivaalea iho	-
+👩🏾‍🐰‍👩🏽	tanssivat puputytöt keskitumma iho, tummanvaalea iho	-
+👩🏾‍🐰‍👩🏿	tanssivat puputytöt keskitumma iho, tumma iho	-
+👩🏿‍🐰‍👩🏻	tanssivat puputytöt tumma iho, vaalea iho	-
+👩🏿‍🐰‍👩🏼	tanssivat puputytöt tumma iho, keskivaalea iho	-
+👩🏿‍🐰‍👩🏽	tanssivat puputytöt tumma iho, tummanvaalea iho	-
+👩🏿‍🐰‍👩🏾	tanssivat puputytöt tumma iho, keskitumma iho	-
 🧓🏻	vanhus vaalea iho	-
 🧓🏼	vanhus keskivaalea iho	-
 🧓🏽	vanhus tummanvaalea iho	-
@@ -3482,6 +3620,11 @@ $	dollari	-
 🏃🏽‍♂‍➡	juokseva mies tummanvaalea iho, kohti oikeaa	-
 🏃🏾‍♂‍➡	juokseva mies keskitumma iho, kohti oikeaa	-
 🏃🏿‍♂‍➡	juokseva mies tumma iho, kohti oikeaa	-
+🧑🏻‍🩰	balettitanssija vaalea iho	-
+🧑🏼‍🩰	balettitanssija keskivaalea iho	-
+🧑🏽‍🩰	balettitanssija tummanvaalea iho	-
+🧑🏾‍🩰	balettitanssija keskitumma iho	-
+🧑🏿‍🩰	balettitanssija tumma iho	-
 💃🏻	tanssiva nainen vaalea iho	-
 💃🏼	tanssiva nainen keskivaalea iho	-
 💃🏽	tanssiva nainen tummanvaalea iho	-
@@ -3497,6 +3640,21 @@ $	dollari	-
 🕴🏽	levitoiva mies puvussa tummanvaalea iho	-
 🕴🏾	levitoiva mies puvussa keskitumma iho	-
 🕴🏿	levitoiva mies puvussa tumma iho	-
+👯🏻	puputytöt vaalea iho	-
+👯🏼	puputytöt keskivaalea iho	-
+👯🏽	puputytöt tummanvaalea iho	-
+👯🏾	puputytöt keskitumma iho	-
+👯🏿	puputytöt tumma iho	-
+👯🏻‍♂	tanssivat pupupojat vaalea iho	-
+👯🏼‍♂	tanssivat pupupojat keskivaalea iho	-
+👯🏽‍♂	tanssivat pupupojat tummanvaalea iho	-
+👯🏾‍♂	tanssivat pupupojat keskitumma iho	-
+👯🏿‍♂	tanssivat pupupojat tumma iho	-
+👯🏻‍♀	tanssivat puputytöt vaalea iho	-
+👯🏼‍♀	tanssivat puputytöt keskivaalea iho	-
+👯🏽‍♀	tanssivat puputytöt tummanvaalea iho	-
+👯🏾‍♀	tanssivat puputytöt keskitumma iho	-
+👯🏿‍♀	tanssivat puputytöt tumma iho	-
 🧖🏻	henkilö saunassa vaalea iho	-
 🧖🏼	henkilö saunassa keskivaalea iho	-
 🧖🏽	henkilö saunassa tummanvaalea iho	-
@@ -3672,6 +3830,21 @@ $	dollari	-
 🤸🏽‍♀	kärrynpyörää tekevä nainen tummanvaalea iho	-
 🤸🏾‍♀	kärrynpyörää tekevä nainen keskitumma iho	-
 🤸🏿‍♀	kärrynpyörää tekevä nainen tumma iho	-
+🤼🏻	painijat vaalea iho	-
+🤼🏼	painijat keskivaalea iho	-
+🤼🏽	painijat tummanvaalea iho	-
+🤼🏾	painijat keskitumma iho	-
+🤼🏿	painijat tumma iho	-
+🤼🏻‍♂	painivat miehet vaalea iho	-
+🤼🏼‍♂	painivat miehet keskivaalea iho	-
+🤼🏽‍♂	painivat miehet tummanvaalea iho	-
+🤼🏾‍♂	painivat miehet keskitumma iho	-
+🤼🏿‍♂	painivat miehet tumma iho	-
+🤼🏻‍♀	painivat naiset vaalea iho	-
+🤼🏼‍♀	painivat naiset keskivaalea iho	-
+🤼🏽‍♀	painivat naiset tummanvaalea iho	-
+🤼🏾‍♀	painivat naiset keskitumma iho	-
+🤼🏿‍♀	painivat naiset tumma iho	-
 🤽🏻	vesipalloilija vaalea iho	-
 🤽🏼	vesipalloilija keskivaalea iho	-
 🤽🏽	vesipalloilija tummanvaalea iho	-
@@ -4167,14 +4340,4 @@ $	dollari	-
 ₺	Turkin liira	-
 ₼	Azerbaidžanin manat	-
 ₾	Georgian lari	-
-0⃣	näppäin 0	-
-1⃣	näppäin 1	-
-2⃣	näppäin 2	-
-3⃣	näppäin 3	-
-4⃣	näppäin 4	-
-5⃣	näppäin 5	-
-6⃣	näppäin 6	-
-7⃣	näppäin 7	-
-8⃣	näppäin 8	-
-9⃣	näppäin 9	-
 ₧	Espanjan peseta	-

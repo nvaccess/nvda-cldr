@@ -433,6 +433,7 @@ _	underscore	-
 😯	verstomd gezicht	-
 😲	verbaasd gezicht	-
 😳	blozend gezicht	-
+🫪	verwrongen gezicht	-
 🥺	smekend gezicht	-
 🥹	gezicht dat tranen tegenhoudt	-
 😦	fronsend gezicht met open mond	-
@@ -506,6 +507,7 @@ _	underscore	-
 💋	lipafdruk	-
 💯	maximumscore	-
 💢	woedesymbool	-
+🫯	vechtwolk	-
 💥	botsing	-
 💫	duizelig	-
 💦	zweetdruppels	-
@@ -738,6 +740,7 @@ _	underscore	-
 🧟‍♂	mannelijke zombie	-
 🧟‍♀	vrouwelijke zombie	-
 🧌	trol	-
+🫈	harig wezen	-
 💆	persoon die hoofdmassage krijgt	-
 💆‍♂	man die hoofdmassage krijgt	-
 💆‍♀	vrouw die hoofdmassage krijgt	-
@@ -765,6 +768,7 @@ _	underscore	-
 🏃	hardloper	-
 🏃‍♂	rennende man	-
 🏃‍♀	rennende vrouw	-
+🧑‍🩰	balletdanser	-
 💃	dansende vrouw	-
 🕺	dansende man	-
 🕴	zwevende man in pak	-
@@ -946,6 +950,7 @@ _	underscore	-
 🐳	spuitende walvis	-
 🐋	walvis	-
 🐬	dolfijn	-
+🫍	orka	-
 🦭	zeehond	-
 🐟	vis	-
 🐠	tropische vis	-
@@ -1145,6 +1150,7 @@ _	underscore	-
 🧭	kompas	-
 🏔	berg met besneeuwde toppen	-
 ⛰	berg	-
+🛘	aardverschuiving	-
 🌋	vulkaan	-
 🗻	berg Fuji	-
 🏕	kamperen	-
@@ -1505,10 +1511,11 @@ _	underscore	-
 🎧	hoofdtelefoon	-
 📻	radio	-
 🎷	saxofoon	-
+🎺	trompet	-
+🪊	trombone	-
 🪗	accordeon	-
 🎸	gitaar	-
 🎹	piano	-
-🎺	trompet	-
 🎻	viool	-
 🪕	banjo	-
 🥁	trommel	-
@@ -1569,8 +1576,9 @@ _	underscore	-
 📑	bladwijzertabs	-
 🔖	bladwijzer	-
 🏷	label	-
-💰	zak met geld	-
 🪙	munt	-
+💰	zak met geld	-
+🪎	schatkist	-
 💴	yenbiljet	-
 💵	dollarbiljet	-
 💶	eurobiljet	-
@@ -1941,6 +1949,16 @@ $	dollar	-
 ₹	Indiase roepie	-
 ₽	roebel	-
 ₿	bitcoin	-
+0⃣	toets 0	-
+1⃣	toets 1	-
+2⃣	toets 2	-
+3⃣	toets 3	-
+4⃣	toets 4	-
+5⃣	toets 5	-
+6⃣	toets 6	-
+7⃣	toets 7	-
+8⃣	toets 8	-
+9⃣	toets 9	-
 ¹	superscript één	-
 ²	superscript twee	-
 ³	superscript drie	-
@@ -2282,6 +2300,26 @@ $	dollar	-
 🧑🏿‍❤‍🧑🏼	stel met hart volwassene, volwassene, donkere huidskleur, lichtgetinte huidskleur	-
 🧑🏿‍❤‍🧑🏽	stel met hart volwassene, volwassene, donkere huidskleur, getinte huidskleur	-
 🧑🏿‍❤‍🧑🏾	stel met hart volwassene, volwassene, donkere huidskleur, donkergetinte huidskleur	-
+🧑🏻‍🫯‍🧑🏼	personen die worstelen lichte huidskleur, lichtgetinte huidskleur	-
+🧑🏻‍🫯‍🧑🏽	personen die worstelen lichte huidskleur, getinte huidskleur	-
+🧑🏻‍🫯‍🧑🏾	personen die worstelen lichte huidskleur, donkergetinte huidskleur	-
+🧑🏻‍🫯‍🧑🏿	personen die worstelen lichte huidskleur, donkere huidskleur	-
+🧑🏼‍🫯‍🧑🏻	personen die worstelen lichtgetinte huidskleur, lichte huidskleur	-
+🧑🏼‍🫯‍🧑🏽	personen die worstelen lichtgetinte huidskleur, getinte huidskleur	-
+🧑🏼‍🫯‍🧑🏾	personen die worstelen lichtgetinte huidskleur, donkergetinte huidskleur	-
+🧑🏼‍🫯‍🧑🏿	personen die worstelen lichtgetinte huidskleur, donkere huidskleur	-
+🧑🏽‍🫯‍🧑🏻	personen die worstelen getinte huidskleur, lichte huidskleur	-
+🧑🏽‍🫯‍🧑🏼	personen die worstelen getinte huidskleur, lichtgetinte huidskleur	-
+🧑🏽‍🫯‍🧑🏾	personen die worstelen getinte huidskleur, donkergetinte huidskleur	-
+🧑🏽‍🫯‍🧑🏿	personen die worstelen getinte huidskleur, donkere huidskleur	-
+🧑🏾‍🫯‍🧑🏻	personen die worstelen donkergetinte huidskleur, lichte huidskleur	-
+🧑🏾‍🫯‍🧑🏼	personen die worstelen donkergetinte huidskleur, lichtgetinte huidskleur	-
+🧑🏾‍🫯‍🧑🏽	personen die worstelen donkergetinte huidskleur, getinte huidskleur	-
+🧑🏾‍🫯‍🧑🏿	personen die worstelen donkergetinte huidskleur, donkere huidskleur	-
+🧑🏿‍🫯‍🧑🏻	personen die worstelen donkere huidskleur, lichte huidskleur	-
+🧑🏿‍🫯‍🧑🏼	personen die worstelen donkere huidskleur, lichtgetinte huidskleur	-
+🧑🏿‍🫯‍🧑🏽	personen die worstelen donkere huidskleur, getinte huidskleur	-
+🧑🏿‍🫯‍🧑🏾	personen die worstelen donkere huidskleur, donkergetinte huidskleur	-
 🧑‍🦰	volwassene rood haar	-
 🧑🏻‍🦰	volwassene lichte huidskleur, rood haar	-
 🧑🏼‍🦰	volwassene lichtgetinte huidskleur, rood haar	-
@@ -2306,6 +2344,26 @@ $	dollar	-
 🧑🏽‍🦲	volwassene getinte huidskleur, kaal	-
 🧑🏾‍🦲	volwassene donkergetinte huidskleur, kaal	-
 🧑🏿‍🦲	volwassene donkere huidskleur, kaal	-
+🧑🏻‍🐰‍🧑🏼	mensen met konijnenoren lichte huidskleur, lichtgetinte huidskleur	-
+🧑🏻‍🐰‍🧑🏽	mensen met konijnenoren lichte huidskleur, getinte huidskleur	-
+🧑🏻‍🐰‍🧑🏾	mensen met konijnenoren lichte huidskleur, donkergetinte huidskleur	-
+🧑🏻‍🐰‍🧑🏿	mensen met konijnenoren lichte huidskleur, donkere huidskleur	-
+🧑🏼‍🐰‍🧑🏻	mensen met konijnenoren lichtgetinte huidskleur, lichte huidskleur	-
+🧑🏼‍🐰‍🧑🏽	mensen met konijnenoren lichtgetinte huidskleur, getinte huidskleur	-
+🧑🏼‍🐰‍🧑🏾	mensen met konijnenoren lichtgetinte huidskleur, donkergetinte huidskleur	-
+🧑🏼‍🐰‍🧑🏿	mensen met konijnenoren lichtgetinte huidskleur, donkere huidskleur	-
+🧑🏽‍🐰‍🧑🏻	mensen met konijnenoren getinte huidskleur, lichte huidskleur	-
+🧑🏽‍🐰‍🧑🏼	mensen met konijnenoren getinte huidskleur, lichtgetinte huidskleur	-
+🧑🏽‍🐰‍🧑🏾	mensen met konijnenoren getinte huidskleur, donkergetinte huidskleur	-
+🧑🏽‍🐰‍🧑🏿	mensen met konijnenoren getinte huidskleur, donkere huidskleur	-
+🧑🏾‍🐰‍🧑🏻	mensen met konijnenoren donkergetinte huidskleur, lichte huidskleur	-
+🧑🏾‍🐰‍🧑🏼	mensen met konijnenoren donkergetinte huidskleur, lichtgetinte huidskleur	-
+🧑🏾‍🐰‍🧑🏽	mensen met konijnenoren donkergetinte huidskleur, getinte huidskleur	-
+🧑🏾‍🐰‍🧑🏿	mensen met konijnenoren donkergetinte huidskleur, donkere huidskleur	-
+🧑🏿‍🐰‍🧑🏻	mensen met konijnenoren donkere huidskleur, lichte huidskleur	-
+🧑🏿‍🐰‍🧑🏼	mensen met konijnenoren donkere huidskleur, lichtgetinte huidskleur	-
+🧑🏿‍🐰‍🧑🏽	mensen met konijnenoren donkere huidskleur, getinte huidskleur	-
+🧑🏿‍🐰‍🧑🏾	mensen met konijnenoren donkere huidskleur, donkergetinte huidskleur	-
 👨🏻	man lichte huidskleur	-
 👨🏼	man lichtgetinte huidskleur	-
 👨🏽	man getinte huidskleur	-
@@ -2376,6 +2434,26 @@ $	dollar	-
 👨🏿‍❤‍👨🏽	stel met hart man, man, donkere huidskleur, getinte huidskleur	-
 👨🏿‍❤‍👨🏾	stel met hart man, man, donkere huidskleur, donkergetinte huidskleur	-
 👨🏿‍❤‍👨🏿	stel met hart man, man, donkere huidskleur	-
+👨🏻‍🫯‍👨🏼	worstelende mannen lichte huidskleur, lichtgetinte huidskleur	-
+👨🏻‍🫯‍👨🏽	worstelende mannen lichte huidskleur, getinte huidskleur	-
+👨🏻‍🫯‍👨🏾	worstelende mannen lichte huidskleur, donkergetinte huidskleur	-
+👨🏻‍🫯‍👨🏿	worstelende mannen lichte huidskleur, donkere huidskleur	-
+👨🏼‍🫯‍👨🏻	worstelende mannen lichtgetinte huidskleur, lichte huidskleur	-
+👨🏼‍🫯‍👨🏽	worstelende mannen lichtgetinte huidskleur, getinte huidskleur	-
+👨🏼‍🫯‍👨🏾	worstelende mannen lichtgetinte huidskleur, donkergetinte huidskleur	-
+👨🏼‍🫯‍👨🏿	worstelende mannen lichtgetinte huidskleur, donkere huidskleur	-
+👨🏽‍🫯‍👨🏻	worstelende mannen getinte huidskleur, lichte huidskleur	-
+👨🏽‍🫯‍👨🏼	worstelende mannen getinte huidskleur, lichtgetinte huidskleur	-
+👨🏽‍🫯‍👨🏾	worstelende mannen getinte huidskleur, donkergetinte huidskleur	-
+👨🏽‍🫯‍👨🏿	worstelende mannen getinte huidskleur, donkere huidskleur	-
+👨🏾‍🫯‍👨🏻	worstelende mannen donkergetinte huidskleur, lichte huidskleur	-
+👨🏾‍🫯‍👨🏼	worstelende mannen donkergetinte huidskleur, lichtgetinte huidskleur	-
+👨🏾‍🫯‍👨🏽	worstelende mannen donkergetinte huidskleur, getinte huidskleur	-
+👨🏾‍🫯‍👨🏿	worstelende mannen donkergetinte huidskleur, donkere huidskleur	-
+👨🏿‍🫯‍👨🏻	worstelende mannen donkere huidskleur, lichte huidskleur	-
+👨🏿‍🫯‍👨🏼	worstelende mannen donkere huidskleur, lichtgetinte huidskleur	-
+👨🏿‍🫯‍👨🏽	worstelende mannen donkere huidskleur, getinte huidskleur	-
+👨🏿‍🫯‍👨🏾	worstelende mannen donkere huidskleur, donkergetinte huidskleur	-
 👨‍🦰	man rood haar	-
 👨🏻‍🦰	man lichte huidskleur, rood haar	-
 👨🏼‍🦰	man lichtgetinte huidskleur, rood haar	-
@@ -2400,6 +2478,26 @@ $	dollar	-
 👨🏽‍🦲	man getinte huidskleur, kaal	-
 👨🏾‍🦲	man donkergetinte huidskleur, kaal	-
 👨🏿‍🦲	man donkere huidskleur, kaal	-
+👨🏻‍🐰‍👨🏼	mannen met konijnenoren lichte huidskleur, lichtgetinte huidskleur	-
+👨🏻‍🐰‍👨🏽	mannen met konijnenoren lichte huidskleur, getinte huidskleur	-
+👨🏻‍🐰‍👨🏾	mannen met konijnenoren lichte huidskleur, donkergetinte huidskleur	-
+👨🏻‍🐰‍👨🏿	mannen met konijnenoren lichte huidskleur, donkere huidskleur	-
+👨🏼‍🐰‍👨🏻	mannen met konijnenoren lichtgetinte huidskleur, lichte huidskleur	-
+👨🏼‍🐰‍👨🏽	mannen met konijnenoren lichtgetinte huidskleur, getinte huidskleur	-
+👨🏼‍🐰‍👨🏾	mannen met konijnenoren lichtgetinte huidskleur, donkergetinte huidskleur	-
+👨🏼‍🐰‍👨🏿	mannen met konijnenoren lichtgetinte huidskleur, donkere huidskleur	-
+👨🏽‍🐰‍👨🏻	mannen met konijnenoren getinte huidskleur, lichte huidskleur	-
+👨🏽‍🐰‍👨🏼	mannen met konijnenoren getinte huidskleur, lichtgetinte huidskleur	-
+👨🏽‍🐰‍👨🏾	mannen met konijnenoren getinte huidskleur, donkergetinte huidskleur	-
+👨🏽‍🐰‍👨🏿	mannen met konijnenoren getinte huidskleur, donkere huidskleur	-
+👨🏾‍🐰‍👨🏻	mannen met konijnenoren donkergetinte huidskleur, lichte huidskleur	-
+👨🏾‍🐰‍👨🏼	mannen met konijnenoren donkergetinte huidskleur, lichtgetinte huidskleur	-
+👨🏾‍🐰‍👨🏽	mannen met konijnenoren donkergetinte huidskleur, getinte huidskleur	-
+👨🏾‍🐰‍👨🏿	mannen met konijnenoren donkergetinte huidskleur, donkere huidskleur	-
+👨🏿‍🐰‍👨🏻	mannen met konijnenoren donkere huidskleur, lichte huidskleur	-
+👨🏿‍🐰‍👨🏼	mannen met konijnenoren donkere huidskleur, lichtgetinte huidskleur	-
+👨🏿‍🐰‍👨🏽	mannen met konijnenoren donkere huidskleur, getinte huidskleur	-
+👨🏿‍🐰‍👨🏾	mannen met konijnenoren donkere huidskleur, donkergetinte huidskleur	-
 👩🏻	vrouw lichte huidskleur	-
 👩🏼	vrouw lichtgetinte huidskleur	-
 👩🏽	vrouw getinte huidskleur	-
@@ -2515,6 +2613,26 @@ $	dollar	-
 👩🏿‍❤‍👩🏽	stel met hart vrouw, vrouw, donkere huidskleur, getinte huidskleur	-
 👩🏿‍❤‍👩🏾	stel met hart vrouw, vrouw, donkere huidskleur, donkergetinte huidskleur	-
 👩🏿‍❤‍👩🏿	stel met hart vrouw, vrouw, donkere huidskleur	-
+👩🏻‍🫯‍👩🏼	worstelende vrouwen lichte huidskleur, lichtgetinte huidskleur	-
+👩🏻‍🫯‍👩🏽	worstelende vrouwen lichte huidskleur, getinte huidskleur	-
+👩🏻‍🫯‍👩🏾	worstelende vrouwen lichte huidskleur, donkergetinte huidskleur	-
+👩🏻‍🫯‍👩🏿	worstelende vrouwen lichte huidskleur, donkere huidskleur	-
+👩🏼‍🫯‍👩🏻	worstelende vrouwen lichtgetinte huidskleur, lichte huidskleur	-
+👩🏼‍🫯‍👩🏽	worstelende vrouwen lichtgetinte huidskleur, getinte huidskleur	-
+👩🏼‍🫯‍👩🏾	worstelende vrouwen lichtgetinte huidskleur, donkergetinte huidskleur	-
+👩🏼‍🫯‍👩🏿	worstelende vrouwen lichtgetinte huidskleur, donkere huidskleur	-
+👩🏽‍🫯‍👩🏻	worstelende vrouwen getinte huidskleur, lichte huidskleur	-
+👩🏽‍🫯‍👩🏼	worstelende vrouwen getinte huidskleur, lichtgetinte huidskleur	-
+👩🏽‍🫯‍👩🏾	worstelende vrouwen getinte huidskleur, donkergetinte huidskleur	-
+👩🏽‍🫯‍👩🏿	worstelende vrouwen getinte huidskleur, donkere huidskleur	-
+👩🏾‍🫯‍👩🏻	worstelende vrouwen donkergetinte huidskleur, lichte huidskleur	-
+👩🏾‍🫯‍👩🏼	worstelende vrouwen donkergetinte huidskleur, lichtgetinte huidskleur	-
+👩🏾‍🫯‍👩🏽	worstelende vrouwen donkergetinte huidskleur, getinte huidskleur	-
+👩🏾‍🫯‍👩🏿	worstelende vrouwen donkergetinte huidskleur, donkere huidskleur	-
+👩🏿‍🫯‍👩🏻	worstelende vrouwen donkere huidskleur, lichte huidskleur	-
+👩🏿‍🫯‍👩🏼	worstelende vrouwen donkere huidskleur, lichtgetinte huidskleur	-
+👩🏿‍🫯‍👩🏽	worstelende vrouwen donkere huidskleur, getinte huidskleur	-
+👩🏿‍🫯‍👩🏾	worstelende vrouwen donkere huidskleur, donkergetinte huidskleur	-
 👩‍🦰	vrouw rood haar	-
 👩🏻‍🦰	vrouw lichte huidskleur, rood haar	-
 👩🏼‍🦰	vrouw lichtgetinte huidskleur, rood haar	-
@@ -2539,6 +2657,26 @@ $	dollar	-
 👩🏽‍🦲	vrouw getinte huidskleur, kaal	-
 👩🏾‍🦲	vrouw donkergetinte huidskleur, kaal	-
 👩🏿‍🦲	vrouw donkere huidskleur, kaal	-
+👩🏻‍🐰‍👩🏼	vrouwen met konijnenoren lichte huidskleur, lichtgetinte huidskleur	-
+👩🏻‍🐰‍👩🏽	vrouwen met konijnenoren lichte huidskleur, getinte huidskleur	-
+👩🏻‍🐰‍👩🏾	vrouwen met konijnenoren lichte huidskleur, donkergetinte huidskleur	-
+👩🏻‍🐰‍👩🏿	vrouwen met konijnenoren lichte huidskleur, donkere huidskleur	-
+👩🏼‍🐰‍👩🏻	vrouwen met konijnenoren lichtgetinte huidskleur, lichte huidskleur	-
+👩🏼‍🐰‍👩🏽	vrouwen met konijnenoren lichtgetinte huidskleur, getinte huidskleur	-
+👩🏼‍🐰‍👩🏾	vrouwen met konijnenoren lichtgetinte huidskleur, donkergetinte huidskleur	-
+👩🏼‍🐰‍👩🏿	vrouwen met konijnenoren lichtgetinte huidskleur, donkere huidskleur	-
+👩🏽‍🐰‍👩🏻	vrouwen met konijnenoren getinte huidskleur, lichte huidskleur	-
+👩🏽‍🐰‍👩🏼	vrouwen met konijnenoren getinte huidskleur, lichtgetinte huidskleur	-
+👩🏽‍🐰‍👩🏾	vrouwen met konijnenoren getinte huidskleur, donkergetinte huidskleur	-
+👩🏽‍🐰‍👩🏿	vrouwen met konijnenoren getinte huidskleur, donkere huidskleur	-
+👩🏾‍🐰‍👩🏻	vrouwen met konijnenoren donkergetinte huidskleur, lichte huidskleur	-
+👩🏾‍🐰‍👩🏼	vrouwen met konijnenoren donkergetinte huidskleur, lichtgetinte huidskleur	-
+👩🏾‍🐰‍👩🏽	vrouwen met konijnenoren donkergetinte huidskleur, getinte huidskleur	-
+👩🏾‍🐰‍👩🏿	vrouwen met konijnenoren donkergetinte huidskleur, donkere huidskleur	-
+👩🏿‍🐰‍👩🏻	vrouwen met konijnenoren donkere huidskleur, lichte huidskleur	-
+👩🏿‍🐰‍👩🏼	vrouwen met konijnenoren donkere huidskleur, lichtgetinte huidskleur	-
+👩🏿‍🐰‍👩🏽	vrouwen met konijnenoren donkere huidskleur, getinte huidskleur	-
+👩🏿‍🐰‍👩🏾	vrouwen met konijnenoren donkere huidskleur, donkergetinte huidskleur	-
 🧓🏻	oudere persoon lichte huidskleur	-
 🧓🏼	oudere persoon lichtgetinte huidskleur	-
 🧓🏽	oudere persoon getinte huidskleur	-
@@ -3482,6 +3620,11 @@ $	dollar	-
 🏃🏽‍♂‍➡	rennende man getinte huidskleur, naar rechts gericht	-
 🏃🏾‍♂‍➡	rennende man donkergetinte huidskleur, naar rechts gericht	-
 🏃🏿‍♂‍➡	rennende man donkere huidskleur, naar rechts gericht	-
+🧑🏻‍🩰	balletdanser lichte huidskleur	-
+🧑🏼‍🩰	balletdanser lichtgetinte huidskleur	-
+🧑🏽‍🩰	balletdanser getinte huidskleur	-
+🧑🏾‍🩰	balletdanser donkergetinte huidskleur	-
+🧑🏿‍🩰	balletdanser donkere huidskleur	-
 💃🏻	dansende vrouw lichte huidskleur	-
 💃🏼	dansende vrouw lichtgetinte huidskleur	-
 💃🏽	dansende vrouw getinte huidskleur	-
@@ -3497,6 +3640,21 @@ $	dollar	-
 🕴🏽	zwevende man in pak getinte huidskleur	-
 🕴🏾	zwevende man in pak donkergetinte huidskleur	-
 🕴🏿	zwevende man in pak donkere huidskleur	-
+👯🏻	mensen met konijnenoren lichte huidskleur	-
+👯🏼	mensen met konijnenoren lichtgetinte huidskleur	-
+👯🏽	mensen met konijnenoren getinte huidskleur	-
+👯🏾	mensen met konijnenoren donkergetinte huidskleur	-
+👯🏿	mensen met konijnenoren donkere huidskleur	-
+👯🏻‍♂	mannen met konijnenoren lichte huidskleur	-
+👯🏼‍♂	mannen met konijnenoren lichtgetinte huidskleur	-
+👯🏽‍♂	mannen met konijnenoren getinte huidskleur	-
+👯🏾‍♂	mannen met konijnenoren donkergetinte huidskleur	-
+👯🏿‍♂	mannen met konijnenoren donkere huidskleur	-
+👯🏻‍♀	vrouwen met konijnenoren lichte huidskleur	-
+👯🏼‍♀	vrouwen met konijnenoren lichtgetinte huidskleur	-
+👯🏽‍♀	vrouwen met konijnenoren getinte huidskleur	-
+👯🏾‍♀	vrouwen met konijnenoren donkergetinte huidskleur	-
+👯🏿‍♀	vrouwen met konijnenoren donkere huidskleur	-
 🧖🏻	persoon in ruimte vol stoom lichte huidskleur	-
 🧖🏼	persoon in ruimte vol stoom lichtgetinte huidskleur	-
 🧖🏽	persoon in ruimte vol stoom getinte huidskleur	-
@@ -3672,6 +3830,21 @@ $	dollar	-
 🤸🏽‍♀	vrouw die een radslag doet getinte huidskleur	-
 🤸🏾‍♀	vrouw die een radslag doet donkergetinte huidskleur	-
 🤸🏿‍♀	vrouw die een radslag doet donkere huidskleur	-
+🤼🏻	personen die worstelen lichte huidskleur	-
+🤼🏼	personen die worstelen lichtgetinte huidskleur	-
+🤼🏽	personen die worstelen getinte huidskleur	-
+🤼🏾	personen die worstelen donkergetinte huidskleur	-
+🤼🏿	personen die worstelen donkere huidskleur	-
+🤼🏻‍♂	worstelende mannen lichte huidskleur	-
+🤼🏼‍♂	worstelende mannen lichtgetinte huidskleur	-
+🤼🏽‍♂	worstelende mannen getinte huidskleur	-
+🤼🏾‍♂	worstelende mannen donkergetinte huidskleur	-
+🤼🏿‍♂	worstelende mannen donkere huidskleur	-
+🤼🏻‍♀	worstelende vrouwen lichte huidskleur	-
+🤼🏼‍♀	worstelende vrouwen lichtgetinte huidskleur	-
+🤼🏽‍♀	worstelende vrouwen getinte huidskleur	-
+🤼🏾‍♀	worstelende vrouwen donkergetinte huidskleur	-
+🤼🏿‍♀	worstelende vrouwen donkere huidskleur	-
 🤽🏻	persoon die waterpolo speelt lichte huidskleur	-
 🤽🏼	persoon die waterpolo speelt lichtgetinte huidskleur	-
 🤽🏽	persoon die waterpolo speelt getinte huidskleur	-
@@ -4167,14 +4340,4 @@ $	dollar	-
 ₺	Turkse lira	-
 ₼	Azerbeidzjaanse manat	-
 ₾	Georgische lari	-
-0⃣	toets 0	-
-1⃣	toets 1	-
-2⃣	toets 2	-
-3⃣	toets 3	-
-4⃣	toets 4	-
-5⃣	toets 5	-
-6⃣	toets 6	-
-7⃣	toets 7	-
-8⃣	toets 8	-
-9⃣	toets 9	-
 ₧	Spaanse peseta	-

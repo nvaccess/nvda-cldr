@@ -433,6 +433,7 @@ _	xariiq hoose	-
 😯	waji iftiimaayo	-
 😲	waji amakaagsan	-
 😳	waji xishood leh	-
+🫪	weji la qaloociyay	-
 🥺	waji doodsan	-
 🥹	wajah adoo oohinta celinaya	-
 😦	waji macbuus af furan leh	-
@@ -506,6 +507,7 @@ _	xariiq hoose	-
 💋	calaamadda dhunkashada	-
 💯	boqol dhibco	-
 💢	calaamadda xanaaqa	-
+🫯	daruur dagaalameyso	-
 💥	isku dhac	-
 💫	wareer	-
 💦	dhibco dhidid ah	-
@@ -516,7 +518,7 @@ _	xariiq hoose	-
 🗨	xumbo hadal bidix	-
 🗯	xanaaqa xumbo midig	-
 💭	baalluunta fakarka	-
-💤	zzz calaamadda hurdada	-
+💤	ZZZ	-
 👋	gacan haadin	-
 🤚	kor u qaaday gacanta gadaal	-
 🖐	gacan iyo faraha ayaa lagu fidiyay	-
@@ -738,6 +740,7 @@ _	xariiq hoose	-
 🧟‍♂	nin dhintay oo soo noolaaday	-
 🧟‍♀	haweeney dhimatay soo laabatay	-
 🧌	foolxun	-
+🫈	makhluuqa xaadoolaha	-
 💆	qof loo duugayo	-
 💆‍♂	nin loo duugayo	-
 💆‍♀	haweeneey loo duugayo	-
@@ -765,6 +768,7 @@ _	xariiq hoose	-
 🏃	qof ordaya	-
 🏃‍♂	nin ordaya	-
 🏃‍♀	naag ordaysa	-
+🧑‍🩰	qoob ka ciyaare faneed	-
 💃	naag qoob-ka-cayaaraysa	-
 🕺	nin qoob-ka-cayaaraya	-
 🕴	nin suud xiran oo milicsanaya	-
@@ -946,6 +950,7 @@ _	xariiq hoose	-
 🐳	nibiriga mataga	-
 🐋	nibiri	-
 🐬	hoon-baro	-
+🫍	nibiriga orkaha	-
 🦭	shaabad	-
 🐟	kalluun	-
 🐠	kalluunka kulaylaha	-
@@ -1145,6 +1150,7 @@ _	xariiq hoose	-
 🧭	jiheeye	-
 🏔	buur baraf ah	-
 ⛰	buur	-
+🛘	dhul go’id	-
 🌋	folkano	-
 🗻	buurta fuji	-
 🏕	xero	-
@@ -1505,10 +1511,11 @@ _	xariiq hoose	-
 🎧	dhago	-
 📻	raadiyow	-
 🎷	buun	-
+🎺	fuugwo	-
+🪊	turumbo	-
 🪗	alab muusik	-
 🎸	giitaar	-
 🎹	kiiboodhka muusika	-
-🎺	fuugwo	-
 🎻	seese	-
 🪕	gitaar nooc mareykan ah	-
 🥁	durbaan	-
@@ -1569,8 +1576,9 @@ _	xariiq hoose	-
 📑	qeybaha calaamadeynta buuga	-
 🔖	calaamadeeye	-
 🏷	warqad wax sheegaysa	-
-💰	bac lacaga	-
 🪙	lacag bir ah	-
+💰	bac lacaga	-
+🪎	sanduuqa keyd maaliyadeedka	-
 💴	lacag yeen ah	-
 💵	lacag doolar ah	-
 💶	lacag yuuro ah	-
@@ -1941,6 +1949,16 @@ $	doolar	-
 ₹	rubiiska hindiya	-
 ₽	cutub lacageedka raashiya	-
 ₿	bitkoyn	-
+0⃣	daboolka furaha 0	-
+1⃣	daboolka furaha 1	-
+2⃣	daboolka furaha 2	-
+3⃣	daboolka furaha 3	-
+4⃣	daboolka furaha 4	-
+5⃣	daboolka furaha 5	-
+6⃣	daboolka furaha 6	-
+7⃣	daboolka furaha 7	-
+8⃣	daboolka furaha 8	-
+9⃣	daboolka furaha 9	-
 ¹	calaamada koobaad	-
 ²	calaamada labaad	-
 ³	calaamda sadexaad	-
@@ -2282,6 +2300,26 @@ $	doolar	-
 🧑🏿‍❤‍🧑🏼	lammaane is jecel qof, qof, jidh madaw, jidh fudud oo dhexe	-
 🧑🏿‍❤‍🧑🏽	lammaane is jecel qof, qof, jidh madaw, jidh nooc dhexe	-
 🧑🏿‍❤‍🧑🏾	lammaane is jecel qof, qof, jidh madaw, jidh nooc madaw oo dhexe	-
+🧑🏻‍🫯‍🧑🏼	dad lagdamaya jidh fudud, jidh fudud oo dhexe	-
+🧑🏻‍🫯‍🧑🏽	dad lagdamaya jidh fudud, jidh nooc dhexe	-
+🧑🏻‍🫯‍🧑🏾	dad lagdamaya jidh fudud, jidh nooc madaw oo dhexe	-
+🧑🏻‍🫯‍🧑🏿	dad lagdamaya jidh fudud, jidh madaw	-
+🧑🏼‍🫯‍🧑🏻	dad lagdamaya jidh fudud oo dhexe, jidh fudud	-
+🧑🏼‍🫯‍🧑🏽	dad lagdamaya jidh fudud oo dhexe, jidh nooc dhexe	-
+🧑🏼‍🫯‍🧑🏾	dad lagdamaya jidh fudud oo dhexe, jidh nooc madaw oo dhexe	-
+🧑🏼‍🫯‍🧑🏿	dad lagdamaya jidh fudud oo dhexe, jidh madaw	-
+🧑🏽‍🫯‍🧑🏻	dad lagdamaya jidh nooc dhexe, jidh fudud	-
+🧑🏽‍🫯‍🧑🏼	dad lagdamaya jidh nooc dhexe, jidh fudud oo dhexe	-
+🧑🏽‍🫯‍🧑🏾	dad lagdamaya jidh nooc dhexe, jidh nooc madaw oo dhexe	-
+🧑🏽‍🫯‍🧑🏿	dad lagdamaya jidh nooc dhexe, jidh madaw	-
+🧑🏾‍🫯‍🧑🏻	dad lagdamaya jidh nooc madaw oo dhexe, jidh fudud	-
+🧑🏾‍🫯‍🧑🏼	dad lagdamaya jidh nooc madaw oo dhexe, jidh fudud oo dhexe	-
+🧑🏾‍🫯‍🧑🏽	dad lagdamaya jidh nooc madaw oo dhexe, jidh nooc dhexe	-
+🧑🏾‍🫯‍🧑🏿	dad lagdamaya jidh nooc madaw oo dhexe, jidh madaw	-
+🧑🏿‍🫯‍🧑🏻	dad lagdamaya jidh madaw, jidh fudud	-
+🧑🏿‍🫯‍🧑🏼	dad lagdamaya jidh madaw, jidh fudud oo dhexe	-
+🧑🏿‍🫯‍🧑🏽	dad lagdamaya jidh madaw, jidh nooc dhexe	-
+🧑🏿‍🫯‍🧑🏾	dad lagdamaya jidh madaw, jidh nooc madaw oo dhexe	-
 🧑‍🦰	qof timo cas	-
 🧑🏻‍🦰	qof jidh fudud, timo cas	-
 🧑🏼‍🦰	qof jidh fudud oo dhexe, timo cas	-
@@ -2306,6 +2344,26 @@ $	doolar	-
 🧑🏽‍🦲	qof jidh nooc dhexe, bidaar	-
 🧑🏾‍🦲	qof jidh nooc madaw oo dhexe, bidaar	-
 🧑🏿‍🦲	qof jidh madaw, bidaar	-
+🧑🏻‍🐰‍🧑🏼	dad leh dhaggo bakayle jidh fudud, jidh fudud oo dhexe	-
+🧑🏻‍🐰‍🧑🏽	dad leh dhaggo bakayle jidh fudud, jidh nooc dhexe	-
+🧑🏻‍🐰‍🧑🏾	dad leh dhaggo bakayle jidh fudud, jidh nooc madaw oo dhexe	-
+🧑🏻‍🐰‍🧑🏿	dad leh dhaggo bakayle jidh fudud, jidh madaw	-
+🧑🏼‍🐰‍🧑🏻	dad leh dhaggo bakayle jidh fudud oo dhexe, jidh fudud	-
+🧑🏼‍🐰‍🧑🏽	dad leh dhaggo bakayle jidh fudud oo dhexe, jidh nooc dhexe	-
+🧑🏼‍🐰‍🧑🏾	dad leh dhaggo bakayle jidh fudud oo dhexe, jidh nooc madaw oo dhexe	-
+🧑🏼‍🐰‍🧑🏿	dad leh dhaggo bakayle jidh fudud oo dhexe, jidh madaw	-
+🧑🏽‍🐰‍🧑🏻	dad leh dhaggo bakayle jidh nooc dhexe, jidh fudud	-
+🧑🏽‍🐰‍🧑🏼	dad leh dhaggo bakayle jidh nooc dhexe, jidh fudud oo dhexe	-
+🧑🏽‍🐰‍🧑🏾	dad leh dhaggo bakayle jidh nooc dhexe, jidh nooc madaw oo dhexe	-
+🧑🏽‍🐰‍🧑🏿	dad leh dhaggo bakayle jidh nooc dhexe, jidh madaw	-
+🧑🏾‍🐰‍🧑🏻	dad leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh fudud	-
+🧑🏾‍🐰‍🧑🏼	dad leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh fudud oo dhexe	-
+🧑🏾‍🐰‍🧑🏽	dad leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh nooc dhexe	-
+🧑🏾‍🐰‍🧑🏿	dad leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh madaw	-
+🧑🏿‍🐰‍🧑🏻	dad leh dhaggo bakayle jidh madaw, jidh fudud	-
+🧑🏿‍🐰‍🧑🏼	dad leh dhaggo bakayle jidh madaw, jidh fudud oo dhexe	-
+🧑🏿‍🐰‍🧑🏽	dad leh dhaggo bakayle jidh madaw, jidh nooc dhexe	-
+🧑🏿‍🐰‍🧑🏾	dad leh dhaggo bakayle jidh madaw, jidh nooc madaw oo dhexe	-
 👨🏻	ninka jidh fudud	-
 👨🏼	ninka jidh fudud oo dhexe	-
 👨🏽	ninka jidh nooc dhexe	-
@@ -2376,6 +2434,26 @@ $	doolar	-
 👨🏿‍❤‍👨🏽	lammaane is jecel ninka, ninka, jidh madaw, jidh nooc dhexe	-
 👨🏿‍❤‍👨🏾	lammaane is jecel ninka, ninka, jidh madaw, jidh nooc madaw oo dhexe	-
 👨🏿‍❤‍👨🏿	lammaane is jecel ninka, ninka, jidh madaw	-
+👨🏻‍🫯‍👨🏼	rag lagdamaya jidh fudud, jidh fudud oo dhexe	-
+👨🏻‍🫯‍👨🏽	rag lagdamaya jidh fudud, jidh nooc dhexe	-
+👨🏻‍🫯‍👨🏾	rag lagdamaya jidh fudud, jidh nooc madaw oo dhexe	-
+👨🏻‍🫯‍👨🏿	rag lagdamaya jidh fudud, jidh madaw	-
+👨🏼‍🫯‍👨🏻	rag lagdamaya jidh fudud oo dhexe, jidh fudud	-
+👨🏼‍🫯‍👨🏽	rag lagdamaya jidh fudud oo dhexe, jidh nooc dhexe	-
+👨🏼‍🫯‍👨🏾	rag lagdamaya jidh fudud oo dhexe, jidh nooc madaw oo dhexe	-
+👨🏼‍🫯‍👨🏿	rag lagdamaya jidh fudud oo dhexe, jidh madaw	-
+👨🏽‍🫯‍👨🏻	rag lagdamaya jidh nooc dhexe, jidh fudud	-
+👨🏽‍🫯‍👨🏼	rag lagdamaya jidh nooc dhexe, jidh fudud oo dhexe	-
+👨🏽‍🫯‍👨🏾	rag lagdamaya jidh nooc dhexe, jidh nooc madaw oo dhexe	-
+👨🏽‍🫯‍👨🏿	rag lagdamaya jidh nooc dhexe, jidh madaw	-
+👨🏾‍🫯‍👨🏻	rag lagdamaya jidh nooc madaw oo dhexe, jidh fudud	-
+👨🏾‍🫯‍👨🏼	rag lagdamaya jidh nooc madaw oo dhexe, jidh fudud oo dhexe	-
+👨🏾‍🫯‍👨🏽	rag lagdamaya jidh nooc madaw oo dhexe, jidh nooc dhexe	-
+👨🏾‍🫯‍👨🏿	rag lagdamaya jidh nooc madaw oo dhexe, jidh madaw	-
+👨🏿‍🫯‍👨🏻	rag lagdamaya jidh madaw, jidh fudud	-
+👨🏿‍🫯‍👨🏼	rag lagdamaya jidh madaw, jidh fudud oo dhexe	-
+👨🏿‍🫯‍👨🏽	rag lagdamaya jidh madaw, jidh nooc dhexe	-
+👨🏿‍🫯‍👨🏾	rag lagdamaya jidh madaw, jidh nooc madaw oo dhexe	-
 👨‍🦰	ninka timo cas	-
 👨🏻‍🦰	ninka jidh fudud, timo cas	-
 👨🏼‍🦰	ninka jidh fudud oo dhexe, timo cas	-
@@ -2400,6 +2478,26 @@ $	doolar	-
 👨🏽‍🦲	ninka jidh nooc dhexe, bidaar	-
 👨🏾‍🦲	ninka jidh nooc madaw oo dhexe, bidaar	-
 👨🏿‍🦲	ninka jidh madaw, bidaar	-
+👨🏻‍🐰‍👨🏼	rag leh dhaggo bakayle jidh fudud, jidh fudud oo dhexe	-
+👨🏻‍🐰‍👨🏽	rag leh dhaggo bakayle jidh fudud, jidh nooc dhexe	-
+👨🏻‍🐰‍👨🏾	rag leh dhaggo bakayle jidh fudud, jidh nooc madaw oo dhexe	-
+👨🏻‍🐰‍👨🏿	rag leh dhaggo bakayle jidh fudud, jidh madaw	-
+👨🏼‍🐰‍👨🏻	rag leh dhaggo bakayle jidh fudud oo dhexe, jidh fudud	-
+👨🏼‍🐰‍👨🏽	rag leh dhaggo bakayle jidh fudud oo dhexe, jidh nooc dhexe	-
+👨🏼‍🐰‍👨🏾	rag leh dhaggo bakayle jidh fudud oo dhexe, jidh nooc madaw oo dhexe	-
+👨🏼‍🐰‍👨🏿	rag leh dhaggo bakayle jidh fudud oo dhexe, jidh madaw	-
+👨🏽‍🐰‍👨🏻	rag leh dhaggo bakayle jidh nooc dhexe, jidh fudud	-
+👨🏽‍🐰‍👨🏼	rag leh dhaggo bakayle jidh nooc dhexe, jidh fudud oo dhexe	-
+👨🏽‍🐰‍👨🏾	rag leh dhaggo bakayle jidh nooc dhexe, jidh nooc madaw oo dhexe	-
+👨🏽‍🐰‍👨🏿	rag leh dhaggo bakayle jidh nooc dhexe, jidh madaw	-
+👨🏾‍🐰‍👨🏻	rag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh fudud	-
+👨🏾‍🐰‍👨🏼	rag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh fudud oo dhexe	-
+👨🏾‍🐰‍👨🏽	rag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh nooc dhexe	-
+👨🏾‍🐰‍👨🏿	rag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh madaw	-
+👨🏿‍🐰‍👨🏻	rag leh dhaggo bakayle jidh madaw, jidh fudud	-
+👨🏿‍🐰‍👨🏼	rag leh dhaggo bakayle jidh madaw, jidh fudud oo dhexe	-
+👨🏿‍🐰‍👨🏽	rag leh dhaggo bakayle jidh madaw, jidh nooc dhexe	-
+👨🏿‍🐰‍👨🏾	rag leh dhaggo bakayle jidh madaw, jidh nooc madaw oo dhexe	-
 👩🏻	naag jidh fudud	-
 👩🏼	naag jidh fudud oo dhexe	-
 👩🏽	naag jidh nooc dhexe	-
@@ -2515,6 +2613,26 @@ $	doolar	-
 👩🏿‍❤‍👩🏽	lammaane is jecel naag, naag, jidh madaw, jidh nooc dhexe	-
 👩🏿‍❤‍👩🏾	lammaane is jecel naag, naag, jidh madaw, jidh nooc madaw oo dhexe	-
 👩🏿‍❤‍👩🏿	lammaane is jecel naag, naag, jidh madaw	-
+👩🏻‍🫯‍👩🏼	naaga lagdamaya jidh fudud, jidh fudud oo dhexe	-
+👩🏻‍🫯‍👩🏽	naaga lagdamaya jidh fudud, jidh nooc dhexe	-
+👩🏻‍🫯‍👩🏾	naaga lagdamaya jidh fudud, jidh nooc madaw oo dhexe	-
+👩🏻‍🫯‍👩🏿	naaga lagdamaya jidh fudud, jidh madaw	-
+👩🏼‍🫯‍👩🏻	naaga lagdamaya jidh fudud oo dhexe, jidh fudud	-
+👩🏼‍🫯‍👩🏽	naaga lagdamaya jidh fudud oo dhexe, jidh nooc dhexe	-
+👩🏼‍🫯‍👩🏾	naaga lagdamaya jidh fudud oo dhexe, jidh nooc madaw oo dhexe	-
+👩🏼‍🫯‍👩🏿	naaga lagdamaya jidh fudud oo dhexe, jidh madaw	-
+👩🏽‍🫯‍👩🏻	naaga lagdamaya jidh nooc dhexe, jidh fudud	-
+👩🏽‍🫯‍👩🏼	naaga lagdamaya jidh nooc dhexe, jidh fudud oo dhexe	-
+👩🏽‍🫯‍👩🏾	naaga lagdamaya jidh nooc dhexe, jidh nooc madaw oo dhexe	-
+👩🏽‍🫯‍👩🏿	naaga lagdamaya jidh nooc dhexe, jidh madaw	-
+👩🏾‍🫯‍👩🏻	naaga lagdamaya jidh nooc madaw oo dhexe, jidh fudud	-
+👩🏾‍🫯‍👩🏼	naaga lagdamaya jidh nooc madaw oo dhexe, jidh fudud oo dhexe	-
+👩🏾‍🫯‍👩🏽	naaga lagdamaya jidh nooc madaw oo dhexe, jidh nooc dhexe	-
+👩🏾‍🫯‍👩🏿	naaga lagdamaya jidh nooc madaw oo dhexe, jidh madaw	-
+👩🏿‍🫯‍👩🏻	naaga lagdamaya jidh madaw, jidh fudud	-
+👩🏿‍🫯‍👩🏼	naaga lagdamaya jidh madaw, jidh fudud oo dhexe	-
+👩🏿‍🫯‍👩🏽	naaga lagdamaya jidh madaw, jidh nooc dhexe	-
+👩🏿‍🫯‍👩🏾	naaga lagdamaya jidh madaw, jidh nooc madaw oo dhexe	-
 👩‍🦰	naag timo cas	-
 👩🏻‍🦰	naag jidh fudud, timo cas	-
 👩🏼‍🦰	naag jidh fudud oo dhexe, timo cas	-
@@ -2539,6 +2657,26 @@ $	doolar	-
 👩🏽‍🦲	naag jidh nooc dhexe, bidaar	-
 👩🏾‍🦲	naag jidh nooc madaw oo dhexe, bidaar	-
 👩🏿‍🦲	naag jidh madaw, bidaar	-
+👩🏻‍🐰‍👩🏼	naag leh dhaggo bakayle jidh fudud, jidh fudud oo dhexe	-
+👩🏻‍🐰‍👩🏽	naag leh dhaggo bakayle jidh fudud, jidh nooc dhexe	-
+👩🏻‍🐰‍👩🏾	naag leh dhaggo bakayle jidh fudud, jidh nooc madaw oo dhexe	-
+👩🏻‍🐰‍👩🏿	naag leh dhaggo bakayle jidh fudud, jidh madaw	-
+👩🏼‍🐰‍👩🏻	naag leh dhaggo bakayle jidh fudud oo dhexe, jidh fudud	-
+👩🏼‍🐰‍👩🏽	naag leh dhaggo bakayle jidh fudud oo dhexe, jidh nooc dhexe	-
+👩🏼‍🐰‍👩🏾	naag leh dhaggo bakayle jidh fudud oo dhexe, jidh nooc madaw oo dhexe	-
+👩🏼‍🐰‍👩🏿	naag leh dhaggo bakayle jidh fudud oo dhexe, jidh madaw	-
+👩🏽‍🐰‍👩🏻	naag leh dhaggo bakayle jidh nooc dhexe, jidh fudud	-
+👩🏽‍🐰‍👩🏼	naag leh dhaggo bakayle jidh nooc dhexe, jidh fudud oo dhexe	-
+👩🏽‍🐰‍👩🏾	naag leh dhaggo bakayle jidh nooc dhexe, jidh nooc madaw oo dhexe	-
+👩🏽‍🐰‍👩🏿	naag leh dhaggo bakayle jidh nooc dhexe, jidh madaw	-
+👩🏾‍🐰‍👩🏻	naag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh fudud	-
+👩🏾‍🐰‍👩🏼	naag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh fudud oo dhexe	-
+👩🏾‍🐰‍👩🏽	naag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh nooc dhexe	-
+👩🏾‍🐰‍👩🏿	naag leh dhaggo bakayle jidh nooc madaw oo dhexe, jidh madaw	-
+👩🏿‍🐰‍👩🏻	naag leh dhaggo bakayle jidh madaw, jidh fudud	-
+👩🏿‍🐰‍👩🏼	naag leh dhaggo bakayle jidh madaw, jidh fudud oo dhexe	-
+👩🏿‍🐰‍👩🏽	naag leh dhaggo bakayle jidh madaw, jidh nooc dhexe	-
+👩🏿‍🐰‍👩🏾	naag leh dhaggo bakayle jidh madaw, jidh nooc madaw oo dhexe	-
 🧓🏻	qof weyn jidh fudud	-
 🧓🏼	qof weyn jidh fudud oo dhexe	-
 🧓🏽	qof weyn jidh nooc dhexe	-
@@ -3482,6 +3620,11 @@ $	doolar	-
 🏃🏽‍♂‍➡	nin ordaya jidh nooc dhexe, midig u jeeda	-
 🏃🏾‍♂‍➡	nin ordaya jidh nooc madaw oo dhexe, midig u jeeda	-
 🏃🏿‍♂‍➡	nin ordaya jidh madaw, midig u jeeda	-
+🧑🏻‍🩰	qoob ka ciyaare faneed jidh fudud	-
+🧑🏼‍🩰	qoob ka ciyaare faneed jidh fudud oo dhexe	-
+🧑🏽‍🩰	qoob ka ciyaare faneed jidh nooc dhexe	-
+🧑🏾‍🩰	qoob ka ciyaare faneed jidh nooc madaw oo dhexe	-
+🧑🏿‍🩰	qoob ka ciyaare faneed jidh madaw	-
 💃🏻	naag qoob-ka-cayaaraysa jidh fudud	-
 💃🏼	naag qoob-ka-cayaaraysa jidh fudud oo dhexe	-
 💃🏽	naag qoob-ka-cayaaraysa jidh nooc dhexe	-
@@ -3497,6 +3640,21 @@ $	doolar	-
 🕴🏽	nin suud xiran oo milicsanaya jidh nooc dhexe	-
 🕴🏾	nin suud xiran oo milicsanaya jidh nooc madaw oo dhexe	-
 🕴🏿	nin suud xiran oo milicsanaya jidh madaw	-
+👯🏻	dad leh dhaggo bakayle jidh fudud	-
+👯🏼	dad leh dhaggo bakayle jidh fudud oo dhexe	-
+👯🏽	dad leh dhaggo bakayle jidh nooc dhexe	-
+👯🏾	dad leh dhaggo bakayle jidh nooc madaw oo dhexe	-
+👯🏿	dad leh dhaggo bakayle jidh madaw	-
+👯🏻‍♂	rag leh dhaggo bakayle jidh fudud	-
+👯🏼‍♂	rag leh dhaggo bakayle jidh fudud oo dhexe	-
+👯🏽‍♂	rag leh dhaggo bakayle jidh nooc dhexe	-
+👯🏾‍♂	rag leh dhaggo bakayle jidh nooc madaw oo dhexe	-
+👯🏿‍♂	rag leh dhaggo bakayle jidh madaw	-
+👯🏻‍♀	naag leh dhaggo bakayle jidh fudud	-
+👯🏼‍♀	naag leh dhaggo bakayle jidh fudud oo dhexe	-
+👯🏽‍♀	naag leh dhaggo bakayle jidh nooc dhexe	-
+👯🏾‍♀	naag leh dhaggo bakayle jidh nooc madaw oo dhexe	-
+👯🏿‍♀	naag leh dhaggo bakayle jidh madaw	-
 🧖🏻	qof ku jira qol uummi ah jidh fudud	-
 🧖🏼	qof ku jira qol uummi ah jidh fudud oo dhexe	-
 🧖🏽	qof ku jira qol uummi ah jidh nooc dhexe	-
@@ -3672,6 +3830,21 @@ $	doolar	-
 🤸🏽‍♀	naag jimicsanaysa jidh nooc dhexe	-
 🤸🏾‍♀	naag jimicsanaysa jidh nooc madaw oo dhexe	-
 🤸🏿‍♀	naag jimicsanaysa jidh madaw	-
+🤼🏻	dad lagdamaya jidh fudud	-
+🤼🏼	dad lagdamaya jidh fudud oo dhexe	-
+🤼🏽	dad lagdamaya jidh nooc dhexe	-
+🤼🏾	dad lagdamaya jidh nooc madaw oo dhexe	-
+🤼🏿	dad lagdamaya jidh madaw	-
+🤼🏻‍♂	rag lagdamaya jidh fudud	-
+🤼🏼‍♂	rag lagdamaya jidh fudud oo dhexe	-
+🤼🏽‍♂	rag lagdamaya jidh nooc dhexe	-
+🤼🏾‍♂	rag lagdamaya jidh nooc madaw oo dhexe	-
+🤼🏿‍♂	rag lagdamaya jidh madaw	-
+🤼🏻‍♀	naaga lagdamaya jidh fudud	-
+🤼🏼‍♀	naaga lagdamaya jidh fudud oo dhexe	-
+🤼🏽‍♀	naaga lagdamaya jidh nooc dhexe	-
+🤼🏾‍♀	naaga lagdamaya jidh nooc madaw oo dhexe	-
+🤼🏿‍♀	naaga lagdamaya jidh madaw	-
 🤽🏻	qof cayaaraya kubadda biyaha jidh fudud	-
 🤽🏼	qof cayaaraya kubadda biyaha jidh fudud oo dhexe	-
 🤽🏽	qof cayaaraya kubadda biyaha jidh nooc dhexe	-
@@ -3937,6 +4110,7 @@ $	doolar	-
 🇨🇳	calan Shiinaha	-
 🇨🇴	calan Koloombiya	-
 🇨🇵	calan Jasiiradda Kilibarton	-
+🇨🇶	calan Sark	-
 🇨🇷	calan Costa Rica	-
 🇨🇺	calan Kuuba	-
 🇨🇻	calan Jasiiradda Kayb Faarde	-
@@ -4166,13 +4340,3 @@ $	doolar	-
 ₺	Liirada Turkiga	-
 ₼	Manaata Asarbeyjan	-
 ₾	Laariga Joorjiya	-
-0⃣	daboolka furaha 0	-
-1⃣	daboolka furaha 1	-
-2⃣	daboolka furaha 2	-
-3⃣	daboolka furaha 3	-
-4⃣	daboolka furaha 4	-
-5⃣	daboolka furaha 5	-
-6⃣	daboolka furaha 6	-
-7⃣	daboolka furaha 7	-
-8⃣	daboolka furaha 8	-
-9⃣	daboolka furaha 9	-

@@ -506,6 +506,7 @@ _	podčrtaj	-
 💋	sled šminke po poljubu	-
 💯	sto točk	-
 💢	simbol jeze	-
+🫯	spor v oblaku	-
 💥	trk	-
 💫	omotica	-
 💦	potne kapljice	-
@@ -738,6 +739,7 @@ _	podčrtaj	-
 🧟‍♂	zombi moški	-
 🧟‍♀	zombi ženska	-
 🧌	trol	-
+🫈	kosmato bitje	-
 💆	masaža obraza	-
 💆‍♂	moški na masaži obraza	-
 💆‍♀	ženska na masaži obraza	-
@@ -765,6 +767,7 @@ _	podčrtaj	-
 🏃	tekač	-
 🏃‍♂	moški, ki teče	-
 🏃‍♀	ženska, ki teče	-
+🧑‍🩰	baletka	-
 💃	ženska, ki pleše	-
 🕺	plesalec	-
 🕴	moški v poslovni obleki, ki lebdi	-
@@ -946,6 +949,7 @@ _	podčrtaj	-
 🐳	kit, ki brizga vodo	-
 🐋	kit	-
 🐬	delfin	-
+🫍	orka	-
 🦭	tjulenj	-
 🐟	riba	-
 🐠	tropska riba	-
@@ -1033,7 +1037,7 @@ _	podčrtaj	-
 🌶	feferon	-
 🫑	paprika	-
 🥒	kumara	-
-🥬	listnato zelena	-
+🥬	listnata zelenjava	-
 🥦	brokoli	-
 🧄	česen	-
 🧅	čebula	-
@@ -1145,6 +1149,7 @@ _	podčrtaj	-
 🧭	kompas	-
 🏔	zasnežena gora	-
 ⛰	gora	-
+🛘	zemeljski plaz	-
 🌋	vulkan	-
 🗻	gora Fuji	-
 🏕	kampiranje	-
@@ -1505,10 +1510,11 @@ _	podčrtaj	-
 🎧	slušalka	-
 📻	radio	-
 🎷	saksofon	-
+🎺	trobenta	-
+🪊	pozavna	-
 🪗	harmonika	-
 🎸	kitara	-
 🎹	klaviatura	-
-🎺	trobenta	-
 🎻	violina	-
 🪕	bendžo	-
 🥁	boben	-
@@ -1569,8 +1575,9 @@ _	podčrtaj	-
 📑	zaznamki na straneh	-
 🔖	zaznamek	-
 🏷	etiketa	-
-💰	vreča denarja	-
 🪙	kovanec	-
+💰	vreča denarja	-
+🪎	skrinja z zakladom	-
 💴	bankovec za jen	-
 💵	dolarski bankovec	-
 💶	evrski bankovec	-
@@ -1941,6 +1948,16 @@ $	dolar	-
 ₹	indijska rupija	-
 ₽	rubelj	-
 ₿	bitcoin	-
+0⃣	tipka 0	-
+1⃣	tipka 1	-
+2⃣	tipka 2	-
+3⃣	tipka 3	-
+4⃣	tipka 4	-
+5⃣	tipka 5	-
+6⃣	tipka 6	-
+7⃣	tipka 7	-
+8⃣	tipka 8	-
+9⃣	tipka 9	-
 ¹	nadpisana enka	-
 ²	nadpisana dvojka	-
 ³	nadpisana trojka	-
@@ -2282,6 +2299,26 @@ $	dolar	-
 🧑🏿‍❤‍🧑🏼	par s srčkom odrasla oseba, odrasla oseba, temen ten kože in srednje svetel ten kože	-
 🧑🏿‍❤‍🧑🏽	par s srčkom odrasla oseba, odrasla oseba, temen ten kože in srednji ten kože	-
 🧑🏿‍❤‍🧑🏾	par s srčkom odrasla oseba, odrasla oseba, temen ten kože in srednje temen ten kože	-
+🧑🏻‍🫯‍🧑🏼	rokoborba svetel ten kože in srednje svetel ten kože	-
+🧑🏻‍🫯‍🧑🏽	rokoborba svetel ten kože in srednji ten kože	-
+🧑🏻‍🫯‍🧑🏾	rokoborba svetel ten kože in srednje temen ten kože	-
+🧑🏻‍🫯‍🧑🏿	rokoborba svetel ten kože in temen ten kože	-
+🧑🏼‍🫯‍🧑🏻	rokoborba srednje svetel ten kože in svetel ten kože	-
+🧑🏼‍🫯‍🧑🏽	rokoborba srednje svetel ten kože in srednji ten kože	-
+🧑🏼‍🫯‍🧑🏾	rokoborba srednje svetel ten kože in srednje temen ten kože	-
+🧑🏼‍🫯‍🧑🏿	rokoborba srednje svetel ten kože in temen ten kože	-
+🧑🏽‍🫯‍🧑🏻	rokoborba srednji ten kože in svetel ten kože	-
+🧑🏽‍🫯‍🧑🏼	rokoborba srednji ten kože in srednje svetel ten kože	-
+🧑🏽‍🫯‍🧑🏾	rokoborba srednji ten kože in srednje temen ten kože	-
+🧑🏽‍🫯‍🧑🏿	rokoborba srednji ten kože in temen ten kože	-
+🧑🏾‍🫯‍🧑🏻	rokoborba srednje temen ten kože in svetel ten kože	-
+🧑🏾‍🫯‍🧑🏼	rokoborba srednje temen ten kože in srednje svetel ten kože	-
+🧑🏾‍🫯‍🧑🏽	rokoborba srednje temen ten kože in srednji ten kože	-
+🧑🏾‍🫯‍🧑🏿	rokoborba srednje temen ten kože in temen ten kože	-
+🧑🏿‍🫯‍🧑🏻	rokoborba temen ten kože in svetel ten kože	-
+🧑🏿‍🫯‍🧑🏼	rokoborba temen ten kože in srednje svetel ten kože	-
+🧑🏿‍🫯‍🧑🏽	rokoborba temen ten kože in srednji ten kože	-
+🧑🏿‍🫯‍🧑🏾	rokoborba temen ten kože in srednje temen ten kože	-
 🧑‍🦰	odrasla oseba rdeči lasje	-
 🧑🏻‍🦰	odrasla oseba svetel ten kože in rdeči lasje	-
 🧑🏼‍🦰	odrasla oseba srednje svetel ten kože in rdeči lasje	-
@@ -2306,6 +2343,26 @@ $	dolar	-
 🧑🏽‍🦲	odrasla oseba srednji ten kože in plešast	-
 🧑🏾‍🦲	odrasla oseba srednje temen ten kože in plešast	-
 🧑🏿‍🦲	odrasla oseba temen ten kože in plešast	-
+🧑🏻‍🐰‍🧑🏼	žurerski ženski svetel ten kože in srednje svetel ten kože	-
+🧑🏻‍🐰‍🧑🏽	žurerski ženski svetel ten kože in srednji ten kože	-
+🧑🏻‍🐰‍🧑🏾	žurerski ženski svetel ten kože in srednje temen ten kože	-
+🧑🏻‍🐰‍🧑🏿	žurerski ženski svetel ten kože in temen ten kože	-
+🧑🏼‍🐰‍🧑🏻	žurerski ženski srednje svetel ten kože in svetel ten kože	-
+🧑🏼‍🐰‍🧑🏽	žurerski ženski srednje svetel ten kože in srednji ten kože	-
+🧑🏼‍🐰‍🧑🏾	žurerski ženski srednje svetel ten kože in srednje temen ten kože	-
+🧑🏼‍🐰‍🧑🏿	žurerski ženski srednje svetel ten kože in temen ten kože	-
+🧑🏽‍🐰‍🧑🏻	žurerski ženski srednji ten kože in svetel ten kože	-
+🧑🏽‍🐰‍🧑🏼	žurerski ženski srednji ten kože in srednje svetel ten kože	-
+🧑🏽‍🐰‍🧑🏾	žurerski ženski srednji ten kože in srednje temen ten kože	-
+🧑🏽‍🐰‍🧑🏿	žurerski ženski srednji ten kože in temen ten kože	-
+🧑🏾‍🐰‍🧑🏻	žurerski ženski srednje temen ten kože in svetel ten kože	-
+🧑🏾‍🐰‍🧑🏼	žurerski ženski srednje temen ten kože in srednje svetel ten kože	-
+🧑🏾‍🐰‍🧑🏽	žurerski ženski srednje temen ten kože in srednji ten kože	-
+🧑🏾‍🐰‍🧑🏿	žurerski ženski srednje temen ten kože in temen ten kože	-
+🧑🏿‍🐰‍🧑🏻	žurerski ženski temen ten kože in svetel ten kože	-
+🧑🏿‍🐰‍🧑🏼	žurerski ženski temen ten kože in srednje svetel ten kože	-
+🧑🏿‍🐰‍🧑🏽	žurerski ženski temen ten kože in srednji ten kože	-
+🧑🏿‍🐰‍🧑🏾	žurerski ženski temen ten kože in srednje temen ten kože	-
 👨🏻	moški svetel ten kože	-
 👨🏼	moški srednje svetel ten kože	-
 👨🏽	moški srednji ten kože	-
@@ -2376,6 +2433,26 @@ $	dolar	-
 👨🏿‍❤‍👨🏽	par s srčkom moški, moški, temen ten kože in srednji ten kože	-
 👨🏿‍❤‍👨🏾	par s srčkom moški, moški, temen ten kože in srednje temen ten kože	-
 👨🏿‍❤‍👨🏿	par s srčkom moški, moški in temen ten kože	-
+👨🏻‍🫯‍👨🏼	moška rokoborba svetel ten kože in srednje svetel ten kože	-
+👨🏻‍🫯‍👨🏽	moška rokoborba svetel ten kože in srednji ten kože	-
+👨🏻‍🫯‍👨🏾	moška rokoborba svetel ten kože in srednje temen ten kože	-
+👨🏻‍🫯‍👨🏿	moška rokoborba svetel ten kože in temen ten kože	-
+👨🏼‍🫯‍👨🏻	moška rokoborba srednje svetel ten kože in svetel ten kože	-
+👨🏼‍🫯‍👨🏽	moška rokoborba srednje svetel ten kože in srednji ten kože	-
+👨🏼‍🫯‍👨🏾	moška rokoborba srednje svetel ten kože in srednje temen ten kože	-
+👨🏼‍🫯‍👨🏿	moška rokoborba srednje svetel ten kože in temen ten kože	-
+👨🏽‍🫯‍👨🏻	moška rokoborba srednji ten kože in svetel ten kože	-
+👨🏽‍🫯‍👨🏼	moška rokoborba srednji ten kože in srednje svetel ten kože	-
+👨🏽‍🫯‍👨🏾	moška rokoborba srednji ten kože in srednje temen ten kože	-
+👨🏽‍🫯‍👨🏿	moška rokoborba srednji ten kože in temen ten kože	-
+👨🏾‍🫯‍👨🏻	moška rokoborba srednje temen ten kože in svetel ten kože	-
+👨🏾‍🫯‍👨🏼	moška rokoborba srednje temen ten kože in srednje svetel ten kože	-
+👨🏾‍🫯‍👨🏽	moška rokoborba srednje temen ten kože in srednji ten kože	-
+👨🏾‍🫯‍👨🏿	moška rokoborba srednje temen ten kože in temen ten kože	-
+👨🏿‍🫯‍👨🏻	moška rokoborba temen ten kože in svetel ten kože	-
+👨🏿‍🫯‍👨🏼	moška rokoborba temen ten kože in srednje svetel ten kože	-
+👨🏿‍🫯‍👨🏽	moška rokoborba temen ten kože in srednji ten kože	-
+👨🏿‍🫯‍👨🏾	moška rokoborba temen ten kože in srednje temen ten kože	-
 👨‍🦰	moški rdeči lasje	-
 👨🏻‍🦰	moški svetel ten kože in rdeči lasje	-
 👨🏼‍🦰	moški srednje svetel ten kože in rdeči lasje	-
@@ -2400,6 +2477,26 @@ $	dolar	-
 👨🏽‍🦲	moški srednji ten kože in plešast	-
 👨🏾‍🦲	moški srednje temen ten kože in plešast	-
 👨🏿‍🦲	moški temen ten kože in plešast	-
+👨🏻‍🐰‍👨🏼	moška zabava svetel ten kože in srednje svetel ten kože	-
+👨🏻‍🐰‍👨🏽	moška zabava svetel ten kože in srednji ten kože	-
+👨🏻‍🐰‍👨🏾	moška zabava svetel ten kože in srednje temen ten kože	-
+👨🏻‍🐰‍👨🏿	moška zabava svetel ten kože in temen ten kože	-
+👨🏼‍🐰‍👨🏻	moška zabava srednje svetel ten kože in svetel ten kože	-
+👨🏼‍🐰‍👨🏽	moška zabava srednje svetel ten kože in srednji ten kože	-
+👨🏼‍🐰‍👨🏾	moška zabava srednje svetel ten kože in srednje temen ten kože	-
+👨🏼‍🐰‍👨🏿	moška zabava srednje svetel ten kože in temen ten kože	-
+👨🏽‍🐰‍👨🏻	moška zabava srednji ten kože in svetel ten kože	-
+👨🏽‍🐰‍👨🏼	moška zabava srednji ten kože in srednje svetel ten kože	-
+👨🏽‍🐰‍👨🏾	moška zabava srednji ten kože in srednje temen ten kože	-
+👨🏽‍🐰‍👨🏿	moška zabava srednji ten kože in temen ten kože	-
+👨🏾‍🐰‍👨🏻	moška zabava srednje temen ten kože in svetel ten kože	-
+👨🏾‍🐰‍👨🏼	moška zabava srednje temen ten kože in srednje svetel ten kože	-
+👨🏾‍🐰‍👨🏽	moška zabava srednje temen ten kože in srednji ten kože	-
+👨🏾‍🐰‍👨🏿	moška zabava srednje temen ten kože in temen ten kože	-
+👨🏿‍🐰‍👨🏻	moška zabava temen ten kože in svetel ten kože	-
+👨🏿‍🐰‍👨🏼	moška zabava temen ten kože in srednje svetel ten kože	-
+👨🏿‍🐰‍👨🏽	moška zabava temen ten kože in srednji ten kože	-
+👨🏿‍🐰‍👨🏾	moška zabava temen ten kože in srednje temen ten kože	-
 👩🏻	ženska svetel ten kože	-
 👩🏼	ženska srednje svetel ten kože	-
 👩🏽	ženska srednji ten kože	-
@@ -2515,6 +2612,26 @@ $	dolar	-
 👩🏿‍❤‍👩🏽	par s srčkom ženska, ženska, temen ten kože in srednji ten kože	-
 👩🏿‍❤‍👩🏾	par s srčkom ženska, ženska, temen ten kože in srednje temen ten kože	-
 👩🏿‍❤‍👩🏿	par s srčkom ženska, ženska in temen ten kože	-
+👩🏻‍🫯‍👩🏼	ženska rokoborba svetel ten kože in srednje svetel ten kože	-
+👩🏻‍🫯‍👩🏽	ženska rokoborba svetel ten kože in srednji ten kože	-
+👩🏻‍🫯‍👩🏾	ženska rokoborba svetel ten kože in srednje temen ten kože	-
+👩🏻‍🫯‍👩🏿	ženska rokoborba svetel ten kože in temen ten kože	-
+👩🏼‍🫯‍👩🏻	ženska rokoborba srednje svetel ten kože in svetel ten kože	-
+👩🏼‍🫯‍👩🏽	ženska rokoborba srednje svetel ten kože in srednji ten kože	-
+👩🏼‍🫯‍👩🏾	ženska rokoborba srednje svetel ten kože in srednje temen ten kože	-
+👩🏼‍🫯‍👩🏿	ženska rokoborba srednje svetel ten kože in temen ten kože	-
+👩🏽‍🫯‍👩🏻	ženska rokoborba srednji ten kože in svetel ten kože	-
+👩🏽‍🫯‍👩🏼	ženska rokoborba srednji ten kože in srednje svetel ten kože	-
+👩🏽‍🫯‍👩🏾	ženska rokoborba srednji ten kože in srednje temen ten kože	-
+👩🏽‍🫯‍👩🏿	ženska rokoborba srednji ten kože in temen ten kože	-
+👩🏾‍🫯‍👩🏻	ženska rokoborba srednje temen ten kože in svetel ten kože	-
+👩🏾‍🫯‍👩🏼	ženska rokoborba srednje temen ten kože in srednje svetel ten kože	-
+👩🏾‍🫯‍👩🏽	ženska rokoborba srednje temen ten kože in srednji ten kože	-
+👩🏾‍🫯‍👩🏿	ženska rokoborba srednje temen ten kože in temen ten kože	-
+👩🏿‍🫯‍👩🏻	ženska rokoborba temen ten kože in svetel ten kože	-
+👩🏿‍🫯‍👩🏼	ženska rokoborba temen ten kože in srednje svetel ten kože	-
+👩🏿‍🫯‍👩🏽	ženska rokoborba temen ten kože in srednji ten kože	-
+👩🏿‍🫯‍👩🏾	ženska rokoborba temen ten kože in srednje temen ten kože	-
 👩‍🦰	ženska rdeči lasje	-
 👩🏻‍🦰	ženska svetel ten kože in rdeči lasje	-
 👩🏼‍🦰	ženska srednje svetel ten kože in rdeči lasje	-
@@ -2539,6 +2656,26 @@ $	dolar	-
 👩🏽‍🦲	ženska srednji ten kože in plešast	-
 👩🏾‍🦲	ženska srednje temen ten kože in plešast	-
 👩🏿‍🦲	ženska temen ten kože in plešast	-
+👩🏻‍🐰‍👩🏼	ženska zabava svetel ten kože in srednje svetel ten kože	-
+👩🏻‍🐰‍👩🏽	ženska zabava svetel ten kože in srednji ten kože	-
+👩🏻‍🐰‍👩🏾	ženska zabava svetel ten kože in srednje temen ten kože	-
+👩🏻‍🐰‍👩🏿	ženska zabava svetel ten kože in temen ten kože	-
+👩🏼‍🐰‍👩🏻	ženska zabava srednje svetel ten kože in svetel ten kože	-
+👩🏼‍🐰‍👩🏽	ženska zabava srednje svetel ten kože in srednji ten kože	-
+👩🏼‍🐰‍👩🏾	ženska zabava srednje svetel ten kože in srednje temen ten kože	-
+👩🏼‍🐰‍👩🏿	ženska zabava srednje svetel ten kože in temen ten kože	-
+👩🏽‍🐰‍👩🏻	ženska zabava srednji ten kože in svetel ten kože	-
+👩🏽‍🐰‍👩🏼	ženska zabava srednji ten kože in srednje svetel ten kože	-
+👩🏽‍🐰‍👩🏾	ženska zabava srednji ten kože in srednje temen ten kože	-
+👩🏽‍🐰‍👩🏿	ženska zabava srednji ten kože in temen ten kože	-
+👩🏾‍🐰‍👩🏻	ženska zabava srednje temen ten kože in svetel ten kože	-
+👩🏾‍🐰‍👩🏼	ženska zabava srednje temen ten kože in srednje svetel ten kože	-
+👩🏾‍🐰‍👩🏽	ženska zabava srednje temen ten kože in srednji ten kože	-
+👩🏾‍🐰‍👩🏿	ženska zabava srednje temen ten kože in temen ten kože	-
+👩🏿‍🐰‍👩🏻	ženska zabava temen ten kože in svetel ten kože	-
+👩🏿‍🐰‍👩🏼	ženska zabava temen ten kože in srednje svetel ten kože	-
+👩🏿‍🐰‍👩🏽	ženska zabava temen ten kože in srednji ten kože	-
+👩🏿‍🐰‍👩🏾	ženska zabava temen ten kože in srednje temen ten kože	-
 🧓🏻	starejši odrasli svetel ten kože	-
 🧓🏼	starejši odrasli srednje svetel ten kože	-
 🧓🏽	starejši odrasli srednji ten kože	-
@@ -3482,6 +3619,11 @@ $	dolar	-
 🏃🏽‍♂‍➡	moški, ki teče srednji ten kože in , obrnjen v desno	-
 🏃🏾‍♂‍➡	moški, ki teče srednje temen ten kože in , obrnjen v desno	-
 🏃🏿‍♂‍➡	moški, ki teče temen ten kože in , obrnjen v desno	-
+🧑🏻‍🩰	baletka svetel ten kože	-
+🧑🏼‍🩰	baletka srednje svetel ten kože	-
+🧑🏽‍🩰	baletka srednji ten kože	-
+🧑🏾‍🩰	baletka srednje temen ten kože	-
+🧑🏿‍🩰	baletka temen ten kože	-
 💃🏻	ženska, ki pleše svetel ten kože	-
 💃🏼	ženska, ki pleše srednje svetel ten kože	-
 💃🏽	ženska, ki pleše srednji ten kože	-
@@ -3497,6 +3639,21 @@ $	dolar	-
 🕴🏽	moški v poslovni obleki, ki lebdi srednji ten kože	-
 🕴🏾	moški v poslovni obleki, ki lebdi srednje temen ten kože	-
 🕴🏿	moški v poslovni obleki, ki lebdi temen ten kože	-
+👯🏻	žurerski ženski svetel ten kože	-
+👯🏼	žurerski ženski srednje svetel ten kože	-
+👯🏽	žurerski ženski srednji ten kože	-
+👯🏾	žurerski ženski srednje temen ten kože	-
+👯🏿	žurerski ženski temen ten kože	-
+👯🏻‍♂	moška zabava svetel ten kože	-
+👯🏼‍♂	moška zabava srednje svetel ten kože	-
+👯🏽‍♂	moška zabava srednji ten kože	-
+👯🏾‍♂	moška zabava srednje temen ten kože	-
+👯🏿‍♂	moška zabava temen ten kože	-
+👯🏻‍♀	ženska zabava svetel ten kože	-
+👯🏼‍♀	ženska zabava srednje svetel ten kože	-
+👯🏽‍♀	ženska zabava srednji ten kože	-
+👯🏾‍♀	ženska zabava srednje temen ten kože	-
+👯🏿‍♀	ženska zabava temen ten kože	-
 🧖🏻	oseba v parni savni svetel ten kože	-
 🧖🏼	oseba v parni savni srednje svetel ten kože	-
 🧖🏽	oseba v parni savni srednji ten kože	-
@@ -3672,6 +3829,21 @@ $	dolar	-
 🤸🏽‍♀	ženska, ki dela premet vstran srednji ten kože	-
 🤸🏾‍♀	ženska, ki dela premet vstran srednje temen ten kože	-
 🤸🏿‍♀	ženska, ki dela premet vstran temen ten kože	-
+🤼🏻	rokoborba svetel ten kože	-
+🤼🏼	rokoborba srednje svetel ten kože	-
+🤼🏽	rokoborba srednji ten kože	-
+🤼🏾	rokoborba srednje temen ten kože	-
+🤼🏿	rokoborba temen ten kože	-
+🤼🏻‍♂	moška rokoborba svetel ten kože	-
+🤼🏼‍♂	moška rokoborba srednje svetel ten kože	-
+🤼🏽‍♂	moška rokoborba srednji ten kože	-
+🤼🏾‍♂	moška rokoborba srednje temen ten kože	-
+🤼🏿‍♂	moška rokoborba temen ten kože	-
+🤼🏻‍♀	ženska rokoborba svetel ten kože	-
+🤼🏼‍♀	ženska rokoborba srednje svetel ten kože	-
+🤼🏽‍♀	ženska rokoborba srednji ten kože	-
+🤼🏾‍♀	ženska rokoborba srednje temen ten kože	-
+🤼🏿‍♀	ženska rokoborba temen ten kože	-
 🤽🏻	vaterpolo svetel ten kože	-
 🤽🏼	vaterpolo srednje svetel ten kože	-
 🤽🏽	vaterpolo srednji ten kože	-
@@ -3898,7 +4070,7 @@ $	dolar	-
 🇦🇹	zastava Avstrija	-
 🇦🇺	zastava Avstralija	-
 🇦🇼	zastava Aruba	-
-🇦🇽	zastava Ålandski otoki	-
+🇦🇽	zastava Alandski otoki	-
 🇦🇿	zastava Azerbajdžan	-
 🇧🇦	zastava Bosna in Hercegovina	-
 🇧🇧	zastava Barbados	-
@@ -3909,7 +4081,7 @@ $	dolar	-
 🇧🇭	zastava Bahrajn	-
 🇧🇮	zastava Burundi	-
 🇧🇯	zastava Benin	-
-🇧🇱	zastava Saint Barthélemy	-
+🇧🇱	zastava Sveti Bartolomej	-
 🇧🇲	zastava Bermudi	-
 🇧🇳	zastava Brunej	-
 🇧🇴	zastava Bolivija	-
@@ -3934,6 +4106,7 @@ $	dolar	-
 🇨🇳	zastava Kitajska	-
 🇨🇴	zastava Kolumbija	-
 🇨🇵	zastava Otok Clipperton	-
+🇨🇶	zastava Sark	-
 🇨🇷	zastava Kostarika	-
 🇨🇺	zastava Kuba	-
 🇨🇻	zastava Zelenortski otoki	-
@@ -3974,12 +4147,12 @@ $	dolar	-
 🇬🇱	zastava Grenlandija	-
 🇬🇲	zastava Gambija	-
 🇬🇳	zastava Gvineja	-
-🇬🇵	zastava Guadeloupe	-
+🇬🇵	zastava Gvadelup	-
 🇬🇶	zastava Ekvatorialna Gvineja	-
 🇬🇷	zastava Grčija	-
 🇬🇸	zastava Južna Georgia in Južni Sandwichevi otoki	-
 🇬🇹	zastava Gvatemala	-
-🇬🇺	zastava Guam	-
+🇬🇺	zastava Gvam	-
 🇬🇼	zastava Gvineja Bissau	-
 🇬🇾	zastava Gvajana	-
 🇭🇰	zastava Posebno upravno območje Ljudske republike Kitajske Hongkong	-
@@ -4008,15 +4181,15 @@ $	dolar	-
 🇰🇭	zastava Kambodža	-
 🇰🇮	zastava Kiribati	-
 🇰🇲	zastava Komori	-
-🇰🇳	zastava Saint Kitts in Nevis	-
+🇰🇳	zastava Sveti Krištof in Nevis	-
 🇰🇵	zastava Severna Koreja	-
 🇰🇷	zastava Južna Koreja	-
 🇰🇼	zastava Kuvajt	-
-🇰🇾	zastava Kajmanski otoki	-
+🇰🇾	zastava Kajmanji otoki	-
 🇰🇿	zastava Kazahstan	-
 🇱🇦	zastava Laos	-
 🇱🇧	zastava Libanon	-
-🇱🇨	zastava Saint Lucia	-
+🇱🇨	zastava Sveta Lucija	-
 🇱🇮	zastava Lihtenštajn	-
 🇱🇰	zastava Šrilanka	-
 🇱🇷	zastava Liberija	-
@@ -4029,20 +4202,20 @@ $	dolar	-
 🇲🇨	zastava Monako	-
 🇲🇩	zastava Moldavija	-
 🇲🇪	zastava Črna gora	-
-🇲🇫	zastava Saint Martin	-
+🇲🇫	zastava Francoski Sveti Martin	-
 🇲🇬	zastava Madagaskar	-
 🇲🇭	zastava Marshallovi otoki	-
 🇲🇰	zastava Severna Makedonija	-
 🇲🇱	zastava Mali	-
 🇲🇲	zastava Mjanmar (Burma)	-
 🇲🇳	zastava Mongolija	-
-🇲🇴	zastava Posebno upravno območje Ljudske republike Kitajske Macao	-
+🇲🇴	zastava Posebno upravno območje Kitajske Makav	-
 🇲🇵	zastava Severni Marianski otoki	-
 🇲🇶	zastava Martinik	-
 🇲🇷	zastava Mavretanija	-
 🇲🇸	zastava Montserrat	-
 🇲🇹	zastava Malta	-
-🇲🇺	zastava Mauritius	-
+🇲🇺	zastava Mavricij	-
 🇲🇻	zastava Maldivi	-
 🇲🇼	zastava Malavi	-
 🇲🇽	zastava Mehika	-
@@ -4068,12 +4241,12 @@ $	dolar	-
 🇵🇭	zastava Filipini	-
 🇵🇰	zastava Pakistan	-
 🇵🇱	zastava Poljska	-
-🇵🇲	zastava Saint Pierre in Miquelon	-
+🇵🇲	zastava Sveta Peter in Mihael	-
 🇵🇳	zastava Pitcairn	-
 🇵🇷	zastava Portoriko	-
 🇵🇸	zastava Palestinsko ozemlje	-
 🇵🇹	zastava Portugalska	-
-🇵🇼	zastava Palau	-
+🇵🇼	zastava Palav	-
 🇵🇾	zastava Paragvaj	-
 🇶🇦	zastava Katar	-
 🇷🇪	zastava Reunion	-
@@ -4097,9 +4270,9 @@ $	dolar	-
 🇸🇴	zastava Somalija	-
 🇸🇷	zastava Surinam	-
 🇸🇸	zastava Južni Sudan	-
-🇸🇹	zastava Sao Tome in Principe	-
+🇸🇹	zastava Sveti Tomaž in Princ	-
 🇸🇻	zastava Salvador	-
-🇸🇽	zastava Sint Maarten	-
+🇸🇽	zastava Nizozemski Sveti Martin	-
 🇸🇾	zastava Sirija	-
 🇸🇿	zastava Esvatini	-
 🇹🇦	zastava Tristan da Cunha	-
@@ -4109,7 +4282,7 @@ $	dolar	-
 🇹🇬	zastava Togo	-
 🇹🇭	zastava Tajska	-
 🇹🇯	zastava Tadžikistan	-
-🇹🇰	zastava Tokelau	-
+🇹🇰	zastava Tokelav	-
 🇹🇱	zastava Timor-Leste	-
 🇹🇲	zastava Turkmenistan	-
 🇹🇳	zastava Tunizija	-
@@ -4127,7 +4300,7 @@ $	dolar	-
 🇺🇾	zastava Urugvaj	-
 🇺🇿	zastava Uzbekistan	-
 🇻🇦	zastava Vatikan	-
-🇻🇨	zastava Saint Vincent in Grenadine	-
+🇻🇨	zastava Sveti Vincencij in Grenadine	-
 🇻🇪	zastava Venezuela	-
 🇻🇬	zastava Britanski Deviški otoki	-
 🇻🇮	zastava Ameriški Deviški otoki	-
@@ -4153,7 +4326,7 @@ $	dolar	-
 ₡	kostariški kolon	-
 ₦	nigerijska naira	-
 ₪	izraelski šekel	-
-₫	vientnamski dong	-
+₫	vietnamski dong	-
 ₭	laoški kip	-
 ₮	mongolski tugrik	-
 ₲	paragvajski gvarani	-

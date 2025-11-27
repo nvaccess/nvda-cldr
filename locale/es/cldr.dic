@@ -433,6 +433,7 @@ _	guion bajo	-
 😯	cara estupefacta	-
 😲	cara asombrada	-
 😳	cara sonrojada	-
+🫪	cara deformada	-
 🥺	cara suplicante	-
 🥹	cara aguantándose las lágrimas	-
 😦	cara con el ceño fruncido y la boca abierta	-
@@ -506,6 +507,7 @@ _	guion bajo	-
 💋	marca de beso	-
 💯	cien puntos	-
 💢	símbolo de enfado	-
+🫯	nube de pelea	-
 💥	colisión	-
 💫	símbolo de mareo	-
 💦	gotas de sudor	-
@@ -738,6 +740,7 @@ _	guion bajo	-
 🧟‍♂	zombi hombre	-
 🧟‍♀	zombi mujer	-
 🧌	trol	-
+🫈	criatura peluda	-
 💆	persona recibiendo masaje	-
 💆‍♂	hombre recibiendo masaje	-
 💆‍♀	mujer recibiendo masaje	-
@@ -765,6 +768,7 @@ _	guion bajo	-
 🏃	persona corriendo	-
 🏃‍♂	hombre corriendo	-
 🏃‍♀	mujer corriendo	-
+🧑‍🩰	bailarina de ballet	-
 💃	mujer bailando	-
 🕺	hombre bailando	-
 🕴	persona trajeada levitando	-
@@ -946,6 +950,7 @@ _	guion bajo	-
 🐳	ballena soltando un chorro	-
 🐋	ballena	-
 🐬	delfín	-
+🫍	orca	-
 🦭	foca	-
 🐟	pez	-
 🐠	pez tropical	-
@@ -1145,6 +1150,7 @@ _	guion bajo	-
 🧭	brújula	-
 🏔	montaña con nieve	-
 ⛰	montaña	-
+🛘	desprendimiento	-
 🌋	volcán	-
 🗻	monte Fuji	-
 🏕	camping	-
@@ -1505,10 +1511,11 @@ _	guion bajo	-
 🎧	auricular	-
 📻	radio	-
 🎷	saxofón	-
+🎺	trompeta	-
+🪊	trombón	-
 🪗	acordeón	-
 🎸	guitarra	-
 🎹	teclado musical	-
-🎺	trompeta	-
 🎻	violín	-
 🪕	banjo	-
 🥁	tambor	-
@@ -1569,8 +1576,9 @@ _	guion bajo	-
 📑	marcadores	-
 🔖	marcapáginas	-
 🏷	etiqueta	-
-💰	bolsa de dinero	-
 🪙	moneda	-
+💰	bolsa de dinero	-
+🪎	cofre de tesoro	-
 💴	billete de yen	-
 💵	billete de dólar	-
 💶	billete de euro	-
@@ -1941,6 +1949,16 @@ $	dólar	-
 ₹	rupia india	-
 ₽	rublo	-
 ₿	bitcóin	-
+0⃣	tecla 0	-
+1⃣	tecla 1	-
+2⃣	tecla 2	-
+3⃣	tecla 3	-
+4⃣	tecla 4	-
+5⃣	tecla 5	-
+6⃣	tecla 6	-
+7⃣	tecla 7	-
+8⃣	tecla 8	-
+9⃣	tecla 9	-
 ¹	uno en superíndice	-
 ²	dos en superíndice	-
 ³	tres en superíndice	-
@@ -2282,6 +2300,26 @@ $	dólar	-
 🧑🏿‍❤‍🧑🏼	pareja enamorada persona adulta, persona adulta, tono de piel oscuro, tono de piel claro medio	-
 🧑🏿‍❤‍🧑🏽	pareja enamorada persona adulta, persona adulta, tono de piel oscuro, tono de piel medio	-
 🧑🏿‍❤‍🧑🏾	pareja enamorada persona adulta, persona adulta, tono de piel oscuro, tono de piel oscuro medio	-
+🧑🏻‍🫯‍🧑🏼	personas luchando tono de piel claro y tono de piel claro medio	-
+🧑🏻‍🫯‍🧑🏽	personas luchando tono de piel claro y tono de piel medio	-
+🧑🏻‍🫯‍🧑🏾	personas luchando tono de piel claro y tono de piel oscuro medio	-
+🧑🏻‍🫯‍🧑🏿	personas luchando tono de piel claro y tono de piel oscuro	-
+🧑🏼‍🫯‍🧑🏻	personas luchando tono de piel claro medio y tono de piel claro	-
+🧑🏼‍🫯‍🧑🏽	personas luchando tono de piel claro medio y tono de piel medio	-
+🧑🏼‍🫯‍🧑🏾	personas luchando tono de piel claro medio y tono de piel oscuro medio	-
+🧑🏼‍🫯‍🧑🏿	personas luchando tono de piel claro medio y tono de piel oscuro	-
+🧑🏽‍🫯‍🧑🏻	personas luchando tono de piel medio y tono de piel claro	-
+🧑🏽‍🫯‍🧑🏼	personas luchando tono de piel medio y tono de piel claro medio	-
+🧑🏽‍🫯‍🧑🏾	personas luchando tono de piel medio y tono de piel oscuro medio	-
+🧑🏽‍🫯‍🧑🏿	personas luchando tono de piel medio y tono de piel oscuro	-
+🧑🏾‍🫯‍🧑🏻	personas luchando tono de piel oscuro medio y tono de piel claro	-
+🧑🏾‍🫯‍🧑🏼	personas luchando tono de piel oscuro medio y tono de piel claro medio	-
+🧑🏾‍🫯‍🧑🏽	personas luchando tono de piel oscuro medio y tono de piel medio	-
+🧑🏾‍🫯‍🧑🏿	personas luchando tono de piel oscuro medio y tono de piel oscuro	-
+🧑🏿‍🫯‍🧑🏻	personas luchando tono de piel oscuro y tono de piel claro	-
+🧑🏿‍🫯‍🧑🏼	personas luchando tono de piel oscuro y tono de piel claro medio	-
+🧑🏿‍🫯‍🧑🏽	personas luchando tono de piel oscuro y tono de piel medio	-
+🧑🏿‍🫯‍🧑🏾	personas luchando tono de piel oscuro y tono de piel oscuro medio	-
 🧑‍🦰	persona adulta pelo pelirrojo	-
 🧑🏻‍🦰	persona adulta tono de piel claro y pelo pelirrojo	-
 🧑🏼‍🦰	persona adulta tono de piel claro medio y pelo pelirrojo	-
@@ -2306,6 +2344,26 @@ $	dólar	-
 🧑🏽‍🦲	persona adulta tono de piel medio y sin pelo	-
 🧑🏾‍🦲	persona adulta tono de piel oscuro medio y sin pelo	-
 🧑🏿‍🦲	persona adulta tono de piel oscuro y sin pelo	-
+🧑🏻‍🐰‍🧑🏼	personas con orejas de conejo tono de piel claro y tono de piel claro medio	-
+🧑🏻‍🐰‍🧑🏽	personas con orejas de conejo tono de piel claro y tono de piel medio	-
+🧑🏻‍🐰‍🧑🏾	personas con orejas de conejo tono de piel claro y tono de piel oscuro medio	-
+🧑🏻‍🐰‍🧑🏿	personas con orejas de conejo tono de piel claro y tono de piel oscuro	-
+🧑🏼‍🐰‍🧑🏻	personas con orejas de conejo tono de piel claro medio y tono de piel claro	-
+🧑🏼‍🐰‍🧑🏽	personas con orejas de conejo tono de piel claro medio y tono de piel medio	-
+🧑🏼‍🐰‍🧑🏾	personas con orejas de conejo tono de piel claro medio y tono de piel oscuro medio	-
+🧑🏼‍🐰‍🧑🏿	personas con orejas de conejo tono de piel claro medio y tono de piel oscuro	-
+🧑🏽‍🐰‍🧑🏻	personas con orejas de conejo tono de piel medio y tono de piel claro	-
+🧑🏽‍🐰‍🧑🏼	personas con orejas de conejo tono de piel medio y tono de piel claro medio	-
+🧑🏽‍🐰‍🧑🏾	personas con orejas de conejo tono de piel medio y tono de piel oscuro medio	-
+🧑🏽‍🐰‍🧑🏿	personas con orejas de conejo tono de piel medio y tono de piel oscuro	-
+🧑🏾‍🐰‍🧑🏻	personas con orejas de conejo tono de piel oscuro medio y tono de piel claro	-
+🧑🏾‍🐰‍🧑🏼	personas con orejas de conejo tono de piel oscuro medio y tono de piel claro medio	-
+🧑🏾‍🐰‍🧑🏽	personas con orejas de conejo tono de piel oscuro medio y tono de piel medio	-
+🧑🏾‍🐰‍🧑🏿	personas con orejas de conejo tono de piel oscuro medio y tono de piel oscuro	-
+🧑🏿‍🐰‍🧑🏻	personas con orejas de conejo tono de piel oscuro y tono de piel claro	-
+🧑🏿‍🐰‍🧑🏼	personas con orejas de conejo tono de piel oscuro y tono de piel claro medio	-
+🧑🏿‍🐰‍🧑🏽	personas con orejas de conejo tono de piel oscuro y tono de piel medio	-
+🧑🏿‍🐰‍🧑🏾	personas con orejas de conejo tono de piel oscuro y tono de piel oscuro medio	-
 👨🏻	hombre tono de piel claro	-
 👨🏼	hombre tono de piel claro medio	-
 👨🏽	hombre tono de piel medio	-
@@ -2376,6 +2434,26 @@ $	dólar	-
 👨🏿‍❤‍👨🏽	pareja enamorada hombre, hombre, tono de piel oscuro, tono de piel medio	-
 👨🏿‍❤‍👨🏾	pareja enamorada hombre, hombre, tono de piel oscuro, tono de piel oscuro medio	-
 👨🏿‍❤‍👨🏿	pareja enamorada hombre, hombre, tono de piel oscuro	-
+👨🏻‍🫯‍👨🏼	hombres luchando tono de piel claro y tono de piel claro medio	-
+👨🏻‍🫯‍👨🏽	hombres luchando tono de piel claro y tono de piel medio	-
+👨🏻‍🫯‍👨🏾	hombres luchando tono de piel claro y tono de piel oscuro medio	-
+👨🏻‍🫯‍👨🏿	hombres luchando tono de piel claro y tono de piel oscuro	-
+👨🏼‍🫯‍👨🏻	hombres luchando tono de piel claro medio y tono de piel claro	-
+👨🏼‍🫯‍👨🏽	hombres luchando tono de piel claro medio y tono de piel medio	-
+👨🏼‍🫯‍👨🏾	hombres luchando tono de piel claro medio y tono de piel oscuro medio	-
+👨🏼‍🫯‍👨🏿	hombres luchando tono de piel claro medio y tono de piel oscuro	-
+👨🏽‍🫯‍👨🏻	hombres luchando tono de piel medio y tono de piel claro	-
+👨🏽‍🫯‍👨🏼	hombres luchando tono de piel medio y tono de piel claro medio	-
+👨🏽‍🫯‍👨🏾	hombres luchando tono de piel medio y tono de piel oscuro medio	-
+👨🏽‍🫯‍👨🏿	hombres luchando tono de piel medio y tono de piel oscuro	-
+👨🏾‍🫯‍👨🏻	hombres luchando tono de piel oscuro medio y tono de piel claro	-
+👨🏾‍🫯‍👨🏼	hombres luchando tono de piel oscuro medio y tono de piel claro medio	-
+👨🏾‍🫯‍👨🏽	hombres luchando tono de piel oscuro medio y tono de piel medio	-
+👨🏾‍🫯‍👨🏿	hombres luchando tono de piel oscuro medio y tono de piel oscuro	-
+👨🏿‍🫯‍👨🏻	hombres luchando tono de piel oscuro y tono de piel claro	-
+👨🏿‍🫯‍👨🏼	hombres luchando tono de piel oscuro y tono de piel claro medio	-
+👨🏿‍🫯‍👨🏽	hombres luchando tono de piel oscuro y tono de piel medio	-
+👨🏿‍🫯‍👨🏾	hombres luchando tono de piel oscuro y tono de piel oscuro medio	-
 👨‍🦰	hombre pelo pelirrojo	-
 👨🏻‍🦰	hombre tono de piel claro y pelo pelirrojo	-
 👨🏼‍🦰	hombre tono de piel claro medio y pelo pelirrojo	-
@@ -2400,6 +2478,26 @@ $	dólar	-
 👨🏽‍🦲	hombre tono de piel medio y sin pelo	-
 👨🏾‍🦲	hombre tono de piel oscuro medio y sin pelo	-
 👨🏿‍🦲	hombre tono de piel oscuro y sin pelo	-
+👨🏻‍🐰‍👨🏼	hombres con orejas de conejo tono de piel claro y tono de piel claro medio	-
+👨🏻‍🐰‍👨🏽	hombres con orejas de conejo tono de piel claro y tono de piel medio	-
+👨🏻‍🐰‍👨🏾	hombres con orejas de conejo tono de piel claro y tono de piel oscuro medio	-
+👨🏻‍🐰‍👨🏿	hombres con orejas de conejo tono de piel claro y tono de piel oscuro	-
+👨🏼‍🐰‍👨🏻	hombres con orejas de conejo tono de piel claro medio y tono de piel claro	-
+👨🏼‍🐰‍👨🏽	hombres con orejas de conejo tono de piel claro medio y tono de piel medio	-
+👨🏼‍🐰‍👨🏾	hombres con orejas de conejo tono de piel claro medio y tono de piel oscuro medio	-
+👨🏼‍🐰‍👨🏿	hombres con orejas de conejo tono de piel claro medio y tono de piel oscuro	-
+👨🏽‍🐰‍👨🏻	hombres con orejas de conejo tono de piel medio y tono de piel claro	-
+👨🏽‍🐰‍👨🏼	hombres con orejas de conejo tono de piel medio y tono de piel claro medio	-
+👨🏽‍🐰‍👨🏾	hombres con orejas de conejo tono de piel medio y tono de piel oscuro medio	-
+👨🏽‍🐰‍👨🏿	hombres con orejas de conejo tono de piel medio y tono de piel oscuro	-
+👨🏾‍🐰‍👨🏻	hombres con orejas de conejo tono de piel oscuro medio y tono de piel claro	-
+👨🏾‍🐰‍👨🏼	hombres con orejas de conejo tono de piel oscuro medio y tono de piel claro medio	-
+👨🏾‍🐰‍👨🏽	hombres con orejas de conejo tono de piel oscuro medio y tono de piel medio	-
+👨🏾‍🐰‍👨🏿	hombres con orejas de conejo tono de piel oscuro medio y tono de piel oscuro	-
+👨🏿‍🐰‍👨🏻	hombres con orejas de conejo tono de piel oscuro y tono de piel claro	-
+👨🏿‍🐰‍👨🏼	hombres con orejas de conejo tono de piel oscuro y tono de piel claro medio	-
+👨🏿‍🐰‍👨🏽	hombres con orejas de conejo tono de piel oscuro y tono de piel medio	-
+👨🏿‍🐰‍👨🏾	hombres con orejas de conejo tono de piel oscuro y tono de piel oscuro medio	-
 👩🏻	mujer tono de piel claro	-
 👩🏼	mujer tono de piel claro medio	-
 👩🏽	mujer tono de piel medio	-
@@ -2515,6 +2613,26 @@ $	dólar	-
 👩🏿‍❤‍👩🏽	pareja enamorada mujer, mujer, tono de piel oscuro, tono de piel medio	-
 👩🏿‍❤‍👩🏾	pareja enamorada mujer, mujer, tono de piel oscuro, tono de piel oscuro medio	-
 👩🏿‍❤‍👩🏿	pareja enamorada mujer, mujer, tono de piel oscuro	-
+👩🏻‍🫯‍👩🏼	mujeres luchando tono de piel claro y tono de piel claro medio	-
+👩🏻‍🫯‍👩🏽	mujeres luchando tono de piel claro y tono de piel medio	-
+👩🏻‍🫯‍👩🏾	mujeres luchando tono de piel claro y tono de piel oscuro medio	-
+👩🏻‍🫯‍👩🏿	mujeres luchando tono de piel claro y tono de piel oscuro	-
+👩🏼‍🫯‍👩🏻	mujeres luchando tono de piel claro medio y tono de piel claro	-
+👩🏼‍🫯‍👩🏽	mujeres luchando tono de piel claro medio y tono de piel medio	-
+👩🏼‍🫯‍👩🏾	mujeres luchando tono de piel claro medio y tono de piel oscuro medio	-
+👩🏼‍🫯‍👩🏿	mujeres luchando tono de piel claro medio y tono de piel oscuro	-
+👩🏽‍🫯‍👩🏻	mujeres luchando tono de piel medio y tono de piel claro	-
+👩🏽‍🫯‍👩🏼	mujeres luchando tono de piel medio y tono de piel claro medio	-
+👩🏽‍🫯‍👩🏾	mujeres luchando tono de piel medio y tono de piel oscuro medio	-
+👩🏽‍🫯‍👩🏿	mujeres luchando tono de piel medio y tono de piel oscuro	-
+👩🏾‍🫯‍👩🏻	mujeres luchando tono de piel oscuro medio y tono de piel claro	-
+👩🏾‍🫯‍👩🏼	mujeres luchando tono de piel oscuro medio y tono de piel claro medio	-
+👩🏾‍🫯‍👩🏽	mujeres luchando tono de piel oscuro medio y tono de piel medio	-
+👩🏾‍🫯‍👩🏿	mujeres luchando tono de piel oscuro medio y tono de piel oscuro	-
+👩🏿‍🫯‍👩🏻	mujeres luchando tono de piel oscuro y tono de piel claro	-
+👩🏿‍🫯‍👩🏼	mujeres luchando tono de piel oscuro y tono de piel claro medio	-
+👩🏿‍🫯‍👩🏽	mujeres luchando tono de piel oscuro y tono de piel medio	-
+👩🏿‍🫯‍👩🏾	mujeres luchando tono de piel oscuro y tono de piel oscuro medio	-
 👩‍🦰	mujer pelo pelirrojo	-
 👩🏻‍🦰	mujer tono de piel claro y pelo pelirrojo	-
 👩🏼‍🦰	mujer tono de piel claro medio y pelo pelirrojo	-
@@ -2539,6 +2657,26 @@ $	dólar	-
 👩🏽‍🦲	mujer tono de piel medio y sin pelo	-
 👩🏾‍🦲	mujer tono de piel oscuro medio y sin pelo	-
 👩🏿‍🦲	mujer tono de piel oscuro y sin pelo	-
+👩🏻‍🐰‍👩🏼	mujeres con orejas de conejo tono de piel claro y tono de piel claro medio	-
+👩🏻‍🐰‍👩🏽	mujeres con orejas de conejo tono de piel claro y tono de piel medio	-
+👩🏻‍🐰‍👩🏾	mujeres con orejas de conejo tono de piel claro y tono de piel oscuro medio	-
+👩🏻‍🐰‍👩🏿	mujeres con orejas de conejo tono de piel claro y tono de piel oscuro	-
+👩🏼‍🐰‍👩🏻	mujeres con orejas de conejo tono de piel claro medio y tono de piel claro	-
+👩🏼‍🐰‍👩🏽	mujeres con orejas de conejo tono de piel claro medio y tono de piel medio	-
+👩🏼‍🐰‍👩🏾	mujeres con orejas de conejo tono de piel claro medio y tono de piel oscuro medio	-
+👩🏼‍🐰‍👩🏿	mujeres con orejas de conejo tono de piel claro medio y tono de piel oscuro	-
+👩🏽‍🐰‍👩🏻	mujeres con orejas de conejo tono de piel medio y tono de piel claro	-
+👩🏽‍🐰‍👩🏼	mujeres con orejas de conejo tono de piel medio y tono de piel claro medio	-
+👩🏽‍🐰‍👩🏾	mujeres con orejas de conejo tono de piel medio y tono de piel oscuro medio	-
+👩🏽‍🐰‍👩🏿	mujeres con orejas de conejo tono de piel medio y tono de piel oscuro	-
+👩🏾‍🐰‍👩🏻	mujeres con orejas de conejo tono de piel oscuro medio y tono de piel claro	-
+👩🏾‍🐰‍👩🏼	mujeres con orejas de conejo tono de piel oscuro medio y tono de piel claro medio	-
+👩🏾‍🐰‍👩🏽	mujeres con orejas de conejo tono de piel oscuro medio y tono de piel medio	-
+👩🏾‍🐰‍👩🏿	mujeres con orejas de conejo tono de piel oscuro medio y tono de piel oscuro	-
+👩🏿‍🐰‍👩🏻	mujeres con orejas de conejo tono de piel oscuro y tono de piel claro	-
+👩🏿‍🐰‍👩🏼	mujeres con orejas de conejo tono de piel oscuro y tono de piel claro medio	-
+👩🏿‍🐰‍👩🏽	mujeres con orejas de conejo tono de piel oscuro y tono de piel medio	-
+👩🏿‍🐰‍👩🏾	mujeres con orejas de conejo tono de piel oscuro y tono de piel oscuro medio	-
 🧓🏻	persona mayor tono de piel claro	-
 🧓🏼	persona mayor tono de piel claro medio	-
 🧓🏽	persona mayor tono de piel medio	-
@@ -3482,6 +3620,11 @@ $	dólar	-
 🏃🏽‍♂‍➡	hombre corriendo tono de piel medio y hacia la derecha	-
 🏃🏾‍♂‍➡	hombre corriendo tono de piel oscuro medio y hacia la derecha	-
 🏃🏿‍♂‍➡	hombre corriendo tono de piel oscuro y hacia la derecha	-
+🧑🏻‍🩰	bailarina de ballet tono de piel claro	-
+🧑🏼‍🩰	bailarina de ballet tono de piel claro medio	-
+🧑🏽‍🩰	bailarina de ballet tono de piel medio	-
+🧑🏾‍🩰	bailarina de ballet tono de piel oscuro medio	-
+🧑🏿‍🩰	bailarina de ballet tono de piel oscuro	-
 💃🏻	mujer bailando tono de piel claro	-
 💃🏼	mujer bailando tono de piel claro medio	-
 💃🏽	mujer bailando tono de piel medio	-
@@ -3497,6 +3640,21 @@ $	dólar	-
 🕴🏽	persona trajeada levitando tono de piel medio	-
 🕴🏾	persona trajeada levitando tono de piel oscuro medio	-
 🕴🏿	persona trajeada levitando tono de piel oscuro	-
+👯🏻	personas con orejas de conejo tono de piel claro	-
+👯🏼	personas con orejas de conejo tono de piel claro medio	-
+👯🏽	personas con orejas de conejo tono de piel medio	-
+👯🏾	personas con orejas de conejo tono de piel oscuro medio	-
+👯🏿	personas con orejas de conejo tono de piel oscuro	-
+👯🏻‍♂	hombres con orejas de conejo tono de piel claro	-
+👯🏼‍♂	hombres con orejas de conejo tono de piel claro medio	-
+👯🏽‍♂	hombres con orejas de conejo tono de piel medio	-
+👯🏾‍♂	hombres con orejas de conejo tono de piel oscuro medio	-
+👯🏿‍♂	hombres con orejas de conejo tono de piel oscuro	-
+👯🏻‍♀	mujeres con orejas de conejo tono de piel claro	-
+👯🏼‍♀	mujeres con orejas de conejo tono de piel claro medio	-
+👯🏽‍♀	mujeres con orejas de conejo tono de piel medio	-
+👯🏾‍♀	mujeres con orejas de conejo tono de piel oscuro medio	-
+👯🏿‍♀	mujeres con orejas de conejo tono de piel oscuro	-
 🧖🏻	persona en una sauna tono de piel claro	-
 🧖🏼	persona en una sauna tono de piel claro medio	-
 🧖🏽	persona en una sauna tono de piel medio	-
@@ -3672,6 +3830,21 @@ $	dólar	-
 🤸🏽‍♀	mujer dando una voltereta lateral tono de piel medio	-
 🤸🏾‍♀	mujer dando una voltereta lateral tono de piel oscuro medio	-
 🤸🏿‍♀	mujer dando una voltereta lateral tono de piel oscuro	-
+🤼🏻	personas luchando tono de piel claro	-
+🤼🏼	personas luchando tono de piel claro medio	-
+🤼🏽	personas luchando tono de piel medio	-
+🤼🏾	personas luchando tono de piel oscuro medio	-
+🤼🏿	personas luchando tono de piel oscuro	-
+🤼🏻‍♂	hombres luchando tono de piel claro	-
+🤼🏼‍♂	hombres luchando tono de piel claro medio	-
+🤼🏽‍♂	hombres luchando tono de piel medio	-
+🤼🏾‍♂	hombres luchando tono de piel oscuro medio	-
+🤼🏿‍♂	hombres luchando tono de piel oscuro	-
+🤼🏻‍♀	mujeres luchando tono de piel claro	-
+🤼🏼‍♀	mujeres luchando tono de piel claro medio	-
+🤼🏽‍♀	mujeres luchando tono de piel medio	-
+🤼🏾‍♀	mujeres luchando tono de piel oscuro medio	-
+🤼🏿‍♀	mujeres luchando tono de piel oscuro	-
 🤽🏻	persona jugando al waterpolo tono de piel claro	-
 🤽🏼	persona jugando al waterpolo tono de piel claro medio	-
 🤽🏽	persona jugando al waterpolo tono de piel medio	-
@@ -3937,6 +4110,7 @@ $	dólar	-
 🇨🇳	Bandera China	-
 🇨🇴	Bandera Colombia	-
 🇨🇵	Bandera Isla Clipperton	-
+🇨🇶	Bandera Sark	-
 🇨🇷	Bandera Costa Rica	-
 🇨🇺	Bandera Cuba	-
 🇨🇻	Bandera Cabo Verde	-
@@ -4166,14 +4340,4 @@ $	dólar	-
 ₺	lira turca	-
 ₼	manat azerbaiyano	-
 ₾	lari georgiano	-
-0⃣	Teclas 0	-
-1⃣	Teclas 1	-
-2⃣	Teclas 2	-
-3⃣	Teclas 3	-
-4⃣	Teclas 4	-
-5⃣	Teclas 5	-
-6⃣	Teclas 6	-
-7⃣	Teclas 7	-
-8⃣	Teclas 8	-
-9⃣	Teclas 9	-
 ₧	peseta española	-

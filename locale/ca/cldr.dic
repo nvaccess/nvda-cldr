@@ -433,6 +433,7 @@ _	ratlla baixa	-
 😯	cara de sorpresa	-
 😲	cara estupefacta	-
 😳	cara enrojolada	-
+🫪	cara distorsionada	-
 🥺	cara de súplica	-
 🥹	cara que s’aguanta les llàgrimes	-
 😦	cara emmurriada amb la boca oberta	-
@@ -506,6 +507,7 @@ _	ratlla baixa	-
 💋	marca de petó	-
 💯	100 punts	-
 💢	símbol d’enuig	-
+🫯	núvol de baralla	-
 💥	col·lisió	-
 💫	mareig	-
 💦	gotes de suor	-
@@ -738,6 +740,7 @@ _	ratlla baixa	-
 🧟‍♂	home zombi	-
 🧟‍♀	dona zombi	-
 🧌	trol	-
+🫈	criatura peluda	-
 💆	persona que rep un massatge al cap	-
 💆‍♂	home que rep un massatge al cap	-
 💆‍♀	dona que rep un massatge al cap	-
@@ -765,6 +768,7 @@ _	ratlla baixa	-
 🏃	persona que corre	-
 🏃‍♂	home que corre	-
 🏃‍♀	dona que corre	-
+🧑‍🩰	ballarí de ballet	-
 💃	dona que balla	-
 🕺	home que balla	-
 🕴	home de negocis que levita	-
@@ -796,9 +800,9 @@ _	ratlla baixa	-
 ⛹	persona amb una pilota	-
 ⛹‍♂	home amb una pilota	-
 ⛹‍♀	dona amb una pilota	-
-🏋	persona que aixeca peses	-
-🏋‍♂	home que aixeca peses	-
-🏋‍♀	dona que aixeca peses	-
+🏋	persona que aixeca pesos	-
+🏋‍♂	home que aixeca pesos	-
+🏋‍♀	dona que aixeca pesos	-
 🚴	ciclista	-
 🚴‍♂	ciclista home	-
 🚴‍♀	ciclista dona	-
@@ -946,6 +950,7 @@ _	ratlla baixa	-
 🐳	balena que treu aigua	-
 🐋	balena	-
 🐬	dofí	-
+🫍	orca	-
 🦭	foca	-
 🐟	peix	-
 🐠	peix tropical	-
@@ -1145,6 +1150,7 @@ _	ratlla baixa	-
 🧭	brúixola	-
 🏔	muntanya amb neu al cim	-
 ⛰	muntanya	-
+🛘	esllevissada	-
 🌋	volcà	-
 🗻	mont Fuji	-
 🏕	acampada	-
@@ -1505,10 +1511,11 @@ _	ratlla baixa	-
 🎧	auricular	-
 📻	ràdio	-
 🎷	saxofon	-
+🎺	trompeta	-
+🪊	trombó	-
 🪗	acordió	-
 🎸	guitarra	-
 🎹	teclat musical	-
-🎺	trompeta	-
 🎻	violí	-
 🪕	banjo	-
 🥁	tambor	-
@@ -1569,8 +1576,9 @@ _	ratlla baixa	-
 📑	marcadors	-
 🔖	punt de llibre	-
 🏷	etiqueta	-
-💰	bossa de diners	-
 🪙	moneda	-
+💰	bossa de diners	-
+🪎	bagul del tresor	-
 💴	bitllets de ien	-
 💵	bitllets de dòlar	-
 💶	bitllets d’euro	-
@@ -1611,7 +1619,7 @@ _	ratlla baixa	-
 📈	gràfic d’augment	-
 📉	gràfic de disminució	-
 📊	gràfic de barres	-
-📋	porta-retalls	-
+📋	portanotes	-
 📌	xinxeta	-
 📍	xinxeta rodona	-
 📎	clip	-
@@ -1941,6 +1949,16 @@ $	dòlar	-
 ₹	rupia índia	-
 ₽	ruble	-
 ₿	bitcoin	-
+0⃣	tecla 0	-
+1⃣	tecla 1	-
+2⃣	tecla 2	-
+3⃣	tecla 3	-
+4⃣	tecla 4	-
+5⃣	tecla 5	-
+6⃣	tecla 6	-
+7⃣	tecla 7	-
+8⃣	tecla 8	-
+9⃣	tecla 9	-
 ¹	superíndex u	-
 ²	superíndex dos	-
 ³	superíndex tres	-
@@ -2282,6 +2300,26 @@ $	dòlar	-
 🧑🏿‍❤‍🧑🏼	parella amb un cor persona, persona, pell molt fosca i pell bastant clara	-
 🧑🏿‍❤‍🧑🏽	parella amb un cor persona, persona, pell molt fosca i pell morena	-
 🧑🏿‍❤‍🧑🏾	parella amb un cor persona, persona, pell molt fosca i pell fosca	-
+🧑🏻‍🫯‍🧑🏼	persones que lluiten pell molt clara i pell bastant clara	-
+🧑🏻‍🫯‍🧑🏽	persones que lluiten pell molt clara i pell morena	-
+🧑🏻‍🫯‍🧑🏾	persones que lluiten pell molt clara i pell fosca	-
+🧑🏻‍🫯‍🧑🏿	persones que lluiten pell molt clara i pell molt fosca	-
+🧑🏼‍🫯‍🧑🏻	persones que lluiten pell bastant clara i pell molt clara	-
+🧑🏼‍🫯‍🧑🏽	persones que lluiten pell bastant clara i pell morena	-
+🧑🏼‍🫯‍🧑🏾	persones que lluiten pell bastant clara i pell fosca	-
+🧑🏼‍🫯‍🧑🏿	persones que lluiten pell bastant clara i pell molt fosca	-
+🧑🏽‍🫯‍🧑🏻	persones que lluiten pell morena i pell molt clara	-
+🧑🏽‍🫯‍🧑🏼	persones que lluiten pell morena i pell bastant clara	-
+🧑🏽‍🫯‍🧑🏾	persones que lluiten pell morena i pell fosca	-
+🧑🏽‍🫯‍🧑🏿	persones que lluiten pell morena i pell molt fosca	-
+🧑🏾‍🫯‍🧑🏻	persones que lluiten pell fosca i pell molt clara	-
+🧑🏾‍🫯‍🧑🏼	persones que lluiten pell fosca i pell bastant clara	-
+🧑🏾‍🫯‍🧑🏽	persones que lluiten pell fosca i pell morena	-
+🧑🏾‍🫯‍🧑🏿	persones que lluiten pell fosca i pell molt fosca	-
+🧑🏿‍🫯‍🧑🏻	persones que lluiten pell molt fosca i pell molt clara	-
+🧑🏿‍🫯‍🧑🏼	persones que lluiten pell molt fosca i pell bastant clara	-
+🧑🏿‍🫯‍🧑🏽	persones que lluiten pell molt fosca i pell morena	-
+🧑🏿‍🫯‍🧑🏾	persones que lluiten pell molt fosca i pell fosca	-
 🧑‍🦰	persona cabells vermells	-
 🧑🏻‍🦰	persona pell molt clara i cabells vermells	-
 🧑🏼‍🦰	persona pell bastant clara i cabells vermells	-
@@ -2306,6 +2344,26 @@ $	dòlar	-
 🧑🏽‍🦲	persona pell morena i calvície	-
 🧑🏾‍🦲	persona pell fosca i calvície	-
 🧑🏿‍🦲	persona pell molt fosca i calvície	-
+🧑🏻‍🐰‍🧑🏼	persones que ballen disfressades pell molt clara i pell bastant clara	-
+🧑🏻‍🐰‍🧑🏽	persones que ballen disfressades pell molt clara i pell morena	-
+🧑🏻‍🐰‍🧑🏾	persones que ballen disfressades pell molt clara i pell fosca	-
+🧑🏻‍🐰‍🧑🏿	persones que ballen disfressades pell molt clara i pell molt fosca	-
+🧑🏼‍🐰‍🧑🏻	persones que ballen disfressades pell bastant clara i pell molt clara	-
+🧑🏼‍🐰‍🧑🏽	persones que ballen disfressades pell bastant clara i pell morena	-
+🧑🏼‍🐰‍🧑🏾	persones que ballen disfressades pell bastant clara i pell fosca	-
+🧑🏼‍🐰‍🧑🏿	persones que ballen disfressades pell bastant clara i pell molt fosca	-
+🧑🏽‍🐰‍🧑🏻	persones que ballen disfressades pell morena i pell molt clara	-
+🧑🏽‍🐰‍🧑🏼	persones que ballen disfressades pell morena i pell bastant clara	-
+🧑🏽‍🐰‍🧑🏾	persones que ballen disfressades pell morena i pell fosca	-
+🧑🏽‍🐰‍🧑🏿	persones que ballen disfressades pell morena i pell molt fosca	-
+🧑🏾‍🐰‍🧑🏻	persones que ballen disfressades pell fosca i pell molt clara	-
+🧑🏾‍🐰‍🧑🏼	persones que ballen disfressades pell fosca i pell bastant clara	-
+🧑🏾‍🐰‍🧑🏽	persones que ballen disfressades pell fosca i pell morena	-
+🧑🏾‍🐰‍🧑🏿	persones que ballen disfressades pell fosca i pell molt fosca	-
+🧑🏿‍🐰‍🧑🏻	persones que ballen disfressades pell molt fosca i pell molt clara	-
+🧑🏿‍🐰‍🧑🏼	persones que ballen disfressades pell molt fosca i pell bastant clara	-
+🧑🏿‍🐰‍🧑🏽	persones que ballen disfressades pell molt fosca i pell morena	-
+🧑🏿‍🐰‍🧑🏾	persones que ballen disfressades pell molt fosca i pell fosca	-
 👨🏻	home pell molt clara	-
 👨🏼	home pell bastant clara	-
 👨🏽	home pell morena	-
@@ -2376,6 +2434,26 @@ $	dòlar	-
 👨🏿‍❤‍👨🏽	parella amb un cor home, home, pell molt fosca i pell morena	-
 👨🏿‍❤‍👨🏾	parella amb un cor home, home, pell molt fosca i pell fosca	-
 👨🏿‍❤‍👨🏿	parella amb un cor home, home i pell molt fosca	-
+👨🏻‍🫯‍👨🏼	jugadors de lluita pell molt clara i pell bastant clara	-
+👨🏻‍🫯‍👨🏽	jugadors de lluita pell molt clara i pell morena	-
+👨🏻‍🫯‍👨🏾	jugadors de lluita pell molt clara i pell fosca	-
+👨🏻‍🫯‍👨🏿	jugadors de lluita pell molt clara i pell molt fosca	-
+👨🏼‍🫯‍👨🏻	jugadors de lluita pell bastant clara i pell molt clara	-
+👨🏼‍🫯‍👨🏽	jugadors de lluita pell bastant clara i pell morena	-
+👨🏼‍🫯‍👨🏾	jugadors de lluita pell bastant clara i pell fosca	-
+👨🏼‍🫯‍👨🏿	jugadors de lluita pell bastant clara i pell molt fosca	-
+👨🏽‍🫯‍👨🏻	jugadors de lluita pell morena i pell molt clara	-
+👨🏽‍🫯‍👨🏼	jugadors de lluita pell morena i pell bastant clara	-
+👨🏽‍🫯‍👨🏾	jugadors de lluita pell morena i pell fosca	-
+👨🏽‍🫯‍👨🏿	jugadors de lluita pell morena i pell molt fosca	-
+👨🏾‍🫯‍👨🏻	jugadors de lluita pell fosca i pell molt clara	-
+👨🏾‍🫯‍👨🏼	jugadors de lluita pell fosca i pell bastant clara	-
+👨🏾‍🫯‍👨🏽	jugadors de lluita pell fosca i pell morena	-
+👨🏾‍🫯‍👨🏿	jugadors de lluita pell fosca i pell molt fosca	-
+👨🏿‍🫯‍👨🏻	jugadors de lluita pell molt fosca i pell molt clara	-
+👨🏿‍🫯‍👨🏼	jugadors de lluita pell molt fosca i pell bastant clara	-
+👨🏿‍🫯‍👨🏽	jugadors de lluita pell molt fosca i pell morena	-
+👨🏿‍🫯‍👨🏾	jugadors de lluita pell molt fosca i pell fosca	-
 👨‍🦰	home cabells vermells	-
 👨🏻‍🦰	home pell molt clara i cabells vermells	-
 👨🏼‍🦰	home pell bastant clara i cabells vermells	-
@@ -2400,6 +2478,26 @@ $	dòlar	-
 👨🏽‍🦲	home pell morena i calvície	-
 👨🏾‍🦲	home pell fosca i calvície	-
 👨🏿‍🦲	home pell molt fosca i calvície	-
+👨🏻‍🐰‍👨🏼	homes que ballen disfressats pell molt clara i pell bastant clara	-
+👨🏻‍🐰‍👨🏽	homes que ballen disfressats pell molt clara i pell morena	-
+👨🏻‍🐰‍👨🏾	homes que ballen disfressats pell molt clara i pell fosca	-
+👨🏻‍🐰‍👨🏿	homes que ballen disfressats pell molt clara i pell molt fosca	-
+👨🏼‍🐰‍👨🏻	homes que ballen disfressats pell bastant clara i pell molt clara	-
+👨🏼‍🐰‍👨🏽	homes que ballen disfressats pell bastant clara i pell morena	-
+👨🏼‍🐰‍👨🏾	homes que ballen disfressats pell bastant clara i pell fosca	-
+👨🏼‍🐰‍👨🏿	homes que ballen disfressats pell bastant clara i pell molt fosca	-
+👨🏽‍🐰‍👨🏻	homes que ballen disfressats pell morena i pell molt clara	-
+👨🏽‍🐰‍👨🏼	homes que ballen disfressats pell morena i pell bastant clara	-
+👨🏽‍🐰‍👨🏾	homes que ballen disfressats pell morena i pell fosca	-
+👨🏽‍🐰‍👨🏿	homes que ballen disfressats pell morena i pell molt fosca	-
+👨🏾‍🐰‍👨🏻	homes que ballen disfressats pell fosca i pell molt clara	-
+👨🏾‍🐰‍👨🏼	homes que ballen disfressats pell fosca i pell bastant clara	-
+👨🏾‍🐰‍👨🏽	homes que ballen disfressats pell fosca i pell morena	-
+👨🏾‍🐰‍👨🏿	homes que ballen disfressats pell fosca i pell molt fosca	-
+👨🏿‍🐰‍👨🏻	homes que ballen disfressats pell molt fosca i pell molt clara	-
+👨🏿‍🐰‍👨🏼	homes que ballen disfressats pell molt fosca i pell bastant clara	-
+👨🏿‍🐰‍👨🏽	homes que ballen disfressats pell molt fosca i pell morena	-
+👨🏿‍🐰‍👨🏾	homes que ballen disfressats pell molt fosca i pell fosca	-
 👩🏻	dona pell molt clara	-
 👩🏼	dona pell bastant clara	-
 👩🏽	dona pell morena	-
@@ -2515,6 +2613,26 @@ $	dòlar	-
 👩🏿‍❤‍👩🏽	parella amb un cor dona, dona, pell molt fosca i pell morena	-
 👩🏿‍❤‍👩🏾	parella amb un cor dona, dona, pell molt fosca i pell fosca	-
 👩🏿‍❤‍👩🏿	parella amb un cor dona, dona i pell molt fosca	-
+👩🏻‍🫯‍👩🏼	jugadores de lluita pell molt clara i pell bastant clara	-
+👩🏻‍🫯‍👩🏽	jugadores de lluita pell molt clara i pell morena	-
+👩🏻‍🫯‍👩🏾	jugadores de lluita pell molt clara i pell fosca	-
+👩🏻‍🫯‍👩🏿	jugadores de lluita pell molt clara i pell molt fosca	-
+👩🏼‍🫯‍👩🏻	jugadores de lluita pell bastant clara i pell molt clara	-
+👩🏼‍🫯‍👩🏽	jugadores de lluita pell bastant clara i pell morena	-
+👩🏼‍🫯‍👩🏾	jugadores de lluita pell bastant clara i pell fosca	-
+👩🏼‍🫯‍👩🏿	jugadores de lluita pell bastant clara i pell molt fosca	-
+👩🏽‍🫯‍👩🏻	jugadores de lluita pell morena i pell molt clara	-
+👩🏽‍🫯‍👩🏼	jugadores de lluita pell morena i pell bastant clara	-
+👩🏽‍🫯‍👩🏾	jugadores de lluita pell morena i pell fosca	-
+👩🏽‍🫯‍👩🏿	jugadores de lluita pell morena i pell molt fosca	-
+👩🏾‍🫯‍👩🏻	jugadores de lluita pell fosca i pell molt clara	-
+👩🏾‍🫯‍👩🏼	jugadores de lluita pell fosca i pell bastant clara	-
+👩🏾‍🫯‍👩🏽	jugadores de lluita pell fosca i pell morena	-
+👩🏾‍🫯‍👩🏿	jugadores de lluita pell fosca i pell molt fosca	-
+👩🏿‍🫯‍👩🏻	jugadores de lluita pell molt fosca i pell molt clara	-
+👩🏿‍🫯‍👩🏼	jugadores de lluita pell molt fosca i pell bastant clara	-
+👩🏿‍🫯‍👩🏽	jugadores de lluita pell molt fosca i pell morena	-
+👩🏿‍🫯‍👩🏾	jugadores de lluita pell molt fosca i pell fosca	-
 👩‍🦰	dona cabells vermells	-
 👩🏻‍🦰	dona pell molt clara i cabells vermells	-
 👩🏼‍🦰	dona pell bastant clara i cabells vermells	-
@@ -2539,6 +2657,26 @@ $	dòlar	-
 👩🏽‍🦲	dona pell morena i calvície	-
 👩🏾‍🦲	dona pell fosca i calvície	-
 👩🏿‍🦲	dona pell molt fosca i calvície	-
+👩🏻‍🐰‍👩🏼	dones que ballen disfressades pell molt clara i pell bastant clara	-
+👩🏻‍🐰‍👩🏽	dones que ballen disfressades pell molt clara i pell morena	-
+👩🏻‍🐰‍👩🏾	dones que ballen disfressades pell molt clara i pell fosca	-
+👩🏻‍🐰‍👩🏿	dones que ballen disfressades pell molt clara i pell molt fosca	-
+👩🏼‍🐰‍👩🏻	dones que ballen disfressades pell bastant clara i pell molt clara	-
+👩🏼‍🐰‍👩🏽	dones que ballen disfressades pell bastant clara i pell morena	-
+👩🏼‍🐰‍👩🏾	dones que ballen disfressades pell bastant clara i pell fosca	-
+👩🏼‍🐰‍👩🏿	dones que ballen disfressades pell bastant clara i pell molt fosca	-
+👩🏽‍🐰‍👩🏻	dones que ballen disfressades pell morena i pell molt clara	-
+👩🏽‍🐰‍👩🏼	dones que ballen disfressades pell morena i pell bastant clara	-
+👩🏽‍🐰‍👩🏾	dones que ballen disfressades pell morena i pell fosca	-
+👩🏽‍🐰‍👩🏿	dones que ballen disfressades pell morena i pell molt fosca	-
+👩🏾‍🐰‍👩🏻	dones que ballen disfressades pell fosca i pell molt clara	-
+👩🏾‍🐰‍👩🏼	dones que ballen disfressades pell fosca i pell bastant clara	-
+👩🏾‍🐰‍👩🏽	dones que ballen disfressades pell fosca i pell morena	-
+👩🏾‍🐰‍👩🏿	dones que ballen disfressades pell fosca i pell molt fosca	-
+👩🏿‍🐰‍👩🏻	dones que ballen disfressades pell molt fosca i pell molt clara	-
+👩🏿‍🐰‍👩🏼	dones que ballen disfressades pell molt fosca i pell bastant clara	-
+👩🏿‍🐰‍👩🏽	dones que ballen disfressades pell molt fosca i pell morena	-
+👩🏿‍🐰‍👩🏾	dones que ballen disfressades pell molt fosca i pell fosca	-
 🧓🏻	persona gran pell molt clara	-
 🧓🏼	persona gran pell bastant clara	-
 🧓🏽	persona gran pell morena	-
@@ -3482,6 +3620,11 @@ $	dòlar	-
 🏃🏽‍♂‍➡	home que corre pell morena i que mira a la dreta	-
 🏃🏾‍♂‍➡	home que corre pell fosca i que mira a la dreta	-
 🏃🏿‍♂‍➡	home que corre pell molt fosca i que mira a la dreta	-
+🧑🏻‍🩰	ballarí de ballet pell molt clara	-
+🧑🏼‍🩰	ballarí de ballet pell bastant clara	-
+🧑🏽‍🩰	ballarí de ballet pell morena	-
+🧑🏾‍🩰	ballarí de ballet pell fosca	-
+🧑🏿‍🩰	ballarí de ballet pell molt fosca	-
 💃🏻	dona que balla pell molt clara	-
 💃🏼	dona que balla pell bastant clara	-
 💃🏽	dona que balla pell morena	-
@@ -3497,6 +3640,21 @@ $	dòlar	-
 🕴🏽	home de negocis que levita pell morena	-
 🕴🏾	home de negocis que levita pell fosca	-
 🕴🏿	home de negocis que levita pell molt fosca	-
+👯🏻	persones que ballen disfressades pell molt clara	-
+👯🏼	persones que ballen disfressades pell bastant clara	-
+👯🏽	persones que ballen disfressades pell morena	-
+👯🏾	persones que ballen disfressades pell fosca	-
+👯🏿	persones que ballen disfressades pell molt fosca	-
+👯🏻‍♂	homes que ballen disfressats pell molt clara	-
+👯🏼‍♂	homes que ballen disfressats pell bastant clara	-
+👯🏽‍♂	homes que ballen disfressats pell morena	-
+👯🏾‍♂	homes que ballen disfressats pell fosca	-
+👯🏿‍♂	homes que ballen disfressats pell molt fosca	-
+👯🏻‍♀	dones que ballen disfressades pell molt clara	-
+👯🏼‍♀	dones que ballen disfressades pell bastant clara	-
+👯🏽‍♀	dones que ballen disfressades pell morena	-
+👯🏾‍♀	dones que ballen disfressades pell fosca	-
+👯🏿‍♀	dones que ballen disfressades pell molt fosca	-
 🧖🏻	persona a la sauna pell molt clara	-
 🧖🏼	persona a la sauna pell bastant clara	-
 🧖🏽	persona a la sauna pell morena	-
@@ -3612,21 +3770,21 @@ $	dòlar	-
 ⛹🏽‍♀	dona amb una pilota pell morena	-
 ⛹🏾‍♀	dona amb una pilota pell fosca	-
 ⛹🏿‍♀	dona amb una pilota pell molt fosca	-
-🏋🏻	persona que aixeca peses pell molt clara	-
-🏋🏼	persona que aixeca peses pell bastant clara	-
-🏋🏽	persona que aixeca peses pell morena	-
-🏋🏾	persona que aixeca peses pell fosca	-
-🏋🏿	persona que aixeca peses pell molt fosca	-
-🏋🏻‍♂	home que aixeca peses pell molt clara	-
-🏋🏼‍♂	home que aixeca peses pell bastant clara	-
-🏋🏽‍♂	home que aixeca peses pell morena	-
-🏋🏾‍♂	home que aixeca peses pell fosca	-
-🏋🏿‍♂	home que aixeca peses pell molt fosca	-
-🏋🏻‍♀	dona que aixeca peses pell molt clara	-
-🏋🏼‍♀	dona que aixeca peses pell bastant clara	-
-🏋🏽‍♀	dona que aixeca peses pell morena	-
-🏋🏾‍♀	dona que aixeca peses pell fosca	-
-🏋🏿‍♀	dona que aixeca peses pell molt fosca	-
+🏋🏻	persona que aixeca pesos pell molt clara	-
+🏋🏼	persona que aixeca pesos pell bastant clara	-
+🏋🏽	persona que aixeca pesos pell morena	-
+🏋🏾	persona que aixeca pesos pell fosca	-
+🏋🏿	persona que aixeca pesos pell molt fosca	-
+🏋🏻‍♂	home que aixeca pesos pell molt clara	-
+🏋🏼‍♂	home que aixeca pesos pell bastant clara	-
+🏋🏽‍♂	home que aixeca pesos pell morena	-
+🏋🏾‍♂	home que aixeca pesos pell fosca	-
+🏋🏿‍♂	home que aixeca pesos pell molt fosca	-
+🏋🏻‍♀	dona que aixeca pesos pell molt clara	-
+🏋🏼‍♀	dona que aixeca pesos pell bastant clara	-
+🏋🏽‍♀	dona que aixeca pesos pell morena	-
+🏋🏾‍♀	dona que aixeca pesos pell fosca	-
+🏋🏿‍♀	dona que aixeca pesos pell molt fosca	-
 🚴🏻	ciclista pell molt clara	-
 🚴🏼	ciclista pell bastant clara	-
 🚴🏽	ciclista pell morena	-
@@ -3672,6 +3830,21 @@ $	dòlar	-
 🤸🏽‍♀	dona que fa la roda pell morena	-
 🤸🏾‍♀	dona que fa la roda pell fosca	-
 🤸🏿‍♀	dona que fa la roda pell molt fosca	-
+🤼🏻	persones que lluiten pell molt clara	-
+🤼🏼	persones que lluiten pell bastant clara	-
+🤼🏽	persones que lluiten pell morena	-
+🤼🏾	persones que lluiten pell fosca	-
+🤼🏿	persones que lluiten pell molt fosca	-
+🤼🏻‍♂	jugadors de lluita pell molt clara	-
+🤼🏼‍♂	jugadors de lluita pell bastant clara	-
+🤼🏽‍♂	jugadors de lluita pell morena	-
+🤼🏾‍♂	jugadors de lluita pell fosca	-
+🤼🏿‍♂	jugadors de lluita pell molt fosca	-
+🤼🏻‍♀	jugadores de lluita pell molt clara	-
+🤼🏼‍♀	jugadores de lluita pell bastant clara	-
+🤼🏽‍♀	jugadores de lluita pell morena	-
+🤼🏾‍♀	jugadores de lluita pell fosca	-
+🤼🏿‍♀	jugadores de lluita pell molt fosca	-
 🤽🏻	persona que juga a waterpolo pell molt clara	-
 🤽🏼	persona que juga a waterpolo pell bastant clara	-
 🤽🏽	persona que juga a waterpolo pell morena	-
@@ -4167,14 +4340,4 @@ $	dòlar	-
 ₺	lira turca	-
 ₼	manat azerbaidjanès	-
 ₾	lari	-
-0⃣	tecla 0	-
-1⃣	tecla 1	-
-2⃣	tecla 2	-
-3⃣	tecla 3	-
-4⃣	tecla 4	-
-5⃣	tecla 5	-
-6⃣	tecla 6	-
-7⃣	tecla 7	-
-8⃣	tecla 8	-
-9⃣	tecla 9	-
 ₧	pesseta espanyola	-

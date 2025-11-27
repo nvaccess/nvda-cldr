@@ -433,6 +433,7 @@ _	understrek	-
 😯	overrasket	-
 😲	sjokkert	-
 😳	rødmer	-
+🫪	fordreid fjes	-
 🥺	bedende fjes	-
 🥹	fjes som holder tilbake tårene	-
 😦	oppgitt	-
@@ -506,6 +507,7 @@ _	understrek	-
 💋	kyssemerke	-
 💯	hundre poeng	-
 💢	sinne	-
+🫯	slåsskampsky	-
 💥	krasj	-
 💫	svimmel	-
 💦	svettedråper	-
@@ -738,6 +740,7 @@ _	understrek	-
 🧟‍♂	mannlig zombie	-
 🧟‍♀	kvinnelig zombie	-
 🧌	troll	-
+🫈	hårete vesen	-
 💆	ansiktsmassasje	-
 💆‍♂	mann som får ansiktsmassasje	-
 💆‍♀	kvinne som får ansiktsmassasje	-
@@ -765,6 +768,7 @@ _	understrek	-
 🏃	løper	-
 🏃‍♂	mannlig løper	-
 🏃‍♀	kvinnelig løper	-
+🧑‍🩰	ballettdanser	-
 💃	dansende kvinne	-
 🕺	dansende mann	-
 🕴	svevende mann i dress	-
@@ -946,6 +950,7 @@ _	understrek	-
 🐳	sprutende hval	-
 🐋	hval	-
 🐬	delfin	-
+🫍	spekkhogger	-
 🦭	sel	-
 🐟	fisk	-
 🐠	tropisk fisk	-
@@ -1145,6 +1150,7 @@ _	understrek	-
 🧭	kompass	-
 🏔	snødekt fjell	-
 ⛰	fjell	-
+🛘	jordskred	-
 🌋	vulkan	-
 🗻	Fuji-fjellet	-
 🏕	telttur	-
@@ -1505,10 +1511,11 @@ _	understrek	-
 🎧	hodetelefoner	-
 📻	radio	-
 🎷	saksofon	-
+🎺	trompet	-
+🪊	trombone	-
 🪗	trekkspill	-
 🎸	gitar	-
 🎹	piano	-
-🎺	trompet	-
 🎻	fiolin	-
 🪕	banjo	-
 🥁	tromme	-
@@ -1569,8 +1576,9 @@ _	understrek	-
 📑	bokmerkefane	-
 🔖	bokmerke	-
 🏷	etikett	-
-💰	pengesekk	-
 🪙	mynt	-
+💰	pengesekk	-
+🪎	skattkiste	-
 💴	yenseddel	-
 💵	dollarseddel	-
 💶	euroseddel	-
@@ -1941,6 +1949,16 @@ $	dollar	-
 ₹	indiske rupi	-
 ₽	rubler	-
 ₿	bitcoin	-
+0⃣	taster 0	-
+1⃣	taster 1	-
+2⃣	taster 2	-
+3⃣	taster 3	-
+4⃣	taster 4	-
+5⃣	taster 5	-
+6⃣	taster 6	-
+7⃣	taster 7	-
+8⃣	taster 8	-
+9⃣	taster 9	-
 ¹	hevet ettall	-
 ²	hevet totall	-
 ³	hevet tretall	-
@@ -2282,6 +2300,26 @@ $	dollar	-
 🧑🏿‍❤‍🧑🏼	par med hjerte voksen, voksen, hudtype 6, hudtype 3	-
 🧑🏿‍❤‍🧑🏽	par med hjerte voksen, voksen, hudtype 6, hudtype 4	-
 🧑🏿‍❤‍🧑🏾	par med hjerte voksen, voksen, hudtype 6, hudtype 5	-
+🧑🏻‍🫯‍🧑🏼	brytere hudtype 1–2, hudtype 3	-
+🧑🏻‍🫯‍🧑🏽	brytere hudtype 1–2, hudtype 4	-
+🧑🏻‍🫯‍🧑🏾	brytere hudtype 1–2, hudtype 5	-
+🧑🏻‍🫯‍🧑🏿	brytere hudtype 1–2, hudtype 6	-
+🧑🏼‍🫯‍🧑🏻	brytere hudtype 3, hudtype 1–2	-
+🧑🏼‍🫯‍🧑🏽	brytere hudtype 3, hudtype 4	-
+🧑🏼‍🫯‍🧑🏾	brytere hudtype 3, hudtype 5	-
+🧑🏼‍🫯‍🧑🏿	brytere hudtype 3, hudtype 6	-
+🧑🏽‍🫯‍🧑🏻	brytere hudtype 4, hudtype 1–2	-
+🧑🏽‍🫯‍🧑🏼	brytere hudtype 4, hudtype 3	-
+🧑🏽‍🫯‍🧑🏾	brytere hudtype 4, hudtype 5	-
+🧑🏽‍🫯‍🧑🏿	brytere hudtype 4, hudtype 6	-
+🧑🏾‍🫯‍🧑🏻	brytere hudtype 5, hudtype 1–2	-
+🧑🏾‍🫯‍🧑🏼	brytere hudtype 5, hudtype 3	-
+🧑🏾‍🫯‍🧑🏽	brytere hudtype 5, hudtype 4	-
+🧑🏾‍🫯‍🧑🏿	brytere hudtype 5, hudtype 6	-
+🧑🏿‍🫯‍🧑🏻	brytere hudtype 6, hudtype 1–2	-
+🧑🏿‍🫯‍🧑🏼	brytere hudtype 6, hudtype 3	-
+🧑🏿‍🫯‍🧑🏽	brytere hudtype 6, hudtype 4	-
+🧑🏿‍🫯‍🧑🏾	brytere hudtype 6, hudtype 5	-
 🧑‍🦰	voksen rødt hår	-
 🧑🏻‍🦰	voksen hudtype 1–2, rødt hår	-
 🧑🏼‍🦰	voksen hudtype 3, rødt hår	-
@@ -2306,6 +2344,26 @@ $	dollar	-
 🧑🏽‍🦲	voksen hudtype 4, skallet	-
 🧑🏾‍🦲	voksen hudtype 5, skallet	-
 🧑🏿‍🦲	voksen hudtype 6, skallet	-
+🧑🏻‍🐰‍🧑🏼	personer med kaninører hudtype 1–2, hudtype 3	-
+🧑🏻‍🐰‍🧑🏽	personer med kaninører hudtype 1–2, hudtype 4	-
+🧑🏻‍🐰‍🧑🏾	personer med kaninører hudtype 1–2, hudtype 5	-
+🧑🏻‍🐰‍🧑🏿	personer med kaninører hudtype 1–2, hudtype 6	-
+🧑🏼‍🐰‍🧑🏻	personer med kaninører hudtype 3, hudtype 1–2	-
+🧑🏼‍🐰‍🧑🏽	personer med kaninører hudtype 3, hudtype 4	-
+🧑🏼‍🐰‍🧑🏾	personer med kaninører hudtype 3, hudtype 5	-
+🧑🏼‍🐰‍🧑🏿	personer med kaninører hudtype 3, hudtype 6	-
+🧑🏽‍🐰‍🧑🏻	personer med kaninører hudtype 4, hudtype 1–2	-
+🧑🏽‍🐰‍🧑🏼	personer med kaninører hudtype 4, hudtype 3	-
+🧑🏽‍🐰‍🧑🏾	personer med kaninører hudtype 4, hudtype 5	-
+🧑🏽‍🐰‍🧑🏿	personer med kaninører hudtype 4, hudtype 6	-
+🧑🏾‍🐰‍🧑🏻	personer med kaninører hudtype 5, hudtype 1–2	-
+🧑🏾‍🐰‍🧑🏼	personer med kaninører hudtype 5, hudtype 3	-
+🧑🏾‍🐰‍🧑🏽	personer med kaninører hudtype 5, hudtype 4	-
+🧑🏾‍🐰‍🧑🏿	personer med kaninører hudtype 5, hudtype 6	-
+🧑🏿‍🐰‍🧑🏻	personer med kaninører hudtype 6, hudtype 1–2	-
+🧑🏿‍🐰‍🧑🏼	personer med kaninører hudtype 6, hudtype 3	-
+🧑🏿‍🐰‍🧑🏽	personer med kaninører hudtype 6, hudtype 4	-
+🧑🏿‍🐰‍🧑🏾	personer med kaninører hudtype 6, hudtype 5	-
 👨🏻	mann hudtype 1–2	-
 👨🏼	mann hudtype 3	-
 👨🏽	mann hudtype 4	-
@@ -2376,6 +2434,26 @@ $	dollar	-
 👨🏿‍❤‍👨🏽	par med hjerte mann, mann, hudtype 6, hudtype 4	-
 👨🏿‍❤‍👨🏾	par med hjerte mann, mann, hudtype 6, hudtype 5	-
 👨🏿‍❤‍👨🏿	par med hjerte mann, mann, hudtype 6	-
+👨🏻‍🫯‍👨🏼	mannlige brytere hudtype 1–2, hudtype 3	-
+👨🏻‍🫯‍👨🏽	mannlige brytere hudtype 1–2, hudtype 4	-
+👨🏻‍🫯‍👨🏾	mannlige brytere hudtype 1–2, hudtype 5	-
+👨🏻‍🫯‍👨🏿	mannlige brytere hudtype 1–2, hudtype 6	-
+👨🏼‍🫯‍👨🏻	mannlige brytere hudtype 3, hudtype 1–2	-
+👨🏼‍🫯‍👨🏽	mannlige brytere hudtype 3, hudtype 4	-
+👨🏼‍🫯‍👨🏾	mannlige brytere hudtype 3, hudtype 5	-
+👨🏼‍🫯‍👨🏿	mannlige brytere hudtype 3, hudtype 6	-
+👨🏽‍🫯‍👨🏻	mannlige brytere hudtype 4, hudtype 1–2	-
+👨🏽‍🫯‍👨🏼	mannlige brytere hudtype 4, hudtype 3	-
+👨🏽‍🫯‍👨🏾	mannlige brytere hudtype 4, hudtype 5	-
+👨🏽‍🫯‍👨🏿	mannlige brytere hudtype 4, hudtype 6	-
+👨🏾‍🫯‍👨🏻	mannlige brytere hudtype 5, hudtype 1–2	-
+👨🏾‍🫯‍👨🏼	mannlige brytere hudtype 5, hudtype 3	-
+👨🏾‍🫯‍👨🏽	mannlige brytere hudtype 5, hudtype 4	-
+👨🏾‍🫯‍👨🏿	mannlige brytere hudtype 5, hudtype 6	-
+👨🏿‍🫯‍👨🏻	mannlige brytere hudtype 6, hudtype 1–2	-
+👨🏿‍🫯‍👨🏼	mannlige brytere hudtype 6, hudtype 3	-
+👨🏿‍🫯‍👨🏽	mannlige brytere hudtype 6, hudtype 4	-
+👨🏿‍🫯‍👨🏾	mannlige brytere hudtype 6, hudtype 5	-
 👨‍🦰	mann rødt hår	-
 👨🏻‍🦰	mann hudtype 1–2, rødt hår	-
 👨🏼‍🦰	mann hudtype 3, rødt hår	-
@@ -2400,6 +2478,26 @@ $	dollar	-
 👨🏽‍🦲	mann hudtype 4, skallet	-
 👨🏾‍🦲	mann hudtype 5, skallet	-
 👨🏿‍🦲	mann hudtype 6, skallet	-
+👨🏻‍🐰‍👨🏼	menn med kaninører hudtype 1–2, hudtype 3	-
+👨🏻‍🐰‍👨🏽	menn med kaninører hudtype 1–2, hudtype 4	-
+👨🏻‍🐰‍👨🏾	menn med kaninører hudtype 1–2, hudtype 5	-
+👨🏻‍🐰‍👨🏿	menn med kaninører hudtype 1–2, hudtype 6	-
+👨🏼‍🐰‍👨🏻	menn med kaninører hudtype 3, hudtype 1–2	-
+👨🏼‍🐰‍👨🏽	menn med kaninører hudtype 3, hudtype 4	-
+👨🏼‍🐰‍👨🏾	menn med kaninører hudtype 3, hudtype 5	-
+👨🏼‍🐰‍👨🏿	menn med kaninører hudtype 3, hudtype 6	-
+👨🏽‍🐰‍👨🏻	menn med kaninører hudtype 4, hudtype 1–2	-
+👨🏽‍🐰‍👨🏼	menn med kaninører hudtype 4, hudtype 3	-
+👨🏽‍🐰‍👨🏾	menn med kaninører hudtype 4, hudtype 5	-
+👨🏽‍🐰‍👨🏿	menn med kaninører hudtype 4, hudtype 6	-
+👨🏾‍🐰‍👨🏻	menn med kaninører hudtype 5, hudtype 1–2	-
+👨🏾‍🐰‍👨🏼	menn med kaninører hudtype 5, hudtype 3	-
+👨🏾‍🐰‍👨🏽	menn med kaninører hudtype 5, hudtype 4	-
+👨🏾‍🐰‍👨🏿	menn med kaninører hudtype 5, hudtype 6	-
+👨🏿‍🐰‍👨🏻	menn med kaninører hudtype 6, hudtype 1–2	-
+👨🏿‍🐰‍👨🏼	menn med kaninører hudtype 6, hudtype 3	-
+👨🏿‍🐰‍👨🏽	menn med kaninører hudtype 6, hudtype 4	-
+👨🏿‍🐰‍👨🏾	menn med kaninører hudtype 6, hudtype 5	-
 👩🏻	kvinne hudtype 1–2	-
 👩🏼	kvinne hudtype 3	-
 👩🏽	kvinne hudtype 4	-
@@ -2515,6 +2613,26 @@ $	dollar	-
 👩🏿‍❤‍👩🏽	par med hjerte kvinne, kvinne, hudtype 6, hudtype 4	-
 👩🏿‍❤‍👩🏾	par med hjerte kvinne, kvinne, hudtype 6, hudtype 5	-
 👩🏿‍❤‍👩🏿	par med hjerte kvinne, kvinne, hudtype 6	-
+👩🏻‍🫯‍👩🏼	kvinnelige brytere hudtype 1–2, hudtype 3	-
+👩🏻‍🫯‍👩🏽	kvinnelige brytere hudtype 1–2, hudtype 4	-
+👩🏻‍🫯‍👩🏾	kvinnelige brytere hudtype 1–2, hudtype 5	-
+👩🏻‍🫯‍👩🏿	kvinnelige brytere hudtype 1–2, hudtype 6	-
+👩🏼‍🫯‍👩🏻	kvinnelige brytere hudtype 3, hudtype 1–2	-
+👩🏼‍🫯‍👩🏽	kvinnelige brytere hudtype 3, hudtype 4	-
+👩🏼‍🫯‍👩🏾	kvinnelige brytere hudtype 3, hudtype 5	-
+👩🏼‍🫯‍👩🏿	kvinnelige brytere hudtype 3, hudtype 6	-
+👩🏽‍🫯‍👩🏻	kvinnelige brytere hudtype 4, hudtype 1–2	-
+👩🏽‍🫯‍👩🏼	kvinnelige brytere hudtype 4, hudtype 3	-
+👩🏽‍🫯‍👩🏾	kvinnelige brytere hudtype 4, hudtype 5	-
+👩🏽‍🫯‍👩🏿	kvinnelige brytere hudtype 4, hudtype 6	-
+👩🏾‍🫯‍👩🏻	kvinnelige brytere hudtype 5, hudtype 1–2	-
+👩🏾‍🫯‍👩🏼	kvinnelige brytere hudtype 5, hudtype 3	-
+👩🏾‍🫯‍👩🏽	kvinnelige brytere hudtype 5, hudtype 4	-
+👩🏾‍🫯‍👩🏿	kvinnelige brytere hudtype 5, hudtype 6	-
+👩🏿‍🫯‍👩🏻	kvinnelige brytere hudtype 6, hudtype 1–2	-
+👩🏿‍🫯‍👩🏼	kvinnelige brytere hudtype 6, hudtype 3	-
+👩🏿‍🫯‍👩🏽	kvinnelige brytere hudtype 6, hudtype 4	-
+👩🏿‍🫯‍👩🏾	kvinnelige brytere hudtype 6, hudtype 5	-
 👩‍🦰	kvinne rødt hår	-
 👩🏻‍🦰	kvinne hudtype 1–2, rødt hår	-
 👩🏼‍🦰	kvinne hudtype 3, rødt hår	-
@@ -2539,6 +2657,26 @@ $	dollar	-
 👩🏽‍🦲	kvinne hudtype 4, skallet	-
 👩🏾‍🦲	kvinne hudtype 5, skallet	-
 👩🏿‍🦲	kvinne hudtype 6, skallet	-
+👩🏻‍🐰‍👩🏼	kvinner med kaninører hudtype 1–2, hudtype 3	-
+👩🏻‍🐰‍👩🏽	kvinner med kaninører hudtype 1–2, hudtype 4	-
+👩🏻‍🐰‍👩🏾	kvinner med kaninører hudtype 1–2, hudtype 5	-
+👩🏻‍🐰‍👩🏿	kvinner med kaninører hudtype 1–2, hudtype 6	-
+👩🏼‍🐰‍👩🏻	kvinner med kaninører hudtype 3, hudtype 1–2	-
+👩🏼‍🐰‍👩🏽	kvinner med kaninører hudtype 3, hudtype 4	-
+👩🏼‍🐰‍👩🏾	kvinner med kaninører hudtype 3, hudtype 5	-
+👩🏼‍🐰‍👩🏿	kvinner med kaninører hudtype 3, hudtype 6	-
+👩🏽‍🐰‍👩🏻	kvinner med kaninører hudtype 4, hudtype 1–2	-
+👩🏽‍🐰‍👩🏼	kvinner med kaninører hudtype 4, hudtype 3	-
+👩🏽‍🐰‍👩🏾	kvinner med kaninører hudtype 4, hudtype 5	-
+👩🏽‍🐰‍👩🏿	kvinner med kaninører hudtype 4, hudtype 6	-
+👩🏾‍🐰‍👩🏻	kvinner med kaninører hudtype 5, hudtype 1–2	-
+👩🏾‍🐰‍👩🏼	kvinner med kaninører hudtype 5, hudtype 3	-
+👩🏾‍🐰‍👩🏽	kvinner med kaninører hudtype 5, hudtype 4	-
+👩🏾‍🐰‍👩🏿	kvinner med kaninører hudtype 5, hudtype 6	-
+👩🏿‍🐰‍👩🏻	kvinner med kaninører hudtype 6, hudtype 1–2	-
+👩🏿‍🐰‍👩🏼	kvinner med kaninører hudtype 6, hudtype 3	-
+👩🏿‍🐰‍👩🏽	kvinner med kaninører hudtype 6, hudtype 4	-
+👩🏿‍🐰‍👩🏾	kvinner med kaninører hudtype 6, hudtype 5	-
 🧓🏻	eldre voksen hudtype 1–2	-
 🧓🏼	eldre voksen hudtype 3	-
 🧓🏽	eldre voksen hudtype 4	-
@@ -3482,6 +3620,11 @@ $	dollar	-
 🏃🏽‍♂‍➡	mannlig løper hudtype 4, vendt mot høyre	-
 🏃🏾‍♂‍➡	mannlig løper hudtype 5, vendt mot høyre	-
 🏃🏿‍♂‍➡	mannlig løper hudtype 6, vendt mot høyre	-
+🧑🏻‍🩰	ballettdanser hudtype 1–2	-
+🧑🏼‍🩰	ballettdanser hudtype 3	-
+🧑🏽‍🩰	ballettdanser hudtype 4	-
+🧑🏾‍🩰	ballettdanser hudtype 5	-
+🧑🏿‍🩰	ballettdanser hudtype 6	-
 💃🏻	dansende kvinne hudtype 1–2	-
 💃🏼	dansende kvinne hudtype 3	-
 💃🏽	dansende kvinne hudtype 4	-
@@ -3497,6 +3640,21 @@ $	dollar	-
 🕴🏽	svevende mann i dress hudtype 4	-
 🕴🏾	svevende mann i dress hudtype 5	-
 🕴🏿	svevende mann i dress hudtype 6	-
+👯🏻	personer med kaninører hudtype 1–2	-
+👯🏼	personer med kaninører hudtype 3	-
+👯🏽	personer med kaninører hudtype 4	-
+👯🏾	personer med kaninører hudtype 5	-
+👯🏿	personer med kaninører hudtype 6	-
+👯🏻‍♂	menn med kaninører hudtype 1–2	-
+👯🏼‍♂	menn med kaninører hudtype 3	-
+👯🏽‍♂	menn med kaninører hudtype 4	-
+👯🏾‍♂	menn med kaninører hudtype 5	-
+👯🏿‍♂	menn med kaninører hudtype 6	-
+👯🏻‍♀	kvinner med kaninører hudtype 1–2	-
+👯🏼‍♀	kvinner med kaninører hudtype 3	-
+👯🏽‍♀	kvinner med kaninører hudtype 4	-
+👯🏾‍♀	kvinner med kaninører hudtype 5	-
+👯🏿‍♀	kvinner med kaninører hudtype 6	-
 🧖🏻	person i badstu hudtype 1–2	-
 🧖🏼	person i badstu hudtype 3	-
 🧖🏽	person i badstu hudtype 4	-
@@ -3672,6 +3830,21 @@ $	dollar	-
 🤸🏽‍♀	kvinne som slår hjul hudtype 4	-
 🤸🏾‍♀	kvinne som slår hjul hudtype 5	-
 🤸🏿‍♀	kvinne som slår hjul hudtype 6	-
+🤼🏻	brytere hudtype 1–2	-
+🤼🏼	brytere hudtype 3	-
+🤼🏽	brytere hudtype 4	-
+🤼🏾	brytere hudtype 5	-
+🤼🏿	brytere hudtype 6	-
+🤼🏻‍♂	mannlige brytere hudtype 1–2	-
+🤼🏼‍♂	mannlige brytere hudtype 3	-
+🤼🏽‍♂	mannlige brytere hudtype 4	-
+🤼🏾‍♂	mannlige brytere hudtype 5	-
+🤼🏿‍♂	mannlige brytere hudtype 6	-
+🤼🏻‍♀	kvinnelige brytere hudtype 1–2	-
+🤼🏼‍♀	kvinnelige brytere hudtype 3	-
+🤼🏽‍♀	kvinnelige brytere hudtype 4	-
+🤼🏾‍♀	kvinnelige brytere hudtype 5	-
+🤼🏿‍♀	kvinnelige brytere hudtype 6	-
 🤽🏻	vannpolo hudtype 1–2	-
 🤽🏼	vannpolo hudtype 3	-
 🤽🏽	vannpolo hudtype 4	-
@@ -4167,14 +4340,4 @@ $	dollar	-
 ₺	tyrkiske lire	-
 ₼	aserbajdsjanske manat	-
 ₾	georgiske lari	-
-0⃣	taster 0	-
-1⃣	taster 1	-
-2⃣	taster 2	-
-3⃣	taster 3	-
-4⃣	taster 4	-
-5⃣	taster 5	-
-6⃣	taster 6	-
-7⃣	taster 7	-
-8⃣	taster 8	-
-9⃣	taster 9	-
 ₧	spanske peseta	-

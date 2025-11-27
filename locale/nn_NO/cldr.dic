@@ -250,6 +250,7 @@
 😮	forbausa	-
 😯	overraska	-
 😳	raudnar	-
+🫪	fordreidd fjes	-
 🥺	bedande fjes	-
 🥹	fjes som held tilbake tårene	-
 😦	oppgjeven	-
@@ -451,6 +452,7 @@
 🏃	løpar	-
 🏃‍♂	mannleg løpar	-
 🏃‍♀	kvineleg løpar	-
+🧑‍🩰	ballettdansar	-
 💃	dansande kvinne	-
 🕺	dansande mann	-
 🕴	svevande mann i dress	-
@@ -518,6 +520,7 @@
 🐉	drake	-
 🐳	sprutande kval	-
 🐋	kval	-
+🫍	spekkhoggar	-
 🐚	spiralskjel	-
 🦞	hummar	-
 🐌	snigel	-
@@ -822,6 +825,16 @@
 🏳‍🌈	regnbogeflagg	-
 🏴‍☠	sjørøvarflagg	-
 ₽	rublar	-
+0⃣	tastar 0	-
+1⃣	tastar 1	-
+2⃣	tastar 2	-
+3⃣	tastar 3	-
+4⃣	tastar 4	-
+5⃣	tastar 5	-
+6⃣	tastar 6	-
+7⃣	tastar 7	-
+8⃣	tastar 8	-
+9⃣	tastar 9	-
 ¹	heva eittal	-
 ²	heva total	-
 ³	heva tretal	-
@@ -1091,6 +1104,26 @@
 🧑🏿‍❤‍🧑🏼	par med hjarte vaksen, vaksen, hudtype 6, hudtype 3	-
 🧑🏿‍❤‍🧑🏽	par med hjarte vaksen, vaksen, hudtype 6, hudtype 4	-
 🧑🏿‍❤‍🧑🏾	par med hjarte vaksen, vaksen, hudtype 6, hudtype 5	-
+🧑🏻‍🫯‍🧑🏼	brytarar hudtype 1–2, hudtype 3	-
+🧑🏻‍🫯‍🧑🏽	brytarar hudtype 1–2, hudtype 4	-
+🧑🏻‍🫯‍🧑🏾	brytarar hudtype 1–2, hudtype 5	-
+🧑🏻‍🫯‍🧑🏿	brytarar hudtype 1–2, hudtype 6	-
+🧑🏼‍🫯‍🧑🏻	brytarar hudtype 3, hudtype 1–2	-
+🧑🏼‍🫯‍🧑🏽	brytarar hudtype 3, hudtype 4	-
+🧑🏼‍🫯‍🧑🏾	brytarar hudtype 3, hudtype 5	-
+🧑🏼‍🫯‍🧑🏿	brytarar hudtype 3, hudtype 6	-
+🧑🏽‍🫯‍🧑🏻	brytarar hudtype 4, hudtype 1–2	-
+🧑🏽‍🫯‍🧑🏼	brytarar hudtype 4, hudtype 3	-
+🧑🏽‍🫯‍🧑🏾	brytarar hudtype 4, hudtype 5	-
+🧑🏽‍🫯‍🧑🏿	brytarar hudtype 4, hudtype 6	-
+🧑🏾‍🫯‍🧑🏻	brytarar hudtype 5, hudtype 1–2	-
+🧑🏾‍🫯‍🧑🏼	brytarar hudtype 5, hudtype 3	-
+🧑🏾‍🫯‍🧑🏽	brytarar hudtype 5, hudtype 4	-
+🧑🏾‍🫯‍🧑🏿	brytarar hudtype 5, hudtype 6	-
+🧑🏿‍🫯‍🧑🏻	brytarar hudtype 6, hudtype 1–2	-
+🧑🏿‍🫯‍🧑🏼	brytarar hudtype 6, hudtype 3	-
+🧑🏿‍🫯‍🧑🏽	brytarar hudtype 6, hudtype 4	-
+🧑🏿‍🫯‍🧑🏾	brytarar hudtype 6, hudtype 5	-
 🧑‍🦰	vaksen raudt hår	-
 🧑🏻‍🦰	vaksen hudtype 1–2, raudt hår	-
 🧑🏼‍🦰	vaksen hudtype 3, raudt hår	-
@@ -1115,6 +1148,26 @@
 🧑🏽‍🦲	vaksen hudtype 4, skalla	-
 🧑🏾‍🦲	vaksen hudtype 5, skalla	-
 🧑🏿‍🦲	vaksen hudtype 6, skalla	-
+🧑🏻‍🐰‍🧑🏼	personar med kaninøyre hudtype 1–2, hudtype 3	-
+🧑🏻‍🐰‍🧑🏽	personar med kaninøyre hudtype 1–2, hudtype 4	-
+🧑🏻‍🐰‍🧑🏾	personar med kaninøyre hudtype 1–2, hudtype 5	-
+🧑🏻‍🐰‍🧑🏿	personar med kaninøyre hudtype 1–2, hudtype 6	-
+🧑🏼‍🐰‍🧑🏻	personar med kaninøyre hudtype 3, hudtype 1–2	-
+🧑🏼‍🐰‍🧑🏽	personar med kaninøyre hudtype 3, hudtype 4	-
+🧑🏼‍🐰‍🧑🏾	personar med kaninøyre hudtype 3, hudtype 5	-
+🧑🏼‍🐰‍🧑🏿	personar med kaninøyre hudtype 3, hudtype 6	-
+🧑🏽‍🐰‍🧑🏻	personar med kaninøyre hudtype 4, hudtype 1–2	-
+🧑🏽‍🐰‍🧑🏼	personar med kaninøyre hudtype 4, hudtype 3	-
+🧑🏽‍🐰‍🧑🏾	personar med kaninøyre hudtype 4, hudtype 5	-
+🧑🏽‍🐰‍🧑🏿	personar med kaninøyre hudtype 4, hudtype 6	-
+🧑🏾‍🐰‍🧑🏻	personar med kaninøyre hudtype 5, hudtype 1–2	-
+🧑🏾‍🐰‍🧑🏼	personar med kaninøyre hudtype 5, hudtype 3	-
+🧑🏾‍🐰‍🧑🏽	personar med kaninøyre hudtype 5, hudtype 4	-
+🧑🏾‍🐰‍🧑🏿	personar med kaninøyre hudtype 5, hudtype 6	-
+🧑🏿‍🐰‍🧑🏻	personar med kaninøyre hudtype 6, hudtype 1–2	-
+🧑🏿‍🐰‍🧑🏼	personar med kaninøyre hudtype 6, hudtype 3	-
+🧑🏿‍🐰‍🧑🏽	personar med kaninøyre hudtype 6, hudtype 4	-
+🧑🏿‍🐰‍🧑🏾	personar med kaninøyre hudtype 6, hudtype 5	-
 👨🏻‍❤‍👨🏻	par med hjarte mann, mann, hudtype 1–2	-
 👨🏻‍❤‍👨🏼	par med hjarte mann, mann, hudtype 1–2, hudtype 3	-
 👨🏻‍❤‍👨🏽	par med hjarte mann, mann, hudtype 1–2, hudtype 4	-
@@ -1140,6 +1193,26 @@
 👨🏿‍❤‍👨🏽	par med hjarte mann, mann, hudtype 6, hudtype 4	-
 👨🏿‍❤‍👨🏾	par med hjarte mann, mann, hudtype 6, hudtype 5	-
 👨🏿‍❤‍👨🏿	par med hjarte mann, mann, hudtype 6	-
+👨🏻‍🫯‍👨🏼	mannlege brytarar hudtype 1–2, hudtype 3	-
+👨🏻‍🫯‍👨🏽	mannlege brytarar hudtype 1–2, hudtype 4	-
+👨🏻‍🫯‍👨🏾	mannlege brytarar hudtype 1–2, hudtype 5	-
+👨🏻‍🫯‍👨🏿	mannlege brytarar hudtype 1–2, hudtype 6	-
+👨🏼‍🫯‍👨🏻	mannlege brytarar hudtype 3, hudtype 1–2	-
+👨🏼‍🫯‍👨🏽	mannlege brytarar hudtype 3, hudtype 4	-
+👨🏼‍🫯‍👨🏾	mannlege brytarar hudtype 3, hudtype 5	-
+👨🏼‍🫯‍👨🏿	mannlege brytarar hudtype 3, hudtype 6	-
+👨🏽‍🫯‍👨🏻	mannlege brytarar hudtype 4, hudtype 1–2	-
+👨🏽‍🫯‍👨🏼	mannlege brytarar hudtype 4, hudtype 3	-
+👨🏽‍🫯‍👨🏾	mannlege brytarar hudtype 4, hudtype 5	-
+👨🏽‍🫯‍👨🏿	mannlege brytarar hudtype 4, hudtype 6	-
+👨🏾‍🫯‍👨🏻	mannlege brytarar hudtype 5, hudtype 1–2	-
+👨🏾‍🫯‍👨🏼	mannlege brytarar hudtype 5, hudtype 3	-
+👨🏾‍🫯‍👨🏽	mannlege brytarar hudtype 5, hudtype 4	-
+👨🏾‍🫯‍👨🏿	mannlege brytarar hudtype 5, hudtype 6	-
+👨🏿‍🫯‍👨🏻	mannlege brytarar hudtype 6, hudtype 1–2	-
+👨🏿‍🫯‍👨🏼	mannlege brytarar hudtype 6, hudtype 3	-
+👨🏿‍🫯‍👨🏽	mannlege brytarar hudtype 6, hudtype 4	-
+👨🏿‍🫯‍👨🏾	mannlege brytarar hudtype 6, hudtype 5	-
 👨‍🦰	mann raudt hår	-
 👨🏻‍🦰	mann hudtype 1–2, raudt hår	-
 👨🏼‍🦰	mann hudtype 3, raudt hår	-
@@ -1158,6 +1231,26 @@
 👨🏽‍🦲	mann hudtype 4, skalla	-
 👨🏾‍🦲	mann hudtype 5, skalla	-
 👨🏿‍🦲	mann hudtype 6, skalla	-
+👨🏻‍🐰‍👨🏼	menn med kaninøyre hudtype 1–2, hudtype 3	-
+👨🏻‍🐰‍👨🏽	menn med kaninøyre hudtype 1–2, hudtype 4	-
+👨🏻‍🐰‍👨🏾	menn med kaninøyre hudtype 1–2, hudtype 5	-
+👨🏻‍🐰‍👨🏿	menn med kaninøyre hudtype 1–2, hudtype 6	-
+👨🏼‍🐰‍👨🏻	menn med kaninøyre hudtype 3, hudtype 1–2	-
+👨🏼‍🐰‍👨🏽	menn med kaninøyre hudtype 3, hudtype 4	-
+👨🏼‍🐰‍👨🏾	menn med kaninøyre hudtype 3, hudtype 5	-
+👨🏼‍🐰‍👨🏿	menn med kaninøyre hudtype 3, hudtype 6	-
+👨🏽‍🐰‍👨🏻	menn med kaninøyre hudtype 4, hudtype 1–2	-
+👨🏽‍🐰‍👨🏼	menn med kaninøyre hudtype 4, hudtype 3	-
+👨🏽‍🐰‍👨🏾	menn med kaninøyre hudtype 4, hudtype 5	-
+👨🏽‍🐰‍👨🏿	menn med kaninøyre hudtype 4, hudtype 6	-
+👨🏾‍🐰‍👨🏻	menn med kaninøyre hudtype 5, hudtype 1–2	-
+👨🏾‍🐰‍👨🏼	menn med kaninøyre hudtype 5, hudtype 3	-
+👨🏾‍🐰‍👨🏽	menn med kaninøyre hudtype 5, hudtype 4	-
+👨🏾‍🐰‍👨🏿	menn med kaninøyre hudtype 5, hudtype 6	-
+👨🏿‍🐰‍👨🏻	menn med kaninøyre hudtype 6, hudtype 1–2	-
+👨🏿‍🐰‍👨🏼	menn med kaninøyre hudtype 6, hudtype 3	-
+👨🏿‍🐰‍👨🏽	menn med kaninøyre hudtype 6, hudtype 4	-
+👨🏿‍🐰‍👨🏾	menn med kaninøyre hudtype 6, hudtype 5	-
 👩🏻‍❤‍👨🏻	par med hjarte kvinne, mann, hudtype 1–2	-
 👩🏻‍❤‍👨🏼	par med hjarte kvinne, mann, hudtype 1–2, hudtype 3	-
 👩🏻‍❤‍👨🏽	par med hjarte kvinne, mann, hudtype 1–2, hudtype 4	-
@@ -1208,6 +1301,26 @@
 👩🏿‍❤‍👩🏽	par med hjarte kvinne, kvinne, hudtype 6, hudtype 4	-
 👩🏿‍❤‍👩🏾	par med hjarte kvinne, kvinne, hudtype 6, hudtype 5	-
 👩🏿‍❤‍👩🏿	par med hjarte kvinne, kvinne, hudtype 6	-
+👩🏻‍🫯‍👩🏼	kvinnelege brytarar hudtype 1–2, hudtype 3	-
+👩🏻‍🫯‍👩🏽	kvinnelege brytarar hudtype 1–2, hudtype 4	-
+👩🏻‍🫯‍👩🏾	kvinnelege brytarar hudtype 1–2, hudtype 5	-
+👩🏻‍🫯‍👩🏿	kvinnelege brytarar hudtype 1–2, hudtype 6	-
+👩🏼‍🫯‍👩🏻	kvinnelege brytarar hudtype 3, hudtype 1–2	-
+👩🏼‍🫯‍👩🏽	kvinnelege brytarar hudtype 3, hudtype 4	-
+👩🏼‍🫯‍👩🏾	kvinnelege brytarar hudtype 3, hudtype 5	-
+👩🏼‍🫯‍👩🏿	kvinnelege brytarar hudtype 3, hudtype 6	-
+👩🏽‍🫯‍👩🏻	kvinnelege brytarar hudtype 4, hudtype 1–2	-
+👩🏽‍🫯‍👩🏼	kvinnelege brytarar hudtype 4, hudtype 3	-
+👩🏽‍🫯‍👩🏾	kvinnelege brytarar hudtype 4, hudtype 5	-
+👩🏽‍🫯‍👩🏿	kvinnelege brytarar hudtype 4, hudtype 6	-
+👩🏾‍🫯‍👩🏻	kvinnelege brytarar hudtype 5, hudtype 1–2	-
+👩🏾‍🫯‍👩🏼	kvinnelege brytarar hudtype 5, hudtype 3	-
+👩🏾‍🫯‍👩🏽	kvinnelege brytarar hudtype 5, hudtype 4	-
+👩🏾‍🫯‍👩🏿	kvinnelege brytarar hudtype 5, hudtype 6	-
+👩🏿‍🫯‍👩🏻	kvinnelege brytarar hudtype 6, hudtype 1–2	-
+👩🏿‍🫯‍👩🏼	kvinnelege brytarar hudtype 6, hudtype 3	-
+👩🏿‍🫯‍👩🏽	kvinnelege brytarar hudtype 6, hudtype 4	-
+👩🏿‍🫯‍👩🏾	kvinnelege brytarar hudtype 6, hudtype 5	-
 👩‍🦰	kvinne raudt hår	-
 👩🏻‍🦰	kvinne hudtype 1–2, raudt hår	-
 👩🏼‍🦰	kvinne hudtype 3, raudt hår	-
@@ -1226,6 +1339,26 @@
 👩🏽‍🦲	kvinne hudtype 4, skalla	-
 👩🏾‍🦲	kvinne hudtype 5, skalla	-
 👩🏿‍🦲	kvinne hudtype 6, skalla	-
+👩🏻‍🐰‍👩🏼	kvinner med kaninøyre hudtype 1–2, hudtype 3	-
+👩🏻‍🐰‍👩🏽	kvinner med kaninøyre hudtype 1–2, hudtype 4	-
+👩🏻‍🐰‍👩🏾	kvinner med kaninøyre hudtype 1–2, hudtype 5	-
+👩🏻‍🐰‍👩🏿	kvinner med kaninøyre hudtype 1–2, hudtype 6	-
+👩🏼‍🐰‍👩🏻	kvinner med kaninøyre hudtype 3, hudtype 1–2	-
+👩🏼‍🐰‍👩🏽	kvinner med kaninøyre hudtype 3, hudtype 4	-
+👩🏼‍🐰‍👩🏾	kvinner med kaninøyre hudtype 3, hudtype 5	-
+👩🏼‍🐰‍👩🏿	kvinner med kaninøyre hudtype 3, hudtype 6	-
+👩🏽‍🐰‍👩🏻	kvinner med kaninøyre hudtype 4, hudtype 1–2	-
+👩🏽‍🐰‍👩🏼	kvinner med kaninøyre hudtype 4, hudtype 3	-
+👩🏽‍🐰‍👩🏾	kvinner med kaninøyre hudtype 4, hudtype 5	-
+👩🏽‍🐰‍👩🏿	kvinner med kaninøyre hudtype 4, hudtype 6	-
+👩🏾‍🐰‍👩🏻	kvinner med kaninøyre hudtype 5, hudtype 1–2	-
+👩🏾‍🐰‍👩🏼	kvinner med kaninøyre hudtype 5, hudtype 3	-
+👩🏾‍🐰‍👩🏽	kvinner med kaninøyre hudtype 5, hudtype 4	-
+👩🏾‍🐰‍👩🏿	kvinner med kaninøyre hudtype 5, hudtype 6	-
+👩🏿‍🐰‍👩🏻	kvinner med kaninøyre hudtype 6, hudtype 1–2	-
+👩🏿‍🐰‍👩🏼	kvinner med kaninøyre hudtype 6, hudtype 3	-
+👩🏿‍🐰‍👩🏽	kvinner med kaninøyre hudtype 6, hudtype 4	-
+👩🏿‍🐰‍👩🏾	kvinner med kaninøyre hudtype 6, hudtype 5	-
 🧓🏻	eldre vaksen hudtype 1–2	-
 🧓🏼	eldre vaksen hudtype 3	-
 🧓🏽	eldre vaksen hudtype 4	-
@@ -1814,6 +1947,11 @@
 🏃🏽‍♂‍➡	mannleg løpar hudtype 4, vendt mot høgre	-
 🏃🏾‍♂‍➡	mannleg løpar hudtype 5, vendt mot høgre	-
 🏃🏿‍♂‍➡	mannleg løpar hudtype 6, vendt mot høgre	-
+🧑🏻‍🩰	ballettdansar hudtype 1–2	-
+🧑🏼‍🩰	ballettdansar hudtype 3	-
+🧑🏽‍🩰	ballettdansar hudtype 4	-
+🧑🏾‍🩰	ballettdansar hudtype 5	-
+🧑🏿‍🩰	ballettdansar hudtype 6	-
 💃🏻	dansande kvinne hudtype 1–2	-
 💃🏼	dansande kvinne hudtype 3	-
 💃🏽	dansande kvinne hudtype 4	-
@@ -1829,6 +1967,21 @@
 🕴🏽	svevande mann i dress hudtype 4	-
 🕴🏾	svevande mann i dress hudtype 5	-
 🕴🏿	svevande mann i dress hudtype 6	-
+👯🏻	personar med kaninøyre hudtype 1–2	-
+👯🏼	personar med kaninøyre hudtype 3	-
+👯🏽	personar med kaninøyre hudtype 4	-
+👯🏾	personar med kaninøyre hudtype 5	-
+👯🏿	personar med kaninøyre hudtype 6	-
+👯🏻‍♂	menn med kaninøyre hudtype 1–2	-
+👯🏼‍♂	menn med kaninøyre hudtype 3	-
+👯🏽‍♂	menn med kaninøyre hudtype 4	-
+👯🏾‍♂	menn med kaninøyre hudtype 5	-
+👯🏿‍♂	menn med kaninøyre hudtype 6	-
+👯🏻‍♀	kvinner med kaninøyre hudtype 1–2	-
+👯🏼‍♀	kvinner med kaninøyre hudtype 3	-
+👯🏽‍♀	kvinner med kaninøyre hudtype 4	-
+👯🏾‍♀	kvinner med kaninøyre hudtype 5	-
+👯🏿‍♀	kvinner med kaninøyre hudtype 6	-
 🧖🏻	person i badstove hudtype 1–2	-
 🧖🏼	person i badstove hudtype 3	-
 🧖🏽	person i badstove hudtype 4	-
@@ -1934,6 +2087,21 @@
 🚴🏽‍♀	kvinneleg syklist hudtype 4	-
 🚴🏾‍♀	kvinneleg syklist hudtype 5	-
 🚴🏿‍♀	kvinneleg syklist hudtype 6	-
+🤼🏻	brytarar hudtype 1–2	-
+🤼🏼	brytarar hudtype 3	-
+🤼🏽	brytarar hudtype 4	-
+🤼🏾	brytarar hudtype 5	-
+🤼🏿	brytarar hudtype 6	-
+🤼🏻‍♂	mannlege brytarar hudtype 1–2	-
+🤼🏼‍♂	mannlege brytarar hudtype 3	-
+🤼🏽‍♂	mannlege brytarar hudtype 4	-
+🤼🏾‍♂	mannlege brytarar hudtype 5	-
+🤼🏿‍♂	mannlege brytarar hudtype 6	-
+🤼🏻‍♀	kvinnelege brytarar hudtype 1–2	-
+🤼🏼‍♀	kvinnelege brytarar hudtype 3	-
+🤼🏽‍♀	kvinnelege brytarar hudtype 4	-
+🤼🏾‍♀	kvinnelege brytarar hudtype 5	-
+🤼🏿‍♀	kvinnelege brytarar hudtype 6	-
 🤽🏻	vasspolo hudtype 1–2	-
 🤽🏼	vasspolo hudtype 3	-
 🤽🏽	vasspolo hudtype 4	-
@@ -2139,13 +2307,3 @@
 ₪	nye israelske sheklar	-
 ₲	paraguayanske guaraní	-
 ₺	tyrkiske lira	-
-0⃣	tastar 0	-
-1⃣	tastar 1	-
-2⃣	tastar 2	-
-3⃣	tastar 3	-
-4⃣	tastar 4	-
-5⃣	tastar 5	-
-6⃣	tastar 6	-
-7⃣	tastar 7	-
-8⃣	tastar 8	-
-9⃣	tastar 9	-

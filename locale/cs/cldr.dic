@@ -433,6 +433,7 @@ _	podtržení	-
 😯	obličej se zaraženým výrazem	-
 😲	užaslý obličej	-
 😳	červenající se obličej	-
+🫪	pokřivený obličej	-
 🥺	prosebný obličej	-
 🥹	obličej se slzami na krajíčku	-
 😦	zamračený obličej s otevřenou pusou	-
@@ -506,6 +507,7 @@ _	podtržení	-
 💋	otisk rtů	-
 💯	sto bodů	-
 💢	japonský symbol hněvu	-
+🫯	oblak sršící hádkou	-
 💥	srážka	-
 💫	závrať	-
 💦	kapky potu	-
@@ -738,6 +740,7 @@ _	podtržení	-
 🧟‍♂	nemrtvý muž	-
 🧟‍♀	nemrtvá žena	-
 🧌	troll	-
+🫈	chlupatý tvor	-
 💆	osoba na masáži obličeje	-
 💆‍♂	muž na masáži obličeje	-
 💆‍♀	žena na masáži obličeje	-
@@ -765,6 +768,7 @@ _	podtržení	-
 🏃	běžící osoba	-
 🏃‍♂	běžící muž	-
 🏃‍♀	běžící žena	-
+🧑‍🩰	baletní tanečník	-
 💃	tanečnice	-
 🕺	tanečník	-
 🕴	levitující byznysmen	-
@@ -946,6 +950,7 @@ _	podtržení	-
 🐳	velryba stříkající vodu	-
 🐋	velryba	-
 🐬	delfín	-
+🫍	kosatka	-
 🦭	tuleň	-
 🐟	ryba	-
 🐠	tropická ryba	-
@@ -1145,6 +1150,7 @@ _	podtržení	-
 🧭	kompas	-
 🏔	zasněžená hora	-
 ⛰	hora	-
+🛘	sesuv půdy	-
 🌋	sopka	-
 🗻	hora Fudži	-
 🏕	tábor	-
@@ -1505,10 +1511,11 @@ _	podtržení	-
 🎧	sluchátka	-
 📻	rádio	-
 🎷	saxofon	-
+🎺	trubka	-
+🪊	pozoun	-
 🪗	akordeon	-
 🎸	kytara	-
 🎹	klávesy	-
-🎺	trubka	-
 🎻	housle	-
 🪕	banjo	-
 🥁	buben	-
@@ -1569,8 +1576,9 @@ _	podtržení	-
 📑	stránky se záložkami	-
 🔖	záložka	-
 🏷	visačka	-
-💰	pytel peněz	-
 🪙	mince	-
+💰	pytel peněz	-
+🪎	truhla s pokladem	-
 💴	jenová bankovka	-
 💵	dolarová bankovka	-
 💶	eurobankovka	-
@@ -1941,6 +1949,16 @@ $	dolar	-
 ₹	indická rupie	-
 ₽	rubl	-
 ₿	bitcoin	-
+0⃣	klávesa 0	-
+1⃣	klávesa 1	-
+2⃣	klávesa 2	-
+3⃣	klávesa 3	-
+4⃣	klávesa 4	-
+5⃣	klávesa 5	-
+6⃣	klávesa 6	-
+7⃣	klávesa 7	-
+8⃣	klávesa 8	-
+9⃣	klávesa 9	-
 ¹	číslice jedna jako horní index	-
 ²	číslice dvě jako horní index	-
 ³	číslice tři jako horní index	-
@@ -2282,6 +2300,26 @@ $	dolar	-
 🧑🏿‍❤‍🧑🏼	pár se srdcem dospělý člověk, dospělý člověk, tmavý odstín pleti a středně světlý odstín pleti	-
 🧑🏿‍❤‍🧑🏽	pár se srdcem dospělý člověk, dospělý člověk, tmavý odstín pleti a střední odstín pleti	-
 🧑🏿‍❤‍🧑🏾	pár se srdcem dospělý člověk, dospělý člověk, tmavý odstín pleti a středně tmavý odstín pleti	-
+🧑🏻‍🫯‍🧑🏼	zápasící dvojice světlý odstín pleti, středně světlý odstín pleti	-
+🧑🏻‍🫯‍🧑🏽	zápasící dvojice světlý odstín pleti, střední odstín pleti	-
+🧑🏻‍🫯‍🧑🏾	zápasící dvojice světlý odstín pleti, středně tmavý odstín pleti	-
+🧑🏻‍🫯‍🧑🏿	zápasící dvojice světlý odstín pleti, tmavý odstín pleti	-
+🧑🏼‍🫯‍🧑🏻	zápasící dvojice středně světlý odstín pleti, světlý odstín pleti	-
+🧑🏼‍🫯‍🧑🏽	zápasící dvojice středně světlý odstín pleti, střední odstín pleti	-
+🧑🏼‍🫯‍🧑🏾	zápasící dvojice středně světlý odstín pleti, středně tmavý odstín pleti	-
+🧑🏼‍🫯‍🧑🏿	zápasící dvojice středně světlý odstín pleti, tmavý odstín pleti	-
+🧑🏽‍🫯‍🧑🏻	zápasící dvojice střední odstín pleti, světlý odstín pleti	-
+🧑🏽‍🫯‍🧑🏼	zápasící dvojice střední odstín pleti, středně světlý odstín pleti	-
+🧑🏽‍🫯‍🧑🏾	zápasící dvojice střední odstín pleti, středně tmavý odstín pleti	-
+🧑🏽‍🫯‍🧑🏿	zápasící dvojice střední odstín pleti, tmavý odstín pleti	-
+🧑🏾‍🫯‍🧑🏻	zápasící dvojice středně tmavý odstín pleti, světlý odstín pleti	-
+🧑🏾‍🫯‍🧑🏼	zápasící dvojice středně tmavý odstín pleti, středně světlý odstín pleti	-
+🧑🏾‍🫯‍🧑🏽	zápasící dvojice středně tmavý odstín pleti, střední odstín pleti	-
+🧑🏾‍🫯‍🧑🏿	zápasící dvojice středně tmavý odstín pleti, tmavý odstín pleti	-
+🧑🏿‍🫯‍🧑🏻	zápasící dvojice tmavý odstín pleti, světlý odstín pleti	-
+🧑🏿‍🫯‍🧑🏼	zápasící dvojice tmavý odstín pleti, středně světlý odstín pleti	-
+🧑🏿‍🫯‍🧑🏽	zápasící dvojice tmavý odstín pleti, střední odstín pleti	-
+🧑🏿‍🫯‍🧑🏾	zápasící dvojice tmavý odstín pleti, středně tmavý odstín pleti	-
 🧑‍🦰	dospělý člověk zrzavé vlasy	-
 🧑🏻‍🦰	dospělý člověk světlý odstín pleti, zrzavé vlasy	-
 🧑🏼‍🦰	dospělý člověk středně světlý odstín pleti, zrzavé vlasy	-
@@ -2306,6 +2344,26 @@ $	dolar	-
 🧑🏽‍🦲	dospělý člověk střední odstín pleti, bez vlasů	-
 🧑🏾‍🦲	dospělý člověk středně tmavý odstín pleti, bez vlasů	-
 🧑🏿‍🦲	dospělý člověk tmavý odstín pleti, bez vlasů	-
+🧑🏻‍🐰‍🧑🏼	osoby se zaječími oušky světlý odstín pleti, středně světlý odstín pleti	-
+🧑🏻‍🐰‍🧑🏽	osoby se zaječími oušky světlý odstín pleti, střední odstín pleti	-
+🧑🏻‍🐰‍🧑🏾	osoby se zaječími oušky světlý odstín pleti, středně tmavý odstín pleti	-
+🧑🏻‍🐰‍🧑🏿	osoby se zaječími oušky světlý odstín pleti, tmavý odstín pleti	-
+🧑🏼‍🐰‍🧑🏻	osoby se zaječími oušky středně světlý odstín pleti, světlý odstín pleti	-
+🧑🏼‍🐰‍🧑🏽	osoby se zaječími oušky středně světlý odstín pleti, střední odstín pleti	-
+🧑🏼‍🐰‍🧑🏾	osoby se zaječími oušky středně světlý odstín pleti, středně tmavý odstín pleti	-
+🧑🏼‍🐰‍🧑🏿	osoby se zaječími oušky středně světlý odstín pleti, tmavý odstín pleti	-
+🧑🏽‍🐰‍🧑🏻	osoby se zaječími oušky střední odstín pleti, světlý odstín pleti	-
+🧑🏽‍🐰‍🧑🏼	osoby se zaječími oušky střední odstín pleti, středně světlý odstín pleti	-
+🧑🏽‍🐰‍🧑🏾	osoby se zaječími oušky střední odstín pleti, středně tmavý odstín pleti	-
+🧑🏽‍🐰‍🧑🏿	osoby se zaječími oušky střední odstín pleti, tmavý odstín pleti	-
+🧑🏾‍🐰‍🧑🏻	osoby se zaječími oušky středně tmavý odstín pleti, světlý odstín pleti	-
+🧑🏾‍🐰‍🧑🏼	osoby se zaječími oušky středně tmavý odstín pleti, středně světlý odstín pleti	-
+🧑🏾‍🐰‍🧑🏽	osoby se zaječími oušky středně tmavý odstín pleti, střední odstín pleti	-
+🧑🏾‍🐰‍🧑🏿	osoby se zaječími oušky středně tmavý odstín pleti, tmavý odstín pleti	-
+🧑🏿‍🐰‍🧑🏻	osoby se zaječími oušky tmavý odstín pleti, světlý odstín pleti	-
+🧑🏿‍🐰‍🧑🏼	osoby se zaječími oušky tmavý odstín pleti, středně světlý odstín pleti	-
+🧑🏿‍🐰‍🧑🏽	osoby se zaječími oušky tmavý odstín pleti, střední odstín pleti	-
+🧑🏿‍🐰‍🧑🏾	osoby se zaječími oušky tmavý odstín pleti, středně tmavý odstín pleti	-
 👨🏻	muž světlý odstín pleti	-
 👨🏼	muž středně světlý odstín pleti	-
 👨🏽	muž střední odstín pleti	-
@@ -2376,6 +2434,26 @@ $	dolar	-
 👨🏿‍❤‍👨🏽	pár se srdcem muž, muž, tmavý odstín pleti a střední odstín pleti	-
 👨🏿‍❤‍👨🏾	pár se srdcem muž, muž, tmavý odstín pleti a středně tmavý odstín pleti	-
 👨🏿‍❤‍👨🏿	pár se srdcem muž, muž a tmavý odstín pleti	-
+👨🏻‍🫯‍👨🏼	zápasící muži světlý odstín pleti, středně světlý odstín pleti	-
+👨🏻‍🫯‍👨🏽	zápasící muži světlý odstín pleti, střední odstín pleti	-
+👨🏻‍🫯‍👨🏾	zápasící muži světlý odstín pleti, středně tmavý odstín pleti	-
+👨🏻‍🫯‍👨🏿	zápasící muži světlý odstín pleti, tmavý odstín pleti	-
+👨🏼‍🫯‍👨🏻	zápasící muži středně světlý odstín pleti, světlý odstín pleti	-
+👨🏼‍🫯‍👨🏽	zápasící muži středně světlý odstín pleti, střední odstín pleti	-
+👨🏼‍🫯‍👨🏾	zápasící muži středně světlý odstín pleti, středně tmavý odstín pleti	-
+👨🏼‍🫯‍👨🏿	zápasící muži středně světlý odstín pleti, tmavý odstín pleti	-
+👨🏽‍🫯‍👨🏻	zápasící muži střední odstín pleti, světlý odstín pleti	-
+👨🏽‍🫯‍👨🏼	zápasící muži střední odstín pleti, středně světlý odstín pleti	-
+👨🏽‍🫯‍👨🏾	zápasící muži střední odstín pleti, středně tmavý odstín pleti	-
+👨🏽‍🫯‍👨🏿	zápasící muži střední odstín pleti, tmavý odstín pleti	-
+👨🏾‍🫯‍👨🏻	zápasící muži středně tmavý odstín pleti, světlý odstín pleti	-
+👨🏾‍🫯‍👨🏼	zápasící muži středně tmavý odstín pleti, středně světlý odstín pleti	-
+👨🏾‍🫯‍👨🏽	zápasící muži středně tmavý odstín pleti, střední odstín pleti	-
+👨🏾‍🫯‍👨🏿	zápasící muži středně tmavý odstín pleti, tmavý odstín pleti	-
+👨🏿‍🫯‍👨🏻	zápasící muži tmavý odstín pleti, světlý odstín pleti	-
+👨🏿‍🫯‍👨🏼	zápasící muži tmavý odstín pleti, středně světlý odstín pleti	-
+👨🏿‍🫯‍👨🏽	zápasící muži tmavý odstín pleti, střední odstín pleti	-
+👨🏿‍🫯‍👨🏾	zápasící muži tmavý odstín pleti, středně tmavý odstín pleti	-
 👨‍🦰	muž zrzavé vlasy	-
 👨🏻‍🦰	muž světlý odstín pleti, zrzavé vlasy	-
 👨🏼‍🦰	muž středně světlý odstín pleti, zrzavé vlasy	-
@@ -2400,6 +2478,26 @@ $	dolar	-
 👨🏽‍🦲	muž střední odstín pleti, bez vlasů	-
 👨🏾‍🦲	muž středně tmavý odstín pleti, bez vlasů	-
 👨🏿‍🦲	muž tmavý odstín pleti, bez vlasů	-
+👨🏻‍🐰‍👨🏼	muži se zaječími oušky světlý odstín pleti, středně světlý odstín pleti	-
+👨🏻‍🐰‍👨🏽	muži se zaječími oušky světlý odstín pleti, střední odstín pleti	-
+👨🏻‍🐰‍👨🏾	muži se zaječími oušky světlý odstín pleti, středně tmavý odstín pleti	-
+👨🏻‍🐰‍👨🏿	muži se zaječími oušky světlý odstín pleti, tmavý odstín pleti	-
+👨🏼‍🐰‍👨🏻	muži se zaječími oušky středně světlý odstín pleti, světlý odstín pleti	-
+👨🏼‍🐰‍👨🏽	muži se zaječími oušky středně světlý odstín pleti, střední odstín pleti	-
+👨🏼‍🐰‍👨🏾	muži se zaječími oušky středně světlý odstín pleti, středně tmavý odstín pleti	-
+👨🏼‍🐰‍👨🏿	muži se zaječími oušky středně světlý odstín pleti, tmavý odstín pleti	-
+👨🏽‍🐰‍👨🏻	muži se zaječími oušky střední odstín pleti, světlý odstín pleti	-
+👨🏽‍🐰‍👨🏼	muži se zaječími oušky střední odstín pleti, středně světlý odstín pleti	-
+👨🏽‍🐰‍👨🏾	muži se zaječími oušky střední odstín pleti, středně tmavý odstín pleti	-
+👨🏽‍🐰‍👨🏿	muži se zaječími oušky střední odstín pleti, tmavý odstín pleti	-
+👨🏾‍🐰‍👨🏻	muži se zaječími oušky středně tmavý odstín pleti, světlý odstín pleti	-
+👨🏾‍🐰‍👨🏼	muži se zaječími oušky středně tmavý odstín pleti, středně světlý odstín pleti	-
+👨🏾‍🐰‍👨🏽	muži se zaječími oušky středně tmavý odstín pleti, střední odstín pleti	-
+👨🏾‍🐰‍👨🏿	muži se zaječími oušky středně tmavý odstín pleti, tmavý odstín pleti	-
+👨🏿‍🐰‍👨🏻	muži se zaječími oušky tmavý odstín pleti, světlý odstín pleti	-
+👨🏿‍🐰‍👨🏼	muži se zaječími oušky tmavý odstín pleti, středně světlý odstín pleti	-
+👨🏿‍🐰‍👨🏽	muži se zaječími oušky tmavý odstín pleti, střední odstín pleti	-
+👨🏿‍🐰‍👨🏾	muži se zaječími oušky tmavý odstín pleti, středně tmavý odstín pleti	-
 👩🏻	žena světlý odstín pleti	-
 👩🏼	žena středně světlý odstín pleti	-
 👩🏽	žena střední odstín pleti	-
@@ -2515,6 +2613,26 @@ $	dolar	-
 👩🏿‍❤‍👩🏽	pár se srdcem žena, žena, tmavý odstín pleti a střední odstín pleti	-
 👩🏿‍❤‍👩🏾	pár se srdcem žena, žena, tmavý odstín pleti a středně tmavý odstín pleti	-
 👩🏿‍❤‍👩🏿	pár se srdcem žena, žena a tmavý odstín pleti	-
+👩🏻‍🫯‍👩🏼	zápasící ženy světlý odstín pleti, středně světlý odstín pleti	-
+👩🏻‍🫯‍👩🏽	zápasící ženy světlý odstín pleti, střední odstín pleti	-
+👩🏻‍🫯‍👩🏾	zápasící ženy světlý odstín pleti, středně tmavý odstín pleti	-
+👩🏻‍🫯‍👩🏿	zápasící ženy světlý odstín pleti, tmavý odstín pleti	-
+👩🏼‍🫯‍👩🏻	zápasící ženy středně světlý odstín pleti, světlý odstín pleti	-
+👩🏼‍🫯‍👩🏽	zápasící ženy středně světlý odstín pleti, střední odstín pleti	-
+👩🏼‍🫯‍👩🏾	zápasící ženy středně světlý odstín pleti, středně tmavý odstín pleti	-
+👩🏼‍🫯‍👩🏿	zápasící ženy středně světlý odstín pleti, tmavý odstín pleti	-
+👩🏽‍🫯‍👩🏻	zápasící ženy střední odstín pleti, světlý odstín pleti	-
+👩🏽‍🫯‍👩🏼	zápasící ženy střední odstín pleti, středně světlý odstín pleti	-
+👩🏽‍🫯‍👩🏾	zápasící ženy střední odstín pleti, středně tmavý odstín pleti	-
+👩🏽‍🫯‍👩🏿	zápasící ženy střední odstín pleti, tmavý odstín pleti	-
+👩🏾‍🫯‍👩🏻	zápasící ženy středně tmavý odstín pleti, světlý odstín pleti	-
+👩🏾‍🫯‍👩🏼	zápasící ženy středně tmavý odstín pleti, středně světlý odstín pleti	-
+👩🏾‍🫯‍👩🏽	zápasící ženy středně tmavý odstín pleti, střední odstín pleti	-
+👩🏾‍🫯‍👩🏿	zápasící ženy středně tmavý odstín pleti, tmavý odstín pleti	-
+👩🏿‍🫯‍👩🏻	zápasící ženy tmavý odstín pleti, světlý odstín pleti	-
+👩🏿‍🫯‍👩🏼	zápasící ženy tmavý odstín pleti, středně světlý odstín pleti	-
+👩🏿‍🫯‍👩🏽	zápasící ženy tmavý odstín pleti, střední odstín pleti	-
+👩🏿‍🫯‍👩🏾	zápasící ženy tmavý odstín pleti, středně tmavý odstín pleti	-
 👩‍🦰	žena zrzavé vlasy	-
 👩🏻‍🦰	žena světlý odstín pleti, zrzavé vlasy	-
 👩🏼‍🦰	žena středně světlý odstín pleti, zrzavé vlasy	-
@@ -2539,6 +2657,26 @@ $	dolar	-
 👩🏽‍🦲	žena střední odstín pleti, bez vlasů	-
 👩🏾‍🦲	žena středně tmavý odstín pleti, bez vlasů	-
 👩🏿‍🦲	žena tmavý odstín pleti, bez vlasů	-
+👩🏻‍🐰‍👩🏼	ženy se zaječími oušky světlý odstín pleti, středně světlý odstín pleti	-
+👩🏻‍🐰‍👩🏽	ženy se zaječími oušky světlý odstín pleti, střední odstín pleti	-
+👩🏻‍🐰‍👩🏾	ženy se zaječími oušky světlý odstín pleti, středně tmavý odstín pleti	-
+👩🏻‍🐰‍👩🏿	ženy se zaječími oušky světlý odstín pleti, tmavý odstín pleti	-
+👩🏼‍🐰‍👩🏻	ženy se zaječími oušky středně světlý odstín pleti, světlý odstín pleti	-
+👩🏼‍🐰‍👩🏽	ženy se zaječími oušky středně světlý odstín pleti, střední odstín pleti	-
+👩🏼‍🐰‍👩🏾	ženy se zaječími oušky středně světlý odstín pleti, středně tmavý odstín pleti	-
+👩🏼‍🐰‍👩🏿	ženy se zaječími oušky středně světlý odstín pleti, tmavý odstín pleti	-
+👩🏽‍🐰‍👩🏻	ženy se zaječími oušky střední odstín pleti, světlý odstín pleti	-
+👩🏽‍🐰‍👩🏼	ženy se zaječími oušky střední odstín pleti, středně světlý odstín pleti	-
+👩🏽‍🐰‍👩🏾	ženy se zaječími oušky střední odstín pleti, středně tmavý odstín pleti	-
+👩🏽‍🐰‍👩🏿	ženy se zaječími oušky střední odstín pleti, tmavý odstín pleti	-
+👩🏾‍🐰‍👩🏻	ženy se zaječími oušky středně tmavý odstín pleti, světlý odstín pleti	-
+👩🏾‍🐰‍👩🏼	ženy se zaječími oušky středně tmavý odstín pleti, středně světlý odstín pleti	-
+👩🏾‍🐰‍👩🏽	ženy se zaječími oušky středně tmavý odstín pleti, střední odstín pleti	-
+👩🏾‍🐰‍👩🏿	ženy se zaječími oušky středně tmavý odstín pleti, tmavý odstín pleti	-
+👩🏿‍🐰‍👩🏻	ženy se zaječími oušky tmavý odstín pleti, světlý odstín pleti	-
+👩🏿‍🐰‍👩🏼	ženy se zaječími oušky tmavý odstín pleti, středně světlý odstín pleti	-
+👩🏿‍🐰‍👩🏽	ženy se zaječími oušky tmavý odstín pleti, střední odstín pleti	-
+👩🏿‍🐰‍👩🏾	ženy se zaječími oušky tmavý odstín pleti, středně tmavý odstín pleti	-
 🧓🏻	starší dospělý člověk světlý odstín pleti	-
 🧓🏼	starší dospělý člověk středně světlý odstín pleti	-
 🧓🏽	starší dospělý člověk střední odstín pleti	-
@@ -3482,6 +3620,11 @@ $	dolar	-
 🏃🏽‍♂‍➡	běžící muž střední odstín pleti, – směr doprava	-
 🏃🏾‍♂‍➡	běžící muž středně tmavý odstín pleti, – směr doprava	-
 🏃🏿‍♂‍➡	běžící muž tmavý odstín pleti, – směr doprava	-
+🧑🏻‍🩰	baletní tanečník světlý odstín pleti	-
+🧑🏼‍🩰	baletní tanečník středně světlý odstín pleti	-
+🧑🏽‍🩰	baletní tanečník střední odstín pleti	-
+🧑🏾‍🩰	baletní tanečník středně tmavý odstín pleti	-
+🧑🏿‍🩰	baletní tanečník tmavý odstín pleti	-
 💃🏻	tanečnice světlý odstín pleti	-
 💃🏼	tanečnice středně světlý odstín pleti	-
 💃🏽	tanečnice střední odstín pleti	-
@@ -3497,6 +3640,21 @@ $	dolar	-
 🕴🏽	levitující byznysmen střední odstín pleti	-
 🕴🏾	levitující byznysmen středně tmavý odstín pleti	-
 🕴🏿	levitující byznysmen tmavý odstín pleti	-
+👯🏻	osoby se zaječími oušky světlý odstín pleti	-
+👯🏼	osoby se zaječími oušky středně světlý odstín pleti	-
+👯🏽	osoby se zaječími oušky střední odstín pleti	-
+👯🏾	osoby se zaječími oušky středně tmavý odstín pleti	-
+👯🏿	osoby se zaječími oušky tmavý odstín pleti	-
+👯🏻‍♂	muži se zaječími oušky světlý odstín pleti	-
+👯🏼‍♂	muži se zaječími oušky středně světlý odstín pleti	-
+👯🏽‍♂	muži se zaječími oušky střední odstín pleti	-
+👯🏾‍♂	muži se zaječími oušky středně tmavý odstín pleti	-
+👯🏿‍♂	muži se zaječími oušky tmavý odstín pleti	-
+👯🏻‍♀	ženy se zaječími oušky světlý odstín pleti	-
+👯🏼‍♀	ženy se zaječími oušky středně světlý odstín pleti	-
+👯🏽‍♀	ženy se zaječími oušky střední odstín pleti	-
+👯🏾‍♀	ženy se zaječími oušky středně tmavý odstín pleti	-
+👯🏿‍♀	ženy se zaječími oušky tmavý odstín pleti	-
 🧖🏻	osoba v sauně světlý odstín pleti	-
 🧖🏼	osoba v sauně středně světlý odstín pleti	-
 🧖🏽	osoba v sauně střední odstín pleti	-
@@ -3672,6 +3830,21 @@ $	dolar	-
 🤸🏽‍♀	žena dělající přemet stranou střední odstín pleti	-
 🤸🏾‍♀	žena dělající přemet stranou středně tmavý odstín pleti	-
 🤸🏿‍♀	žena dělající přemet stranou tmavý odstín pleti	-
+🤼🏻	zápasící dvojice světlý odstín pleti	-
+🤼🏼	zápasící dvojice středně světlý odstín pleti	-
+🤼🏽	zápasící dvojice střední odstín pleti	-
+🤼🏾	zápasící dvojice středně tmavý odstín pleti	-
+🤼🏿	zápasící dvojice tmavý odstín pleti	-
+🤼🏻‍♂	zápasící muži světlý odstín pleti	-
+🤼🏼‍♂	zápasící muži středně světlý odstín pleti	-
+🤼🏽‍♂	zápasící muži střední odstín pleti	-
+🤼🏾‍♂	zápasící muži středně tmavý odstín pleti	-
+🤼🏿‍♂	zápasící muži tmavý odstín pleti	-
+🤼🏻‍♀	zápasící ženy světlý odstín pleti	-
+🤼🏼‍♀	zápasící ženy středně světlý odstín pleti	-
+🤼🏽‍♀	zápasící ženy střední odstín pleti	-
+🤼🏾‍♀	zápasící ženy středně tmavý odstín pleti	-
+🤼🏿‍♀	zápasící ženy tmavý odstín pleti	-
 🤽🏻	osoba hrající vodní pólo světlý odstín pleti	-
 🤽🏼	osoba hrající vodní pólo středně světlý odstín pleti	-
 🤽🏽	osoba hrající vodní pólo střední odstín pleti	-
@@ -3937,6 +4110,7 @@ $	dolar	-
 🇨🇳	vlajka Čína	-
 🇨🇴	vlajka Kolumbie	-
 🇨🇵	vlajka Clippertonův ostrov	-
+🇨🇶	vlajka Sark	-
 🇨🇷	vlajka Kostarika	-
 🇨🇺	vlajka Kuba	-
 🇨🇻	vlajka Kapverdy	-
@@ -4166,14 +4340,4 @@ $	dolar	-
 ₺	turecká lira	-
 ₼	ázerbájdžánský manat	-
 ₾	gruzínské lari	-
-0⃣	klávesa 0	-
-1⃣	klávesa 1	-
-2⃣	klávesa 2	-
-3⃣	klávesa 3	-
-4⃣	klávesa 4	-
-5⃣	klávesa 5	-
-6⃣	klávesa 6	-
-7⃣	klávesa 7	-
-8⃣	klávesa 8	-
-9⃣	klávesa 9	-
 ₧	španělská peseta	-

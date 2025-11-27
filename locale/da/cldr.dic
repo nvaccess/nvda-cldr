@@ -433,6 +433,7 @@ _	lav streg	-
 😯	tavst ansigt	-
 😲	overrasket ansigt	-
 😳	rødmende ansigt	-
+🫪	forvrænget ansigt	-
 🥺	bønfaldende ansigt	-
 🥹	ansigt, der holder tårer tilbage	-
 😦	måbende ansigt med åben mund	-
@@ -506,6 +507,7 @@ _	lav streg	-
 💋	læbeaftryk	-
 💯	100 point	-
 💢	vrede	-
+🫯	slagsmålssky	-
 💥	kollision	-
 💫	svimmel	-
 💦	sveddråber	-
@@ -738,6 +740,7 @@ _	lav streg	-
 🧟‍♂	mandlig zombie	-
 🧟‍♀	kvindelig zombie	-
 🧌	trold	-
+🫈	behåret væsen	-
 💆	ansigtsmassage	-
 💆‍♂	mand får ansigtsmassage	-
 💆‍♀	kvinde får ansigtsmassage	-
@@ -765,6 +768,7 @@ _	lav streg	-
 🏃	løber	-
 🏃‍♂	mand løber	-
 🏃‍♀	kvinde løber	-
+🧑‍🩰	balletdanser	-
 💃	danser	-
 🕺	dansende mand	-
 🕴	svævende forretningsmand	-
@@ -946,6 +950,7 @@ _	lav streg	-
 🐳	hval med vandsprøjt	-
 🐋	hval	-
 🐬	delfin	-
+🫍	spækhugger	-
 🦭	sæl	-
 🐟	fisk	-
 🐠	tropisk fisk	-
@@ -1145,6 +1150,7 @@ _	lav streg	-
 🧭	kompas	-
 🏔	sneklædt bjerg	-
 ⛰	bjerg	-
+🛘	jordskred	-
 🌋	vulkan	-
 🗻	Fuji-bjerget	-
 🏕	camping	-
@@ -1505,10 +1511,11 @@ _	lav streg	-
 🎧	hovedtelefon	-
 📻	radio	-
 🎷	saxofon	-
+🎺	trompet	-
+🪊	basun	-
 🪗	akkordeon	-
 🎸	guitar	-
 🎹	klaver	-
-🎺	trompet	-
 🎻	violin	-
 🪕	banjo	-
 🥁	tromme	-
@@ -1569,8 +1576,9 @@ _	lav streg	-
 📑	faner	-
 🔖	bogmærke	-
 🏷	mærkat	-
-💰	pengepose	-
 🪙	mønt	-
+💰	pengepose	-
+🪎	skattekiste	-
 💴	yenseddel	-
 💵	dollarseddel	-
 💶	euroseddel	-
@@ -1941,6 +1949,16 @@ $	dollar	-
 ₹	indisk rupee	-
 ₽	rubel	-
 ₿	bitcoin	-
+0⃣	tast 0	-
+1⃣	tast 1	-
+2⃣	tast 2	-
+3⃣	tast 3	-
+4⃣	tast 4	-
+5⃣	tast 5	-
+6⃣	tast 6	-
+7⃣	tast 7	-
+8⃣	tast 8	-
+9⃣	tast 9	-
 ¹	hævet ettal	-
 ²	hævet total	-
 ³	hævet tretal	-
@@ -2282,6 +2300,26 @@ $	dollar	-
 🧑🏿‍❤‍🧑🏼	par med hjerte voksen, voksen, mørk teint og medium til lys teint	-
 🧑🏿‍❤‍🧑🏽	par med hjerte voksen, voksen, mørk teint og medium teint	-
 🧑🏿‍❤‍🧑🏾	par med hjerte voksen, voksen, mørk teint og medium til mørk teint	-
+🧑🏻‍🫯‍🧑🏼	brydere lys teint og medium til lys teint	-
+🧑🏻‍🫯‍🧑🏽	brydere lys teint og medium teint	-
+🧑🏻‍🫯‍🧑🏾	brydere lys teint og medium til mørk teint	-
+🧑🏻‍🫯‍🧑🏿	brydere lys teint og mørk teint	-
+🧑🏼‍🫯‍🧑🏻	brydere medium til lys teint og lys teint	-
+🧑🏼‍🫯‍🧑🏽	brydere medium til lys teint og medium teint	-
+🧑🏼‍🫯‍🧑🏾	brydere medium til lys teint og medium til mørk teint	-
+🧑🏼‍🫯‍🧑🏿	brydere medium til lys teint og mørk teint	-
+🧑🏽‍🫯‍🧑🏻	brydere medium teint og lys teint	-
+🧑🏽‍🫯‍🧑🏼	brydere medium teint og medium til lys teint	-
+🧑🏽‍🫯‍🧑🏾	brydere medium teint og medium til mørk teint	-
+🧑🏽‍🫯‍🧑🏿	brydere medium teint og mørk teint	-
+🧑🏾‍🫯‍🧑🏻	brydere medium til mørk teint og lys teint	-
+🧑🏾‍🫯‍🧑🏼	brydere medium til mørk teint og medium til lys teint	-
+🧑🏾‍🫯‍🧑🏽	brydere medium til mørk teint og medium teint	-
+🧑🏾‍🫯‍🧑🏿	brydere medium til mørk teint og mørk teint	-
+🧑🏿‍🫯‍🧑🏻	brydere mørk teint og lys teint	-
+🧑🏿‍🫯‍🧑🏼	brydere mørk teint og medium til lys teint	-
+🧑🏿‍🫯‍🧑🏽	brydere mørk teint og medium teint	-
+🧑🏿‍🫯‍🧑🏾	brydere mørk teint og medium til mørk teint	-
 🧑‍🦰	voksen rødt hår	-
 🧑🏻‍🦰	voksen lys teint og rødt hår	-
 🧑🏼‍🦰	voksen medium til lys teint og rødt hår	-
@@ -2306,6 +2344,26 @@ $	dollar	-
 🧑🏽‍🦲	voksen medium teint og skaldet	-
 🧑🏾‍🦲	voksen medium til mørk teint og skaldet	-
 🧑🏿‍🦲	voksen mørk teint og skaldet	-
+🧑🏻‍🐰‍🧑🏼	personer med kaninører lys teint og medium til lys teint	-
+🧑🏻‍🐰‍🧑🏽	personer med kaninører lys teint og medium teint	-
+🧑🏻‍🐰‍🧑🏾	personer med kaninører lys teint og medium til mørk teint	-
+🧑🏻‍🐰‍🧑🏿	personer med kaninører lys teint og mørk teint	-
+🧑🏼‍🐰‍🧑🏻	personer med kaninører medium til lys teint og lys teint	-
+🧑🏼‍🐰‍🧑🏽	personer med kaninører medium til lys teint og medium teint	-
+🧑🏼‍🐰‍🧑🏾	personer med kaninører medium til lys teint og medium til mørk teint	-
+🧑🏼‍🐰‍🧑🏿	personer med kaninører medium til lys teint og mørk teint	-
+🧑🏽‍🐰‍🧑🏻	personer med kaninører medium teint og lys teint	-
+🧑🏽‍🐰‍🧑🏼	personer med kaninører medium teint og medium til lys teint	-
+🧑🏽‍🐰‍🧑🏾	personer med kaninører medium teint og medium til mørk teint	-
+🧑🏽‍🐰‍🧑🏿	personer med kaninører medium teint og mørk teint	-
+🧑🏾‍🐰‍🧑🏻	personer med kaninører medium til mørk teint og lys teint	-
+🧑🏾‍🐰‍🧑🏼	personer med kaninører medium til mørk teint og medium til lys teint	-
+🧑🏾‍🐰‍🧑🏽	personer med kaninører medium til mørk teint og medium teint	-
+🧑🏾‍🐰‍🧑🏿	personer med kaninører medium til mørk teint og mørk teint	-
+🧑🏿‍🐰‍🧑🏻	personer med kaninører mørk teint og lys teint	-
+🧑🏿‍🐰‍🧑🏼	personer med kaninører mørk teint og medium til lys teint	-
+🧑🏿‍🐰‍🧑🏽	personer med kaninører mørk teint og medium teint	-
+🧑🏿‍🐰‍🧑🏾	personer med kaninører mørk teint og medium til mørk teint	-
 👨🏻	mand lys teint	-
 👨🏼	mand medium til lys teint	-
 👨🏽	mand medium teint	-
@@ -2376,6 +2434,26 @@ $	dollar	-
 👨🏿‍❤‍👨🏽	par med hjerte mand, mand, mørk teint og medium teint	-
 👨🏿‍❤‍👨🏾	par med hjerte mand, mand, mørk teint og medium til mørk teint	-
 👨🏿‍❤‍👨🏿	par med hjerte mand, mand og mørk teint	-
+👨🏻‍🫯‍👨🏼	mandlige brydere lys teint og medium til lys teint	-
+👨🏻‍🫯‍👨🏽	mandlige brydere lys teint og medium teint	-
+👨🏻‍🫯‍👨🏾	mandlige brydere lys teint og medium til mørk teint	-
+👨🏻‍🫯‍👨🏿	mandlige brydere lys teint og mørk teint	-
+👨🏼‍🫯‍👨🏻	mandlige brydere medium til lys teint og lys teint	-
+👨🏼‍🫯‍👨🏽	mandlige brydere medium til lys teint og medium teint	-
+👨🏼‍🫯‍👨🏾	mandlige brydere medium til lys teint og medium til mørk teint	-
+👨🏼‍🫯‍👨🏿	mandlige brydere medium til lys teint og mørk teint	-
+👨🏽‍🫯‍👨🏻	mandlige brydere medium teint og lys teint	-
+👨🏽‍🫯‍👨🏼	mandlige brydere medium teint og medium til lys teint	-
+👨🏽‍🫯‍👨🏾	mandlige brydere medium teint og medium til mørk teint	-
+👨🏽‍🫯‍👨🏿	mandlige brydere medium teint og mørk teint	-
+👨🏾‍🫯‍👨🏻	mandlige brydere medium til mørk teint og lys teint	-
+👨🏾‍🫯‍👨🏼	mandlige brydere medium til mørk teint og medium til lys teint	-
+👨🏾‍🫯‍👨🏽	mandlige brydere medium til mørk teint og medium teint	-
+👨🏾‍🫯‍👨🏿	mandlige brydere medium til mørk teint og mørk teint	-
+👨🏿‍🫯‍👨🏻	mandlige brydere mørk teint og lys teint	-
+👨🏿‍🫯‍👨🏼	mandlige brydere mørk teint og medium til lys teint	-
+👨🏿‍🫯‍👨🏽	mandlige brydere mørk teint og medium teint	-
+👨🏿‍🫯‍👨🏾	mandlige brydere mørk teint og medium til mørk teint	-
 👨‍🦰	mand rødt hår	-
 👨🏻‍🦰	mand lys teint og rødt hår	-
 👨🏼‍🦰	mand medium til lys teint og rødt hår	-
@@ -2400,6 +2478,26 @@ $	dollar	-
 👨🏽‍🦲	mand medium teint og skaldet	-
 👨🏾‍🦲	mand medium til mørk teint og skaldet	-
 👨🏿‍🦲	mand mørk teint og skaldet	-
+👨🏻‍🐰‍👨🏼	mænd med kaninører lys teint og medium til lys teint	-
+👨🏻‍🐰‍👨🏽	mænd med kaninører lys teint og medium teint	-
+👨🏻‍🐰‍👨🏾	mænd med kaninører lys teint og medium til mørk teint	-
+👨🏻‍🐰‍👨🏿	mænd med kaninører lys teint og mørk teint	-
+👨🏼‍🐰‍👨🏻	mænd med kaninører medium til lys teint og lys teint	-
+👨🏼‍🐰‍👨🏽	mænd med kaninører medium til lys teint og medium teint	-
+👨🏼‍🐰‍👨🏾	mænd med kaninører medium til lys teint og medium til mørk teint	-
+👨🏼‍🐰‍👨🏿	mænd med kaninører medium til lys teint og mørk teint	-
+👨🏽‍🐰‍👨🏻	mænd med kaninører medium teint og lys teint	-
+👨🏽‍🐰‍👨🏼	mænd med kaninører medium teint og medium til lys teint	-
+👨🏽‍🐰‍👨🏾	mænd med kaninører medium teint og medium til mørk teint	-
+👨🏽‍🐰‍👨🏿	mænd med kaninører medium teint og mørk teint	-
+👨🏾‍🐰‍👨🏻	mænd med kaninører medium til mørk teint og lys teint	-
+👨🏾‍🐰‍👨🏼	mænd med kaninører medium til mørk teint og medium til lys teint	-
+👨🏾‍🐰‍👨🏽	mænd med kaninører medium til mørk teint og medium teint	-
+👨🏾‍🐰‍👨🏿	mænd med kaninører medium til mørk teint og mørk teint	-
+👨🏿‍🐰‍👨🏻	mænd med kaninører mørk teint og lys teint	-
+👨🏿‍🐰‍👨🏼	mænd med kaninører mørk teint og medium til lys teint	-
+👨🏿‍🐰‍👨🏽	mænd med kaninører mørk teint og medium teint	-
+👨🏿‍🐰‍👨🏾	mænd med kaninører mørk teint og medium til mørk teint	-
 👩🏻	kvinde lys teint	-
 👩🏼	kvinde medium til lys teint	-
 👩🏽	kvinde medium teint	-
@@ -2515,6 +2613,26 @@ $	dollar	-
 👩🏿‍❤‍👩🏽	par med hjerte kvinde, kvinde, mørk teint og medium teint	-
 👩🏿‍❤‍👩🏾	par med hjerte kvinde, kvinde, mørk teint og medium til mørk teint	-
 👩🏿‍❤‍👩🏿	par med hjerte kvinde, kvinde og mørk teint	-
+👩🏻‍🫯‍👩🏼	kvindelige brydere lys teint og medium til lys teint	-
+👩🏻‍🫯‍👩🏽	kvindelige brydere lys teint og medium teint	-
+👩🏻‍🫯‍👩🏾	kvindelige brydere lys teint og medium til mørk teint	-
+👩🏻‍🫯‍👩🏿	kvindelige brydere lys teint og mørk teint	-
+👩🏼‍🫯‍👩🏻	kvindelige brydere medium til lys teint og lys teint	-
+👩🏼‍🫯‍👩🏽	kvindelige brydere medium til lys teint og medium teint	-
+👩🏼‍🫯‍👩🏾	kvindelige brydere medium til lys teint og medium til mørk teint	-
+👩🏼‍🫯‍👩🏿	kvindelige brydere medium til lys teint og mørk teint	-
+👩🏽‍🫯‍👩🏻	kvindelige brydere medium teint og lys teint	-
+👩🏽‍🫯‍👩🏼	kvindelige brydere medium teint og medium til lys teint	-
+👩🏽‍🫯‍👩🏾	kvindelige brydere medium teint og medium til mørk teint	-
+👩🏽‍🫯‍👩🏿	kvindelige brydere medium teint og mørk teint	-
+👩🏾‍🫯‍👩🏻	kvindelige brydere medium til mørk teint og lys teint	-
+👩🏾‍🫯‍👩🏼	kvindelige brydere medium til mørk teint og medium til lys teint	-
+👩🏾‍🫯‍👩🏽	kvindelige brydere medium til mørk teint og medium teint	-
+👩🏾‍🫯‍👩🏿	kvindelige brydere medium til mørk teint og mørk teint	-
+👩🏿‍🫯‍👩🏻	kvindelige brydere mørk teint og lys teint	-
+👩🏿‍🫯‍👩🏼	kvindelige brydere mørk teint og medium til lys teint	-
+👩🏿‍🫯‍👩🏽	kvindelige brydere mørk teint og medium teint	-
+👩🏿‍🫯‍👩🏾	kvindelige brydere mørk teint og medium til mørk teint	-
 👩‍🦰	kvinde rødt hår	-
 👩🏻‍🦰	kvinde lys teint og rødt hår	-
 👩🏼‍🦰	kvinde medium til lys teint og rødt hår	-
@@ -2539,6 +2657,26 @@ $	dollar	-
 👩🏽‍🦲	kvinde medium teint og skaldet	-
 👩🏾‍🦲	kvinde medium til mørk teint og skaldet	-
 👩🏿‍🦲	kvinde mørk teint og skaldet	-
+👩🏻‍🐰‍👩🏼	kvinder med kaninører lys teint og medium til lys teint	-
+👩🏻‍🐰‍👩🏽	kvinder med kaninører lys teint og medium teint	-
+👩🏻‍🐰‍👩🏾	kvinder med kaninører lys teint og medium til mørk teint	-
+👩🏻‍🐰‍👩🏿	kvinder med kaninører lys teint og mørk teint	-
+👩🏼‍🐰‍👩🏻	kvinder med kaninører medium til lys teint og lys teint	-
+👩🏼‍🐰‍👩🏽	kvinder med kaninører medium til lys teint og medium teint	-
+👩🏼‍🐰‍👩🏾	kvinder med kaninører medium til lys teint og medium til mørk teint	-
+👩🏼‍🐰‍👩🏿	kvinder med kaninører medium til lys teint og mørk teint	-
+👩🏽‍🐰‍👩🏻	kvinder med kaninører medium teint og lys teint	-
+👩🏽‍🐰‍👩🏼	kvinder med kaninører medium teint og medium til lys teint	-
+👩🏽‍🐰‍👩🏾	kvinder med kaninører medium teint og medium til mørk teint	-
+👩🏽‍🐰‍👩🏿	kvinder med kaninører medium teint og mørk teint	-
+👩🏾‍🐰‍👩🏻	kvinder med kaninører medium til mørk teint og lys teint	-
+👩🏾‍🐰‍👩🏼	kvinder med kaninører medium til mørk teint og medium til lys teint	-
+👩🏾‍🐰‍👩🏽	kvinder med kaninører medium til mørk teint og medium teint	-
+👩🏾‍🐰‍👩🏿	kvinder med kaninører medium til mørk teint og mørk teint	-
+👩🏿‍🐰‍👩🏻	kvinder med kaninører mørk teint og lys teint	-
+👩🏿‍🐰‍👩🏼	kvinder med kaninører mørk teint og medium til lys teint	-
+👩🏿‍🐰‍👩🏽	kvinder med kaninører mørk teint og medium teint	-
+👩🏿‍🐰‍👩🏾	kvinder med kaninører mørk teint og medium til mørk teint	-
 🧓🏻	ældre menneske lys teint	-
 🧓🏼	ældre menneske medium til lys teint	-
 🧓🏽	ældre menneske medium teint	-
@@ -3482,6 +3620,11 @@ $	dollar	-
 🏃🏽‍♂‍➡	mand løber medium teint og mod højre	-
 🏃🏾‍♂‍➡	mand løber medium til mørk teint og mod højre	-
 🏃🏿‍♂‍➡	mand løber mørk teint og mod højre	-
+🧑🏻‍🩰	balletdanser lys teint	-
+🧑🏼‍🩰	balletdanser medium til lys teint	-
+🧑🏽‍🩰	balletdanser medium teint	-
+🧑🏾‍🩰	balletdanser medium til mørk teint	-
+🧑🏿‍🩰	balletdanser mørk teint	-
 💃🏻	danser lys teint	-
 💃🏼	danser medium til lys teint	-
 💃🏽	danser medium teint	-
@@ -3497,6 +3640,21 @@ $	dollar	-
 🕴🏽	svævende forretningsmand medium teint	-
 🕴🏾	svævende forretningsmand medium til mørk teint	-
 🕴🏿	svævende forretningsmand mørk teint	-
+👯🏻	personer med kaninører lys teint	-
+👯🏼	personer med kaninører medium til lys teint	-
+👯🏽	personer med kaninører medium teint	-
+👯🏾	personer med kaninører medium til mørk teint	-
+👯🏿	personer med kaninører mørk teint	-
+👯🏻‍♂	mænd med kaninører lys teint	-
+👯🏼‍♂	mænd med kaninører medium til lys teint	-
+👯🏽‍♂	mænd med kaninører medium teint	-
+👯🏾‍♂	mænd med kaninører medium til mørk teint	-
+👯🏿‍♂	mænd med kaninører mørk teint	-
+👯🏻‍♀	kvinder med kaninører lys teint	-
+👯🏼‍♀	kvinder med kaninører medium til lys teint	-
+👯🏽‍♀	kvinder med kaninører medium teint	-
+👯🏾‍♀	kvinder med kaninører medium til mørk teint	-
+👯🏿‍♀	kvinder med kaninører mørk teint	-
 🧖🏻	person i dampbad lys teint	-
 🧖🏼	person i dampbad medium til lys teint	-
 🧖🏽	person i dampbad medium teint	-
@@ -3672,6 +3830,21 @@ $	dollar	-
 🤸🏽‍♀	kvinde slår vejrmøller medium teint	-
 🤸🏾‍♀	kvinde slår vejrmøller medium til mørk teint	-
 🤸🏿‍♀	kvinde slår vejrmøller mørk teint	-
+🤼🏻	brydere lys teint	-
+🤼🏼	brydere medium til lys teint	-
+🤼🏽	brydere medium teint	-
+🤼🏾	brydere medium til mørk teint	-
+🤼🏿	brydere mørk teint	-
+🤼🏻‍♂	mandlige brydere lys teint	-
+🤼🏼‍♂	mandlige brydere medium til lys teint	-
+🤼🏽‍♂	mandlige brydere medium teint	-
+🤼🏾‍♂	mandlige brydere medium til mørk teint	-
+🤼🏿‍♂	mandlige brydere mørk teint	-
+🤼🏻‍♀	kvindelige brydere lys teint	-
+🤼🏼‍♀	kvindelige brydere medium til lys teint	-
+🤼🏽‍♀	kvindelige brydere medium teint	-
+🤼🏾‍♀	kvindelige brydere medium til mørk teint	-
+🤼🏿‍♀	kvindelige brydere mørk teint	-
 🤽🏻	vandpolospiller lys teint	-
 🤽🏼	vandpolospiller medium til lys teint	-
 🤽🏽	vandpolospiller medium teint	-

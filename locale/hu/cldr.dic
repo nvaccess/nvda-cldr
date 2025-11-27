@@ -398,8 +398,8 @@ _	aláhúzásjel	-
 😮‍💨	levegőt kifújó arc	-
 🤥	hazudó arc	-
 🫨	rázkódó arc	-
-🙂‍↔	vízszintesen rázkódó arc	-
-🙂‍↕	függőlegesen rázkódó arc	-
+🙂‍↔	vízszintes fejrázás	-
+🙂‍↕	függőleges fejrázás	-
 😌	megkönnyebbült arc	-
 😔	elgondolkodó arc	-
 😪	álmos arc	-
@@ -433,6 +433,7 @@ _	aláhúzásjel	-
 😯	meglepődött arc	-
 😲	lenyűgözött arc	-
 😳	elpirult arc	-
+🫪	eltorzult arc	-
 🥺	esedező arc	-
 🥹	könnyeivel küszködő arc	-
 😦	rosszalló arc nyitott szájjal	-
@@ -506,6 +507,7 @@ _	aláhúzásjel	-
 💋	csóknyom	-
 💯	száz pont	-
 💢	a düh szimbóluma	-
+🫯	verekedésfelhő	-
 💥	ütközés	-
 💫	szédülés	-
 💦	izzadságcseppek	-
@@ -738,6 +740,7 @@ _	aláhúzásjel	-
 🧟‍♂	férfi zombi	-
 🧟‍♀	női zombi	-
 🧌	troll	-
+🫈	szőrös lény	-
 💆	arcmasszázs	-
 💆‍♂	férfi arcmasszázson	-
 💆‍♀	nő arcmasszázson	-
@@ -765,6 +768,7 @@ _	aláhúzásjel	-
 🏃	futó	-
 🏃‍♂	futó férfi	-
 🏃‍♀	futó nő	-
+🧑‍🩰	balett-táncos	-
 💃	táncoló nő	-
 🕺	táncoló férfi	-
 🕴	öltönyös, lebegő ember	-
@@ -946,6 +950,7 @@ _	aláhúzásjel	-
 🐳	fröcskölő bálna	-
 🐋	bálna	-
 🐬	delfin	-
+🫍	kardszárnyú delfin	-
 🦭	fóka	-
 🐟	hal	-
 🐠	trópusi hal	-
@@ -1145,6 +1150,7 @@ _	aláhúzásjel	-
 🧭	iránytű	-
 🏔	hegy hótakaróval	-
 ⛰	hegy	-
+🛘	földcsuszamlás	-
 🌋	vulkán	-
 🗻	Fudzsi-hegy	-
 🏕	sátorozás	-
@@ -1505,10 +1511,11 @@ _	aláhúzásjel	-
 🎧	fülhallgató	-
 📻	rádió	-
 🎷	szaxofon	-
+🎺	trombita	-
+🪊	harsona	-
 🪗	harmonika	-
 🎸	gitár	-
 🎹	zenei billentyűzet	-
-🎺	trombita	-
 🎻	hegedű	-
 🪕	bendzsó	-
 🥁	dob	-
@@ -1569,8 +1576,9 @@ _	aláhúzásjel	-
 📑	könyvjelzők	-
 🔖	könyvjelző	-
 🏷	címke	-
-💰	pénzeszsák	-
 🪙	érme	-
+💰	pénzeszsák	-
+🪎	kincsesláda	-
 💴	jen bankjegy	-
 💵	dollár bankjegy	-
 💶	euró bankjegy	-
@@ -1941,6 +1949,16 @@ $	dollár	-
 ₹	indiai rúpia	-
 ₽	rubel	-
 ₿	bitcoin	-
+0⃣	gombfej 0	-
+1⃣	gombfej 1	-
+2⃣	gombfej 2	-
+3⃣	gombfej 3	-
+4⃣	gombfej 4	-
+5⃣	gombfej 5	-
+6⃣	gombfej 6	-
+7⃣	gombfej 7	-
+8⃣	gombfej 8	-
+9⃣	gombfej 9	-
 ¹	egyes felső index	-
 ²	kettes felső index	-
 ³	hármas felső index	-
@@ -2282,6 +2300,26 @@ $	dollár	-
 🧑🏿‍❤‍🧑🏼	pár szívvel felnőtt, felnőtt, sötét bőrtónus és közepesen világos bőrtónus	-
 🧑🏿‍❤‍🧑🏽	pár szívvel felnőtt, felnőtt, sötét bőrtónus és közepes bőrtónus	-
 🧑🏿‍❤‍🧑🏾	pár szívvel felnőtt, felnőtt, sötét bőrtónus és közepesen sötét bőrtónus	-
+🧑🏻‍🫯‍🧑🏼	birkózók világos bőrtónus és közepesen világos bőrtónus	-
+🧑🏻‍🫯‍🧑🏽	birkózók világos bőrtónus és közepes bőrtónus	-
+🧑🏻‍🫯‍🧑🏾	birkózók világos bőrtónus és közepesen sötét bőrtónus	-
+🧑🏻‍🫯‍🧑🏿	birkózók világos bőrtónus és sötét bőrtónus	-
+🧑🏼‍🫯‍🧑🏻	birkózók közepesen világos bőrtónus és világos bőrtónus	-
+🧑🏼‍🫯‍🧑🏽	birkózók közepesen világos bőrtónus és közepes bőrtónus	-
+🧑🏼‍🫯‍🧑🏾	birkózók közepesen világos bőrtónus és közepesen sötét bőrtónus	-
+🧑🏼‍🫯‍🧑🏿	birkózók közepesen világos bőrtónus és sötét bőrtónus	-
+🧑🏽‍🫯‍🧑🏻	birkózók közepes bőrtónus és világos bőrtónus	-
+🧑🏽‍🫯‍🧑🏼	birkózók közepes bőrtónus és közepesen világos bőrtónus	-
+🧑🏽‍🫯‍🧑🏾	birkózók közepes bőrtónus és közepesen sötét bőrtónus	-
+🧑🏽‍🫯‍🧑🏿	birkózók közepes bőrtónus és sötét bőrtónus	-
+🧑🏾‍🫯‍🧑🏻	birkózók közepesen sötét bőrtónus és világos bőrtónus	-
+🧑🏾‍🫯‍🧑🏼	birkózók közepesen sötét bőrtónus és közepesen világos bőrtónus	-
+🧑🏾‍🫯‍🧑🏽	birkózók közepesen sötét bőrtónus és közepes bőrtónus	-
+🧑🏾‍🫯‍🧑🏿	birkózók közepesen sötét bőrtónus és sötét bőrtónus	-
+🧑🏿‍🫯‍🧑🏻	birkózók sötét bőrtónus és világos bőrtónus	-
+🧑🏿‍🫯‍🧑🏼	birkózók sötét bőrtónus és közepesen világos bőrtónus	-
+🧑🏿‍🫯‍🧑🏽	birkózók sötét bőrtónus és közepes bőrtónus	-
+🧑🏿‍🫯‍🧑🏾	birkózók sötét bőrtónus és közepesen sötét bőrtónus	-
 🧑‍🦰	felnőtt vörös haj	-
 🧑🏻‍🦰	felnőtt világos bőrtónus és vörös haj	-
 🧑🏼‍🦰	felnőtt közepesen világos bőrtónus és vörös haj	-
@@ -2306,6 +2344,26 @@ $	dollár	-
 🧑🏽‍🦲	felnőtt közepes bőrtónus és kopasz	-
 🧑🏾‍🦲	felnőtt közepesen sötét bőrtónus és kopasz	-
 🧑🏿‍🦲	felnőtt sötét bőrtónus és kopasz	-
+🧑🏻‍🐰‍🧑🏼	bulizó emberek világos bőrtónus és közepesen világos bőrtónus	-
+🧑🏻‍🐰‍🧑🏽	bulizó emberek világos bőrtónus és közepes bőrtónus	-
+🧑🏻‍🐰‍🧑🏾	bulizó emberek világos bőrtónus és közepesen sötét bőrtónus	-
+🧑🏻‍🐰‍🧑🏿	bulizó emberek világos bőrtónus és sötét bőrtónus	-
+🧑🏼‍🐰‍🧑🏻	bulizó emberek közepesen világos bőrtónus és világos bőrtónus	-
+🧑🏼‍🐰‍🧑🏽	bulizó emberek közepesen világos bőrtónus és közepes bőrtónus	-
+🧑🏼‍🐰‍🧑🏾	bulizó emberek közepesen világos bőrtónus és közepesen sötét bőrtónus	-
+🧑🏼‍🐰‍🧑🏿	bulizó emberek közepesen világos bőrtónus és sötét bőrtónus	-
+🧑🏽‍🐰‍🧑🏻	bulizó emberek közepes bőrtónus és világos bőrtónus	-
+🧑🏽‍🐰‍🧑🏼	bulizó emberek közepes bőrtónus és közepesen világos bőrtónus	-
+🧑🏽‍🐰‍🧑🏾	bulizó emberek közepes bőrtónus és közepesen sötét bőrtónus	-
+🧑🏽‍🐰‍🧑🏿	bulizó emberek közepes bőrtónus és sötét bőrtónus	-
+🧑🏾‍🐰‍🧑🏻	bulizó emberek közepesen sötét bőrtónus és világos bőrtónus	-
+🧑🏾‍🐰‍🧑🏼	bulizó emberek közepesen sötét bőrtónus és közepesen világos bőrtónus	-
+🧑🏾‍🐰‍🧑🏽	bulizó emberek közepesen sötét bőrtónus és közepes bőrtónus	-
+🧑🏾‍🐰‍🧑🏿	bulizó emberek közepesen sötét bőrtónus és sötét bőrtónus	-
+🧑🏿‍🐰‍🧑🏻	bulizó emberek sötét bőrtónus és világos bőrtónus	-
+🧑🏿‍🐰‍🧑🏼	bulizó emberek sötét bőrtónus és közepesen világos bőrtónus	-
+🧑🏿‍🐰‍🧑🏽	bulizó emberek sötét bőrtónus és közepes bőrtónus	-
+🧑🏿‍🐰‍🧑🏾	bulizó emberek sötét bőrtónus és közepesen sötét bőrtónus	-
 👨🏻	férfi világos bőrtónus	-
 👨🏼	férfi közepesen világos bőrtónus	-
 👨🏽	férfi közepes bőrtónus	-
@@ -2376,6 +2434,26 @@ $	dollár	-
 👨🏿‍❤‍👨🏽	pár szívvel férfi, férfi, sötét bőrtónus és közepes bőrtónus	-
 👨🏿‍❤‍👨🏾	pár szívvel férfi, férfi, sötét bőrtónus és közepesen sötét bőrtónus	-
 👨🏿‍❤‍👨🏿	pár szívvel férfi, férfi és sötét bőrtónus	-
+👨🏻‍🫯‍👨🏼	birkózó férfiak világos bőrtónus és közepesen világos bőrtónus	-
+👨🏻‍🫯‍👨🏽	birkózó férfiak világos bőrtónus és közepes bőrtónus	-
+👨🏻‍🫯‍👨🏾	birkózó férfiak világos bőrtónus és közepesen sötét bőrtónus	-
+👨🏻‍🫯‍👨🏿	birkózó férfiak világos bőrtónus és sötét bőrtónus	-
+👨🏼‍🫯‍👨🏻	birkózó férfiak közepesen világos bőrtónus és világos bőrtónus	-
+👨🏼‍🫯‍👨🏽	birkózó férfiak közepesen világos bőrtónus és közepes bőrtónus	-
+👨🏼‍🫯‍👨🏾	birkózó férfiak közepesen világos bőrtónus és közepesen sötét bőrtónus	-
+👨🏼‍🫯‍👨🏿	birkózó férfiak közepesen világos bőrtónus és sötét bőrtónus	-
+👨🏽‍🫯‍👨🏻	birkózó férfiak közepes bőrtónus és világos bőrtónus	-
+👨🏽‍🫯‍👨🏼	birkózó férfiak közepes bőrtónus és közepesen világos bőrtónus	-
+👨🏽‍🫯‍👨🏾	birkózó férfiak közepes bőrtónus és közepesen sötét bőrtónus	-
+👨🏽‍🫯‍👨🏿	birkózó férfiak közepes bőrtónus és sötét bőrtónus	-
+👨🏾‍🫯‍👨🏻	birkózó férfiak közepesen sötét bőrtónus és világos bőrtónus	-
+👨🏾‍🫯‍👨🏼	birkózó férfiak közepesen sötét bőrtónus és közepesen világos bőrtónus	-
+👨🏾‍🫯‍👨🏽	birkózó férfiak közepesen sötét bőrtónus és közepes bőrtónus	-
+👨🏾‍🫯‍👨🏿	birkózó férfiak közepesen sötét bőrtónus és sötét bőrtónus	-
+👨🏿‍🫯‍👨🏻	birkózó férfiak sötét bőrtónus és világos bőrtónus	-
+👨🏿‍🫯‍👨🏼	birkózó férfiak sötét bőrtónus és közepesen világos bőrtónus	-
+👨🏿‍🫯‍👨🏽	birkózó férfiak sötét bőrtónus és közepes bőrtónus	-
+👨🏿‍🫯‍👨🏾	birkózó férfiak sötét bőrtónus és közepesen sötét bőrtónus	-
 👨‍🦰	férfi vörös haj	-
 👨🏻‍🦰	férfi világos bőrtónus és vörös haj	-
 👨🏼‍🦰	férfi közepesen világos bőrtónus és vörös haj	-
@@ -2400,6 +2478,26 @@ $	dollár	-
 👨🏽‍🦲	férfi közepes bőrtónus és kopasz	-
 👨🏾‍🦲	férfi közepesen sötét bőrtónus és kopasz	-
 👨🏿‍🦲	férfi sötét bőrtónus és kopasz	-
+👨🏻‍🐰‍👨🏼	bulizó férfiak világos bőrtónus és közepesen világos bőrtónus	-
+👨🏻‍🐰‍👨🏽	bulizó férfiak világos bőrtónus és közepes bőrtónus	-
+👨🏻‍🐰‍👨🏾	bulizó férfiak világos bőrtónus és közepesen sötét bőrtónus	-
+👨🏻‍🐰‍👨🏿	bulizó férfiak világos bőrtónus és sötét bőrtónus	-
+👨🏼‍🐰‍👨🏻	bulizó férfiak közepesen világos bőrtónus és világos bőrtónus	-
+👨🏼‍🐰‍👨🏽	bulizó férfiak közepesen világos bőrtónus és közepes bőrtónus	-
+👨🏼‍🐰‍👨🏾	bulizó férfiak közepesen világos bőrtónus és közepesen sötét bőrtónus	-
+👨🏼‍🐰‍👨🏿	bulizó férfiak közepesen világos bőrtónus és sötét bőrtónus	-
+👨🏽‍🐰‍👨🏻	bulizó férfiak közepes bőrtónus és világos bőrtónus	-
+👨🏽‍🐰‍👨🏼	bulizó férfiak közepes bőrtónus és közepesen világos bőrtónus	-
+👨🏽‍🐰‍👨🏾	bulizó férfiak közepes bőrtónus és közepesen sötét bőrtónus	-
+👨🏽‍🐰‍👨🏿	bulizó férfiak közepes bőrtónus és sötét bőrtónus	-
+👨🏾‍🐰‍👨🏻	bulizó férfiak közepesen sötét bőrtónus és világos bőrtónus	-
+👨🏾‍🐰‍👨🏼	bulizó férfiak közepesen sötét bőrtónus és közepesen világos bőrtónus	-
+👨🏾‍🐰‍👨🏽	bulizó férfiak közepesen sötét bőrtónus és közepes bőrtónus	-
+👨🏾‍🐰‍👨🏿	bulizó férfiak közepesen sötét bőrtónus és sötét bőrtónus	-
+👨🏿‍🐰‍👨🏻	bulizó férfiak sötét bőrtónus és világos bőrtónus	-
+👨🏿‍🐰‍👨🏼	bulizó férfiak sötét bőrtónus és közepesen világos bőrtónus	-
+👨🏿‍🐰‍👨🏽	bulizó férfiak sötét bőrtónus és közepes bőrtónus	-
+👨🏿‍🐰‍👨🏾	bulizó férfiak sötét bőrtónus és közepesen sötét bőrtónus	-
 👩🏻	nő világos bőrtónus	-
 👩🏼	nő közepesen világos bőrtónus	-
 👩🏽	nő közepes bőrtónus	-
@@ -2515,6 +2613,26 @@ $	dollár	-
 👩🏿‍❤‍👩🏽	pár szívvel nő, nő, sötét bőrtónus és közepes bőrtónus	-
 👩🏿‍❤‍👩🏾	pár szívvel nő, nő, sötét bőrtónus és közepesen sötét bőrtónus	-
 👩🏿‍❤‍👩🏿	pár szívvel nő, nő és sötét bőrtónus	-
+👩🏻‍🫯‍👩🏼	birkózó nők világos bőrtónus és közepesen világos bőrtónus	-
+👩🏻‍🫯‍👩🏽	birkózó nők világos bőrtónus és közepes bőrtónus	-
+👩🏻‍🫯‍👩🏾	birkózó nők világos bőrtónus és közepesen sötét bőrtónus	-
+👩🏻‍🫯‍👩🏿	birkózó nők világos bőrtónus és sötét bőrtónus	-
+👩🏼‍🫯‍👩🏻	birkózó nők közepesen világos bőrtónus és világos bőrtónus	-
+👩🏼‍🫯‍👩🏽	birkózó nők közepesen világos bőrtónus és közepes bőrtónus	-
+👩🏼‍🫯‍👩🏾	birkózó nők közepesen világos bőrtónus és közepesen sötét bőrtónus	-
+👩🏼‍🫯‍👩🏿	birkózó nők közepesen világos bőrtónus és sötét bőrtónus	-
+👩🏽‍🫯‍👩🏻	birkózó nők közepes bőrtónus és világos bőrtónus	-
+👩🏽‍🫯‍👩🏼	birkózó nők közepes bőrtónus és közepesen világos bőrtónus	-
+👩🏽‍🫯‍👩🏾	birkózó nők közepes bőrtónus és közepesen sötét bőrtónus	-
+👩🏽‍🫯‍👩🏿	birkózó nők közepes bőrtónus és sötét bőrtónus	-
+👩🏾‍🫯‍👩🏻	birkózó nők közepesen sötét bőrtónus és világos bőrtónus	-
+👩🏾‍🫯‍👩🏼	birkózó nők közepesen sötét bőrtónus és közepesen világos bőrtónus	-
+👩🏾‍🫯‍👩🏽	birkózó nők közepesen sötét bőrtónus és közepes bőrtónus	-
+👩🏾‍🫯‍👩🏿	birkózó nők közepesen sötét bőrtónus és sötét bőrtónus	-
+👩🏿‍🫯‍👩🏻	birkózó nők sötét bőrtónus és világos bőrtónus	-
+👩🏿‍🫯‍👩🏼	birkózó nők sötét bőrtónus és közepesen világos bőrtónus	-
+👩🏿‍🫯‍👩🏽	birkózó nők sötét bőrtónus és közepes bőrtónus	-
+👩🏿‍🫯‍👩🏾	birkózó nők sötét bőrtónus és közepesen sötét bőrtónus	-
 👩‍🦰	nő vörös haj	-
 👩🏻‍🦰	nő világos bőrtónus és vörös haj	-
 👩🏼‍🦰	nő közepesen világos bőrtónus és vörös haj	-
@@ -2539,6 +2657,26 @@ $	dollár	-
 👩🏽‍🦲	nő közepes bőrtónus és kopasz	-
 👩🏾‍🦲	nő közepesen sötét bőrtónus és kopasz	-
 👩🏿‍🦲	nő sötét bőrtónus és kopasz	-
+👩🏻‍🐰‍👩🏼	bulizó nők világos bőrtónus és közepesen világos bőrtónus	-
+👩🏻‍🐰‍👩🏽	bulizó nők világos bőrtónus és közepes bőrtónus	-
+👩🏻‍🐰‍👩🏾	bulizó nők világos bőrtónus és közepesen sötét bőrtónus	-
+👩🏻‍🐰‍👩🏿	bulizó nők világos bőrtónus és sötét bőrtónus	-
+👩🏼‍🐰‍👩🏻	bulizó nők közepesen világos bőrtónus és világos bőrtónus	-
+👩🏼‍🐰‍👩🏽	bulizó nők közepesen világos bőrtónus és közepes bőrtónus	-
+👩🏼‍🐰‍👩🏾	bulizó nők közepesen világos bőrtónus és közepesen sötét bőrtónus	-
+👩🏼‍🐰‍👩🏿	bulizó nők közepesen világos bőrtónus és sötét bőrtónus	-
+👩🏽‍🐰‍👩🏻	bulizó nők közepes bőrtónus és világos bőrtónus	-
+👩🏽‍🐰‍👩🏼	bulizó nők közepes bőrtónus és közepesen világos bőrtónus	-
+👩🏽‍🐰‍👩🏾	bulizó nők közepes bőrtónus és közepesen sötét bőrtónus	-
+👩🏽‍🐰‍👩🏿	bulizó nők közepes bőrtónus és sötét bőrtónus	-
+👩🏾‍🐰‍👩🏻	bulizó nők közepesen sötét bőrtónus és világos bőrtónus	-
+👩🏾‍🐰‍👩🏼	bulizó nők közepesen sötét bőrtónus és közepesen világos bőrtónus	-
+👩🏾‍🐰‍👩🏽	bulizó nők közepesen sötét bőrtónus és közepes bőrtónus	-
+👩🏾‍🐰‍👩🏿	bulizó nők közepesen sötét bőrtónus és sötét bőrtónus	-
+👩🏿‍🐰‍👩🏻	bulizó nők sötét bőrtónus és világos bőrtónus	-
+👩🏿‍🐰‍👩🏼	bulizó nők sötét bőrtónus és közepesen világos bőrtónus	-
+👩🏿‍🐰‍👩🏽	bulizó nők sötét bőrtónus és közepes bőrtónus	-
+👩🏿‍🐰‍👩🏾	bulizó nők sötét bőrtónus és közepesen sötét bőrtónus	-
 🧓🏻	idősebb felnőtt világos bőrtónus	-
 🧓🏼	idősebb felnőtt közepesen világos bőrtónus	-
 🧓🏽	idősebb felnőtt közepes bőrtónus	-
@@ -3482,6 +3620,11 @@ $	dollár	-
 🏃🏽‍♂‍➡	futó férfi közepes bőrtónus és jobbra néző	-
 🏃🏾‍♂‍➡	futó férfi közepesen sötét bőrtónus és jobbra néző	-
 🏃🏿‍♂‍➡	futó férfi sötét bőrtónus és jobbra néző	-
+🧑🏻‍🩰	balett-táncos világos bőrtónus	-
+🧑🏼‍🩰	balett-táncos közepesen világos bőrtónus	-
+🧑🏽‍🩰	balett-táncos közepes bőrtónus	-
+🧑🏾‍🩰	balett-táncos közepesen sötét bőrtónus	-
+🧑🏿‍🩰	balett-táncos sötét bőrtónus	-
 💃🏻	táncoló nő világos bőrtónus	-
 💃🏼	táncoló nő közepesen világos bőrtónus	-
 💃🏽	táncoló nő közepes bőrtónus	-
@@ -3497,6 +3640,21 @@ $	dollár	-
 🕴🏽	öltönyös, lebegő ember közepes bőrtónus	-
 🕴🏾	öltönyös, lebegő ember közepesen sötét bőrtónus	-
 🕴🏿	öltönyös, lebegő ember sötét bőrtónus	-
+👯🏻	bulizó emberek világos bőrtónus	-
+👯🏼	bulizó emberek közepesen világos bőrtónus	-
+👯🏽	bulizó emberek közepes bőrtónus	-
+👯🏾	bulizó emberek közepesen sötét bőrtónus	-
+👯🏿	bulizó emberek sötét bőrtónus	-
+👯🏻‍♂	bulizó férfiak világos bőrtónus	-
+👯🏼‍♂	bulizó férfiak közepesen világos bőrtónus	-
+👯🏽‍♂	bulizó férfiak közepes bőrtónus	-
+👯🏾‍♂	bulizó férfiak közepesen sötét bőrtónus	-
+👯🏿‍♂	bulizó férfiak sötét bőrtónus	-
+👯🏻‍♀	bulizó nők világos bőrtónus	-
+👯🏼‍♀	bulizó nők közepesen világos bőrtónus	-
+👯🏽‍♀	bulizó nők közepes bőrtónus	-
+👯🏾‍♀	bulizó nők közepesen sötét bőrtónus	-
+👯🏿‍♀	bulizó nők sötét bőrtónus	-
 🧖🏻	ember a gőzfürdőben világos bőrtónus	-
 🧖🏼	ember a gőzfürdőben közepesen világos bőrtónus	-
 🧖🏽	ember a gőzfürdőben közepes bőrtónus	-
@@ -3672,6 +3830,21 @@ $	dollár	-
 🤸🏽‍♀	cigánykerekező nő közepes bőrtónus	-
 🤸🏾‍♀	cigánykerekező nő közepesen sötét bőrtónus	-
 🤸🏿‍♀	cigánykerekező nő sötét bőrtónus	-
+🤼🏻	birkózók világos bőrtónus	-
+🤼🏼	birkózók közepesen világos bőrtónus	-
+🤼🏽	birkózók közepes bőrtónus	-
+🤼🏾	birkózók közepesen sötét bőrtónus	-
+🤼🏿	birkózók sötét bőrtónus	-
+🤼🏻‍♂	birkózó férfiak világos bőrtónus	-
+🤼🏼‍♂	birkózó férfiak közepesen világos bőrtónus	-
+🤼🏽‍♂	birkózó férfiak közepes bőrtónus	-
+🤼🏾‍♂	birkózó férfiak közepesen sötét bőrtónus	-
+🤼🏿‍♂	birkózó férfiak sötét bőrtónus	-
+🤼🏻‍♀	birkózó nők világos bőrtónus	-
+🤼🏼‍♀	birkózó nők közepesen világos bőrtónus	-
+🤼🏽‍♀	birkózó nők közepes bőrtónus	-
+🤼🏾‍♀	birkózó nők közepesen sötét bőrtónus	-
+🤼🏿‍♀	birkózó nők sötét bőrtónus	-
 🤽🏻	vízilabda világos bőrtónus	-
 🤽🏼	vízilabda közepesen világos bőrtónus	-
 🤽🏽	vízilabda közepes bőrtónus	-
@@ -4167,14 +4340,4 @@ $	dollár	-
 ₺	török líra	-
 ₼	azerbajdzsáni manat	-
 ₾	grúz lari	-
-0⃣	gombfej 0	-
-1⃣	gombfej 1	-
-2⃣	gombfej 2	-
-3⃣	gombfej 3	-
-4⃣	gombfej 4	-
-5⃣	gombfej 5	-
-6⃣	gombfej 6	-
-7⃣	gombfej 7	-
-8⃣	gombfej 8	-
-9⃣	gombfej 9	-
 ₧	Spanyol peseta	-

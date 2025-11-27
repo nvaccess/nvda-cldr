@@ -433,6 +433,7 @@ _	znak podkreślenia	-
 😯	zdumiona twarz	-
 😲	zadziwiona twarz	-
 😳	twarz z rumieńcami	-
+🫪	wykrzywiona twarz	-
 🥺	błagająca twarz	-
 🥹	twarz powstrzymująca łzy	-
 😦	zachmurzona twarz z otwartymi ustami	-
@@ -506,6 +507,7 @@ _	znak podkreślenia	-
 💋	ślad po pocałunku	-
 💯	sto punktów	-
 💢	symbol gniewu	-
+🫯	chmura walki	-
 💥	kolizja	-
 💫	zawroty głowy	-
 💦	krople potu	-
@@ -738,6 +740,7 @@ _	znak podkreślenia	-
 🧟‍♂	mężczyzna zombie	-
 🧟‍♀	kobieta zombie	-
 🧌	troll	-
+🫈	włochate stworzenie	-
 💆	osoba podczas masażu	-
 💆‍♂	mężczyzna podczas masażu	-
 💆‍♀	kobieta podczas masażu	-
@@ -765,6 +768,7 @@ _	znak podkreślenia	-
 🏃	biegnąca osoba	-
 🏃‍♂	biegnący mężczyzna	-
 🏃‍♀	biegnąca kobieta	-
+🧑‍🩰	baletnica	-
 💃	tańcząca kobieta	-
 🕺	tańczący mężczyzna	-
 🕴	lewitujący mężczyzna w garniturze	-
@@ -946,6 +950,7 @@ _	znak podkreślenia	-
 🐳	wieloryb tryskający wodą	-
 🐋	wieloryb	-
 🐬	delfin	-
+🫍	orka	-
 🦭	foka	-
 🐟	ryba	-
 🐠	ryba tropikalna	-
@@ -1033,7 +1038,7 @@ _	znak podkreślenia	-
 🌶	ostra papryka	-
 🫑	papryka	-
 🥒	ogórek	-
-🥬	zielenina liściasta	-
+🥬	warzywo liściaste	-
 🥦	brokuł	-
 🧄	czosnek	-
 🧅	cebula	-
@@ -1145,6 +1150,7 @@ _	znak podkreślenia	-
 🧭	kompas	-
 🏔	góra z czapą lodową	-
 ⛰	góra	-
+🛘	osuwisko	-
 🌋	wulkan	-
 🗻	góra Fudżi	-
 🏕	kemping	-
@@ -1505,10 +1511,11 @@ _	znak podkreślenia	-
 🎧	słuchawki	-
 📻	radio	-
 🎷	saksofon	-
+🎺	trąbka	-
+🪊	puzon	-
 🪗	akordeon	-
 🎸	gitara	-
 🎹	klawisze	-
-🎺	trąbka	-
 🎻	skrzypce	-
 🪕	banjo	-
 🥁	bęben	-
@@ -1569,8 +1576,9 @@ _	znak podkreślenia	-
 📑	karty zakładek	-
 🔖	zakładka	-
 🏷	przywieszka do kluczy	-
-💰	worek z pieniędzmi	-
 🪙	moneta	-
+💰	worek z pieniędzmi	-
+🪎	skrzynia skarbów	-
 💴	banknot jena	-
 💵	banknot dolara	-
 💶	banknot euro	-
@@ -1941,6 +1949,16 @@ $	dolar	-
 ₹	rupia indyjska	-
 ₽	rubel	-
 ₿	bitcoin	-
+0⃣	klawisz 0	-
+1⃣	klawisz 1	-
+2⃣	klawisz 2	-
+3⃣	klawisz 3	-
+4⃣	klawisz 4	-
+5⃣	klawisz 5	-
+6⃣	klawisz 6	-
+7⃣	klawisz 7	-
+8⃣	klawisz 8	-
+9⃣	klawisz 9	-
 ¹	jeden w indeksie górnym	-
 ²	dwa w indeksie górnym	-
 ³	trzy w indeksie górnym	-
@@ -2282,6 +2300,26 @@ $	dolar	-
 🧑🏿‍❤‍🧑🏼	para z sercem dorosły, dorosły, karnacja ciemna i karnacja średnio jasna	-
 🧑🏿‍❤‍🧑🏽	para z sercem dorosły, dorosły, karnacja ciemna i karnacja średnia	-
 🧑🏿‍❤‍🧑🏾	para z sercem dorosły, dorosły, karnacja ciemna i karnacja średnio ciemna	-
+🧑🏻‍🫯‍🧑🏼	osoby uprawiające zapasy karnacja jasna i karnacja średnio jasna	-
+🧑🏻‍🫯‍🧑🏽	osoby uprawiające zapasy karnacja jasna i karnacja średnia	-
+🧑🏻‍🫯‍🧑🏾	osoby uprawiające zapasy karnacja jasna i karnacja średnio ciemna	-
+🧑🏻‍🫯‍🧑🏿	osoby uprawiające zapasy karnacja jasna i karnacja ciemna	-
+🧑🏼‍🫯‍🧑🏻	osoby uprawiające zapasy karnacja średnio jasna i karnacja jasna	-
+🧑🏼‍🫯‍🧑🏽	osoby uprawiające zapasy karnacja średnio jasna i karnacja średnia	-
+🧑🏼‍🫯‍🧑🏾	osoby uprawiające zapasy karnacja średnio jasna i karnacja średnio ciemna	-
+🧑🏼‍🫯‍🧑🏿	osoby uprawiające zapasy karnacja średnio jasna i karnacja ciemna	-
+🧑🏽‍🫯‍🧑🏻	osoby uprawiające zapasy karnacja średnia i karnacja jasna	-
+🧑🏽‍🫯‍🧑🏼	osoby uprawiające zapasy karnacja średnia i karnacja średnio jasna	-
+🧑🏽‍🫯‍🧑🏾	osoby uprawiające zapasy karnacja średnia i karnacja średnio ciemna	-
+🧑🏽‍🫯‍🧑🏿	osoby uprawiające zapasy karnacja średnia i karnacja ciemna	-
+🧑🏾‍🫯‍🧑🏻	osoby uprawiające zapasy karnacja średnio ciemna i karnacja jasna	-
+🧑🏾‍🫯‍🧑🏼	osoby uprawiające zapasy karnacja średnio ciemna i karnacja średnio jasna	-
+🧑🏾‍🫯‍🧑🏽	osoby uprawiające zapasy karnacja średnio ciemna i karnacja średnia	-
+🧑🏾‍🫯‍🧑🏿	osoby uprawiające zapasy karnacja średnio ciemna i karnacja ciemna	-
+🧑🏿‍🫯‍🧑🏻	osoby uprawiające zapasy karnacja ciemna i karnacja jasna	-
+🧑🏿‍🫯‍🧑🏼	osoby uprawiające zapasy karnacja ciemna i karnacja średnio jasna	-
+🧑🏿‍🫯‍🧑🏽	osoby uprawiające zapasy karnacja ciemna i karnacja średnia	-
+🧑🏿‍🫯‍🧑🏾	osoby uprawiające zapasy karnacja ciemna i karnacja średnio ciemna	-
 🧑‍🦰	dorosły rude włosy	-
 🧑🏻‍🦰	dorosły karnacja jasna i rude włosy	-
 🧑🏼‍🦰	dorosły karnacja średnio jasna i rude włosy	-
@@ -2306,6 +2344,26 @@ $	dolar	-
 🧑🏽‍🦲	dorosły karnacja średnia i łysy	-
 🧑🏾‍🦲	dorosły karnacja średnio ciemna i łysy	-
 🧑🏿‍🦲	dorosły karnacja ciemna i łysy	-
+🧑🏻‍🐰‍🧑🏼	osoby z uszami królika na przyjęciu karnacja jasna i karnacja średnio jasna	-
+🧑🏻‍🐰‍🧑🏽	osoby z uszami królika na przyjęciu karnacja jasna i karnacja średnia	-
+🧑🏻‍🐰‍🧑🏾	osoby z uszami królika na przyjęciu karnacja jasna i karnacja średnio ciemna	-
+🧑🏻‍🐰‍🧑🏿	osoby z uszami królika na przyjęciu karnacja jasna i karnacja ciemna	-
+🧑🏼‍🐰‍🧑🏻	osoby z uszami królika na przyjęciu karnacja średnio jasna i karnacja jasna	-
+🧑🏼‍🐰‍🧑🏽	osoby z uszami królika na przyjęciu karnacja średnio jasna i karnacja średnia	-
+🧑🏼‍🐰‍🧑🏾	osoby z uszami królika na przyjęciu karnacja średnio jasna i karnacja średnio ciemna	-
+🧑🏼‍🐰‍🧑🏿	osoby z uszami królika na przyjęciu karnacja średnio jasna i karnacja ciemna	-
+🧑🏽‍🐰‍🧑🏻	osoby z uszami królika na przyjęciu karnacja średnia i karnacja jasna	-
+🧑🏽‍🐰‍🧑🏼	osoby z uszami królika na przyjęciu karnacja średnia i karnacja średnio jasna	-
+🧑🏽‍🐰‍🧑🏾	osoby z uszami królika na przyjęciu karnacja średnia i karnacja średnio ciemna	-
+🧑🏽‍🐰‍🧑🏿	osoby z uszami królika na przyjęciu karnacja średnia i karnacja ciemna	-
+🧑🏾‍🐰‍🧑🏻	osoby z uszami królika na przyjęciu karnacja średnio ciemna i karnacja jasna	-
+🧑🏾‍🐰‍🧑🏼	osoby z uszami królika na przyjęciu karnacja średnio ciemna i karnacja średnio jasna	-
+🧑🏾‍🐰‍🧑🏽	osoby z uszami królika na przyjęciu karnacja średnio ciemna i karnacja średnia	-
+🧑🏾‍🐰‍🧑🏿	osoby z uszami królika na przyjęciu karnacja średnio ciemna i karnacja ciemna	-
+🧑🏿‍🐰‍🧑🏻	osoby z uszami królika na przyjęciu karnacja ciemna i karnacja jasna	-
+🧑🏿‍🐰‍🧑🏼	osoby z uszami królika na przyjęciu karnacja ciemna i karnacja średnio jasna	-
+🧑🏿‍🐰‍🧑🏽	osoby z uszami królika na przyjęciu karnacja ciemna i karnacja średnia	-
+🧑🏿‍🐰‍🧑🏾	osoby z uszami królika na przyjęciu karnacja ciemna i karnacja średnio ciemna	-
 👨🏻	mężczyzna karnacja jasna	-
 👨🏼	mężczyzna karnacja średnio jasna	-
 👨🏽	mężczyzna karnacja średnia	-
@@ -2376,6 +2434,26 @@ $	dolar	-
 👨🏿‍❤‍👨🏽	para z sercem mężczyzna, mężczyzna, karnacja ciemna i karnacja średnia	-
 👨🏿‍❤‍👨🏾	para z sercem mężczyzna, mężczyzna, karnacja ciemna i karnacja średnio ciemna	-
 👨🏿‍❤‍👨🏿	para z sercem mężczyzna, mężczyzna i karnacja ciemna	-
+👨🏻‍🫯‍👨🏼	mężczyźni uprawiający zapasy karnacja jasna i karnacja średnio jasna	-
+👨🏻‍🫯‍👨🏽	mężczyźni uprawiający zapasy karnacja jasna i karnacja średnia	-
+👨🏻‍🫯‍👨🏾	mężczyźni uprawiający zapasy karnacja jasna i karnacja średnio ciemna	-
+👨🏻‍🫯‍👨🏿	mężczyźni uprawiający zapasy karnacja jasna i karnacja ciemna	-
+👨🏼‍🫯‍👨🏻	mężczyźni uprawiający zapasy karnacja średnio jasna i karnacja jasna	-
+👨🏼‍🫯‍👨🏽	mężczyźni uprawiający zapasy karnacja średnio jasna i karnacja średnia	-
+👨🏼‍🫯‍👨🏾	mężczyźni uprawiający zapasy karnacja średnio jasna i karnacja średnio ciemna	-
+👨🏼‍🫯‍👨🏿	mężczyźni uprawiający zapasy karnacja średnio jasna i karnacja ciemna	-
+👨🏽‍🫯‍👨🏻	mężczyźni uprawiający zapasy karnacja średnia i karnacja jasna	-
+👨🏽‍🫯‍👨🏼	mężczyźni uprawiający zapasy karnacja średnia i karnacja średnio jasna	-
+👨🏽‍🫯‍👨🏾	mężczyźni uprawiający zapasy karnacja średnia i karnacja średnio ciemna	-
+👨🏽‍🫯‍👨🏿	mężczyźni uprawiający zapasy karnacja średnia i karnacja ciemna	-
+👨🏾‍🫯‍👨🏻	mężczyźni uprawiający zapasy karnacja średnio ciemna i karnacja jasna	-
+👨🏾‍🫯‍👨🏼	mężczyźni uprawiający zapasy karnacja średnio ciemna i karnacja średnio jasna	-
+👨🏾‍🫯‍👨🏽	mężczyźni uprawiający zapasy karnacja średnio ciemna i karnacja średnia	-
+👨🏾‍🫯‍👨🏿	mężczyźni uprawiający zapasy karnacja średnio ciemna i karnacja ciemna	-
+👨🏿‍🫯‍👨🏻	mężczyźni uprawiający zapasy karnacja ciemna i karnacja jasna	-
+👨🏿‍🫯‍👨🏼	mężczyźni uprawiający zapasy karnacja ciemna i karnacja średnio jasna	-
+👨🏿‍🫯‍👨🏽	mężczyźni uprawiający zapasy karnacja ciemna i karnacja średnia	-
+👨🏿‍🫯‍👨🏾	mężczyźni uprawiający zapasy karnacja ciemna i karnacja średnio ciemna	-
 👨‍🦰	mężczyzna rude włosy	-
 👨🏻‍🦰	mężczyzna karnacja jasna i rude włosy	-
 👨🏼‍🦰	mężczyzna karnacja średnio jasna i rude włosy	-
@@ -2400,6 +2478,26 @@ $	dolar	-
 👨🏽‍🦲	mężczyzna karnacja średnia i łysy	-
 👨🏾‍🦲	mężczyzna karnacja średnio ciemna i łysy	-
 👨🏿‍🦲	mężczyzna karnacja ciemna i łysy	-
+👨🏻‍🐰‍👨🏼	mężczyźni z uszami królika na przyjęciu karnacja jasna i karnacja średnio jasna	-
+👨🏻‍🐰‍👨🏽	mężczyźni z uszami królika na przyjęciu karnacja jasna i karnacja średnia	-
+👨🏻‍🐰‍👨🏾	mężczyźni z uszami królika na przyjęciu karnacja jasna i karnacja średnio ciemna	-
+👨🏻‍🐰‍👨🏿	mężczyźni z uszami królika na przyjęciu karnacja jasna i karnacja ciemna	-
+👨🏼‍🐰‍👨🏻	mężczyźni z uszami królika na przyjęciu karnacja średnio jasna i karnacja jasna	-
+👨🏼‍🐰‍👨🏽	mężczyźni z uszami królika na przyjęciu karnacja średnio jasna i karnacja średnia	-
+👨🏼‍🐰‍👨🏾	mężczyźni z uszami królika na przyjęciu karnacja średnio jasna i karnacja średnio ciemna	-
+👨🏼‍🐰‍👨🏿	mężczyźni z uszami królika na przyjęciu karnacja średnio jasna i karnacja ciemna	-
+👨🏽‍🐰‍👨🏻	mężczyźni z uszami królika na przyjęciu karnacja średnia i karnacja jasna	-
+👨🏽‍🐰‍👨🏼	mężczyźni z uszami królika na przyjęciu karnacja średnia i karnacja średnio jasna	-
+👨🏽‍🐰‍👨🏾	mężczyźni z uszami królika na przyjęciu karnacja średnia i karnacja średnio ciemna	-
+👨🏽‍🐰‍👨🏿	mężczyźni z uszami królika na przyjęciu karnacja średnia i karnacja ciemna	-
+👨🏾‍🐰‍👨🏻	mężczyźni z uszami królika na przyjęciu karnacja średnio ciemna i karnacja jasna	-
+👨🏾‍🐰‍👨🏼	mężczyźni z uszami królika na przyjęciu karnacja średnio ciemna i karnacja średnio jasna	-
+👨🏾‍🐰‍👨🏽	mężczyźni z uszami królika na przyjęciu karnacja średnio ciemna i karnacja średnia	-
+👨🏾‍🐰‍👨🏿	mężczyźni z uszami królika na przyjęciu karnacja średnio ciemna i karnacja ciemna	-
+👨🏿‍🐰‍👨🏻	mężczyźni z uszami królika na przyjęciu karnacja ciemna i karnacja jasna	-
+👨🏿‍🐰‍👨🏼	mężczyźni z uszami królika na przyjęciu karnacja ciemna i karnacja średnio jasna	-
+👨🏿‍🐰‍👨🏽	mężczyźni z uszami królika na przyjęciu karnacja ciemna i karnacja średnia	-
+👨🏿‍🐰‍👨🏾	mężczyźni z uszami królika na przyjęciu karnacja ciemna i karnacja średnio ciemna	-
 👩🏻	kobieta karnacja jasna	-
 👩🏼	kobieta karnacja średnio jasna	-
 👩🏽	kobieta karnacja średnia	-
@@ -2515,6 +2613,26 @@ $	dolar	-
 👩🏿‍❤‍👩🏽	para z sercem kobieta, kobieta, karnacja ciemna i karnacja średnia	-
 👩🏿‍❤‍👩🏾	para z sercem kobieta, kobieta, karnacja ciemna i karnacja średnio ciemna	-
 👩🏿‍❤‍👩🏿	para z sercem kobieta, kobieta i karnacja ciemna	-
+👩🏻‍🫯‍👩🏼	kobiety uprawiające zapasy karnacja jasna i karnacja średnio jasna	-
+👩🏻‍🫯‍👩🏽	kobiety uprawiające zapasy karnacja jasna i karnacja średnia	-
+👩🏻‍🫯‍👩🏾	kobiety uprawiające zapasy karnacja jasna i karnacja średnio ciemna	-
+👩🏻‍🫯‍👩🏿	kobiety uprawiające zapasy karnacja jasna i karnacja ciemna	-
+👩🏼‍🫯‍👩🏻	kobiety uprawiające zapasy karnacja średnio jasna i karnacja jasna	-
+👩🏼‍🫯‍👩🏽	kobiety uprawiające zapasy karnacja średnio jasna i karnacja średnia	-
+👩🏼‍🫯‍👩🏾	kobiety uprawiające zapasy karnacja średnio jasna i karnacja średnio ciemna	-
+👩🏼‍🫯‍👩🏿	kobiety uprawiające zapasy karnacja średnio jasna i karnacja ciemna	-
+👩🏽‍🫯‍👩🏻	kobiety uprawiające zapasy karnacja średnia i karnacja jasna	-
+👩🏽‍🫯‍👩🏼	kobiety uprawiające zapasy karnacja średnia i karnacja średnio jasna	-
+👩🏽‍🫯‍👩🏾	kobiety uprawiające zapasy karnacja średnia i karnacja średnio ciemna	-
+👩🏽‍🫯‍👩🏿	kobiety uprawiające zapasy karnacja średnia i karnacja ciemna	-
+👩🏾‍🫯‍👩🏻	kobiety uprawiające zapasy karnacja średnio ciemna i karnacja jasna	-
+👩🏾‍🫯‍👩🏼	kobiety uprawiające zapasy karnacja średnio ciemna i karnacja średnio jasna	-
+👩🏾‍🫯‍👩🏽	kobiety uprawiające zapasy karnacja średnio ciemna i karnacja średnia	-
+👩🏾‍🫯‍👩🏿	kobiety uprawiające zapasy karnacja średnio ciemna i karnacja ciemna	-
+👩🏿‍🫯‍👩🏻	kobiety uprawiające zapasy karnacja ciemna i karnacja jasna	-
+👩🏿‍🫯‍👩🏼	kobiety uprawiające zapasy karnacja ciemna i karnacja średnio jasna	-
+👩🏿‍🫯‍👩🏽	kobiety uprawiające zapasy karnacja ciemna i karnacja średnia	-
+👩🏿‍🫯‍👩🏾	kobiety uprawiające zapasy karnacja ciemna i karnacja średnio ciemna	-
 👩‍🦰	kobieta rude włosy	-
 👩🏻‍🦰	kobieta karnacja jasna i rude włosy	-
 👩🏼‍🦰	kobieta karnacja średnio jasna i rude włosy	-
@@ -2539,6 +2657,26 @@ $	dolar	-
 👩🏽‍🦲	kobieta karnacja średnia i łysy	-
 👩🏾‍🦲	kobieta karnacja średnio ciemna i łysy	-
 👩🏿‍🦲	kobieta karnacja ciemna i łysy	-
+👩🏻‍🐰‍👩🏼	kobiety z uszami królika na przyjęciu karnacja jasna i karnacja średnio jasna	-
+👩🏻‍🐰‍👩🏽	kobiety z uszami królika na przyjęciu karnacja jasna i karnacja średnia	-
+👩🏻‍🐰‍👩🏾	kobiety z uszami królika na przyjęciu karnacja jasna i karnacja średnio ciemna	-
+👩🏻‍🐰‍👩🏿	kobiety z uszami królika na przyjęciu karnacja jasna i karnacja ciemna	-
+👩🏼‍🐰‍👩🏻	kobiety z uszami królika na przyjęciu karnacja średnio jasna i karnacja jasna	-
+👩🏼‍🐰‍👩🏽	kobiety z uszami królika na przyjęciu karnacja średnio jasna i karnacja średnia	-
+👩🏼‍🐰‍👩🏾	kobiety z uszami królika na przyjęciu karnacja średnio jasna i karnacja średnio ciemna	-
+👩🏼‍🐰‍👩🏿	kobiety z uszami królika na przyjęciu karnacja średnio jasna i karnacja ciemna	-
+👩🏽‍🐰‍👩🏻	kobiety z uszami królika na przyjęciu karnacja średnia i karnacja jasna	-
+👩🏽‍🐰‍👩🏼	kobiety z uszami królika na przyjęciu karnacja średnia i karnacja średnio jasna	-
+👩🏽‍🐰‍👩🏾	kobiety z uszami królika na przyjęciu karnacja średnia i karnacja średnio ciemna	-
+👩🏽‍🐰‍👩🏿	kobiety z uszami królika na przyjęciu karnacja średnia i karnacja ciemna	-
+👩🏾‍🐰‍👩🏻	kobiety z uszami królika na przyjęciu karnacja średnio ciemna i karnacja jasna	-
+👩🏾‍🐰‍👩🏼	kobiety z uszami królika na przyjęciu karnacja średnio ciemna i karnacja średnio jasna	-
+👩🏾‍🐰‍👩🏽	kobiety z uszami królika na przyjęciu karnacja średnio ciemna i karnacja średnia	-
+👩🏾‍🐰‍👩🏿	kobiety z uszami królika na przyjęciu karnacja średnio ciemna i karnacja ciemna	-
+👩🏿‍🐰‍👩🏻	kobiety z uszami królika na przyjęciu karnacja ciemna i karnacja jasna	-
+👩🏿‍🐰‍👩🏼	kobiety z uszami królika na przyjęciu karnacja ciemna i karnacja średnio jasna	-
+👩🏿‍🐰‍👩🏽	kobiety z uszami królika na przyjęciu karnacja ciemna i karnacja średnia	-
+👩🏿‍🐰‍👩🏾	kobiety z uszami królika na przyjęciu karnacja ciemna i karnacja średnio ciemna	-
 🧓🏻	starsza osoba karnacja jasna	-
 🧓🏼	starsza osoba karnacja średnio jasna	-
 🧓🏽	starsza osoba karnacja średnia	-
@@ -3482,6 +3620,11 @@ $	dolar	-
 🏃🏽‍♂‍➡	biegnący mężczyzna karnacja średnia i zwrócony w prawo	-
 🏃🏾‍♂‍➡	biegnący mężczyzna karnacja średnio ciemna i zwrócony w prawo	-
 🏃🏿‍♂‍➡	biegnący mężczyzna karnacja ciemna i zwrócony w prawo	-
+🧑🏻‍🩰	baletnica karnacja jasna	-
+🧑🏼‍🩰	baletnica karnacja średnio jasna	-
+🧑🏽‍🩰	baletnica karnacja średnia	-
+🧑🏾‍🩰	baletnica karnacja średnio ciemna	-
+🧑🏿‍🩰	baletnica karnacja ciemna	-
 💃🏻	tańcząca kobieta karnacja jasna	-
 💃🏼	tańcząca kobieta karnacja średnio jasna	-
 💃🏽	tańcząca kobieta karnacja średnia	-
@@ -3497,6 +3640,21 @@ $	dolar	-
 🕴🏽	lewitujący mężczyzna w garniturze karnacja średnia	-
 🕴🏾	lewitujący mężczyzna w garniturze karnacja średnio ciemna	-
 🕴🏿	lewitujący mężczyzna w garniturze karnacja ciemna	-
+👯🏻	osoby z uszami królika na przyjęciu karnacja jasna	-
+👯🏼	osoby z uszami królika na przyjęciu karnacja średnio jasna	-
+👯🏽	osoby z uszami królika na przyjęciu karnacja średnia	-
+👯🏾	osoby z uszami królika na przyjęciu karnacja średnio ciemna	-
+👯🏿	osoby z uszami królika na przyjęciu karnacja ciemna	-
+👯🏻‍♂	mężczyźni z uszami królika na przyjęciu karnacja jasna	-
+👯🏼‍♂	mężczyźni z uszami królika na przyjęciu karnacja średnio jasna	-
+👯🏽‍♂	mężczyźni z uszami królika na przyjęciu karnacja średnia	-
+👯🏾‍♂	mężczyźni z uszami królika na przyjęciu karnacja średnio ciemna	-
+👯🏿‍♂	mężczyźni z uszami królika na przyjęciu karnacja ciemna	-
+👯🏻‍♀	kobiety z uszami królika na przyjęciu karnacja jasna	-
+👯🏼‍♀	kobiety z uszami królika na przyjęciu karnacja średnio jasna	-
+👯🏽‍♀	kobiety z uszami królika na przyjęciu karnacja średnia	-
+👯🏾‍♀	kobiety z uszami królika na przyjęciu karnacja średnio ciemna	-
+👯🏿‍♀	kobiety z uszami królika na przyjęciu karnacja ciemna	-
 🧖🏻	osoba w zaparowanym pomieszczeniu karnacja jasna	-
 🧖🏼	osoba w zaparowanym pomieszczeniu karnacja średnio jasna	-
 🧖🏽	osoba w zaparowanym pomieszczeniu karnacja średnia	-
@@ -3672,6 +3830,21 @@ $	dolar	-
 🤸🏽‍♀	kobieta robiąca gwiazdę karnacja średnia	-
 🤸🏾‍♀	kobieta robiąca gwiazdę karnacja średnio ciemna	-
 🤸🏿‍♀	kobieta robiąca gwiazdę karnacja ciemna	-
+🤼🏻	osoby uprawiające zapasy karnacja jasna	-
+🤼🏼	osoby uprawiające zapasy karnacja średnio jasna	-
+🤼🏽	osoby uprawiające zapasy karnacja średnia	-
+🤼🏾	osoby uprawiające zapasy karnacja średnio ciemna	-
+🤼🏿	osoby uprawiające zapasy karnacja ciemna	-
+🤼🏻‍♂	mężczyźni uprawiający zapasy karnacja jasna	-
+🤼🏼‍♂	mężczyźni uprawiający zapasy karnacja średnio jasna	-
+🤼🏽‍♂	mężczyźni uprawiający zapasy karnacja średnia	-
+🤼🏾‍♂	mężczyźni uprawiający zapasy karnacja średnio ciemna	-
+🤼🏿‍♂	mężczyźni uprawiający zapasy karnacja ciemna	-
+🤼🏻‍♀	kobiety uprawiające zapasy karnacja jasna	-
+🤼🏼‍♀	kobiety uprawiające zapasy karnacja średnio jasna	-
+🤼🏽‍♀	kobiety uprawiające zapasy karnacja średnia	-
+🤼🏾‍♀	kobiety uprawiające zapasy karnacja średnio ciemna	-
+🤼🏿‍♀	kobiety uprawiające zapasy karnacja ciemna	-
 🤽🏻	osoba grająca w piłkę wodną karnacja jasna	-
 🤽🏼	osoba grająca w piłkę wodną karnacja średnio jasna	-
 🤽🏽	osoba grająca w piłkę wodną karnacja średnia	-
@@ -3937,6 +4110,7 @@ $	dolar	-
 🇨🇳	flaga Chiny	-
 🇨🇴	flaga Kolumbia	-
 🇨🇵	flaga Wyspa Clippertona	-
+🇨🇶	flaga Sark	-
 🇨🇷	flaga Kostaryka	-
 🇨🇺	flaga Kuba	-
 🇨🇻	flaga Republika Zielonego Przylądka	-
@@ -4166,14 +4340,4 @@ $	dolar	-
 ₺	lira turecka	-
 ₼	manat azerski	-
 ₾	lari gruzińskie	-
-0⃣	klawisz 0	-
-1⃣	klawisz 1	-
-2⃣	klawisz 2	-
-3⃣	klawisz 3	-
-4⃣	klawisz 4	-
-5⃣	klawisz 5	-
-6⃣	klawisz 6	-
-7⃣	klawisz 7	-
-8⃣	klawisz 8	-
-9⃣	klawisz 9	-
 ₧	peseta hiszpańska	-

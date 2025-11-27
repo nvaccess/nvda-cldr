@@ -379,7 +379,7 @@ _	understreck	-
 🤑	ansikte med dollarögon	-
 🤗	ansikte som kramas	-
 🤭	ansikte med handen för munnen	-
-🫢	ansikte med ögonen öppna och handen för munnen	-
+🫢	ansikte med öppna ögon och hand för munnen	-
 🫣	ansikte med kikande öga	-
 🤫	hyssjande ansikte	-
 🤔	ansikte som tänker	-
@@ -433,6 +433,7 @@ _	understreck	-
 😯	hyssjat ansikte	-
 😲	chockat ansikte	-
 😳	rodnande ansikte	-
+🫪	ansikte i närbild	-
 🥺	bönfallande ansikte	-
 🥹	ansikte som håller tillbaka tårarna	-
 😦	ogillande ansikte med öppen mun	-
@@ -506,6 +507,7 @@ _	understreck	-
 💋	läppavtryck	-
 💯	100 poäng	-
 💢	symbol för ilska	-
+🫯	slagsmål	-
 💥	explosion	-
 💫	omtumlad	-
 💦	stänkande svett	-
@@ -614,7 +616,7 @@ _	understreck	-
 🙋‍♀	kvinna som räcker upp handen	-
 🧏	hörselskadad person	-
 🧏‍♂	hörselskadad man	-
-🧏‍♀	hörselskada kvinna	-
+🧏‍♀	hörselskadad kvinna	-
 🙇	bugande person	-
 🙇‍♂	bugande man	-
 🙇‍♀	bugande kvinna	-
@@ -738,6 +740,7 @@ _	understreck	-
 🧟‍♂	manlig zombie	-
 🧟‍♀	kvinnlig zombie	-
 🧌	troll	-
+🫈	hårig varelse	-
 💆	person som blir masserad	-
 💆‍♂	man som blir masserad	-
 💆‍♀	kvinna som blir masserad	-
@@ -765,6 +768,7 @@ _	understreck	-
 🏃	person som springer	-
 🏃‍♂	man som springer	-
 🏃‍♀	kvinna som springer	-
+🧑‍🩰	balettdansare	-
 💃	dansande kvinna	-
 🕺	dansande man	-
 🕴	svävande man i kostym	-
@@ -836,10 +840,10 @@ _	understreck	-
 👥	figurer i silhuett	-
 🫂	personer kramas	-
 👪	familj	-
-🧑‍🧑‍🧒	familj, vuxen, vuxen, barn	-
-🧑‍🧑‍🧒‍🧒	familj, vuxen, vuxen, barn, barn	-
-🧑‍🧒	familj, vuxen, barn	-
-🧑‍🧒‍🧒	familj, vuxen, barn, barn	-
+🧑‍🧑‍🧒	familj vuxen, vuxen, barn	-
+🧑‍🧑‍🧒‍🧒	familj vuxen, vuxen, barn, barn	-
+🧑‍🧒	familj vuxen, barn	-
+🧑‍🧒‍🧒	familj vuxen, barn, barn	-
 👣	fotavtryck	-
 🫆	fingeravtryck	-
 🦰	rödhårig	-
@@ -946,6 +950,7 @@ _	understreck	-
 🐳	val som sprutar vatten	-
 🐋	val	-
 🐬	delfin	-
+🫍	späckhuggare	-
 🦭	säl	-
 🐟	fisk	-
 🐠	tropisk fisk	-
@@ -1069,7 +1074,7 @@ _	understreck	-
 🧆	falafel	-
 🥚	ägg	-
 🍳	matlagning	-
-🥘	stekpanna	-
+🥘	paella	-
 🍲	gryta	-
 🫕	fondue	-
 🥣	skål och sked	-
@@ -1145,6 +1150,7 @@ _	understreck	-
 🧭	kompass	-
 🏔	snöklätt berg	-
 ⛰	berg	-
+🛘	jordskred	-
 🌋	vulkan	-
 🗻	Fuji	-
 🏕	camping	-
@@ -1505,10 +1511,11 @@ _	understreck	-
 🎧	hörlur	-
 📻	radio	-
 🎷	saxofon	-
+🎺	trumpet	-
+🪊	trombon	-
 🪗	dragspel	-
 🎸	gitarr	-
 🎹	klaviatur	-
-🎺	trumpet	-
 🎻	fiol	-
 🪕	banjo	-
 🥁	trumma	-
@@ -1569,8 +1576,9 @@ _	understreck	-
 📑	bokmärkesflikar	-
 🔖	bokmärke	-
 🏷	etikett	-
-💰	pengapåse	-
 🪙	mynt	-
+💰	pengapåse	-
+🪎	skattkista	-
 💴	yensedel	-
 💵	dollarsedel	-
 💶	eurosedel	-
@@ -1941,6 +1949,16 @@ $	dollar	-
 ₹	indisk rupie	-
 ₽	rubel	-
 ₿	bitcoin	-
+0⃣	tangent 0	-
+1⃣	tangent 1	-
+2⃣	tangent 2	-
+3⃣	tangent 3	-
+4⃣	tangent 4	-
+5⃣	tangent 5	-
+6⃣	tangent 6	-
+7⃣	tangent 7	-
+8⃣	tangent 8	-
+9⃣	tangent 9	-
 ¹	upphöjt till ett	-
 ²	upphöjt till två	-
 ³	upphöjt till tre	-
@@ -2282,6 +2300,26 @@ $	dollar	-
 🧑🏿‍❤‍🧑🏼	par med hjärta person, person, mörk hy, mellanljus hy	-
 🧑🏿‍❤‍🧑🏽	par med hjärta person, person, mörk hy, mellanfärgad hy	-
 🧑🏿‍❤‍🧑🏾	par med hjärta person, person, mörk hy, mellanmörk hy	-
+🧑🏻‍🫯‍🧑🏼	brottande personer ljus hy, mellanljus hy	-
+🧑🏻‍🫯‍🧑🏽	brottande personer ljus hy, mellanfärgad hy	-
+🧑🏻‍🫯‍🧑🏾	brottande personer ljus hy, mellanmörk hy	-
+🧑🏻‍🫯‍🧑🏿	brottande personer ljus hy, mörk hy	-
+🧑🏼‍🫯‍🧑🏻	brottande personer mellanljus hy, ljus hy	-
+🧑🏼‍🫯‍🧑🏽	brottande personer mellanljus hy, mellanfärgad hy	-
+🧑🏼‍🫯‍🧑🏾	brottande personer mellanljus hy, mellanmörk hy	-
+🧑🏼‍🫯‍🧑🏿	brottande personer mellanljus hy, mörk hy	-
+🧑🏽‍🫯‍🧑🏻	brottande personer mellanfärgad hy, ljus hy	-
+🧑🏽‍🫯‍🧑🏼	brottande personer mellanfärgad hy, mellanljus hy	-
+🧑🏽‍🫯‍🧑🏾	brottande personer mellanfärgad hy, mellanmörk hy	-
+🧑🏽‍🫯‍🧑🏿	brottande personer mellanfärgad hy, mörk hy	-
+🧑🏾‍🫯‍🧑🏻	brottande personer mellanmörk hy, ljus hy	-
+🧑🏾‍🫯‍🧑🏼	brottande personer mellanmörk hy, mellanljus hy	-
+🧑🏾‍🫯‍🧑🏽	brottande personer mellanmörk hy, mellanfärgad hy	-
+🧑🏾‍🫯‍🧑🏿	brottande personer mellanmörk hy, mörk hy	-
+🧑🏿‍🫯‍🧑🏻	brottande personer mörk hy, ljus hy	-
+🧑🏿‍🫯‍🧑🏼	brottande personer mörk hy, mellanljus hy	-
+🧑🏿‍🫯‍🧑🏽	brottande personer mörk hy, mellanfärgad hy	-
+🧑🏿‍🫯‍🧑🏾	brottande personer mörk hy, mellanmörk hy	-
 🧑‍🦰	person rödhårig	-
 🧑🏻‍🦰	person ljus hy, rödhårig	-
 🧑🏼‍🦰	person mellanljus hy, rödhårig	-
@@ -2306,6 +2344,26 @@ $	dollar	-
 🧑🏽‍🦲	person mellanfärgad hy, skallig	-
 🧑🏾‍🦲	person mellanmörk hy, skallig	-
 🧑🏿‍🦲	person mörk hy, skallig	-
+🧑🏻‍🐰‍🧑🏼	personer med kaninöron ljus hy, mellanljus hy	-
+🧑🏻‍🐰‍🧑🏽	personer med kaninöron ljus hy, mellanfärgad hy	-
+🧑🏻‍🐰‍🧑🏾	personer med kaninöron ljus hy, mellanmörk hy	-
+🧑🏻‍🐰‍🧑🏿	personer med kaninöron ljus hy, mörk hy	-
+🧑🏼‍🐰‍🧑🏻	personer med kaninöron mellanljus hy, ljus hy	-
+🧑🏼‍🐰‍🧑🏽	personer med kaninöron mellanljus hy, mellanfärgad hy	-
+🧑🏼‍🐰‍🧑🏾	personer med kaninöron mellanljus hy, mellanmörk hy	-
+🧑🏼‍🐰‍🧑🏿	personer med kaninöron mellanljus hy, mörk hy	-
+🧑🏽‍🐰‍🧑🏻	personer med kaninöron mellanfärgad hy, ljus hy	-
+🧑🏽‍🐰‍🧑🏼	personer med kaninöron mellanfärgad hy, mellanljus hy	-
+🧑🏽‍🐰‍🧑🏾	personer med kaninöron mellanfärgad hy, mellanmörk hy	-
+🧑🏽‍🐰‍🧑🏿	personer med kaninöron mellanfärgad hy, mörk hy	-
+🧑🏾‍🐰‍🧑🏻	personer med kaninöron mellanmörk hy, ljus hy	-
+🧑🏾‍🐰‍🧑🏼	personer med kaninöron mellanmörk hy, mellanljus hy	-
+🧑🏾‍🐰‍🧑🏽	personer med kaninöron mellanmörk hy, mellanfärgad hy	-
+🧑🏾‍🐰‍🧑🏿	personer med kaninöron mellanmörk hy, mörk hy	-
+🧑🏿‍🐰‍🧑🏻	personer med kaninöron mörk hy, ljus hy	-
+🧑🏿‍🐰‍🧑🏼	personer med kaninöron mörk hy, mellanljus hy	-
+🧑🏿‍🐰‍🧑🏽	personer med kaninöron mörk hy, mellanfärgad hy	-
+🧑🏿‍🐰‍🧑🏾	personer med kaninöron mörk hy, mellanmörk hy	-
 👨🏻	man ljus hy	-
 👨🏼	man mellanljus hy	-
 👨🏽	man mellanfärgad hy	-
@@ -2376,6 +2434,26 @@ $	dollar	-
 👨🏿‍❤‍👨🏽	par med hjärta man, man, mörk hy, mellanfärgad hy	-
 👨🏿‍❤‍👨🏾	par med hjärta man, man, mörk hy, mellanmörk hy	-
 👨🏿‍❤‍👨🏿	par med hjärta man, man, mörk hy	-
+👨🏻‍🫯‍👨🏼	brottande män ljus hy, mellanljus hy	-
+👨🏻‍🫯‍👨🏽	brottande män ljus hy, mellanfärgad hy	-
+👨🏻‍🫯‍👨🏾	brottande män ljus hy, mellanmörk hy	-
+👨🏻‍🫯‍👨🏿	brottande män ljus hy, mörk hy	-
+👨🏼‍🫯‍👨🏻	brottande män mellanljus hy, ljus hy	-
+👨🏼‍🫯‍👨🏽	brottande män mellanljus hy, mellanfärgad hy	-
+👨🏼‍🫯‍👨🏾	brottande män mellanljus hy, mellanmörk hy	-
+👨🏼‍🫯‍👨🏿	brottande män mellanljus hy, mörk hy	-
+👨🏽‍🫯‍👨🏻	brottande män mellanfärgad hy, ljus hy	-
+👨🏽‍🫯‍👨🏼	brottande män mellanfärgad hy, mellanljus hy	-
+👨🏽‍🫯‍👨🏾	brottande män mellanfärgad hy, mellanmörk hy	-
+👨🏽‍🫯‍👨🏿	brottande män mellanfärgad hy, mörk hy	-
+👨🏾‍🫯‍👨🏻	brottande män mellanmörk hy, ljus hy	-
+👨🏾‍🫯‍👨🏼	brottande män mellanmörk hy, mellanljus hy	-
+👨🏾‍🫯‍👨🏽	brottande män mellanmörk hy, mellanfärgad hy	-
+👨🏾‍🫯‍👨🏿	brottande män mellanmörk hy, mörk hy	-
+👨🏿‍🫯‍👨🏻	brottande män mörk hy, ljus hy	-
+👨🏿‍🫯‍👨🏼	brottande män mörk hy, mellanljus hy	-
+👨🏿‍🫯‍👨🏽	brottande män mörk hy, mellanfärgad hy	-
+👨🏿‍🫯‍👨🏾	brottande män mörk hy, mellanmörk hy	-
 👨‍🦰	man rödhårig	-
 👨🏻‍🦰	man ljus hy, rödhårig	-
 👨🏼‍🦰	man mellanljus hy, rödhårig	-
@@ -2400,6 +2478,26 @@ $	dollar	-
 👨🏽‍🦲	man mellanfärgad hy, skallig	-
 👨🏾‍🦲	man mellanmörk hy, skallig	-
 👨🏿‍🦲	man mörk hy, skallig	-
+👨🏻‍🐰‍👨🏼	män med kaninöron ljus hy, mellanljus hy	-
+👨🏻‍🐰‍👨🏽	män med kaninöron ljus hy, mellanfärgad hy	-
+👨🏻‍🐰‍👨🏾	män med kaninöron ljus hy, mellanmörk hy	-
+👨🏻‍🐰‍👨🏿	män med kaninöron ljus hy, mörk hy	-
+👨🏼‍🐰‍👨🏻	män med kaninöron mellanljus hy, ljus hy	-
+👨🏼‍🐰‍👨🏽	män med kaninöron mellanljus hy, mellanfärgad hy	-
+👨🏼‍🐰‍👨🏾	män med kaninöron mellanljus hy, mellanmörk hy	-
+👨🏼‍🐰‍👨🏿	män med kaninöron mellanljus hy, mörk hy	-
+👨🏽‍🐰‍👨🏻	män med kaninöron mellanfärgad hy, ljus hy	-
+👨🏽‍🐰‍👨🏼	män med kaninöron mellanfärgad hy, mellanljus hy	-
+👨🏽‍🐰‍👨🏾	män med kaninöron mellanfärgad hy, mellanmörk hy	-
+👨🏽‍🐰‍👨🏿	män med kaninöron mellanfärgad hy, mörk hy	-
+👨🏾‍🐰‍👨🏻	män med kaninöron mellanmörk hy, ljus hy	-
+👨🏾‍🐰‍👨🏼	män med kaninöron mellanmörk hy, mellanljus hy	-
+👨🏾‍🐰‍👨🏽	män med kaninöron mellanmörk hy, mellanfärgad hy	-
+👨🏾‍🐰‍👨🏿	män med kaninöron mellanmörk hy, mörk hy	-
+👨🏿‍🐰‍👨🏻	män med kaninöron mörk hy, ljus hy	-
+👨🏿‍🐰‍👨🏼	män med kaninöron mörk hy, mellanljus hy	-
+👨🏿‍🐰‍👨🏽	män med kaninöron mörk hy, mellanfärgad hy	-
+👨🏿‍🐰‍👨🏾	män med kaninöron mörk hy, mellanmörk hy	-
 👩🏻	kvinna ljus hy	-
 👩🏼	kvinna mellanljus hy	-
 👩🏽	kvinna mellanfärgad hy	-
@@ -2515,6 +2613,26 @@ $	dollar	-
 👩🏿‍❤‍👩🏽	par med hjärta kvinna, kvinna, mörk hy, mellanfärgad hy	-
 👩🏿‍❤‍👩🏾	par med hjärta kvinna, kvinna, mörk hy, mellanmörk hy	-
 👩🏿‍❤‍👩🏿	par med hjärta kvinna, kvinna, mörk hy	-
+👩🏻‍🫯‍👩🏼	brottande kvinnor ljus hy, mellanljus hy	-
+👩🏻‍🫯‍👩🏽	brottande kvinnor ljus hy, mellanfärgad hy	-
+👩🏻‍🫯‍👩🏾	brottande kvinnor ljus hy, mellanmörk hy	-
+👩🏻‍🫯‍👩🏿	brottande kvinnor ljus hy, mörk hy	-
+👩🏼‍🫯‍👩🏻	brottande kvinnor mellanljus hy, ljus hy	-
+👩🏼‍🫯‍👩🏽	brottande kvinnor mellanljus hy, mellanfärgad hy	-
+👩🏼‍🫯‍👩🏾	brottande kvinnor mellanljus hy, mellanmörk hy	-
+👩🏼‍🫯‍👩🏿	brottande kvinnor mellanljus hy, mörk hy	-
+👩🏽‍🫯‍👩🏻	brottande kvinnor mellanfärgad hy, ljus hy	-
+👩🏽‍🫯‍👩🏼	brottande kvinnor mellanfärgad hy, mellanljus hy	-
+👩🏽‍🫯‍👩🏾	brottande kvinnor mellanfärgad hy, mellanmörk hy	-
+👩🏽‍🫯‍👩🏿	brottande kvinnor mellanfärgad hy, mörk hy	-
+👩🏾‍🫯‍👩🏻	brottande kvinnor mellanmörk hy, ljus hy	-
+👩🏾‍🫯‍👩🏼	brottande kvinnor mellanmörk hy, mellanljus hy	-
+👩🏾‍🫯‍👩🏽	brottande kvinnor mellanmörk hy, mellanfärgad hy	-
+👩🏾‍🫯‍👩🏿	brottande kvinnor mellanmörk hy, mörk hy	-
+👩🏿‍🫯‍👩🏻	brottande kvinnor mörk hy, ljus hy	-
+👩🏿‍🫯‍👩🏼	brottande kvinnor mörk hy, mellanljus hy	-
+👩🏿‍🫯‍👩🏽	brottande kvinnor mörk hy, mellanfärgad hy	-
+👩🏿‍🫯‍👩🏾	brottande kvinnor mörk hy, mellanmörk hy	-
 👩‍🦰	kvinna rödhårig	-
 👩🏻‍🦰	kvinna ljus hy, rödhårig	-
 👩🏼‍🦰	kvinna mellanljus hy, rödhårig	-
@@ -2539,6 +2657,26 @@ $	dollar	-
 👩🏽‍🦲	kvinna mellanfärgad hy, skallig	-
 👩🏾‍🦲	kvinna mellanmörk hy, skallig	-
 👩🏿‍🦲	kvinna mörk hy, skallig	-
+👩🏻‍🐰‍👩🏼	kvinnor med kaninöron ljus hy, mellanljus hy	-
+👩🏻‍🐰‍👩🏽	kvinnor med kaninöron ljus hy, mellanfärgad hy	-
+👩🏻‍🐰‍👩🏾	kvinnor med kaninöron ljus hy, mellanmörk hy	-
+👩🏻‍🐰‍👩🏿	kvinnor med kaninöron ljus hy, mörk hy	-
+👩🏼‍🐰‍👩🏻	kvinnor med kaninöron mellanljus hy, ljus hy	-
+👩🏼‍🐰‍👩🏽	kvinnor med kaninöron mellanljus hy, mellanfärgad hy	-
+👩🏼‍🐰‍👩🏾	kvinnor med kaninöron mellanljus hy, mellanmörk hy	-
+👩🏼‍🐰‍👩🏿	kvinnor med kaninöron mellanljus hy, mörk hy	-
+👩🏽‍🐰‍👩🏻	kvinnor med kaninöron mellanfärgad hy, ljus hy	-
+👩🏽‍🐰‍👩🏼	kvinnor med kaninöron mellanfärgad hy, mellanljus hy	-
+👩🏽‍🐰‍👩🏾	kvinnor med kaninöron mellanfärgad hy, mellanmörk hy	-
+👩🏽‍🐰‍👩🏿	kvinnor med kaninöron mellanfärgad hy, mörk hy	-
+👩🏾‍🐰‍👩🏻	kvinnor med kaninöron mellanmörk hy, ljus hy	-
+👩🏾‍🐰‍👩🏼	kvinnor med kaninöron mellanmörk hy, mellanljus hy	-
+👩🏾‍🐰‍👩🏽	kvinnor med kaninöron mellanmörk hy, mellanfärgad hy	-
+👩🏾‍🐰‍👩🏿	kvinnor med kaninöron mellanmörk hy, mörk hy	-
+👩🏿‍🐰‍👩🏻	kvinnor med kaninöron mörk hy, ljus hy	-
+👩🏿‍🐰‍👩🏼	kvinnor med kaninöron mörk hy, mellanljus hy	-
+👩🏿‍🐰‍👩🏽	kvinnor med kaninöron mörk hy, mellanfärgad hy	-
+👩🏿‍🐰‍👩🏾	kvinnor med kaninöron mörk hy, mellanmörk hy	-
 🧓🏻	äldre person ljus hy	-
 🧓🏼	äldre person mellanljus hy	-
 🧓🏽	äldre person mellanfärgad hy	-
@@ -2654,11 +2792,11 @@ $	dollar	-
 🧏🏽‍♂	hörselskadad man mellanfärgad hy	-
 🧏🏾‍♂	hörselskadad man mellanmörk hy	-
 🧏🏿‍♂	hörselskadad man mörk hy	-
-🧏🏻‍♀	hörselskada kvinna ljus hy	-
-🧏🏼‍♀	hörselskada kvinna mellanljus hy	-
-🧏🏽‍♀	hörselskada kvinna mellanfärgad hy	-
-🧏🏾‍♀	hörselskada kvinna mellanmörk hy	-
-🧏🏿‍♀	hörselskada kvinna mörk hy	-
+🧏🏻‍♀	hörselskadad kvinna ljus hy	-
+🧏🏼‍♀	hörselskadad kvinna mellanljus hy	-
+🧏🏽‍♀	hörselskadad kvinna mellanfärgad hy	-
+🧏🏾‍♀	hörselskadad kvinna mellanmörk hy	-
+🧏🏿‍♀	hörselskadad kvinna mörk hy	-
 🙇🏻	bugande person ljus hy	-
 🙇🏼	bugande person mellanljus hy	-
 🙇🏽	bugande person mellanfärgad hy	-
@@ -3482,6 +3620,11 @@ $	dollar	-
 🏃🏽‍♂‍➡	man som springer mellanfärgad hy, åt höger	-
 🏃🏾‍♂‍➡	man som springer mellanmörk hy, åt höger	-
 🏃🏿‍♂‍➡	man som springer mörk hy, åt höger	-
+🧑🏻‍🩰	balettdansare ljus hy	-
+🧑🏼‍🩰	balettdansare mellanljus hy	-
+🧑🏽‍🩰	balettdansare mellanfärgad hy	-
+🧑🏾‍🩰	balettdansare mellanmörk hy	-
+🧑🏿‍🩰	balettdansare mörk hy	-
 💃🏻	dansande kvinna ljus hy	-
 💃🏼	dansande kvinna mellanljus hy	-
 💃🏽	dansande kvinna mellanfärgad hy	-
@@ -3497,6 +3640,21 @@ $	dollar	-
 🕴🏽	svävande man i kostym mellanfärgad hy	-
 🕴🏾	svävande man i kostym mellanmörk hy	-
 🕴🏿	svävande man i kostym mörk hy	-
+👯🏻	personer med kaninöron ljus hy	-
+👯🏼	personer med kaninöron mellanljus hy	-
+👯🏽	personer med kaninöron mellanfärgad hy	-
+👯🏾	personer med kaninöron mellanmörk hy	-
+👯🏿	personer med kaninöron mörk hy	-
+👯🏻‍♂	män med kaninöron ljus hy	-
+👯🏼‍♂	män med kaninöron mellanljus hy	-
+👯🏽‍♂	män med kaninöron mellanfärgad hy	-
+👯🏾‍♂	män med kaninöron mellanmörk hy	-
+👯🏿‍♂	män med kaninöron mörk hy	-
+👯🏻‍♀	kvinnor med kaninöron ljus hy	-
+👯🏼‍♀	kvinnor med kaninöron mellanljus hy	-
+👯🏽‍♀	kvinnor med kaninöron mellanfärgad hy	-
+👯🏾‍♀	kvinnor med kaninöron mellanmörk hy	-
+👯🏿‍♀	kvinnor med kaninöron mörk hy	-
 🧖🏻	person i ångbastu ljus hy	-
 🧖🏼	person i ångbastu mellanljus hy	-
 🧖🏽	person i ångbastu mellanfärgad hy	-
@@ -3672,6 +3830,21 @@ $	dollar	-
 🤸🏽‍♀	kvinna som hjular mellanfärgad hy	-
 🤸🏾‍♀	kvinna som hjular mellanmörk hy	-
 🤸🏿‍♀	kvinna som hjular mörk hy	-
+🤼🏻	brottande personer ljus hy	-
+🤼🏼	brottande personer mellanljus hy	-
+🤼🏽	brottande personer mellanfärgad hy	-
+🤼🏾	brottande personer mellanmörk hy	-
+🤼🏿	brottande personer mörk hy	-
+🤼🏻‍♂	brottande män ljus hy	-
+🤼🏼‍♂	brottande män mellanljus hy	-
+🤼🏽‍♂	brottande män mellanfärgad hy	-
+🤼🏾‍♂	brottande män mellanmörk hy	-
+🤼🏿‍♂	brottande män mörk hy	-
+🤼🏻‍♀	brottande kvinnor ljus hy	-
+🤼🏼‍♀	brottande kvinnor mellanljus hy	-
+🤼🏽‍♀	brottande kvinnor mellanfärgad hy	-
+🤼🏾‍♀	brottande kvinnor mellanmörk hy	-
+🤼🏿‍♀	brottande kvinnor mörk hy	-
 🤽🏻	person som spelar vattenpolo ljus hy	-
 🤽🏼	person som spelar vattenpolo mellanljus hy	-
 🤽🏽	person som spelar vattenpolo mellanfärgad hy	-
@@ -3934,6 +4107,7 @@ $	dollar	-
 🇨🇳	flagga Kina	-
 🇨🇴	flagga Colombia	-
 🇨🇵	flagga Clippertonön	-
+🇨🇶	flagga Sark	-
 🇨🇷	flagga Costa Rica	-
 🇨🇺	flagga Kuba	-
 🇨🇻	flagga Kap Verde	-

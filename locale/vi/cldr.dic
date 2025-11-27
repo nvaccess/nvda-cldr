@@ -433,6 +433,7 @@ _	dấu gạch dưới	-
 😯	mặt làm thinh	-
 😲	mặt kinh ngạc	-
 😳	mặt đỏ ửng	-
+🫪	mặt méo	-
 🥺	mặt cầu xin	-
 🥹	mặt kìm nén nước mắt	-
 😦	mặt cau miệng há	-
@@ -498,18 +499,19 @@ _	dấu gạch dưới	-
 💚	trái tim màu lục	-
 💙	trái tim màu lam	-
 🩵	trái tim màu xanh dương nhạt	-
-💜	trái tim tím	-
+💜	trái tim màu tím	-
 🤎	trái tim màu nâu	-
-🖤	tim đen	-
+🖤	trái tim màu đen	-
 🩶	trái tim màu xám	-
 🤍	trái tim màu trắng	-
 💋	dấu nụ hôn	-
 💯	100 điểm	-
 💢	biểu tượng giận giữ	-
+🫯	đám mây chiến đấu	-
 💥	va chạm	-
 💫	choáng váng	-
 💦	giọt mồ hôi	-
-💨	chớp nhoáng	-
+💨	lao đi	-
 🕳	lỗ	-
 💬	bong bóng lời nói	-
 👁‍🗨	mắt trong bong bóng lời nói	-
@@ -738,6 +740,7 @@ _	dấu gạch dưới	-
 🧟‍♂	xác chết nam sống lại	-
 🧟‍♀	xác chết nữ sống lại	-
 🧌	người khổng lồ độc ác	-
+🫈	sinh vật nhiều lông	-
 💆	người được xoa bóp mặt	-
 💆‍♂	người đàn ông được xoa bóp mặt	-
 💆‍♀	người phụ nữ được xoa bóp mặt	-
@@ -765,6 +768,7 @@ _	dấu gạch dưới	-
 🏃	người chạy	-
 🏃‍♂	người đàn ông đang chạy	-
 🏃‍♀	người phụ nữ đang chạy	-
+🧑‍🩰	vũ công ba lê	-
 💃	người phụ nữ đang khiêu vũ	-
 🕺	người đàn ông đang khiêu vũ	-
 🕴	người đàn ông mặc vest đang bay lên	-
@@ -855,13 +859,13 @@ _	dấu gạch dưới	-
 🦮	chó dẫn đường	-
 🐕‍🦺	chó hỗ trợ	-
 🐩	chó xù	-
-🐺	mặt chó sói	-
+🐺	chó sói	-
 🦊	cáo	-
 🦝	gấu trúc	-
 🐱	mặt mèo	-
 🐈	mèo	-
 🐈‍⬛	mèo đen	-
-🦁	mặt sư tử	-
+🦁	sư tử	-
 🐯	mặt hổ	-
 🐅	hổ	-
 🐆	báo hoa mai	-
@@ -946,6 +950,7 @@ _	dấu gạch dưới	-
 🐳	cá voi đang phun nước	-
 🐋	cá voi	-
 🐬	cá heo	-
+🫍	cá voi sát thủ	-
 🦭	chó biển	-
 🐟	cá	-
 🐠	cá nhiệt đới	-
@@ -1145,6 +1150,7 @@ _	dấu gạch dưới	-
 🧭	la bàn	-
 🏔	đỉnh núi phủ tuyết	-
 ⛰	núi	-
+🛘	lở đất	-
 🌋	núi lửa	-
 🗻	núi Phú Sĩ	-
 🏕	cắm trại	-
@@ -1505,10 +1511,11 @@ _	dấu gạch dưới	-
 🎧	tai nghe	-
 📻	radio	-
 🎷	kèn saxophone	-
+🎺	kèn trumpet	-
+🪊	kèn trombone	-
 🪗	phong cầm	-
 🎸	đàn ghi-ta	-
 🎹	phím đàn	-
-🎺	kèn trumpet	-
 🎻	đàn violin	-
 🪕	đàn banjo	-
 🥁	trống	-
@@ -1569,8 +1576,9 @@ _	dấu gạch dưới	-
 📑	tab dấu trang	-
 🔖	đánh dấu trang	-
 🏷	nhãn	-
-💰	túi tiền	-
 🪙	đồng tiền	-
+💰	túi tiền	-
+🪎	rương báu	-
 💴	tiền giấy yên	-
 💵	tiền giấy đô la	-
 💶	tiền giấy euro	-
@@ -1771,7 +1779,7 @@ _	dấu gạch dưới	-
 ♌	Sư Tử	-
 ♍	Xử Nữ	-
 ♎	Thiên Bình	-
-♏	Thiên Yết	-
+♏	Bọ Cạp	-
 ♐	Nhân Mã	-
 ♑	Ma Kết	-
 ♒	Bảo Bình	-
@@ -1941,6 +1949,16 @@ $	đô la	-
 ₹	rupee Ấn Độ	-
 ₽	rúp	-
 ₿	bitcoin	-
+0⃣	mũ phím 0	-
+1⃣	mũ phím 1	-
+2⃣	mũ phím 2	-
+3⃣	mũ phím 3	-
+4⃣	mũ phím 4	-
+5⃣	mũ phím 5	-
+6⃣	mũ phím 6	-
+7⃣	mũ phím 7	-
+8⃣	mũ phím 8	-
+9⃣	mũ phím 9	-
 ¹	mũ một	-
 ²	mũ hai	-
 ³	mũ ba	-
@@ -2282,6 +2300,26 @@ $	đô la	-
 🧑🏿‍❤‍🧑🏼	cặp đôi với trái tim người, người, màu da tối, màu da sáng trung bình	-
 🧑🏿‍❤‍🧑🏽	cặp đôi với trái tim người, người, màu da tối, màu da trung bình	-
 🧑🏿‍❤‍🧑🏾	cặp đôi với trái tim người, người, màu da tối, màu da tối trung bình	-
+🧑🏻‍🫯‍🧑🏼	người chơi vật màu da sáng, màu da sáng trung bình	-
+🧑🏻‍🫯‍🧑🏽	người chơi vật màu da sáng, màu da trung bình	-
+🧑🏻‍🫯‍🧑🏾	người chơi vật màu da sáng, màu da tối trung bình	-
+🧑🏻‍🫯‍🧑🏿	người chơi vật màu da sáng, màu da tối	-
+🧑🏼‍🫯‍🧑🏻	người chơi vật màu da sáng trung bình, màu da sáng	-
+🧑🏼‍🫯‍🧑🏽	người chơi vật màu da sáng trung bình, màu da trung bình	-
+🧑🏼‍🫯‍🧑🏾	người chơi vật màu da sáng trung bình, màu da tối trung bình	-
+🧑🏼‍🫯‍🧑🏿	người chơi vật màu da sáng trung bình, màu da tối	-
+🧑🏽‍🫯‍🧑🏻	người chơi vật màu da trung bình, màu da sáng	-
+🧑🏽‍🫯‍🧑🏼	người chơi vật màu da trung bình, màu da sáng trung bình	-
+🧑🏽‍🫯‍🧑🏾	người chơi vật màu da trung bình, màu da tối trung bình	-
+🧑🏽‍🫯‍🧑🏿	người chơi vật màu da trung bình, màu da tối	-
+🧑🏾‍🫯‍🧑🏻	người chơi vật màu da tối trung bình, màu da sáng	-
+🧑🏾‍🫯‍🧑🏼	người chơi vật màu da tối trung bình, màu da sáng trung bình	-
+🧑🏾‍🫯‍🧑🏽	người chơi vật màu da tối trung bình, màu da trung bình	-
+🧑🏾‍🫯‍🧑🏿	người chơi vật màu da tối trung bình, màu da tối	-
+🧑🏿‍🫯‍🧑🏻	người chơi vật màu da tối, màu da sáng	-
+🧑🏿‍🫯‍🧑🏼	người chơi vật màu da tối, màu da sáng trung bình	-
+🧑🏿‍🫯‍🧑🏽	người chơi vật màu da tối, màu da trung bình	-
+🧑🏿‍🫯‍🧑🏾	người chơi vật màu da tối, màu da tối trung bình	-
 🧑‍🦰	người tóc đỏ	-
 🧑🏻‍🦰	người màu da sáng, tóc đỏ	-
 🧑🏼‍🦰	người màu da sáng trung bình, tóc đỏ	-
@@ -2306,6 +2344,26 @@ $	đô la	-
 🧑🏽‍🦲	người màu da trung bình, hói	-
 🧑🏾‍🦲	người màu da tối trung bình, hói	-
 🧑🏿‍🦲	người màu da tối, hói	-
+🧑🏻‍🐰‍🧑🏼	những người đeo tai thỏ màu da sáng, màu da sáng trung bình	-
+🧑🏻‍🐰‍🧑🏽	những người đeo tai thỏ màu da sáng, màu da trung bình	-
+🧑🏻‍🐰‍🧑🏾	những người đeo tai thỏ màu da sáng, màu da tối trung bình	-
+🧑🏻‍🐰‍🧑🏿	những người đeo tai thỏ màu da sáng, màu da tối	-
+🧑🏼‍🐰‍🧑🏻	những người đeo tai thỏ màu da sáng trung bình, màu da sáng	-
+🧑🏼‍🐰‍🧑🏽	những người đeo tai thỏ màu da sáng trung bình, màu da trung bình	-
+🧑🏼‍🐰‍🧑🏾	những người đeo tai thỏ màu da sáng trung bình, màu da tối trung bình	-
+🧑🏼‍🐰‍🧑🏿	những người đeo tai thỏ màu da sáng trung bình, màu da tối	-
+🧑🏽‍🐰‍🧑🏻	những người đeo tai thỏ màu da trung bình, màu da sáng	-
+🧑🏽‍🐰‍🧑🏼	những người đeo tai thỏ màu da trung bình, màu da sáng trung bình	-
+🧑🏽‍🐰‍🧑🏾	những người đeo tai thỏ màu da trung bình, màu da tối trung bình	-
+🧑🏽‍🐰‍🧑🏿	những người đeo tai thỏ màu da trung bình, màu da tối	-
+🧑🏾‍🐰‍🧑🏻	những người đeo tai thỏ màu da tối trung bình, màu da sáng	-
+🧑🏾‍🐰‍🧑🏼	những người đeo tai thỏ màu da tối trung bình, màu da sáng trung bình	-
+🧑🏾‍🐰‍🧑🏽	những người đeo tai thỏ màu da tối trung bình, màu da trung bình	-
+🧑🏾‍🐰‍🧑🏿	những người đeo tai thỏ màu da tối trung bình, màu da tối	-
+🧑🏿‍🐰‍🧑🏻	những người đeo tai thỏ màu da tối, màu da sáng	-
+🧑🏿‍🐰‍🧑🏼	những người đeo tai thỏ màu da tối, màu da sáng trung bình	-
+🧑🏿‍🐰‍🧑🏽	những người đeo tai thỏ màu da tối, màu da trung bình	-
+🧑🏿‍🐰‍🧑🏾	những người đeo tai thỏ màu da tối, màu da tối trung bình	-
 👨🏻	đàn ông màu da sáng	-
 👨🏼	đàn ông màu da sáng trung bình	-
 👨🏽	đàn ông màu da trung bình	-
@@ -2376,6 +2434,26 @@ $	đô la	-
 👨🏿‍❤‍👨🏽	cặp đôi với trái tim đàn ông, đàn ông, màu da tối, màu da trung bình	-
 👨🏿‍❤‍👨🏾	cặp đôi với trái tim đàn ông, đàn ông, màu da tối, màu da tối trung bình	-
 👨🏿‍❤‍👨🏿	cặp đôi với trái tim đàn ông, đàn ông, màu da tối	-
+👨🏻‍🫯‍👨🏼	những người đàn ông chơi vật màu da sáng, màu da sáng trung bình	-
+👨🏻‍🫯‍👨🏽	những người đàn ông chơi vật màu da sáng, màu da trung bình	-
+👨🏻‍🫯‍👨🏾	những người đàn ông chơi vật màu da sáng, màu da tối trung bình	-
+👨🏻‍🫯‍👨🏿	những người đàn ông chơi vật màu da sáng, màu da tối	-
+👨🏼‍🫯‍👨🏻	những người đàn ông chơi vật màu da sáng trung bình, màu da sáng	-
+👨🏼‍🫯‍👨🏽	những người đàn ông chơi vật màu da sáng trung bình, màu da trung bình	-
+👨🏼‍🫯‍👨🏾	những người đàn ông chơi vật màu da sáng trung bình, màu da tối trung bình	-
+👨🏼‍🫯‍👨🏿	những người đàn ông chơi vật màu da sáng trung bình, màu da tối	-
+👨🏽‍🫯‍👨🏻	những người đàn ông chơi vật màu da trung bình, màu da sáng	-
+👨🏽‍🫯‍👨🏼	những người đàn ông chơi vật màu da trung bình, màu da sáng trung bình	-
+👨🏽‍🫯‍👨🏾	những người đàn ông chơi vật màu da trung bình, màu da tối trung bình	-
+👨🏽‍🫯‍👨🏿	những người đàn ông chơi vật màu da trung bình, màu da tối	-
+👨🏾‍🫯‍👨🏻	những người đàn ông chơi vật màu da tối trung bình, màu da sáng	-
+👨🏾‍🫯‍👨🏼	những người đàn ông chơi vật màu da tối trung bình, màu da sáng trung bình	-
+👨🏾‍🫯‍👨🏽	những người đàn ông chơi vật màu da tối trung bình, màu da trung bình	-
+👨🏾‍🫯‍👨🏿	những người đàn ông chơi vật màu da tối trung bình, màu da tối	-
+👨🏿‍🫯‍👨🏻	những người đàn ông chơi vật màu da tối, màu da sáng	-
+👨🏿‍🫯‍👨🏼	những người đàn ông chơi vật màu da tối, màu da sáng trung bình	-
+👨🏿‍🫯‍👨🏽	những người đàn ông chơi vật màu da tối, màu da trung bình	-
+👨🏿‍🫯‍👨🏾	những người đàn ông chơi vật màu da tối, màu da tối trung bình	-
 👨‍🦰	đàn ông tóc đỏ	-
 👨🏻‍🦰	đàn ông màu da sáng, tóc đỏ	-
 👨🏼‍🦰	đàn ông màu da sáng trung bình, tóc đỏ	-
@@ -2400,6 +2478,26 @@ $	đô la	-
 👨🏽‍🦲	đàn ông màu da trung bình, hói	-
 👨🏾‍🦲	đàn ông màu da tối trung bình, hói	-
 👨🏿‍🦲	đàn ông màu da tối, hói	-
+👨🏻‍🐰‍👨🏼	những người đàn ông đeo tai thỏ màu da sáng, màu da sáng trung bình	-
+👨🏻‍🐰‍👨🏽	những người đàn ông đeo tai thỏ màu da sáng, màu da trung bình	-
+👨🏻‍🐰‍👨🏾	những người đàn ông đeo tai thỏ màu da sáng, màu da tối trung bình	-
+👨🏻‍🐰‍👨🏿	những người đàn ông đeo tai thỏ màu da sáng, màu da tối	-
+👨🏼‍🐰‍👨🏻	những người đàn ông đeo tai thỏ màu da sáng trung bình, màu da sáng	-
+👨🏼‍🐰‍👨🏽	những người đàn ông đeo tai thỏ màu da sáng trung bình, màu da trung bình	-
+👨🏼‍🐰‍👨🏾	những người đàn ông đeo tai thỏ màu da sáng trung bình, màu da tối trung bình	-
+👨🏼‍🐰‍👨🏿	những người đàn ông đeo tai thỏ màu da sáng trung bình, màu da tối	-
+👨🏽‍🐰‍👨🏻	những người đàn ông đeo tai thỏ màu da trung bình, màu da sáng	-
+👨🏽‍🐰‍👨🏼	những người đàn ông đeo tai thỏ màu da trung bình, màu da sáng trung bình	-
+👨🏽‍🐰‍👨🏾	những người đàn ông đeo tai thỏ màu da trung bình, màu da tối trung bình	-
+👨🏽‍🐰‍👨🏿	những người đàn ông đeo tai thỏ màu da trung bình, màu da tối	-
+👨🏾‍🐰‍👨🏻	những người đàn ông đeo tai thỏ màu da tối trung bình, màu da sáng	-
+👨🏾‍🐰‍👨🏼	những người đàn ông đeo tai thỏ màu da tối trung bình, màu da sáng trung bình	-
+👨🏾‍🐰‍👨🏽	những người đàn ông đeo tai thỏ màu da tối trung bình, màu da trung bình	-
+👨🏾‍🐰‍👨🏿	những người đàn ông đeo tai thỏ màu da tối trung bình, màu da tối	-
+👨🏿‍🐰‍👨🏻	những người đàn ông đeo tai thỏ màu da tối, màu da sáng	-
+👨🏿‍🐰‍👨🏼	những người đàn ông đeo tai thỏ màu da tối, màu da sáng trung bình	-
+👨🏿‍🐰‍👨🏽	những người đàn ông đeo tai thỏ màu da tối, màu da trung bình	-
+👨🏿‍🐰‍👨🏾	những người đàn ông đeo tai thỏ màu da tối, màu da tối trung bình	-
 👩🏻	phụ nữ màu da sáng	-
 👩🏼	phụ nữ màu da sáng trung bình	-
 👩🏽	phụ nữ màu da trung bình	-
@@ -2515,6 +2613,26 @@ $	đô la	-
 👩🏿‍❤‍👩🏽	cặp đôi với trái tim phụ nữ, phụ nữ, màu da tối, màu da trung bình	-
 👩🏿‍❤‍👩🏾	cặp đôi với trái tim phụ nữ, phụ nữ, màu da tối, màu da tối trung bình	-
 👩🏿‍❤‍👩🏿	cặp đôi với trái tim phụ nữ, phụ nữ, màu da tối	-
+👩🏻‍🫯‍👩🏼	những người phụ nữ chơi vật màu da sáng, màu da sáng trung bình	-
+👩🏻‍🫯‍👩🏽	những người phụ nữ chơi vật màu da sáng, màu da trung bình	-
+👩🏻‍🫯‍👩🏾	những người phụ nữ chơi vật màu da sáng, màu da tối trung bình	-
+👩🏻‍🫯‍👩🏿	những người phụ nữ chơi vật màu da sáng, màu da tối	-
+👩🏼‍🫯‍👩🏻	những người phụ nữ chơi vật màu da sáng trung bình, màu da sáng	-
+👩🏼‍🫯‍👩🏽	những người phụ nữ chơi vật màu da sáng trung bình, màu da trung bình	-
+👩🏼‍🫯‍👩🏾	những người phụ nữ chơi vật màu da sáng trung bình, màu da tối trung bình	-
+👩🏼‍🫯‍👩🏿	những người phụ nữ chơi vật màu da sáng trung bình, màu da tối	-
+👩🏽‍🫯‍👩🏻	những người phụ nữ chơi vật màu da trung bình, màu da sáng	-
+👩🏽‍🫯‍👩🏼	những người phụ nữ chơi vật màu da trung bình, màu da sáng trung bình	-
+👩🏽‍🫯‍👩🏾	những người phụ nữ chơi vật màu da trung bình, màu da tối trung bình	-
+👩🏽‍🫯‍👩🏿	những người phụ nữ chơi vật màu da trung bình, màu da tối	-
+👩🏾‍🫯‍👩🏻	những người phụ nữ chơi vật màu da tối trung bình, màu da sáng	-
+👩🏾‍🫯‍👩🏼	những người phụ nữ chơi vật màu da tối trung bình, màu da sáng trung bình	-
+👩🏾‍🫯‍👩🏽	những người phụ nữ chơi vật màu da tối trung bình, màu da trung bình	-
+👩🏾‍🫯‍👩🏿	những người phụ nữ chơi vật màu da tối trung bình, màu da tối	-
+👩🏿‍🫯‍👩🏻	những người phụ nữ chơi vật màu da tối, màu da sáng	-
+👩🏿‍🫯‍👩🏼	những người phụ nữ chơi vật màu da tối, màu da sáng trung bình	-
+👩🏿‍🫯‍👩🏽	những người phụ nữ chơi vật màu da tối, màu da trung bình	-
+👩🏿‍🫯‍👩🏾	những người phụ nữ chơi vật màu da tối, màu da tối trung bình	-
 👩‍🦰	phụ nữ tóc đỏ	-
 👩🏻‍🦰	phụ nữ màu da sáng, tóc đỏ	-
 👩🏼‍🦰	phụ nữ màu da sáng trung bình, tóc đỏ	-
@@ -2539,6 +2657,26 @@ $	đô la	-
 👩🏽‍🦲	phụ nữ màu da trung bình, hói	-
 👩🏾‍🦲	phụ nữ màu da tối trung bình, hói	-
 👩🏿‍🦲	phụ nữ màu da tối, hói	-
+👩🏻‍🐰‍👩🏼	những người phụ nữ đeo tai thỏ màu da sáng, màu da sáng trung bình	-
+👩🏻‍🐰‍👩🏽	những người phụ nữ đeo tai thỏ màu da sáng, màu da trung bình	-
+👩🏻‍🐰‍👩🏾	những người phụ nữ đeo tai thỏ màu da sáng, màu da tối trung bình	-
+👩🏻‍🐰‍👩🏿	những người phụ nữ đeo tai thỏ màu da sáng, màu da tối	-
+👩🏼‍🐰‍👩🏻	những người phụ nữ đeo tai thỏ màu da sáng trung bình, màu da sáng	-
+👩🏼‍🐰‍👩🏽	những người phụ nữ đeo tai thỏ màu da sáng trung bình, màu da trung bình	-
+👩🏼‍🐰‍👩🏾	những người phụ nữ đeo tai thỏ màu da sáng trung bình, màu da tối trung bình	-
+👩🏼‍🐰‍👩🏿	những người phụ nữ đeo tai thỏ màu da sáng trung bình, màu da tối	-
+👩🏽‍🐰‍👩🏻	những người phụ nữ đeo tai thỏ màu da trung bình, màu da sáng	-
+👩🏽‍🐰‍👩🏼	những người phụ nữ đeo tai thỏ màu da trung bình, màu da sáng trung bình	-
+👩🏽‍🐰‍👩🏾	những người phụ nữ đeo tai thỏ màu da trung bình, màu da tối trung bình	-
+👩🏽‍🐰‍👩🏿	những người phụ nữ đeo tai thỏ màu da trung bình, màu da tối	-
+👩🏾‍🐰‍👩🏻	những người phụ nữ đeo tai thỏ màu da tối trung bình, màu da sáng	-
+👩🏾‍🐰‍👩🏼	những người phụ nữ đeo tai thỏ màu da tối trung bình, màu da sáng trung bình	-
+👩🏾‍🐰‍👩🏽	những người phụ nữ đeo tai thỏ màu da tối trung bình, màu da trung bình	-
+👩🏾‍🐰‍👩🏿	những người phụ nữ đeo tai thỏ màu da tối trung bình, màu da tối	-
+👩🏿‍🐰‍👩🏻	những người phụ nữ đeo tai thỏ màu da tối, màu da sáng	-
+👩🏿‍🐰‍👩🏼	những người phụ nữ đeo tai thỏ màu da tối, màu da sáng trung bình	-
+👩🏿‍🐰‍👩🏽	những người phụ nữ đeo tai thỏ màu da tối, màu da trung bình	-
+👩🏿‍🐰‍👩🏾	những người phụ nữ đeo tai thỏ màu da tối, màu da tối trung bình	-
 🧓🏻	người lớn tuổi màu da sáng	-
 🧓🏼	người lớn tuổi màu da sáng trung bình	-
 🧓🏽	người lớn tuổi màu da trung bình	-
@@ -3482,6 +3620,11 @@ $	đô la	-
 🏃🏽‍♂‍➡	người đàn ông đang chạy màu da trung bình, hướng sang phải	-
 🏃🏾‍♂‍➡	người đàn ông đang chạy màu da tối trung bình, hướng sang phải	-
 🏃🏿‍♂‍➡	người đàn ông đang chạy màu da tối, hướng sang phải	-
+🧑🏻‍🩰	vũ công ba lê màu da sáng	-
+🧑🏼‍🩰	vũ công ba lê màu da sáng trung bình	-
+🧑🏽‍🩰	vũ công ba lê màu da trung bình	-
+🧑🏾‍🩰	vũ công ba lê màu da tối trung bình	-
+🧑🏿‍🩰	vũ công ba lê màu da tối	-
 💃🏻	người phụ nữ đang khiêu vũ màu da sáng	-
 💃🏼	người phụ nữ đang khiêu vũ màu da sáng trung bình	-
 💃🏽	người phụ nữ đang khiêu vũ màu da trung bình	-
@@ -3497,6 +3640,21 @@ $	đô la	-
 🕴🏽	người đàn ông mặc vest đang bay lên màu da trung bình	-
 🕴🏾	người đàn ông mặc vest đang bay lên màu da tối trung bình	-
 🕴🏿	người đàn ông mặc vest đang bay lên màu da tối	-
+👯🏻	những người đeo tai thỏ màu da sáng	-
+👯🏼	những người đeo tai thỏ màu da sáng trung bình	-
+👯🏽	những người đeo tai thỏ màu da trung bình	-
+👯🏾	những người đeo tai thỏ màu da tối trung bình	-
+👯🏿	những người đeo tai thỏ màu da tối	-
+👯🏻‍♂	những người đàn ông đeo tai thỏ màu da sáng	-
+👯🏼‍♂	những người đàn ông đeo tai thỏ màu da sáng trung bình	-
+👯🏽‍♂	những người đàn ông đeo tai thỏ màu da trung bình	-
+👯🏾‍♂	những người đàn ông đeo tai thỏ màu da tối trung bình	-
+👯🏿‍♂	những người đàn ông đeo tai thỏ màu da tối	-
+👯🏻‍♀	những người phụ nữ đeo tai thỏ màu da sáng	-
+👯🏼‍♀	những người phụ nữ đeo tai thỏ màu da sáng trung bình	-
+👯🏽‍♀	những người phụ nữ đeo tai thỏ màu da trung bình	-
+👯🏾‍♀	những người phụ nữ đeo tai thỏ màu da tối trung bình	-
+👯🏿‍♀	những người phụ nữ đeo tai thỏ màu da tối	-
 🧖🏻	người ở trong phòng xông hơi màu da sáng	-
 🧖🏼	người ở trong phòng xông hơi màu da sáng trung bình	-
 🧖🏽	người ở trong phòng xông hơi màu da trung bình	-
@@ -3672,6 +3830,21 @@ $	đô la	-
 🤸🏽‍♀	người phụ nữ nhào lộn màu da trung bình	-
 🤸🏾‍♀	người phụ nữ nhào lộn màu da tối trung bình	-
 🤸🏿‍♀	người phụ nữ nhào lộn màu da tối	-
+🤼🏻	người chơi vật màu da sáng	-
+🤼🏼	người chơi vật màu da sáng trung bình	-
+🤼🏽	người chơi vật màu da trung bình	-
+🤼🏾	người chơi vật màu da tối trung bình	-
+🤼🏿	người chơi vật màu da tối	-
+🤼🏻‍♂	những người đàn ông chơi vật màu da sáng	-
+🤼🏼‍♂	những người đàn ông chơi vật màu da sáng trung bình	-
+🤼🏽‍♂	những người đàn ông chơi vật màu da trung bình	-
+🤼🏾‍♂	những người đàn ông chơi vật màu da tối trung bình	-
+🤼🏿‍♂	những người đàn ông chơi vật màu da tối	-
+🤼🏻‍♀	những người phụ nữ chơi vật màu da sáng	-
+🤼🏼‍♀	những người phụ nữ chơi vật màu da sáng trung bình	-
+🤼🏽‍♀	những người phụ nữ chơi vật màu da trung bình	-
+🤼🏾‍♀	những người phụ nữ chơi vật màu da tối trung bình	-
+🤼🏿‍♀	những người phụ nữ chơi vật màu da tối	-
 🤽🏻	người chơi bóng nước màu da sáng	-
 🤽🏼	người chơi bóng nước màu da sáng trung bình	-
 🤽🏽	người chơi bóng nước màu da trung bình	-
@@ -3899,7 +4072,7 @@ $	đô la	-
 🇦🇷	cờ Argentina	-
 🇦🇸	cờ Samoa thuộc Mỹ	-
 🇦🇹	cờ Áo	-
-🇦🇺	cờ Australia	-
+🇦🇺	cờ Úc	-
 🇦🇼	cờ Aruba	-
 🇦🇽	cờ Quần đảo Åland	-
 🇦🇿	cờ Azerbaijan	-
@@ -3937,6 +4110,7 @@ $	đô la	-
 🇨🇳	cờ Trung Quốc	-
 🇨🇴	cờ Colombia	-
 🇨🇵	cờ Đảo Clipperton	-
+🇨🇶	cờ Sark	-
 🇨🇷	cờ Costa Rica	-
 🇨🇺	cờ Cuba	-
 🇨🇻	cờ Cape Verde	-
@@ -4166,14 +4340,4 @@ $	đô la	-
 ₺	Lia Thổ Nhĩ Kỳ	-
 ₼	Manat Azerbaijan	-
 ₾	Lari Georgia	-
-0⃣	mũ phím 0	-
-1⃣	mũ phím 1	-
-2⃣	mũ phím 2	-
-3⃣	mũ phím 3	-
-4⃣	mũ phím 4	-
-5⃣	mũ phím 5	-
-6⃣	mũ phím 6	-
-7⃣	mũ phím 7	-
-8⃣	mũ phím 8	-
-9⃣	mũ phím 9	-
 ₧	Đồng Peseta Tây Ban Nha	-

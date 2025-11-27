@@ -433,6 +433,7 @@ _	lágstrik	-
 😯	undrandi andlit	-
 😲	stórundrandi andlit	-
 😳	andlit að roðna	-
+🫪	afmyndað andlit	-
 🥺	biðjandi andlit	-
 🥹	andlit að berjast við tárin	-
 😦	leitt andlit	-
@@ -506,6 +507,7 @@ _	lágstrik	-
 💋	kossafar	-
 💯	fullt hús	-
 💢	reiði	-
+🫯	rifrildisský	-
 💥	árekstur	-
 💫	ringlaður	-
 💦	svitadropar	-
@@ -738,6 +740,7 @@ _	lágstrik	-
 🧟‍♂	karlkyns uppvakningur	-
 🧟‍♀	kvenkyns uppvakningur	-
 🧌	jarðálfur	-
+🫈	loðin skepna	-
 💆	andlitsnudd	-
 💆‍♂	maður fær andlitsnudd	-
 💆‍♀	kona fær andlitsnudd	-
@@ -765,6 +768,7 @@ _	lágstrik	-
 🏃	hlaupari	-
 🏃‍♂	hlaupandi maður	-
 🏃‍♀	hlaupandi kona	-
+🧑‍🩰	ballettdansari	-
 💃	dansandi kona	-
 🕺	dansandi karl	-
 🕴	svífandi bisnessmaður í jakkafötum	-
@@ -946,6 +950,7 @@ _	lágstrik	-
 🐳	blásandi hvalur	-
 🐋	hvalur	-
 🐬	höfrungur	-
+🫍	háhyrningur	-
 🦭	selur	-
 🐟	fiskur	-
 🐠	hitabeltisfiskur	-
@@ -1145,6 +1150,7 @@ _	lágstrik	-
 🧭	áttaviti	-
 🏔	snæviþakinn fjallstindur	-
 ⛰	fjall	-
+🛘	skriða	-
 🌋	eldfjall	-
 🗻	fuji-fjall	-
 🏕	tjaldstæði	-
@@ -1505,10 +1511,11 @@ _	lágstrik	-
 🎧	heyrnartól	-
 📻	útvarp	-
 🎷	saxófónn	-
+🎺	trompet	-
+🪊	básúna	-
 🪗	harmonika	-
 🎸	gítar	-
 🎹	píanó	-
-🎺	trompet	-
 🎻	fiðla	-
 🪕	banjó	-
 🥁	tromma	-
@@ -1569,8 +1576,9 @@ _	lágstrik	-
 📑	merkiflipar	-
 🔖	bókamerki	-
 🏷	merkimiði	-
-💰	peningapoki	-
 🪙	mynt	-
+💰	peningapoki	-
+🪎	fjársjóðskista	-
 💴	yenaseðill	-
 💵	dollaraseðill	-
 💶	evruseðill	-
@@ -1941,6 +1949,16 @@ $	dalur	-
 ₹	indversk rúpía	-
 ₽	rúbla	-
 ₿	bitcoin	-
+0⃣	takki 0	-
+1⃣	takki 1	-
+2⃣	takki 2	-
+3⃣	takki 3	-
+4⃣	takki 4	-
+5⃣	takki 5	-
+6⃣	takki 6	-
+7⃣	takki 7	-
+8⃣	takki 8	-
+9⃣	takki 9	-
 ¹	brjóstletur einn	-
 ²	brjóstletur tveir	-
 ³	brjóstletur þrír	-
@@ -2282,6 +2300,26 @@ $	dalur	-
 🧑🏿‍❤‍🧑🏼	par manneskja, manneskja, dökkur húðlitur og meðalljós húðlitur	-
 🧑🏿‍❤‍🧑🏽	par manneskja, manneskja, dökkur húðlitur og millihúðlitur	-
 🧑🏿‍❤‍🧑🏾	par manneskja, manneskja, dökkur húðlitur og meðaldökkur húðlitur	-
+🧑🏻‍🫯‍🧑🏼	glíma ljós húðlitur og meðalljós húðlitur	-
+🧑🏻‍🫯‍🧑🏽	glíma ljós húðlitur og millihúðlitur	-
+🧑🏻‍🫯‍🧑🏾	glíma ljós húðlitur og meðaldökkur húðlitur	-
+🧑🏻‍🫯‍🧑🏿	glíma ljós húðlitur og dökkur húðlitur	-
+🧑🏼‍🫯‍🧑🏻	glíma meðalljós húðlitur og ljós húðlitur	-
+🧑🏼‍🫯‍🧑🏽	glíma meðalljós húðlitur og millihúðlitur	-
+🧑🏼‍🫯‍🧑🏾	glíma meðalljós húðlitur og meðaldökkur húðlitur	-
+🧑🏼‍🫯‍🧑🏿	glíma meðalljós húðlitur og dökkur húðlitur	-
+🧑🏽‍🫯‍🧑🏻	glíma millihúðlitur og ljós húðlitur	-
+🧑🏽‍🫯‍🧑🏼	glíma millihúðlitur og meðalljós húðlitur	-
+🧑🏽‍🫯‍🧑🏾	glíma millihúðlitur og meðaldökkur húðlitur	-
+🧑🏽‍🫯‍🧑🏿	glíma millihúðlitur og dökkur húðlitur	-
+🧑🏾‍🫯‍🧑🏻	glíma meðaldökkur húðlitur og ljós húðlitur	-
+🧑🏾‍🫯‍🧑🏼	glíma meðaldökkur húðlitur og meðalljós húðlitur	-
+🧑🏾‍🫯‍🧑🏽	glíma meðaldökkur húðlitur og millihúðlitur	-
+🧑🏾‍🫯‍🧑🏿	glíma meðaldökkur húðlitur og dökkur húðlitur	-
+🧑🏿‍🫯‍🧑🏻	glíma dökkur húðlitur og ljós húðlitur	-
+🧑🏿‍🫯‍🧑🏼	glíma dökkur húðlitur og meðalljós húðlitur	-
+🧑🏿‍🫯‍🧑🏽	glíma dökkur húðlitur og millihúðlitur	-
+🧑🏿‍🫯‍🧑🏾	glíma dökkur húðlitur og meðaldökkur húðlitur	-
 🧑‍🦰	manneskja rautt hár	-
 🧑🏻‍🦰	manneskja ljós húðlitur og rautt hár	-
 🧑🏼‍🦰	manneskja meðalljós húðlitur og rautt hár	-
@@ -2306,6 +2344,26 @@ $	dalur	-
 🧑🏽‍🦲	manneskja millihúðlitur og skalli	-
 🧑🏾‍🦲	manneskja meðaldökkur húðlitur og skalli	-
 🧑🏿‍🦲	manneskja dökkur húðlitur og skalli	-
+🧑🏻‍🐰‍🧑🏼	kanínueyru ljós húðlitur og meðalljós húðlitur	-
+🧑🏻‍🐰‍🧑🏽	kanínueyru ljós húðlitur og millihúðlitur	-
+🧑🏻‍🐰‍🧑🏾	kanínueyru ljós húðlitur og meðaldökkur húðlitur	-
+🧑🏻‍🐰‍🧑🏿	kanínueyru ljós húðlitur og dökkur húðlitur	-
+🧑🏼‍🐰‍🧑🏻	kanínueyru meðalljós húðlitur og ljós húðlitur	-
+🧑🏼‍🐰‍🧑🏽	kanínueyru meðalljós húðlitur og millihúðlitur	-
+🧑🏼‍🐰‍🧑🏾	kanínueyru meðalljós húðlitur og meðaldökkur húðlitur	-
+🧑🏼‍🐰‍🧑🏿	kanínueyru meðalljós húðlitur og dökkur húðlitur	-
+🧑🏽‍🐰‍🧑🏻	kanínueyru millihúðlitur og ljós húðlitur	-
+🧑🏽‍🐰‍🧑🏼	kanínueyru millihúðlitur og meðalljós húðlitur	-
+🧑🏽‍🐰‍🧑🏾	kanínueyru millihúðlitur og meðaldökkur húðlitur	-
+🧑🏽‍🐰‍🧑🏿	kanínueyru millihúðlitur og dökkur húðlitur	-
+🧑🏾‍🐰‍🧑🏻	kanínueyru meðaldökkur húðlitur og ljós húðlitur	-
+🧑🏾‍🐰‍🧑🏼	kanínueyru meðaldökkur húðlitur og meðalljós húðlitur	-
+🧑🏾‍🐰‍🧑🏽	kanínueyru meðaldökkur húðlitur og millihúðlitur	-
+🧑🏾‍🐰‍🧑🏿	kanínueyru meðaldökkur húðlitur og dökkur húðlitur	-
+🧑🏿‍🐰‍🧑🏻	kanínueyru dökkur húðlitur og ljós húðlitur	-
+🧑🏿‍🐰‍🧑🏼	kanínueyru dökkur húðlitur og meðalljós húðlitur	-
+🧑🏿‍🐰‍🧑🏽	kanínueyru dökkur húðlitur og millihúðlitur	-
+🧑🏿‍🐰‍🧑🏾	kanínueyru dökkur húðlitur og meðaldökkur húðlitur	-
 👨🏻	karl ljós húðlitur	-
 👨🏼	karl meðalljós húðlitur	-
 👨🏽	karl millihúðlitur	-
@@ -2376,6 +2434,26 @@ $	dalur	-
 👨🏿‍❤‍👨🏽	par karl, karl, dökkur húðlitur og millihúðlitur	-
 👨🏿‍❤‍👨🏾	par karl, karl, dökkur húðlitur og meðaldökkur húðlitur	-
 👨🏿‍❤‍👨🏿	par karl, karl og dökkur húðlitur	-
+👨🏻‍🫯‍👨🏼	menn í glímu ljós húðlitur og meðalljós húðlitur	-
+👨🏻‍🫯‍👨🏽	menn í glímu ljós húðlitur og millihúðlitur	-
+👨🏻‍🫯‍👨🏾	menn í glímu ljós húðlitur og meðaldökkur húðlitur	-
+👨🏻‍🫯‍👨🏿	menn í glímu ljós húðlitur og dökkur húðlitur	-
+👨🏼‍🫯‍👨🏻	menn í glímu meðalljós húðlitur og ljós húðlitur	-
+👨🏼‍🫯‍👨🏽	menn í glímu meðalljós húðlitur og millihúðlitur	-
+👨🏼‍🫯‍👨🏾	menn í glímu meðalljós húðlitur og meðaldökkur húðlitur	-
+👨🏼‍🫯‍👨🏿	menn í glímu meðalljós húðlitur og dökkur húðlitur	-
+👨🏽‍🫯‍👨🏻	menn í glímu millihúðlitur og ljós húðlitur	-
+👨🏽‍🫯‍👨🏼	menn í glímu millihúðlitur og meðalljós húðlitur	-
+👨🏽‍🫯‍👨🏾	menn í glímu millihúðlitur og meðaldökkur húðlitur	-
+👨🏽‍🫯‍👨🏿	menn í glímu millihúðlitur og dökkur húðlitur	-
+👨🏾‍🫯‍👨🏻	menn í glímu meðaldökkur húðlitur og ljós húðlitur	-
+👨🏾‍🫯‍👨🏼	menn í glímu meðaldökkur húðlitur og meðalljós húðlitur	-
+👨🏾‍🫯‍👨🏽	menn í glímu meðaldökkur húðlitur og millihúðlitur	-
+👨🏾‍🫯‍👨🏿	menn í glímu meðaldökkur húðlitur og dökkur húðlitur	-
+👨🏿‍🫯‍👨🏻	menn í glímu dökkur húðlitur og ljós húðlitur	-
+👨🏿‍🫯‍👨🏼	menn í glímu dökkur húðlitur og meðalljós húðlitur	-
+👨🏿‍🫯‍👨🏽	menn í glímu dökkur húðlitur og millihúðlitur	-
+👨🏿‍🫯‍👨🏾	menn í glímu dökkur húðlitur og meðaldökkur húðlitur	-
 👨‍🦰	karl rautt hár	-
 👨🏻‍🦰	karl ljós húðlitur og rautt hár	-
 👨🏼‍🦰	karl meðalljós húðlitur og rautt hár	-
@@ -2400,6 +2478,26 @@ $	dalur	-
 👨🏽‍🦲	karl millihúðlitur og skalli	-
 👨🏾‍🦲	karl meðaldökkur húðlitur og skalli	-
 👨🏿‍🦲	karl dökkur húðlitur og skalli	-
+👨🏻‍🐰‍👨🏼	menn með kanínueyru ljós húðlitur og meðalljós húðlitur	-
+👨🏻‍🐰‍👨🏽	menn með kanínueyru ljós húðlitur og millihúðlitur	-
+👨🏻‍🐰‍👨🏾	menn með kanínueyru ljós húðlitur og meðaldökkur húðlitur	-
+👨🏻‍🐰‍👨🏿	menn með kanínueyru ljós húðlitur og dökkur húðlitur	-
+👨🏼‍🐰‍👨🏻	menn með kanínueyru meðalljós húðlitur og ljós húðlitur	-
+👨🏼‍🐰‍👨🏽	menn með kanínueyru meðalljós húðlitur og millihúðlitur	-
+👨🏼‍🐰‍👨🏾	menn með kanínueyru meðalljós húðlitur og meðaldökkur húðlitur	-
+👨🏼‍🐰‍👨🏿	menn með kanínueyru meðalljós húðlitur og dökkur húðlitur	-
+👨🏽‍🐰‍👨🏻	menn með kanínueyru millihúðlitur og ljós húðlitur	-
+👨🏽‍🐰‍👨🏼	menn með kanínueyru millihúðlitur og meðalljós húðlitur	-
+👨🏽‍🐰‍👨🏾	menn með kanínueyru millihúðlitur og meðaldökkur húðlitur	-
+👨🏽‍🐰‍👨🏿	menn með kanínueyru millihúðlitur og dökkur húðlitur	-
+👨🏾‍🐰‍👨🏻	menn með kanínueyru meðaldökkur húðlitur og ljós húðlitur	-
+👨🏾‍🐰‍👨🏼	menn með kanínueyru meðaldökkur húðlitur og meðalljós húðlitur	-
+👨🏾‍🐰‍👨🏽	menn með kanínueyru meðaldökkur húðlitur og millihúðlitur	-
+👨🏾‍🐰‍👨🏿	menn með kanínueyru meðaldökkur húðlitur og dökkur húðlitur	-
+👨🏿‍🐰‍👨🏻	menn með kanínueyru dökkur húðlitur og ljós húðlitur	-
+👨🏿‍🐰‍👨🏼	menn með kanínueyru dökkur húðlitur og meðalljós húðlitur	-
+👨🏿‍🐰‍👨🏽	menn með kanínueyru dökkur húðlitur og millihúðlitur	-
+👨🏿‍🐰‍👨🏾	menn með kanínueyru dökkur húðlitur og meðaldökkur húðlitur	-
 👩🏻	kona ljós húðlitur	-
 👩🏼	kona meðalljós húðlitur	-
 👩🏽	kona millihúðlitur	-
@@ -2515,6 +2613,26 @@ $	dalur	-
 👩🏿‍❤‍👩🏽	par kona, kona, dökkur húðlitur og millihúðlitur	-
 👩🏿‍❤‍👩🏾	par kona, kona, dökkur húðlitur og meðaldökkur húðlitur	-
 👩🏿‍❤‍👩🏿	par kona, kona og dökkur húðlitur	-
+👩🏻‍🫯‍👩🏼	konur í glímu ljós húðlitur og meðalljós húðlitur	-
+👩🏻‍🫯‍👩🏽	konur í glímu ljós húðlitur og millihúðlitur	-
+👩🏻‍🫯‍👩🏾	konur í glímu ljós húðlitur og meðaldökkur húðlitur	-
+👩🏻‍🫯‍👩🏿	konur í glímu ljós húðlitur og dökkur húðlitur	-
+👩🏼‍🫯‍👩🏻	konur í glímu meðalljós húðlitur og ljós húðlitur	-
+👩🏼‍🫯‍👩🏽	konur í glímu meðalljós húðlitur og millihúðlitur	-
+👩🏼‍🫯‍👩🏾	konur í glímu meðalljós húðlitur og meðaldökkur húðlitur	-
+👩🏼‍🫯‍👩🏿	konur í glímu meðalljós húðlitur og dökkur húðlitur	-
+👩🏽‍🫯‍👩🏻	konur í glímu millihúðlitur og ljós húðlitur	-
+👩🏽‍🫯‍👩🏼	konur í glímu millihúðlitur og meðalljós húðlitur	-
+👩🏽‍🫯‍👩🏾	konur í glímu millihúðlitur og meðaldökkur húðlitur	-
+👩🏽‍🫯‍👩🏿	konur í glímu millihúðlitur og dökkur húðlitur	-
+👩🏾‍🫯‍👩🏻	konur í glímu meðaldökkur húðlitur og ljós húðlitur	-
+👩🏾‍🫯‍👩🏼	konur í glímu meðaldökkur húðlitur og meðalljós húðlitur	-
+👩🏾‍🫯‍👩🏽	konur í glímu meðaldökkur húðlitur og millihúðlitur	-
+👩🏾‍🫯‍👩🏿	konur í glímu meðaldökkur húðlitur og dökkur húðlitur	-
+👩🏿‍🫯‍👩🏻	konur í glímu dökkur húðlitur og ljós húðlitur	-
+👩🏿‍🫯‍👩🏼	konur í glímu dökkur húðlitur og meðalljós húðlitur	-
+👩🏿‍🫯‍👩🏽	konur í glímu dökkur húðlitur og millihúðlitur	-
+👩🏿‍🫯‍👩🏾	konur í glímu dökkur húðlitur og meðaldökkur húðlitur	-
 👩‍🦰	kona rautt hár	-
 👩🏻‍🦰	kona ljós húðlitur og rautt hár	-
 👩🏼‍🦰	kona meðalljós húðlitur og rautt hár	-
@@ -2539,6 +2657,26 @@ $	dalur	-
 👩🏽‍🦲	kona millihúðlitur og skalli	-
 👩🏾‍🦲	kona meðaldökkur húðlitur og skalli	-
 👩🏿‍🦲	kona dökkur húðlitur og skalli	-
+👩🏻‍🐰‍👩🏼	konur með kanínueyru ljós húðlitur og meðalljós húðlitur	-
+👩🏻‍🐰‍👩🏽	konur með kanínueyru ljós húðlitur og millihúðlitur	-
+👩🏻‍🐰‍👩🏾	konur með kanínueyru ljós húðlitur og meðaldökkur húðlitur	-
+👩🏻‍🐰‍👩🏿	konur með kanínueyru ljós húðlitur og dökkur húðlitur	-
+👩🏼‍🐰‍👩🏻	konur með kanínueyru meðalljós húðlitur og ljós húðlitur	-
+👩🏼‍🐰‍👩🏽	konur með kanínueyru meðalljós húðlitur og millihúðlitur	-
+👩🏼‍🐰‍👩🏾	konur með kanínueyru meðalljós húðlitur og meðaldökkur húðlitur	-
+👩🏼‍🐰‍👩🏿	konur með kanínueyru meðalljós húðlitur og dökkur húðlitur	-
+👩🏽‍🐰‍👩🏻	konur með kanínueyru millihúðlitur og ljós húðlitur	-
+👩🏽‍🐰‍👩🏼	konur með kanínueyru millihúðlitur og meðalljós húðlitur	-
+👩🏽‍🐰‍👩🏾	konur með kanínueyru millihúðlitur og meðaldökkur húðlitur	-
+👩🏽‍🐰‍👩🏿	konur með kanínueyru millihúðlitur og dökkur húðlitur	-
+👩🏾‍🐰‍👩🏻	konur með kanínueyru meðaldökkur húðlitur og ljós húðlitur	-
+👩🏾‍🐰‍👩🏼	konur með kanínueyru meðaldökkur húðlitur og meðalljós húðlitur	-
+👩🏾‍🐰‍👩🏽	konur með kanínueyru meðaldökkur húðlitur og millihúðlitur	-
+👩🏾‍🐰‍👩🏿	konur með kanínueyru meðaldökkur húðlitur og dökkur húðlitur	-
+👩🏿‍🐰‍👩🏻	konur með kanínueyru dökkur húðlitur og ljós húðlitur	-
+👩🏿‍🐰‍👩🏼	konur með kanínueyru dökkur húðlitur og meðalljós húðlitur	-
+👩🏿‍🐰‍👩🏽	konur með kanínueyru dökkur húðlitur og millihúðlitur	-
+👩🏿‍🐰‍👩🏾	konur með kanínueyru dökkur húðlitur og meðaldökkur húðlitur	-
 🧓🏻	eldri fullorðinn ljós húðlitur	-
 🧓🏼	eldri fullorðinn meðalljós húðlitur	-
 🧓🏽	eldri fullorðinn millihúðlitur	-
@@ -3482,6 +3620,11 @@ $	dalur	-
 🏃🏽‍♂‍➡	hlaupandi maður millihúðlitur og snýr til hægri	-
 🏃🏾‍♂‍➡	hlaupandi maður meðaldökkur húðlitur og snýr til hægri	-
 🏃🏿‍♂‍➡	hlaupandi maður dökkur húðlitur og snýr til hægri	-
+🧑🏻‍🩰	ballettdansari ljós húðlitur	-
+🧑🏼‍🩰	ballettdansari meðalljós húðlitur	-
+🧑🏽‍🩰	ballettdansari millihúðlitur	-
+🧑🏾‍🩰	ballettdansari meðaldökkur húðlitur	-
+🧑🏿‍🩰	ballettdansari dökkur húðlitur	-
 💃🏻	dansandi kona ljós húðlitur	-
 💃🏼	dansandi kona meðalljós húðlitur	-
 💃🏽	dansandi kona millihúðlitur	-
@@ -3497,6 +3640,21 @@ $	dalur	-
 🕴🏽	svífandi bisnessmaður í jakkafötum millihúðlitur	-
 🕴🏾	svífandi bisnessmaður í jakkafötum meðaldökkur húðlitur	-
 🕴🏿	svífandi bisnessmaður í jakkafötum dökkur húðlitur	-
+👯🏻	kanínueyru ljós húðlitur	-
+👯🏼	kanínueyru meðalljós húðlitur	-
+👯🏽	kanínueyru millihúðlitur	-
+👯🏾	kanínueyru meðaldökkur húðlitur	-
+👯🏿	kanínueyru dökkur húðlitur	-
+👯🏻‍♂	menn með kanínueyru ljós húðlitur	-
+👯🏼‍♂	menn með kanínueyru meðalljós húðlitur	-
+👯🏽‍♂	menn með kanínueyru millihúðlitur	-
+👯🏾‍♂	menn með kanínueyru meðaldökkur húðlitur	-
+👯🏿‍♂	menn með kanínueyru dökkur húðlitur	-
+👯🏻‍♀	konur með kanínueyru ljós húðlitur	-
+👯🏼‍♀	konur með kanínueyru meðalljós húðlitur	-
+👯🏽‍♀	konur með kanínueyru millihúðlitur	-
+👯🏾‍♀	konur með kanínueyru meðaldökkur húðlitur	-
+👯🏿‍♀	konur með kanínueyru dökkur húðlitur	-
 🧖🏻	einstaklingur í gufubaði ljós húðlitur	-
 🧖🏼	einstaklingur í gufubaði meðalljós húðlitur	-
 🧖🏽	einstaklingur í gufubaði millihúðlitur	-
@@ -3672,6 +3830,21 @@ $	dalur	-
 🤸🏽‍♀	kona á handahlaupum millihúðlitur	-
 🤸🏾‍♀	kona á handahlaupum meðaldökkur húðlitur	-
 🤸🏿‍♀	kona á handahlaupum dökkur húðlitur	-
+🤼🏻	glíma ljós húðlitur	-
+🤼🏼	glíma meðalljós húðlitur	-
+🤼🏽	glíma millihúðlitur	-
+🤼🏾	glíma meðaldökkur húðlitur	-
+🤼🏿	glíma dökkur húðlitur	-
+🤼🏻‍♂	menn í glímu ljós húðlitur	-
+🤼🏼‍♂	menn í glímu meðalljós húðlitur	-
+🤼🏽‍♂	menn í glímu millihúðlitur	-
+🤼🏾‍♂	menn í glímu meðaldökkur húðlitur	-
+🤼🏿‍♂	menn í glímu dökkur húðlitur	-
+🤼🏻‍♀	konur í glímu ljós húðlitur	-
+🤼🏼‍♀	konur í glímu meðalljós húðlitur	-
+🤼🏽‍♀	konur í glímu millihúðlitur	-
+🤼🏾‍♀	konur í glímu meðaldökkur húðlitur	-
+🤼🏿‍♀	konur í glímu dökkur húðlitur	-
 🤽🏻	manneskja í vatnapóló ljós húðlitur	-
 🤽🏼	manneskja í vatnapóló meðalljós húðlitur	-
 🤽🏽	manneskja í vatnapóló millihúðlitur	-
@@ -3937,6 +4110,7 @@ $	dalur	-
 🇨🇳	fáni Kína	-
 🇨🇴	fáni Kólumbía	-
 🇨🇵	fáni Clipperton-eyja	-
+🇨🇶	fáni Sark	-
 🇨🇷	fáni Kostaríka	-
 🇨🇺	fáni Kúba	-
 🇨🇻	fáni Grænhöfðaeyjar	-
@@ -4166,14 +4340,4 @@ $	dalur	-
 ₺	tyrknesk líra	-
 ₼	aserskt manat	-
 ₾	georgískur lari	-
-0⃣	takki 0	-
-1⃣	takki 1	-
-2⃣	takki 2	-
-3⃣	takki 3	-
-4⃣	takki 4	-
-5⃣	takki 5	-
-6⃣	takki 6	-
-7⃣	takki 7	-
-8⃣	takki 8	-
-9⃣	takki 9	-
 ₧	Spænskur peseti	-

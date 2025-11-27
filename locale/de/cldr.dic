@@ -138,10 +138,10 @@ _	Unterstrich	-
 ⇍	Durchgestrichener Pfeil mit Doppelstrich nach links	-
 ⇑	Pfeil mit Doppelstrich nach oben	-
 ⇒	Pfeil mit Doppelstrich nach rechts	-
-⇏	Durchgestrichener Pfeil mit Doppelstrich nach rechts	-
+⇏	durchgestrichener Pfeil mit Doppelstrich nach rechts	-
 ⇓	Pfeil mit Doppelstrich nach unten	-
 ⇔	Pfeil mit Doppelstrich nach links und rechts	-
-⇎	Durchgestrichener Pfeil mit Doppelstrich nach links und rechts	-
+⇎	durchgestrichener Pfeil mit Doppelstrich nach links und rechts	-
 ⇖	Pfeil mit Doppelstrich nach Nordwesten	-
 ⇗	Pfeil mit Doppelstrich nach Nordosten	-
 ⇘	Pfeil mit Doppelstrich nach Südosten	-
@@ -273,7 +273,7 @@ _	Unterstrich	-
 ■	schwarzes Quadrat	-
 □	weißes Quadrat	-
 ▢	weißes Quadrat mit abgerundeten Ecken	-
-▣	weißes Quadrat mit kleinem schwarzem Quadrat	-
+▣	schwarzes Quadrat in weißem Quadrat	-
 ▤	Quadrat mit horizontaler Schraffur	-
 ▥	Quadrat mit vertikaler Schraffur	-
 ▦	Quadrat mit orthogonaler Kreuzschraffur	-
@@ -433,6 +433,7 @@ _	Unterstrich	-
 😯	verdutztes Gesicht	-
 😲	erstauntes Gesicht	-
 😳	errötetes Gesicht mit großen Augen	-
+🫪	verzerrtes Gesicht	-
 🥺	bettelndes Gesicht	-
 🥹	Gesicht, das Tränen zurückhält	-
 😦	entsetztes Gesicht	-
@@ -506,6 +507,7 @@ _	Unterstrich	-
 💋	Kussabdruck	-
 💯	100 Punkte	-
 💢	Ärger	-
+🫯	Kampfwolke	-
 💥	Zusammenstoß	-
 💫	schwindlig	-
 💦	Schweißtropfen	-
@@ -738,6 +740,7 @@ _	Unterstrich	-
 🧟‍♂	männlicher Zombie	-
 🧟‍♀	weiblicher Zombie	-
 🧌	Troll	-
+🫈	haariges Wesen	-
 💆	Person, die eine Kopfmassage bekommt	-
 💆‍♂	Mann, der eine Kopfmassage bekommt	-
 💆‍♀	Frau, die eine Kopfmassage bekommt	-
@@ -765,6 +768,7 @@ _	Unterstrich	-
 🏃	laufende Person	-
 🏃‍♂	laufender Mann	-
 🏃‍♀	laufende Frau	-
+🧑‍🩰	Balletttänzerin	-
 💃	tanzende Frau	-
 🕺	tanzender Mann	-
 🕴	schwebender Mann im Anzug	-
@@ -946,6 +950,7 @@ _	Unterstrich	-
 🐳	blasender Wal	-
 🐋	Wal	-
 🐬	Delfin	-
+🫍	Orca	-
 🦭	Seehund	-
 🐟	Fisch	-
 🐠	Tropenfisch	-
@@ -1145,6 +1150,7 @@ _	Unterstrich	-
 🧭	Kompass	-
 🏔	schneebedeckter Berg	-
 ⛰	Berg	-
+🛘	Erdrutsch	-
 🌋	Vulkan	-
 🗻	Fuji	-
 🏕	Camping	-
@@ -1505,10 +1511,11 @@ _	Unterstrich	-
 🎧	Kopfhörer	-
 📻	Radio	-
 🎷	Saxofon	-
+🎺	Trompete	-
+🪊	Posaune	-
 🪗	Akkordeon	-
 🎸	Gitarre	-
 🎹	Klaviatur	-
-🎺	Trompete	-
 🎻	Geige	-
 🪕	Banjo	-
 🥁	Trommel	-
@@ -1569,8 +1576,9 @@ _	Unterstrich	-
 📑	Pagemarker	-
 🔖	Lesezeichen	-
 🏷	Etikett	-
-💰	Geldsack	-
 🪙	Münze	-
+💰	Geldsack	-
+🪎	Schatztruhe	-
 💴	Yen-Banknote	-
 💵	Dollar-Banknote	-
 💶	Euro-Banknote	-
@@ -1941,6 +1949,16 @@ $	Dollar	-
 ₹	Indische Rupie	-
 ₽	Rubel	-
 ₿	Bitcoin-Zeichen	-
+0⃣	Taste 0	-
+1⃣	Taste 1	-
+2⃣	Taste 2	-
+3⃣	Taste 3	-
+4⃣	Taste 4	-
+5⃣	Taste 5	-
+6⃣	Taste 6	-
+7⃣	Taste 7	-
+8⃣	Taste 8	-
+9⃣	Taste 9	-
 ¹	hochgestellte Eins	-
 ²	hochgestellte Zwei	-
 ³	hochgestellte Drei	-
@@ -2282,6 +2300,26 @@ $	Dollar	-
 🧑🏿‍❤‍🧑🏼	Liebespaar Person, Person, dunkle Hautfarbe und mittelhelle Hautfarbe	-
 🧑🏿‍❤‍🧑🏽	Liebespaar Person, Person, dunkle Hautfarbe und mittlere Hautfarbe	-
 🧑🏿‍❤‍🧑🏾	Liebespaar Person, Person, dunkle Hautfarbe und mitteldunkle Hautfarbe	-
+🧑🏻‍🫯‍🧑🏼	Ringer(in) helle Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏻‍🫯‍🧑🏽	Ringer(in) helle Hautfarbe, mittlere Hautfarbe	-
+🧑🏻‍🫯‍🧑🏾	Ringer(in) helle Hautfarbe, mitteldunkle Hautfarbe	-
+🧑🏻‍🫯‍🧑🏿	Ringer(in) helle Hautfarbe, dunkle Hautfarbe	-
+🧑🏼‍🫯‍🧑🏻	Ringer(in) mittelhelle Hautfarbe, helle Hautfarbe	-
+🧑🏼‍🫯‍🧑🏽	Ringer(in) mittelhelle Hautfarbe, mittlere Hautfarbe	-
+🧑🏼‍🫯‍🧑🏾	Ringer(in) mittelhelle Hautfarbe, mitteldunkle Hautfarbe	-
+🧑🏼‍🫯‍🧑🏿	Ringer(in) mittelhelle Hautfarbe, dunkle Hautfarbe	-
+🧑🏽‍🫯‍🧑🏻	Ringer(in) mittlere Hautfarbe, helle Hautfarbe	-
+🧑🏽‍🫯‍🧑🏼	Ringer(in) mittlere Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏽‍🫯‍🧑🏾	Ringer(in) mittlere Hautfarbe, mitteldunkle Hautfarbe	-
+🧑🏽‍🫯‍🧑🏿	Ringer(in) mittlere Hautfarbe, dunkle Hautfarbe	-
+🧑🏾‍🫯‍🧑🏻	Ringer(in) mitteldunkle Hautfarbe, helle Hautfarbe	-
+🧑🏾‍🫯‍🧑🏼	Ringer(in) mitteldunkle Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏾‍🫯‍🧑🏽	Ringer(in) mitteldunkle Hautfarbe, mittlere Hautfarbe	-
+🧑🏾‍🫯‍🧑🏿	Ringer(in) mitteldunkle Hautfarbe, dunkle Hautfarbe	-
+🧑🏿‍🫯‍🧑🏻	Ringer(in) dunkle Hautfarbe, helle Hautfarbe	-
+🧑🏿‍🫯‍🧑🏼	Ringer(in) dunkle Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏿‍🫯‍🧑🏽	Ringer(in) dunkle Hautfarbe, mittlere Hautfarbe	-
+🧑🏿‍🫯‍🧑🏾	Ringer(in) dunkle Hautfarbe, mitteldunkle Hautfarbe	-
 🧑‍🦰	Person rotes Haar	-
 🧑🏻‍🦰	Person helle Hautfarbe, rotes Haar	-
 🧑🏼‍🦰	Person mittelhelle Hautfarbe, rotes Haar	-
@@ -2306,6 +2344,26 @@ $	Dollar	-
 🧑🏽‍🦲	Person mittlere Hautfarbe, Glatze	-
 🧑🏾‍🦲	Person mitteldunkle Hautfarbe, Glatze	-
 🧑🏿‍🦲	Person dunkle Hautfarbe, Glatze	-
+🧑🏻‍🐰‍🧑🏼	Personen mit Hasenohren helle Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏻‍🐰‍🧑🏽	Personen mit Hasenohren helle Hautfarbe, mittlere Hautfarbe	-
+🧑🏻‍🐰‍🧑🏾	Personen mit Hasenohren helle Hautfarbe, mitteldunkle Hautfarbe	-
+🧑🏻‍🐰‍🧑🏿	Personen mit Hasenohren helle Hautfarbe, dunkle Hautfarbe	-
+🧑🏼‍🐰‍🧑🏻	Personen mit Hasenohren mittelhelle Hautfarbe, helle Hautfarbe	-
+🧑🏼‍🐰‍🧑🏽	Personen mit Hasenohren mittelhelle Hautfarbe, mittlere Hautfarbe	-
+🧑🏼‍🐰‍🧑🏾	Personen mit Hasenohren mittelhelle Hautfarbe, mitteldunkle Hautfarbe	-
+🧑🏼‍🐰‍🧑🏿	Personen mit Hasenohren mittelhelle Hautfarbe, dunkle Hautfarbe	-
+🧑🏽‍🐰‍🧑🏻	Personen mit Hasenohren mittlere Hautfarbe, helle Hautfarbe	-
+🧑🏽‍🐰‍🧑🏼	Personen mit Hasenohren mittlere Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏽‍🐰‍🧑🏾	Personen mit Hasenohren mittlere Hautfarbe, mitteldunkle Hautfarbe	-
+🧑🏽‍🐰‍🧑🏿	Personen mit Hasenohren mittlere Hautfarbe, dunkle Hautfarbe	-
+🧑🏾‍🐰‍🧑🏻	Personen mit Hasenohren mitteldunkle Hautfarbe, helle Hautfarbe	-
+🧑🏾‍🐰‍🧑🏼	Personen mit Hasenohren mitteldunkle Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏾‍🐰‍🧑🏽	Personen mit Hasenohren mitteldunkle Hautfarbe, mittlere Hautfarbe	-
+🧑🏾‍🐰‍🧑🏿	Personen mit Hasenohren mitteldunkle Hautfarbe, dunkle Hautfarbe	-
+🧑🏿‍🐰‍🧑🏻	Personen mit Hasenohren dunkle Hautfarbe, helle Hautfarbe	-
+🧑🏿‍🐰‍🧑🏼	Personen mit Hasenohren dunkle Hautfarbe, mittelhelle Hautfarbe	-
+🧑🏿‍🐰‍🧑🏽	Personen mit Hasenohren dunkle Hautfarbe, mittlere Hautfarbe	-
+🧑🏿‍🐰‍🧑🏾	Personen mit Hasenohren dunkle Hautfarbe, mitteldunkle Hautfarbe	-
 👨🏻	Mann helle Hautfarbe	-
 👨🏼	Mann mittelhelle Hautfarbe	-
 👨🏽	Mann mittlere Hautfarbe	-
@@ -2376,6 +2434,26 @@ $	Dollar	-
 👨🏿‍❤‍👨🏽	Liebespaar Mann, Mann, dunkle Hautfarbe und mittlere Hautfarbe	-
 👨🏿‍❤‍👨🏾	Liebespaar Mann, Mann, dunkle Hautfarbe und mitteldunkle Hautfarbe	-
 👨🏿‍❤‍👨🏿	Liebespaar Mann, Mann und dunkle Hautfarbe	-
+👨🏻‍🫯‍👨🏼	ringende Männer helle Hautfarbe, mittelhelle Hautfarbe	-
+👨🏻‍🫯‍👨🏽	ringende Männer helle Hautfarbe, mittlere Hautfarbe	-
+👨🏻‍🫯‍👨🏾	ringende Männer helle Hautfarbe, mitteldunkle Hautfarbe	-
+👨🏻‍🫯‍👨🏿	ringende Männer helle Hautfarbe, dunkle Hautfarbe	-
+👨🏼‍🫯‍👨🏻	ringende Männer mittelhelle Hautfarbe, helle Hautfarbe	-
+👨🏼‍🫯‍👨🏽	ringende Männer mittelhelle Hautfarbe, mittlere Hautfarbe	-
+👨🏼‍🫯‍👨🏾	ringende Männer mittelhelle Hautfarbe, mitteldunkle Hautfarbe	-
+👨🏼‍🫯‍👨🏿	ringende Männer mittelhelle Hautfarbe, dunkle Hautfarbe	-
+👨🏽‍🫯‍👨🏻	ringende Männer mittlere Hautfarbe, helle Hautfarbe	-
+👨🏽‍🫯‍👨🏼	ringende Männer mittlere Hautfarbe, mittelhelle Hautfarbe	-
+👨🏽‍🫯‍👨🏾	ringende Männer mittlere Hautfarbe, mitteldunkle Hautfarbe	-
+👨🏽‍🫯‍👨🏿	ringende Männer mittlere Hautfarbe, dunkle Hautfarbe	-
+👨🏾‍🫯‍👨🏻	ringende Männer mitteldunkle Hautfarbe, helle Hautfarbe	-
+👨🏾‍🫯‍👨🏼	ringende Männer mitteldunkle Hautfarbe, mittelhelle Hautfarbe	-
+👨🏾‍🫯‍👨🏽	ringende Männer mitteldunkle Hautfarbe, mittlere Hautfarbe	-
+👨🏾‍🫯‍👨🏿	ringende Männer mitteldunkle Hautfarbe, dunkle Hautfarbe	-
+👨🏿‍🫯‍👨🏻	ringende Männer dunkle Hautfarbe, helle Hautfarbe	-
+👨🏿‍🫯‍👨🏼	ringende Männer dunkle Hautfarbe, mittelhelle Hautfarbe	-
+👨🏿‍🫯‍👨🏽	ringende Männer dunkle Hautfarbe, mittlere Hautfarbe	-
+👨🏿‍🫯‍👨🏾	ringende Männer dunkle Hautfarbe, mitteldunkle Hautfarbe	-
 👨‍🦰	Mann rotes Haar	-
 👨🏻‍🦰	Mann helle Hautfarbe, rotes Haar	-
 👨🏼‍🦰	Mann mittelhelle Hautfarbe, rotes Haar	-
@@ -2400,6 +2478,26 @@ $	Dollar	-
 👨🏽‍🦲	Mann mittlere Hautfarbe, Glatze	-
 👨🏾‍🦲	Mann mitteldunkle Hautfarbe, Glatze	-
 👨🏿‍🦲	Mann dunkle Hautfarbe, Glatze	-
+👨🏻‍🐰‍👨🏼	Männer mit Hasenohren helle Hautfarbe, mittelhelle Hautfarbe	-
+👨🏻‍🐰‍👨🏽	Männer mit Hasenohren helle Hautfarbe, mittlere Hautfarbe	-
+👨🏻‍🐰‍👨🏾	Männer mit Hasenohren helle Hautfarbe, mitteldunkle Hautfarbe	-
+👨🏻‍🐰‍👨🏿	Männer mit Hasenohren helle Hautfarbe, dunkle Hautfarbe	-
+👨🏼‍🐰‍👨🏻	Männer mit Hasenohren mittelhelle Hautfarbe, helle Hautfarbe	-
+👨🏼‍🐰‍👨🏽	Männer mit Hasenohren mittelhelle Hautfarbe, mittlere Hautfarbe	-
+👨🏼‍🐰‍👨🏾	Männer mit Hasenohren mittelhelle Hautfarbe, mitteldunkle Hautfarbe	-
+👨🏼‍🐰‍👨🏿	Männer mit Hasenohren mittelhelle Hautfarbe, dunkle Hautfarbe	-
+👨🏽‍🐰‍👨🏻	Männer mit Hasenohren mittlere Hautfarbe, helle Hautfarbe	-
+👨🏽‍🐰‍👨🏼	Männer mit Hasenohren mittlere Hautfarbe, mittelhelle Hautfarbe	-
+👨🏽‍🐰‍👨🏾	Männer mit Hasenohren mittlere Hautfarbe, mitteldunkle Hautfarbe	-
+👨🏽‍🐰‍👨🏿	Männer mit Hasenohren mittlere Hautfarbe, dunkle Hautfarbe	-
+👨🏾‍🐰‍👨🏻	Männer mit Hasenohren mitteldunkle Hautfarbe, helle Hautfarbe	-
+👨🏾‍🐰‍👨🏼	Männer mit Hasenohren mitteldunkle Hautfarbe, mittelhelle Hautfarbe	-
+👨🏾‍🐰‍👨🏽	Männer mit Hasenohren mitteldunkle Hautfarbe, mittlere Hautfarbe	-
+👨🏾‍🐰‍👨🏿	Männer mit Hasenohren mitteldunkle Hautfarbe, dunkle Hautfarbe	-
+👨🏿‍🐰‍👨🏻	Männer mit Hasenohren dunkle Hautfarbe, helle Hautfarbe	-
+👨🏿‍🐰‍👨🏼	Männer mit Hasenohren dunkle Hautfarbe, mittelhelle Hautfarbe	-
+👨🏿‍🐰‍👨🏽	Männer mit Hasenohren dunkle Hautfarbe, mittlere Hautfarbe	-
+👨🏿‍🐰‍👨🏾	Männer mit Hasenohren dunkle Hautfarbe, mitteldunkle Hautfarbe	-
 👩🏻	Frau helle Hautfarbe	-
 👩🏼	Frau mittelhelle Hautfarbe	-
 👩🏽	Frau mittlere Hautfarbe	-
@@ -2515,6 +2613,26 @@ $	Dollar	-
 👩🏿‍❤‍👩🏽	Liebespaar Frau, Frau, dunkle Hautfarbe und mittlere Hautfarbe	-
 👩🏿‍❤‍👩🏾	Liebespaar Frau, Frau, dunkle Hautfarbe und mitteldunkle Hautfarbe	-
 👩🏿‍❤‍👩🏿	Liebespaar Frau, Frau und dunkle Hautfarbe	-
+👩🏻‍🫯‍👩🏼	ringende Frauen helle Hautfarbe, mittelhelle Hautfarbe	-
+👩🏻‍🫯‍👩🏽	ringende Frauen helle Hautfarbe, mittlere Hautfarbe	-
+👩🏻‍🫯‍👩🏾	ringende Frauen helle Hautfarbe, mitteldunkle Hautfarbe	-
+👩🏻‍🫯‍👩🏿	ringende Frauen helle Hautfarbe, dunkle Hautfarbe	-
+👩🏼‍🫯‍👩🏻	ringende Frauen mittelhelle Hautfarbe, helle Hautfarbe	-
+👩🏼‍🫯‍👩🏽	ringende Frauen mittelhelle Hautfarbe, mittlere Hautfarbe	-
+👩🏼‍🫯‍👩🏾	ringende Frauen mittelhelle Hautfarbe, mitteldunkle Hautfarbe	-
+👩🏼‍🫯‍👩🏿	ringende Frauen mittelhelle Hautfarbe, dunkle Hautfarbe	-
+👩🏽‍🫯‍👩🏻	ringende Frauen mittlere Hautfarbe, helle Hautfarbe	-
+👩🏽‍🫯‍👩🏼	ringende Frauen mittlere Hautfarbe, mittelhelle Hautfarbe	-
+👩🏽‍🫯‍👩🏾	ringende Frauen mittlere Hautfarbe, mitteldunkle Hautfarbe	-
+👩🏽‍🫯‍👩🏿	ringende Frauen mittlere Hautfarbe, dunkle Hautfarbe	-
+👩🏾‍🫯‍👩🏻	ringende Frauen mitteldunkle Hautfarbe, helle Hautfarbe	-
+👩🏾‍🫯‍👩🏼	ringende Frauen mitteldunkle Hautfarbe, mittelhelle Hautfarbe	-
+👩🏾‍🫯‍👩🏽	ringende Frauen mitteldunkle Hautfarbe, mittlere Hautfarbe	-
+👩🏾‍🫯‍👩🏿	ringende Frauen mitteldunkle Hautfarbe, dunkle Hautfarbe	-
+👩🏿‍🫯‍👩🏻	ringende Frauen dunkle Hautfarbe, helle Hautfarbe	-
+👩🏿‍🫯‍👩🏼	ringende Frauen dunkle Hautfarbe, mittelhelle Hautfarbe	-
+👩🏿‍🫯‍👩🏽	ringende Frauen dunkle Hautfarbe, mittlere Hautfarbe	-
+👩🏿‍🫯‍👩🏾	ringende Frauen dunkle Hautfarbe, mitteldunkle Hautfarbe	-
 👩‍🦰	Frau rotes Haar	-
 👩🏻‍🦰	Frau helle Hautfarbe, rotes Haar	-
 👩🏼‍🦰	Frau mittelhelle Hautfarbe, rotes Haar	-
@@ -2539,6 +2657,26 @@ $	Dollar	-
 👩🏽‍🦲	Frau mittlere Hautfarbe, Glatze	-
 👩🏾‍🦲	Frau mitteldunkle Hautfarbe, Glatze	-
 👩🏿‍🦲	Frau dunkle Hautfarbe, Glatze	-
+👩🏻‍🐰‍👩🏼	Frauen mit Hasenohren helle Hautfarbe, mittelhelle Hautfarbe	-
+👩🏻‍🐰‍👩🏽	Frauen mit Hasenohren helle Hautfarbe, mittlere Hautfarbe	-
+👩🏻‍🐰‍👩🏾	Frauen mit Hasenohren helle Hautfarbe, mitteldunkle Hautfarbe	-
+👩🏻‍🐰‍👩🏿	Frauen mit Hasenohren helle Hautfarbe, dunkle Hautfarbe	-
+👩🏼‍🐰‍👩🏻	Frauen mit Hasenohren mittelhelle Hautfarbe, helle Hautfarbe	-
+👩🏼‍🐰‍👩🏽	Frauen mit Hasenohren mittelhelle Hautfarbe, mittlere Hautfarbe	-
+👩🏼‍🐰‍👩🏾	Frauen mit Hasenohren mittelhelle Hautfarbe, mitteldunkle Hautfarbe	-
+👩🏼‍🐰‍👩🏿	Frauen mit Hasenohren mittelhelle Hautfarbe, dunkle Hautfarbe	-
+👩🏽‍🐰‍👩🏻	Frauen mit Hasenohren mittlere Hautfarbe, helle Hautfarbe	-
+👩🏽‍🐰‍👩🏼	Frauen mit Hasenohren mittlere Hautfarbe, mittelhelle Hautfarbe	-
+👩🏽‍🐰‍👩🏾	Frauen mit Hasenohren mittlere Hautfarbe, mitteldunkle Hautfarbe	-
+👩🏽‍🐰‍👩🏿	Frauen mit Hasenohren mittlere Hautfarbe, dunkle Hautfarbe	-
+👩🏾‍🐰‍👩🏻	Frauen mit Hasenohren mitteldunkle Hautfarbe, helle Hautfarbe	-
+👩🏾‍🐰‍👩🏼	Frauen mit Hasenohren mitteldunkle Hautfarbe, mittelhelle Hautfarbe	-
+👩🏾‍🐰‍👩🏽	Frauen mit Hasenohren mitteldunkle Hautfarbe, mittlere Hautfarbe	-
+👩🏾‍🐰‍👩🏿	Frauen mit Hasenohren mitteldunkle Hautfarbe, dunkle Hautfarbe	-
+👩🏿‍🐰‍👩🏻	Frauen mit Hasenohren dunkle Hautfarbe, helle Hautfarbe	-
+👩🏿‍🐰‍👩🏼	Frauen mit Hasenohren dunkle Hautfarbe, mittelhelle Hautfarbe	-
+👩🏿‍🐰‍👩🏽	Frauen mit Hasenohren dunkle Hautfarbe, mittlere Hautfarbe	-
+👩🏿‍🐰‍👩🏾	Frauen mit Hasenohren dunkle Hautfarbe, mitteldunkle Hautfarbe	-
 🧓🏻	ältere Person helle Hautfarbe	-
 🧓🏼	ältere Person mittelhelle Hautfarbe	-
 🧓🏽	ältere Person mittlere Hautfarbe	-
@@ -3482,6 +3620,11 @@ $	Dollar	-
 🏃🏽‍♂‍➡	laufender Mann mittlere Hautfarbe, nach rechts	-
 🏃🏾‍♂‍➡	laufender Mann mitteldunkle Hautfarbe, nach rechts	-
 🏃🏿‍♂‍➡	laufender Mann dunkle Hautfarbe, nach rechts	-
+🧑🏻‍🩰	Balletttänzerin helle Hautfarbe	-
+🧑🏼‍🩰	Balletttänzerin mittelhelle Hautfarbe	-
+🧑🏽‍🩰	Balletttänzerin mittlere Hautfarbe	-
+🧑🏾‍🩰	Balletttänzerin mitteldunkle Hautfarbe	-
+🧑🏿‍🩰	Balletttänzerin dunkle Hautfarbe	-
 💃🏻	tanzende Frau helle Hautfarbe	-
 💃🏼	tanzende Frau mittelhelle Hautfarbe	-
 💃🏽	tanzende Frau mittlere Hautfarbe	-
@@ -3497,6 +3640,21 @@ $	Dollar	-
 🕴🏽	schwebender Mann im Anzug mittlere Hautfarbe	-
 🕴🏾	schwebender Mann im Anzug mitteldunkle Hautfarbe	-
 🕴🏿	schwebender Mann im Anzug dunkle Hautfarbe	-
+👯🏻	Personen mit Hasenohren helle Hautfarbe	-
+👯🏼	Personen mit Hasenohren mittelhelle Hautfarbe	-
+👯🏽	Personen mit Hasenohren mittlere Hautfarbe	-
+👯🏾	Personen mit Hasenohren mitteldunkle Hautfarbe	-
+👯🏿	Personen mit Hasenohren dunkle Hautfarbe	-
+👯🏻‍♂	Männer mit Hasenohren helle Hautfarbe	-
+👯🏼‍♂	Männer mit Hasenohren mittelhelle Hautfarbe	-
+👯🏽‍♂	Männer mit Hasenohren mittlere Hautfarbe	-
+👯🏾‍♂	Männer mit Hasenohren mitteldunkle Hautfarbe	-
+👯🏿‍♂	Männer mit Hasenohren dunkle Hautfarbe	-
+👯🏻‍♀	Frauen mit Hasenohren helle Hautfarbe	-
+👯🏼‍♀	Frauen mit Hasenohren mittelhelle Hautfarbe	-
+👯🏽‍♀	Frauen mit Hasenohren mittlere Hautfarbe	-
+👯🏾‍♀	Frauen mit Hasenohren mitteldunkle Hautfarbe	-
+👯🏿‍♀	Frauen mit Hasenohren dunkle Hautfarbe	-
 🧖🏻	Person in Dampfsauna helle Hautfarbe	-
 🧖🏼	Person in Dampfsauna mittelhelle Hautfarbe	-
 🧖🏽	Person in Dampfsauna mittlere Hautfarbe	-
@@ -3672,6 +3830,21 @@ $	Dollar	-
 🤸🏽‍♀	Rad schlagende Frau mittlere Hautfarbe	-
 🤸🏾‍♀	Rad schlagende Frau mitteldunkle Hautfarbe	-
 🤸🏿‍♀	Rad schlagende Frau dunkle Hautfarbe	-
+🤼🏻	Ringer(in) helle Hautfarbe	-
+🤼🏼	Ringer(in) mittelhelle Hautfarbe	-
+🤼🏽	Ringer(in) mittlere Hautfarbe	-
+🤼🏾	Ringer(in) mitteldunkle Hautfarbe	-
+🤼🏿	Ringer(in) dunkle Hautfarbe	-
+🤼🏻‍♂	ringende Männer helle Hautfarbe	-
+🤼🏼‍♂	ringende Männer mittelhelle Hautfarbe	-
+🤼🏽‍♂	ringende Männer mittlere Hautfarbe	-
+🤼🏾‍♂	ringende Männer mitteldunkle Hautfarbe	-
+🤼🏿‍♂	ringende Männer dunkle Hautfarbe	-
+🤼🏻‍♀	ringende Frauen helle Hautfarbe	-
+🤼🏼‍♀	ringende Frauen mittelhelle Hautfarbe	-
+🤼🏽‍♀	ringende Frauen mittlere Hautfarbe	-
+🤼🏾‍♀	ringende Frauen mitteldunkle Hautfarbe	-
+🤼🏿‍♀	ringende Frauen dunkle Hautfarbe	-
 🤽🏻	Wasserballspieler(in) helle Hautfarbe	-
 🤽🏼	Wasserballspieler(in) mittelhelle Hautfarbe	-
 🤽🏽	Wasserballspieler(in) mittlere Hautfarbe	-
@@ -3937,6 +4110,7 @@ $	Dollar	-
 🇨🇳	Flagge China	-
 🇨🇴	Flagge Kolumbien	-
 🇨🇵	Flagge Clipperton-Insel	-
+🇨🇶	Flagge Sark	-
 🇨🇷	Flagge Costa Rica	-
 🇨🇺	Flagge Kuba	-
 🇨🇻	Flagge Cabo Verde	-
@@ -4166,14 +4340,4 @@ $	Dollar	-
 ₺	Türkische Lira	-
 ₼	Aserbaidschan-Manat	-
 ₾	Georgischer Lari	-
-0⃣	Taste 0	-
-1⃣	Taste 1	-
-2⃣	Taste 2	-
-3⃣	Taste 3	-
-4⃣	Taste 4	-
-5⃣	Taste 5	-
-6⃣	Taste 6	-
-7⃣	Taste 7	-
-8⃣	Taste 8	-
-9⃣	Taste 9	-
 ₧	Spanische Peseta	-

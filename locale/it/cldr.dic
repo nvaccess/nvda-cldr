@@ -349,11 +349,11 @@ _	trattino basso	-
 ♭	bemolle	-
 ♯	diesis	-
 😀	faccina con un gran sorriso	-
-😃	faccina con un gran sorriso e occhi spalancati	-
+😃	faccina con sorriso e occhi spalancati	-
 😄	faccina con sorriso e occhi sorridenti	-
 😁	faccina raggiante con occhi felici	-
 😆	sorriso a bocca aperta con occhi chiusi	-
-😅	faccina con un gran sorriso e goccia di sudore	-
+😅	faccina con sorriso e goccia di sudore	-
 🤣	ridere a crepapelle	-
 😂	faccina con lacrime di gioia	-
 🙂	faccina con sorriso accennato	-
@@ -385,7 +385,7 @@ _	trattino basso	-
 🤔	faccina concentrata	-
 🫡	faccina che fa il saluto	-
 🤐	faccina con bocca con cerniera	-
-🤨	faccia con sopracciglia alzate	-
+🤨	faccina con sopracciglia alzate	-
 😐	faccina neutra	-
 😑	faccina inespressiva	-
 😶	faccina senza bocca	-
@@ -433,6 +433,7 @@ _	trattino basso	-
 😯	faccina sorpresa	-
 😲	faccina stupita	-
 😳	faccina imbarazzata	-
+🫪	faccina stravolta	-
 🥺	faccina supplichevole	-
 🥹	faccina che trattiene le lacrime	-
 😦	faccina imbronciata con bocca aperta	-
@@ -506,6 +507,7 @@ _	trattino basso	-
 💋	impronta della bocca	-
 💯	100 punti	-
 💢	rabbia	-
+🫯	nuvoletta di zuffa	-
 💥	collisione	-
 💫	stella con scia	-
 💦	gocce di sudore	-
@@ -738,6 +740,7 @@ _	trattino basso	-
 🧟‍♂	zombie uomo	-
 🧟‍♀	zombie donna	-
 🧌	troll	-
+🫈	creatura pelosa	-
 💆	persona che riceve un massaggio	-
 💆‍♂	uomo che riceve un massaggio	-
 💆‍♀	donna che riceve un massaggio	-
@@ -765,6 +768,7 @@ _	trattino basso	-
 🏃	persona che corre	-
 🏃‍♂	uomo che corre	-
 🏃‍♀	donna che corre	-
+🧑‍🩰	persona che danza	-
 💃	donna che balla	-
 🕺	uomo che balla	-
 🕴	uomo con completo che levita	-
@@ -836,8 +840,8 @@ _	trattino basso	-
 👥	profilo di due persone	-
 🫂	persone che si abbracciano	-
 👪	famiglia	-
-🧑‍🧑‍🧒	famiglia persona adulta, persona adulta, minore	-
-🧑‍🧑‍🧒‍🧒	famiglia persona adulta, persona adulta, minore, minore	-
+🧑‍🧑‍🧒	famiglia persone adulte, minore	-
+🧑‍🧑‍🧒‍🧒	famiglia persone adulte, minori	-
 🧑‍🧒	famiglia persona adulta, minore	-
 🧑‍🧒‍🧒	famiglia persona adulta, minore, minore	-
 👣	impronta di piedi	-
@@ -946,6 +950,7 @@ _	trattino basso	-
 🐳	balena che spruzza acqua	-
 🐋	balena	-
 🐬	delfino	-
+🫍	orca	-
 🦭	foca	-
 🐟	pesce	-
 🐠	pesce tropicale	-
@@ -1145,6 +1150,7 @@ _	trattino basso	-
 🧭	bussola	-
 🏔	montagna innevata	-
 ⛰	montagna	-
+🛘	frana	-
 🌋	vulcano	-
 🗻	Monte Fuji	-
 🏕	campeggio	-
@@ -1505,10 +1511,11 @@ _	trattino basso	-
 🎧	cuffie	-
 📻	radio	-
 🎷	sassofono	-
+🎺	tromba	-
+🪊	trombone	-
 🪗	fisarmonica	-
 🎸	chitarra	-
 🎹	piano	-
-🎺	tromba	-
 🎻	violino	-
 🪕	banjo	-
 🥁	tamburo	-
@@ -1569,8 +1576,9 @@ _	trattino basso	-
 📑	etichette segnalibro	-
 🔖	segnalibro	-
 🏷	etichetta	-
-💰	sacco di soldi	-
 🪙	moneta	-
+💰	sacco di soldi	-
+🪎	forziere	-
 💴	banconota Yen	-
 💵	banconota Dollaro	-
 💶	banconota Euro	-
@@ -1941,6 +1949,16 @@ $	simbolo del dollaro	-
 ₹	simbolo della rupia indiana	-
 ₽	simbolo del rublo	-
 ₿	bitcoin	-
+0⃣	tasto 0	-
+1⃣	tasto 1	-
+2⃣	tasto 2	-
+3⃣	tasto 3	-
+4⃣	tasto 4	-
+5⃣	tasto 5	-
+6⃣	tasto 6	-
+7⃣	tasto 7	-
+8⃣	tasto 8	-
+9⃣	tasto 9	-
 ¹	numero uno in apice	-
 ²	numero due in apice	-
 ³	numero tre in apice	-
@@ -2282,6 +2300,26 @@ $	simbolo del dollaro	-
 🧑🏿‍❤‍🧑🏼	coppia con cuore persona, persona, carnagione scura e carnagione abbastanza chiara	-
 🧑🏿‍❤‍🧑🏽	coppia con cuore persona, persona, carnagione scura e carnagione olivastra	-
 🧑🏿‍❤‍🧑🏾	coppia con cuore persona, persona, carnagione scura e carnagione abbastanza scura	-
+🧑🏻‍🫯‍🧑🏼	persone che fanno la lotta carnagione chiara e carnagione abbastanza chiara	-
+🧑🏻‍🫯‍🧑🏽	persone che fanno la lotta carnagione chiara e carnagione olivastra	-
+🧑🏻‍🫯‍🧑🏾	persone che fanno la lotta carnagione chiara e carnagione abbastanza scura	-
+🧑🏻‍🫯‍🧑🏿	persone che fanno la lotta carnagione chiara e carnagione scura	-
+🧑🏼‍🫯‍🧑🏻	persone che fanno la lotta carnagione abbastanza chiara e carnagione chiara	-
+🧑🏼‍🫯‍🧑🏽	persone che fanno la lotta carnagione abbastanza chiara e carnagione olivastra	-
+🧑🏼‍🫯‍🧑🏾	persone che fanno la lotta carnagione abbastanza chiara e carnagione abbastanza scura	-
+🧑🏼‍🫯‍🧑🏿	persone che fanno la lotta carnagione abbastanza chiara e carnagione scura	-
+🧑🏽‍🫯‍🧑🏻	persone che fanno la lotta carnagione olivastra e carnagione chiara	-
+🧑🏽‍🫯‍🧑🏼	persone che fanno la lotta carnagione olivastra e carnagione abbastanza chiara	-
+🧑🏽‍🫯‍🧑🏾	persone che fanno la lotta carnagione olivastra e carnagione abbastanza scura	-
+🧑🏽‍🫯‍🧑🏿	persone che fanno la lotta carnagione olivastra e carnagione scura	-
+🧑🏾‍🫯‍🧑🏻	persone che fanno la lotta carnagione abbastanza scura e carnagione chiara	-
+🧑🏾‍🫯‍🧑🏼	persone che fanno la lotta carnagione abbastanza scura e carnagione abbastanza chiara	-
+🧑🏾‍🫯‍🧑🏽	persone che fanno la lotta carnagione abbastanza scura e carnagione olivastra	-
+🧑🏾‍🫯‍🧑🏿	persone che fanno la lotta carnagione abbastanza scura e carnagione scura	-
+🧑🏿‍🫯‍🧑🏻	persone che fanno la lotta carnagione scura e carnagione chiara	-
+🧑🏿‍🫯‍🧑🏼	persone che fanno la lotta carnagione scura e carnagione abbastanza chiara	-
+🧑🏿‍🫯‍🧑🏽	persone che fanno la lotta carnagione scura e carnagione olivastra	-
+🧑🏿‍🫯‍🧑🏾	persone che fanno la lotta carnagione scura e carnagione abbastanza scura	-
 🧑‍🦰	persona capelli rossi	-
 🧑🏻‍🦰	persona carnagione chiara e capelli rossi	-
 🧑🏼‍🦰	persona carnagione abbastanza chiara e capelli rossi	-
@@ -2306,6 +2344,26 @@ $	simbolo del dollaro	-
 🧑🏽‍🦲	persona carnagione olivastra e calvo	-
 🧑🏾‍🦲	persona carnagione abbastanza scura e calvo	-
 🧑🏿‍🦲	persona carnagione scura e calvo	-
+🧑🏻‍🐰‍🧑🏼	persone con orecchie da coniglio carnagione chiara e carnagione abbastanza chiara	-
+🧑🏻‍🐰‍🧑🏽	persone con orecchie da coniglio carnagione chiara e carnagione olivastra	-
+🧑🏻‍🐰‍🧑🏾	persone con orecchie da coniglio carnagione chiara e carnagione abbastanza scura	-
+🧑🏻‍🐰‍🧑🏿	persone con orecchie da coniglio carnagione chiara e carnagione scura	-
+🧑🏼‍🐰‍🧑🏻	persone con orecchie da coniglio carnagione abbastanza chiara e carnagione chiara	-
+🧑🏼‍🐰‍🧑🏽	persone con orecchie da coniglio carnagione abbastanza chiara e carnagione olivastra	-
+🧑🏼‍🐰‍🧑🏾	persone con orecchie da coniglio carnagione abbastanza chiara e carnagione abbastanza scura	-
+🧑🏼‍🐰‍🧑🏿	persone con orecchie da coniglio carnagione abbastanza chiara e carnagione scura	-
+🧑🏽‍🐰‍🧑🏻	persone con orecchie da coniglio carnagione olivastra e carnagione chiara	-
+🧑🏽‍🐰‍🧑🏼	persone con orecchie da coniglio carnagione olivastra e carnagione abbastanza chiara	-
+🧑🏽‍🐰‍🧑🏾	persone con orecchie da coniglio carnagione olivastra e carnagione abbastanza scura	-
+🧑🏽‍🐰‍🧑🏿	persone con orecchie da coniglio carnagione olivastra e carnagione scura	-
+🧑🏾‍🐰‍🧑🏻	persone con orecchie da coniglio carnagione abbastanza scura e carnagione chiara	-
+🧑🏾‍🐰‍🧑🏼	persone con orecchie da coniglio carnagione abbastanza scura e carnagione abbastanza chiara	-
+🧑🏾‍🐰‍🧑🏽	persone con orecchie da coniglio carnagione abbastanza scura e carnagione olivastra	-
+🧑🏾‍🐰‍🧑🏿	persone con orecchie da coniglio carnagione abbastanza scura e carnagione scura	-
+🧑🏿‍🐰‍🧑🏻	persone con orecchie da coniglio carnagione scura e carnagione chiara	-
+🧑🏿‍🐰‍🧑🏼	persone con orecchie da coniglio carnagione scura e carnagione abbastanza chiara	-
+🧑🏿‍🐰‍🧑🏽	persone con orecchie da coniglio carnagione scura e carnagione olivastra	-
+🧑🏿‍🐰‍🧑🏾	persone con orecchie da coniglio carnagione scura e carnagione abbastanza scura	-
 👨🏻	uomo carnagione chiara	-
 👨🏼	uomo carnagione abbastanza chiara	-
 👨🏽	uomo carnagione olivastra	-
@@ -2376,6 +2434,26 @@ $	simbolo del dollaro	-
 👨🏿‍❤‍👨🏽	coppia con cuore uomo, uomo, carnagione scura e carnagione olivastra	-
 👨🏿‍❤‍👨🏾	coppia con cuore uomo, uomo, carnagione scura e carnagione abbastanza scura	-
 👨🏿‍❤‍👨🏿	coppia con cuore uomo, uomo e carnagione scura	-
+👨🏻‍🫯‍👨🏼	lottatori carnagione chiara e carnagione abbastanza chiara	-
+👨🏻‍🫯‍👨🏽	lottatori carnagione chiara e carnagione olivastra	-
+👨🏻‍🫯‍👨🏾	lottatori carnagione chiara e carnagione abbastanza scura	-
+👨🏻‍🫯‍👨🏿	lottatori carnagione chiara e carnagione scura	-
+👨🏼‍🫯‍👨🏻	lottatori carnagione abbastanza chiara e carnagione chiara	-
+👨🏼‍🫯‍👨🏽	lottatori carnagione abbastanza chiara e carnagione olivastra	-
+👨🏼‍🫯‍👨🏾	lottatori carnagione abbastanza chiara e carnagione abbastanza scura	-
+👨🏼‍🫯‍👨🏿	lottatori carnagione abbastanza chiara e carnagione scura	-
+👨🏽‍🫯‍👨🏻	lottatori carnagione olivastra e carnagione chiara	-
+👨🏽‍🫯‍👨🏼	lottatori carnagione olivastra e carnagione abbastanza chiara	-
+👨🏽‍🫯‍👨🏾	lottatori carnagione olivastra e carnagione abbastanza scura	-
+👨🏽‍🫯‍👨🏿	lottatori carnagione olivastra e carnagione scura	-
+👨🏾‍🫯‍👨🏻	lottatori carnagione abbastanza scura e carnagione chiara	-
+👨🏾‍🫯‍👨🏼	lottatori carnagione abbastanza scura e carnagione abbastanza chiara	-
+👨🏾‍🫯‍👨🏽	lottatori carnagione abbastanza scura e carnagione olivastra	-
+👨🏾‍🫯‍👨🏿	lottatori carnagione abbastanza scura e carnagione scura	-
+👨🏿‍🫯‍👨🏻	lottatori carnagione scura e carnagione chiara	-
+👨🏿‍🫯‍👨🏼	lottatori carnagione scura e carnagione abbastanza chiara	-
+👨🏿‍🫯‍👨🏽	lottatori carnagione scura e carnagione olivastra	-
+👨🏿‍🫯‍👨🏾	lottatori carnagione scura e carnagione abbastanza scura	-
 👨‍🦰	uomo capelli rossi	-
 👨🏻‍🦰	uomo carnagione chiara e capelli rossi	-
 👨🏼‍🦰	uomo carnagione abbastanza chiara e capelli rossi	-
@@ -2400,6 +2478,26 @@ $	simbolo del dollaro	-
 👨🏽‍🦲	uomo carnagione olivastra e calvo	-
 👨🏾‍🦲	uomo carnagione abbastanza scura e calvo	-
 👨🏿‍🦲	uomo carnagione scura e calvo	-
+👨🏻‍🐰‍👨🏼	uomini con orecchie da coniglio carnagione chiara e carnagione abbastanza chiara	-
+👨🏻‍🐰‍👨🏽	uomini con orecchie da coniglio carnagione chiara e carnagione olivastra	-
+👨🏻‍🐰‍👨🏾	uomini con orecchie da coniglio carnagione chiara e carnagione abbastanza scura	-
+👨🏻‍🐰‍👨🏿	uomini con orecchie da coniglio carnagione chiara e carnagione scura	-
+👨🏼‍🐰‍👨🏻	uomini con orecchie da coniglio carnagione abbastanza chiara e carnagione chiara	-
+👨🏼‍🐰‍👨🏽	uomini con orecchie da coniglio carnagione abbastanza chiara e carnagione olivastra	-
+👨🏼‍🐰‍👨🏾	uomini con orecchie da coniglio carnagione abbastanza chiara e carnagione abbastanza scura	-
+👨🏼‍🐰‍👨🏿	uomini con orecchie da coniglio carnagione abbastanza chiara e carnagione scura	-
+👨🏽‍🐰‍👨🏻	uomini con orecchie da coniglio carnagione olivastra e carnagione chiara	-
+👨🏽‍🐰‍👨🏼	uomini con orecchie da coniglio carnagione olivastra e carnagione abbastanza chiara	-
+👨🏽‍🐰‍👨🏾	uomini con orecchie da coniglio carnagione olivastra e carnagione abbastanza scura	-
+👨🏽‍🐰‍👨🏿	uomini con orecchie da coniglio carnagione olivastra e carnagione scura	-
+👨🏾‍🐰‍👨🏻	uomini con orecchie da coniglio carnagione abbastanza scura e carnagione chiara	-
+👨🏾‍🐰‍👨🏼	uomini con orecchie da coniglio carnagione abbastanza scura e carnagione abbastanza chiara	-
+👨🏾‍🐰‍👨🏽	uomini con orecchie da coniglio carnagione abbastanza scura e carnagione olivastra	-
+👨🏾‍🐰‍👨🏿	uomini con orecchie da coniglio carnagione abbastanza scura e carnagione scura	-
+👨🏿‍🐰‍👨🏻	uomini con orecchie da coniglio carnagione scura e carnagione chiara	-
+👨🏿‍🐰‍👨🏼	uomini con orecchie da coniglio carnagione scura e carnagione abbastanza chiara	-
+👨🏿‍🐰‍👨🏽	uomini con orecchie da coniglio carnagione scura e carnagione olivastra	-
+👨🏿‍🐰‍👨🏾	uomini con orecchie da coniglio carnagione scura e carnagione abbastanza scura	-
 👩🏻	donna carnagione chiara	-
 👩🏼	donna carnagione abbastanza chiara	-
 👩🏽	donna carnagione olivastra	-
@@ -2515,6 +2613,26 @@ $	simbolo del dollaro	-
 👩🏿‍❤‍👩🏽	coppia con cuore donna, donna, carnagione scura e carnagione olivastra	-
 👩🏿‍❤‍👩🏾	coppia con cuore donna, donna, carnagione scura e carnagione abbastanza scura	-
 👩🏿‍❤‍👩🏿	coppia con cuore donna, donna e carnagione scura	-
+👩🏻‍🫯‍👩🏼	lottatrici carnagione chiara e carnagione abbastanza chiara	-
+👩🏻‍🫯‍👩🏽	lottatrici carnagione chiara e carnagione olivastra	-
+👩🏻‍🫯‍👩🏾	lottatrici carnagione chiara e carnagione abbastanza scura	-
+👩🏻‍🫯‍👩🏿	lottatrici carnagione chiara e carnagione scura	-
+👩🏼‍🫯‍👩🏻	lottatrici carnagione abbastanza chiara e carnagione chiara	-
+👩🏼‍🫯‍👩🏽	lottatrici carnagione abbastanza chiara e carnagione olivastra	-
+👩🏼‍🫯‍👩🏾	lottatrici carnagione abbastanza chiara e carnagione abbastanza scura	-
+👩🏼‍🫯‍👩🏿	lottatrici carnagione abbastanza chiara e carnagione scura	-
+👩🏽‍🫯‍👩🏻	lottatrici carnagione olivastra e carnagione chiara	-
+👩🏽‍🫯‍👩🏼	lottatrici carnagione olivastra e carnagione abbastanza chiara	-
+👩🏽‍🫯‍👩🏾	lottatrici carnagione olivastra e carnagione abbastanza scura	-
+👩🏽‍🫯‍👩🏿	lottatrici carnagione olivastra e carnagione scura	-
+👩🏾‍🫯‍👩🏻	lottatrici carnagione abbastanza scura e carnagione chiara	-
+👩🏾‍🫯‍👩🏼	lottatrici carnagione abbastanza scura e carnagione abbastanza chiara	-
+👩🏾‍🫯‍👩🏽	lottatrici carnagione abbastanza scura e carnagione olivastra	-
+👩🏾‍🫯‍👩🏿	lottatrici carnagione abbastanza scura e carnagione scura	-
+👩🏿‍🫯‍👩🏻	lottatrici carnagione scura e carnagione chiara	-
+👩🏿‍🫯‍👩🏼	lottatrici carnagione scura e carnagione abbastanza chiara	-
+👩🏿‍🫯‍👩🏽	lottatrici carnagione scura e carnagione olivastra	-
+👩🏿‍🫯‍👩🏾	lottatrici carnagione scura e carnagione abbastanza scura	-
 👩‍🦰	donna capelli rossi	-
 👩🏻‍🦰	donna carnagione chiara e capelli rossi	-
 👩🏼‍🦰	donna carnagione abbastanza chiara e capelli rossi	-
@@ -2539,6 +2657,26 @@ $	simbolo del dollaro	-
 👩🏽‍🦲	donna carnagione olivastra e calvo	-
 👩🏾‍🦲	donna carnagione abbastanza scura e calvo	-
 👩🏿‍🦲	donna carnagione scura e calvo	-
+👩🏻‍🐰‍👩🏼	donne con orecchie da coniglio carnagione chiara e carnagione abbastanza chiara	-
+👩🏻‍🐰‍👩🏽	donne con orecchie da coniglio carnagione chiara e carnagione olivastra	-
+👩🏻‍🐰‍👩🏾	donne con orecchie da coniglio carnagione chiara e carnagione abbastanza scura	-
+👩🏻‍🐰‍👩🏿	donne con orecchie da coniglio carnagione chiara e carnagione scura	-
+👩🏼‍🐰‍👩🏻	donne con orecchie da coniglio carnagione abbastanza chiara e carnagione chiara	-
+👩🏼‍🐰‍👩🏽	donne con orecchie da coniglio carnagione abbastanza chiara e carnagione olivastra	-
+👩🏼‍🐰‍👩🏾	donne con orecchie da coniglio carnagione abbastanza chiara e carnagione abbastanza scura	-
+👩🏼‍🐰‍👩🏿	donne con orecchie da coniglio carnagione abbastanza chiara e carnagione scura	-
+👩🏽‍🐰‍👩🏻	donne con orecchie da coniglio carnagione olivastra e carnagione chiara	-
+👩🏽‍🐰‍👩🏼	donne con orecchie da coniglio carnagione olivastra e carnagione abbastanza chiara	-
+👩🏽‍🐰‍👩🏾	donne con orecchie da coniglio carnagione olivastra e carnagione abbastanza scura	-
+👩🏽‍🐰‍👩🏿	donne con orecchie da coniglio carnagione olivastra e carnagione scura	-
+👩🏾‍🐰‍👩🏻	donne con orecchie da coniglio carnagione abbastanza scura e carnagione chiara	-
+👩🏾‍🐰‍👩🏼	donne con orecchie da coniglio carnagione abbastanza scura e carnagione abbastanza chiara	-
+👩🏾‍🐰‍👩🏽	donne con orecchie da coniglio carnagione abbastanza scura e carnagione olivastra	-
+👩🏾‍🐰‍👩🏿	donne con orecchie da coniglio carnagione abbastanza scura e carnagione scura	-
+👩🏿‍🐰‍👩🏻	donne con orecchie da coniglio carnagione scura e carnagione chiara	-
+👩🏿‍🐰‍👩🏼	donne con orecchie da coniglio carnagione scura e carnagione abbastanza chiara	-
+👩🏿‍🐰‍👩🏽	donne con orecchie da coniglio carnagione scura e carnagione olivastra	-
+👩🏿‍🐰‍👩🏾	donne con orecchie da coniglio carnagione scura e carnagione abbastanza scura	-
 🧓🏻	persona anziana carnagione chiara	-
 🧓🏼	persona anziana carnagione abbastanza chiara	-
 🧓🏽	persona anziana carnagione olivastra	-
@@ -3482,6 +3620,11 @@ $	simbolo del dollaro	-
 🏃🏽‍♂‍➡	uomo che corre carnagione olivastra e a destra	-
 🏃🏾‍♂‍➡	uomo che corre carnagione abbastanza scura e a destra	-
 🏃🏿‍♂‍➡	uomo che corre carnagione scura e a destra	-
+🧑🏻‍🩰	persona che danza carnagione chiara	-
+🧑🏼‍🩰	persona che danza carnagione abbastanza chiara	-
+🧑🏽‍🩰	persona che danza carnagione olivastra	-
+🧑🏾‍🩰	persona che danza carnagione abbastanza scura	-
+🧑🏿‍🩰	persona che danza carnagione scura	-
 💃🏻	donna che balla carnagione chiara	-
 💃🏼	donna che balla carnagione abbastanza chiara	-
 💃🏽	donna che balla carnagione olivastra	-
@@ -3497,6 +3640,21 @@ $	simbolo del dollaro	-
 🕴🏽	uomo con completo che levita carnagione olivastra	-
 🕴🏾	uomo con completo che levita carnagione abbastanza scura	-
 🕴🏿	uomo con completo che levita carnagione scura	-
+👯🏻	persone con orecchie da coniglio carnagione chiara	-
+👯🏼	persone con orecchie da coniglio carnagione abbastanza chiara	-
+👯🏽	persone con orecchie da coniglio carnagione olivastra	-
+👯🏾	persone con orecchie da coniglio carnagione abbastanza scura	-
+👯🏿	persone con orecchie da coniglio carnagione scura	-
+👯🏻‍♂	uomini con orecchie da coniglio carnagione chiara	-
+👯🏼‍♂	uomini con orecchie da coniglio carnagione abbastanza chiara	-
+👯🏽‍♂	uomini con orecchie da coniglio carnagione olivastra	-
+👯🏾‍♂	uomini con orecchie da coniglio carnagione abbastanza scura	-
+👯🏿‍♂	uomini con orecchie da coniglio carnagione scura	-
+👯🏻‍♀	donne con orecchie da coniglio carnagione chiara	-
+👯🏼‍♀	donne con orecchie da coniglio carnagione abbastanza chiara	-
+👯🏽‍♀	donne con orecchie da coniglio carnagione olivastra	-
+👯🏾‍♀	donne con orecchie da coniglio carnagione abbastanza scura	-
+👯🏿‍♀	donne con orecchie da coniglio carnagione scura	-
 🧖🏻	persona in sauna carnagione chiara	-
 🧖🏼	persona in sauna carnagione abbastanza chiara	-
 🧖🏽	persona in sauna carnagione olivastra	-
@@ -3672,6 +3830,21 @@ $	simbolo del dollaro	-
 🤸🏽‍♀	donna che fa la ruota carnagione olivastra	-
 🤸🏾‍♀	donna che fa la ruota carnagione abbastanza scura	-
 🤸🏿‍♀	donna che fa la ruota carnagione scura	-
+🤼🏻	persone che fanno la lotta carnagione chiara	-
+🤼🏼	persone che fanno la lotta carnagione abbastanza chiara	-
+🤼🏽	persone che fanno la lotta carnagione olivastra	-
+🤼🏾	persone che fanno la lotta carnagione abbastanza scura	-
+🤼🏿	persone che fanno la lotta carnagione scura	-
+🤼🏻‍♂	lottatori carnagione chiara	-
+🤼🏼‍♂	lottatori carnagione abbastanza chiara	-
+🤼🏽‍♂	lottatori carnagione olivastra	-
+🤼🏾‍♂	lottatori carnagione abbastanza scura	-
+🤼🏿‍♂	lottatori carnagione scura	-
+🤼🏻‍♀	lottatrici carnagione chiara	-
+🤼🏼‍♀	lottatrici carnagione abbastanza chiara	-
+🤼🏽‍♀	lottatrici carnagione olivastra	-
+🤼🏾‍♀	lottatrici carnagione abbastanza scura	-
+🤼🏿‍♀	lottatrici carnagione scura	-
 🤽🏻	persona che gioca a pallanuoto carnagione chiara	-
 🤽🏼	persona che gioca a pallanuoto carnagione abbastanza chiara	-
 🤽🏽	persona che gioca a pallanuoto carnagione olivastra	-
@@ -3937,6 +4110,7 @@ $	simbolo del dollaro	-
 🇨🇳	bandiera Cina	-
 🇨🇴	bandiera Colombia	-
 🇨🇵	bandiera Isola di Clipperton	-
+🇨🇶	bandiera Sark	-
 🇨🇷	bandiera Costa Rica	-
 🇨🇺	bandiera Cuba	-
 🇨🇻	bandiera Capo Verde	-
@@ -4166,14 +4340,4 @@ $	simbolo del dollaro	-
 ₺	lira turca	-
 ₼	manat azero	-
 ₾	lari georgiano	-
-0⃣	tasto 0	-
-1⃣	tasto 1	-
-2⃣	tasto 2	-
-3⃣	tasto 3	-
-4⃣	tasto 4	-
-5⃣	tasto 5	-
-6⃣	tasto 6	-
-7⃣	tasto 7	-
-8⃣	tasto 8	-
-9⃣	tasto 9	-
 ₧	peseta spagnola	-

@@ -320,7 +320,7 @@ _	onderste streep	-
 ◕	sirkel met alles behalwe boonste linkerkwadrant gevul	-
 ◖	linkergevulde sirkelhelfte	-
 ◗	regtergevulde sirkelhelfte	-
-◘	inverse koeëlpunt	-
+◘	omgekeerde kolpunt	-
 ◙	hol sirkel binne gevulde vierkant	-
 ◜	links bo sirkelkwadrantboog	-
 ◝	regs bo sirkelkwadrantboog	-
@@ -332,7 +332,7 @@ _	onderste streep	-
 ◣	gevulde linksonder-driehoek	-
 ◤	gevulde linksbo-driehoek	-
 ◥	gevulde regsbo-driehoek	-
-◦	hol koeëlpunt	-
+◦	hol kolpunt	-
 ◯	groot leë sirkel	-
 ◳	boonste regterkwadrant van hol vierkant	-
 ◷	hol sirkel met boonste regterkwadrant	-
@@ -433,6 +433,7 @@ _	onderste streep	-
 😯	gedempte gesig	-
 😲	verstomde gesig	-
 😳	blosende gesig	-
+🫪	verwronge gesiggie	-
 🥺	soebat gesig	-
 🥹	gesig wat wil huil	-
 😦	fronsende gesig met oop mond	-
@@ -506,6 +507,7 @@ _	onderste streep	-
 💋	soenmerk	-
 💯	honderd punte	-
 💢	woedesimbool	-
+🫯	bakleiwolkie	-
 💥	botsing	-
 💫	duiselig	-
 💦	sweetdruppels	-
@@ -738,6 +740,7 @@ _	onderste streep	-
 🧟‍♂	manlike zombie	-
 🧟‍♀	vroulike zombie	-
 🧌	trol	-
+🫈	harige skepsel	-
 💆	persoon kry massering	-
 💆‍♂	man kry massering	-
 💆‍♀	vrou kry massering	-
@@ -765,6 +768,7 @@ _	onderste streep	-
 🏃	persoon wat hardloop	-
 🏃‍♂	man hardloop	-
 🏃‍♀	vrou hardloop	-
+🧑‍🩰	balletdanser	-
 💃	vrou dans	-
 🕺	man dans	-
 🕴	man in sakepak wat sweef	-
@@ -946,6 +950,7 @@ _	onderste streep	-
 🐳	walvis wat spuit	-
 🐋	walvis	-
 🐬	dolfyn	-
+🫍	moordvis	-
 🦭	rob	-
 🐟	vis	-
 🐠	tropiese vis	-
@@ -1145,6 +1150,7 @@ _	onderste streep	-
 🧭	kompas	-
 🏔	berg met sneeu op	-
 ⛰	berg	-
+🛘	grondstorting	-
 🌋	vulkaan	-
 🗻	berg foedji	-
 🏕	kampeer	-
@@ -1164,7 +1170,7 @@ _	onderste streep	-
 🏠	huis	-
 🏡	huis met tuin	-
 🏢	kantoorgebou	-
-🏣	japanse poskantoor	-
+🏣	Japanse poskantoor	-
 🏤	poskantoor	-
 🏥	hospitaal	-
 🏦	bank	-
@@ -1505,10 +1511,11 @@ _	onderste streep	-
 🎧	oorfoon	-
 📻	radio	-
 🎷	saxofoon	-
+🎺	trompet	-
+🪊	tromboon	-
 🪗	trekklavier	-
 🎸	kitaar	-
 🎹	klawerbord	-
-🎺	trompet	-
 🎻	viool	-
 🪕	banjo	-
 🥁	trom	-
@@ -1569,8 +1576,9 @@ _	onderste streep	-
 📑	boekmerkoortjies	-
 🔖	boekmerk	-
 🏷	etiket	-
-💰	geldsak	-
 🪙	muntstuk	-
+💰	geldsak	-
+🪎	skatkis	-
 💴	jenbanknoot	-
 💵	dollarbanknoot	-
 💶	eurobanknoot	-
@@ -1941,6 +1949,16 @@ $	dollar	-
 ₹	indiese roepee	-
 ₽	roebel	-
 ₿	bitcoin	-
+0⃣	knoppiesimbool 0	-
+1⃣	knoppiesimbool 1	-
+2⃣	knoppiesimbool 2	-
+3⃣	knoppiesimbool 3	-
+4⃣	knoppiesimbool 4	-
+5⃣	knoppiesimbool 5	-
+6⃣	knoppiesimbool 6	-
+7⃣	knoppiesimbool 7	-
+8⃣	knoppiesimbool 8	-
+9⃣	knoppiesimbool 9	-
 ¹	boskrif-een	-
 ²	boskrif twee	-
 ³	boskrifdrie	-
@@ -2282,6 +2300,26 @@ $	dollar	-
 🧑🏿‍❤‍🧑🏼	paartjie met hartjie volwassene, volwassene, donker velkleur, medium-ligte velkleur	-
 🧑🏿‍❤‍🧑🏽	paartjie met hartjie volwassene, volwassene, donker velkleur, medium velkleur	-
 🧑🏿‍❤‍🧑🏾	paartjie met hartjie volwassene, volwassene, donker velkleur, medium-donker velkleur	-
+🧑🏻‍🫯‍🧑🏼	stoeiers ligte velkleur, medium-ligte velkleur	-
+🧑🏻‍🫯‍🧑🏽	stoeiers ligte velkleur, medium velkleur	-
+🧑🏻‍🫯‍🧑🏾	stoeiers ligte velkleur, medium-donker velkleur	-
+🧑🏻‍🫯‍🧑🏿	stoeiers ligte velkleur, donker velkleur	-
+🧑🏼‍🫯‍🧑🏻	stoeiers medium-ligte velkleur, ligte velkleur	-
+🧑🏼‍🫯‍🧑🏽	stoeiers medium-ligte velkleur, medium velkleur	-
+🧑🏼‍🫯‍🧑🏾	stoeiers medium-ligte velkleur, medium-donker velkleur	-
+🧑🏼‍🫯‍🧑🏿	stoeiers medium-ligte velkleur, donker velkleur	-
+🧑🏽‍🫯‍🧑🏻	stoeiers medium velkleur, ligte velkleur	-
+🧑🏽‍🫯‍🧑🏼	stoeiers medium velkleur, medium-ligte velkleur	-
+🧑🏽‍🫯‍🧑🏾	stoeiers medium velkleur, medium-donker velkleur	-
+🧑🏽‍🫯‍🧑🏿	stoeiers medium velkleur, donker velkleur	-
+🧑🏾‍🫯‍🧑🏻	stoeiers medium-donker velkleur, ligte velkleur	-
+🧑🏾‍🫯‍🧑🏼	stoeiers medium-donker velkleur, medium-ligte velkleur	-
+🧑🏾‍🫯‍🧑🏽	stoeiers medium-donker velkleur, medium velkleur	-
+🧑🏾‍🫯‍🧑🏿	stoeiers medium-donker velkleur, donker velkleur	-
+🧑🏿‍🫯‍🧑🏻	stoeiers donker velkleur, ligte velkleur	-
+🧑🏿‍🫯‍🧑🏼	stoeiers donker velkleur, medium-ligte velkleur	-
+🧑🏿‍🫯‍🧑🏽	stoeiers donker velkleur, medium velkleur	-
+🧑🏿‍🫯‍🧑🏾	stoeiers donker velkleur, medium-donker velkleur	-
 🧑‍🦰	volwassene rooi hare	-
 🧑🏻‍🦰	volwassene ligte velkleur, rooi hare	-
 🧑🏼‍🦰	volwassene medium-ligte velkleur, rooi hare	-
@@ -2306,6 +2344,26 @@ $	dollar	-
 🧑🏽‍🦲	volwassene medium velkleur, bles	-
 🧑🏾‍🦲	volwassene medium-donker velkleur, bles	-
 🧑🏿‍🦲	volwassene donker velkleur, bles	-
+🧑🏻‍🐰‍🧑🏼	mense met haasore ligte velkleur, medium-ligte velkleur	-
+🧑🏻‍🐰‍🧑🏽	mense met haasore ligte velkleur, medium velkleur	-
+🧑🏻‍🐰‍🧑🏾	mense met haasore ligte velkleur, medium-donker velkleur	-
+🧑🏻‍🐰‍🧑🏿	mense met haasore ligte velkleur, donker velkleur	-
+🧑🏼‍🐰‍🧑🏻	mense met haasore medium-ligte velkleur, ligte velkleur	-
+🧑🏼‍🐰‍🧑🏽	mense met haasore medium-ligte velkleur, medium velkleur	-
+🧑🏼‍🐰‍🧑🏾	mense met haasore medium-ligte velkleur, medium-donker velkleur	-
+🧑🏼‍🐰‍🧑🏿	mense met haasore medium-ligte velkleur, donker velkleur	-
+🧑🏽‍🐰‍🧑🏻	mense met haasore medium velkleur, ligte velkleur	-
+🧑🏽‍🐰‍🧑🏼	mense met haasore medium velkleur, medium-ligte velkleur	-
+🧑🏽‍🐰‍🧑🏾	mense met haasore medium velkleur, medium-donker velkleur	-
+🧑🏽‍🐰‍🧑🏿	mense met haasore medium velkleur, donker velkleur	-
+🧑🏾‍🐰‍🧑🏻	mense met haasore medium-donker velkleur, ligte velkleur	-
+🧑🏾‍🐰‍🧑🏼	mense met haasore medium-donker velkleur, medium-ligte velkleur	-
+🧑🏾‍🐰‍🧑🏽	mense met haasore medium-donker velkleur, medium velkleur	-
+🧑🏾‍🐰‍🧑🏿	mense met haasore medium-donker velkleur, donker velkleur	-
+🧑🏿‍🐰‍🧑🏻	mense met haasore donker velkleur, ligte velkleur	-
+🧑🏿‍🐰‍🧑🏼	mense met haasore donker velkleur, medium-ligte velkleur	-
+🧑🏿‍🐰‍🧑🏽	mense met haasore donker velkleur, medium velkleur	-
+🧑🏿‍🐰‍🧑🏾	mense met haasore donker velkleur, medium-donker velkleur	-
 👨🏻	man ligte velkleur	-
 👨🏼	man medium-ligte velkleur	-
 👨🏽	man medium velkleur	-
@@ -2376,6 +2434,26 @@ $	dollar	-
 👨🏿‍❤‍👨🏽	paartjie met hartjie man, man, donker velkleur, medium velkleur	-
 👨🏿‍❤‍👨🏾	paartjie met hartjie man, man, donker velkleur, medium-donker velkleur	-
 👨🏿‍❤‍👨🏿	paartjie met hartjie man, man, donker velkleur	-
+👨🏻‍🫯‍👨🏼	manlike stoeiers ligte velkleur, medium-ligte velkleur	-
+👨🏻‍🫯‍👨🏽	manlike stoeiers ligte velkleur, medium velkleur	-
+👨🏻‍🫯‍👨🏾	manlike stoeiers ligte velkleur, medium-donker velkleur	-
+👨🏻‍🫯‍👨🏿	manlike stoeiers ligte velkleur, donker velkleur	-
+👨🏼‍🫯‍👨🏻	manlike stoeiers medium-ligte velkleur, ligte velkleur	-
+👨🏼‍🫯‍👨🏽	manlike stoeiers medium-ligte velkleur, medium velkleur	-
+👨🏼‍🫯‍👨🏾	manlike stoeiers medium-ligte velkleur, medium-donker velkleur	-
+👨🏼‍🫯‍👨🏿	manlike stoeiers medium-ligte velkleur, donker velkleur	-
+👨🏽‍🫯‍👨🏻	manlike stoeiers medium velkleur, ligte velkleur	-
+👨🏽‍🫯‍👨🏼	manlike stoeiers medium velkleur, medium-ligte velkleur	-
+👨🏽‍🫯‍👨🏾	manlike stoeiers medium velkleur, medium-donker velkleur	-
+👨🏽‍🫯‍👨🏿	manlike stoeiers medium velkleur, donker velkleur	-
+👨🏾‍🫯‍👨🏻	manlike stoeiers medium-donker velkleur, ligte velkleur	-
+👨🏾‍🫯‍👨🏼	manlike stoeiers medium-donker velkleur, medium-ligte velkleur	-
+👨🏾‍🫯‍👨🏽	manlike stoeiers medium-donker velkleur, medium velkleur	-
+👨🏾‍🫯‍👨🏿	manlike stoeiers medium-donker velkleur, donker velkleur	-
+👨🏿‍🫯‍👨🏻	manlike stoeiers donker velkleur, ligte velkleur	-
+👨🏿‍🫯‍👨🏼	manlike stoeiers donker velkleur, medium-ligte velkleur	-
+👨🏿‍🫯‍👨🏽	manlike stoeiers donker velkleur, medium velkleur	-
+👨🏿‍🫯‍👨🏾	manlike stoeiers donker velkleur, medium-donker velkleur	-
 👨‍🦰	man rooi hare	-
 👨🏻‍🦰	man ligte velkleur, rooi hare	-
 👨🏼‍🦰	man medium-ligte velkleur, rooi hare	-
@@ -2400,6 +2478,26 @@ $	dollar	-
 👨🏽‍🦲	man medium velkleur, bles	-
 👨🏾‍🦲	man medium-donker velkleur, bles	-
 👨🏿‍🦲	man donker velkleur, bles	-
+👨🏻‍🐰‍👨🏼	mans met haasore ligte velkleur, medium-ligte velkleur	-
+👨🏻‍🐰‍👨🏽	mans met haasore ligte velkleur, medium velkleur	-
+👨🏻‍🐰‍👨🏾	mans met haasore ligte velkleur, medium-donker velkleur	-
+👨🏻‍🐰‍👨🏿	mans met haasore ligte velkleur, donker velkleur	-
+👨🏼‍🐰‍👨🏻	mans met haasore medium-ligte velkleur, ligte velkleur	-
+👨🏼‍🐰‍👨🏽	mans met haasore medium-ligte velkleur, medium velkleur	-
+👨🏼‍🐰‍👨🏾	mans met haasore medium-ligte velkleur, medium-donker velkleur	-
+👨🏼‍🐰‍👨🏿	mans met haasore medium-ligte velkleur, donker velkleur	-
+👨🏽‍🐰‍👨🏻	mans met haasore medium velkleur, ligte velkleur	-
+👨🏽‍🐰‍👨🏼	mans met haasore medium velkleur, medium-ligte velkleur	-
+👨🏽‍🐰‍👨🏾	mans met haasore medium velkleur, medium-donker velkleur	-
+👨🏽‍🐰‍👨🏿	mans met haasore medium velkleur, donker velkleur	-
+👨🏾‍🐰‍👨🏻	mans met haasore medium-donker velkleur, ligte velkleur	-
+👨🏾‍🐰‍👨🏼	mans met haasore medium-donker velkleur, medium-ligte velkleur	-
+👨🏾‍🐰‍👨🏽	mans met haasore medium-donker velkleur, medium velkleur	-
+👨🏾‍🐰‍👨🏿	mans met haasore medium-donker velkleur, donker velkleur	-
+👨🏿‍🐰‍👨🏻	mans met haasore donker velkleur, ligte velkleur	-
+👨🏿‍🐰‍👨🏼	mans met haasore donker velkleur, medium-ligte velkleur	-
+👨🏿‍🐰‍👨🏽	mans met haasore donker velkleur, medium velkleur	-
+👨🏿‍🐰‍👨🏾	mans met haasore donker velkleur, medium-donker velkleur	-
 👩🏻	vrou ligte velkleur	-
 👩🏼	vrou medium-ligte velkleur	-
 👩🏽	vrou medium velkleur	-
@@ -2515,6 +2613,26 @@ $	dollar	-
 👩🏿‍❤‍👩🏽	paartjie met hartjie vrou, vrou, donker velkleur, medium velkleur	-
 👩🏿‍❤‍👩🏾	paartjie met hartjie vrou, vrou, donker velkleur, medium-donker velkleur	-
 👩🏿‍❤‍👩🏿	paartjie met hartjie vrou, vrou, donker velkleur	-
+👩🏻‍🫯‍👩🏼	vroulike stoeiers ligte velkleur, medium-ligte velkleur	-
+👩🏻‍🫯‍👩🏽	vroulike stoeiers ligte velkleur, medium velkleur	-
+👩🏻‍🫯‍👩🏾	vroulike stoeiers ligte velkleur, medium-donker velkleur	-
+👩🏻‍🫯‍👩🏿	vroulike stoeiers ligte velkleur, donker velkleur	-
+👩🏼‍🫯‍👩🏻	vroulike stoeiers medium-ligte velkleur, ligte velkleur	-
+👩🏼‍🫯‍👩🏽	vroulike stoeiers medium-ligte velkleur, medium velkleur	-
+👩🏼‍🫯‍👩🏾	vroulike stoeiers medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍🫯‍👩🏿	vroulike stoeiers medium-ligte velkleur, donker velkleur	-
+👩🏽‍🫯‍👩🏻	vroulike stoeiers medium velkleur, ligte velkleur	-
+👩🏽‍🫯‍👩🏼	vroulike stoeiers medium velkleur, medium-ligte velkleur	-
+👩🏽‍🫯‍👩🏾	vroulike stoeiers medium velkleur, medium-donker velkleur	-
+👩🏽‍🫯‍👩🏿	vroulike stoeiers medium velkleur, donker velkleur	-
+👩🏾‍🫯‍👩🏻	vroulike stoeiers medium-donker velkleur, ligte velkleur	-
+👩🏾‍🫯‍👩🏼	vroulike stoeiers medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍🫯‍👩🏽	vroulike stoeiers medium-donker velkleur, medium velkleur	-
+👩🏾‍🫯‍👩🏿	vroulike stoeiers medium-donker velkleur, donker velkleur	-
+👩🏿‍🫯‍👩🏻	vroulike stoeiers donker velkleur, ligte velkleur	-
+👩🏿‍🫯‍👩🏼	vroulike stoeiers donker velkleur, medium-ligte velkleur	-
+👩🏿‍🫯‍👩🏽	vroulike stoeiers donker velkleur, medium velkleur	-
+👩🏿‍🫯‍👩🏾	vroulike stoeiers donker velkleur, medium-donker velkleur	-
 👩‍🦰	vrou rooi hare	-
 👩🏻‍🦰	vrou ligte velkleur, rooi hare	-
 👩🏼‍🦰	vrou medium-ligte velkleur, rooi hare	-
@@ -2539,6 +2657,26 @@ $	dollar	-
 👩🏽‍🦲	vrou medium velkleur, bles	-
 👩🏾‍🦲	vrou medium-donker velkleur, bles	-
 👩🏿‍🦲	vrou donker velkleur, bles	-
+👩🏻‍🐰‍👩🏼	vroue met haasore ligte velkleur, medium-ligte velkleur	-
+👩🏻‍🐰‍👩🏽	vroue met haasore ligte velkleur, medium velkleur	-
+👩🏻‍🐰‍👩🏾	vroue met haasore ligte velkleur, medium-donker velkleur	-
+👩🏻‍🐰‍👩🏿	vroue met haasore ligte velkleur, donker velkleur	-
+👩🏼‍🐰‍👩🏻	vroue met haasore medium-ligte velkleur, ligte velkleur	-
+👩🏼‍🐰‍👩🏽	vroue met haasore medium-ligte velkleur, medium velkleur	-
+👩🏼‍🐰‍👩🏾	vroue met haasore medium-ligte velkleur, medium-donker velkleur	-
+👩🏼‍🐰‍👩🏿	vroue met haasore medium-ligte velkleur, donker velkleur	-
+👩🏽‍🐰‍👩🏻	vroue met haasore medium velkleur, ligte velkleur	-
+👩🏽‍🐰‍👩🏼	vroue met haasore medium velkleur, medium-ligte velkleur	-
+👩🏽‍🐰‍👩🏾	vroue met haasore medium velkleur, medium-donker velkleur	-
+👩🏽‍🐰‍👩🏿	vroue met haasore medium velkleur, donker velkleur	-
+👩🏾‍🐰‍👩🏻	vroue met haasore medium-donker velkleur, ligte velkleur	-
+👩🏾‍🐰‍👩🏼	vroue met haasore medium-donker velkleur, medium-ligte velkleur	-
+👩🏾‍🐰‍👩🏽	vroue met haasore medium-donker velkleur, medium velkleur	-
+👩🏾‍🐰‍👩🏿	vroue met haasore medium-donker velkleur, donker velkleur	-
+👩🏿‍🐰‍👩🏻	vroue met haasore donker velkleur, ligte velkleur	-
+👩🏿‍🐰‍👩🏼	vroue met haasore donker velkleur, medium-ligte velkleur	-
+👩🏿‍🐰‍👩🏽	vroue met haasore donker velkleur, medium velkleur	-
+👩🏿‍🐰‍👩🏾	vroue met haasore donker velkleur, medium-donker velkleur	-
 🧓🏻	ouer volwassene ligte velkleur	-
 🧓🏼	ouer volwassene medium-ligte velkleur	-
 🧓🏽	ouer volwassene medium velkleur	-
@@ -3482,6 +3620,11 @@ $	dollar	-
 🏃🏽‍♂‍➡	man hardloop medium velkleur, kyk na regs	-
 🏃🏾‍♂‍➡	man hardloop medium-donker velkleur, kyk na regs	-
 🏃🏿‍♂‍➡	man hardloop donker velkleur, kyk na regs	-
+🧑🏻‍🩰	balletdanser ligte velkleur	-
+🧑🏼‍🩰	balletdanser medium-ligte velkleur	-
+🧑🏽‍🩰	balletdanser medium velkleur	-
+🧑🏾‍🩰	balletdanser medium-donker velkleur	-
+🧑🏿‍🩰	balletdanser donker velkleur	-
 💃🏻	vrou dans ligte velkleur	-
 💃🏼	vrou dans medium-ligte velkleur	-
 💃🏽	vrou dans medium velkleur	-
@@ -3497,6 +3640,21 @@ $	dollar	-
 🕴🏽	man in sakepak wat sweef medium velkleur	-
 🕴🏾	man in sakepak wat sweef medium-donker velkleur	-
 🕴🏿	man in sakepak wat sweef donker velkleur	-
+👯🏻	mense met haasore ligte velkleur	-
+👯🏼	mense met haasore medium-ligte velkleur	-
+👯🏽	mense met haasore medium velkleur	-
+👯🏾	mense met haasore medium-donker velkleur	-
+👯🏿	mense met haasore donker velkleur	-
+👯🏻‍♂	mans met haasore ligte velkleur	-
+👯🏼‍♂	mans met haasore medium-ligte velkleur	-
+👯🏽‍♂	mans met haasore medium velkleur	-
+👯🏾‍♂	mans met haasore medium-donker velkleur	-
+👯🏿‍♂	mans met haasore donker velkleur	-
+👯🏻‍♀	vroue met haasore ligte velkleur	-
+👯🏼‍♀	vroue met haasore medium-ligte velkleur	-
+👯🏽‍♀	vroue met haasore medium velkleur	-
+👯🏾‍♀	vroue met haasore medium-donker velkleur	-
+👯🏿‍♀	vroue met haasore donker velkleur	-
 🧖🏻	persoon in stoomkamer ligte velkleur	-
 🧖🏼	persoon in stoomkamer medium-ligte velkleur	-
 🧖🏽	persoon in stoomkamer medium velkleur	-
@@ -3672,6 +3830,21 @@ $	dollar	-
 🤸🏽‍♀	vrou doen wawiel medium velkleur	-
 🤸🏾‍♀	vrou doen wawiel medium-donker velkleur	-
 🤸🏿‍♀	vrou doen wawiel donker velkleur	-
+🤼🏻	stoeiers ligte velkleur	-
+🤼🏼	stoeiers medium-ligte velkleur	-
+🤼🏽	stoeiers medium velkleur	-
+🤼🏾	stoeiers medium-donker velkleur	-
+🤼🏿	stoeiers donker velkleur	-
+🤼🏻‍♂	manlike stoeiers ligte velkleur	-
+🤼🏼‍♂	manlike stoeiers medium-ligte velkleur	-
+🤼🏽‍♂	manlike stoeiers medium velkleur	-
+🤼🏾‍♂	manlike stoeiers medium-donker velkleur	-
+🤼🏿‍♂	manlike stoeiers donker velkleur	-
+🤼🏻‍♀	vroulike stoeiers ligte velkleur	-
+🤼🏼‍♀	vroulike stoeiers medium-ligte velkleur	-
+🤼🏽‍♀	vroulike stoeiers medium velkleur	-
+🤼🏾‍♀	vroulike stoeiers medium-donker velkleur	-
+🤼🏿‍♀	vroulike stoeiers donker velkleur	-
 🤽🏻	waterpolo ligte velkleur	-
 🤽🏼	waterpolo medium-ligte velkleur	-
 🤽🏽	waterpolo medium velkleur	-
@@ -3937,6 +4110,7 @@ $	dollar	-
 🇨🇳	vlag China	-
 🇨🇴	vlag Colombië	-
 🇨🇵	vlag Clippertoneiland	-
+🇨🇶	vlag Sark	-
 🇨🇷	vlag Costa Rica	-
 🇨🇺	vlag Kuba	-
 🇨🇻	vlag Kaap Verde	-
@@ -4166,13 +4340,3 @@ $	dollar	-
 ₺	Turkse lira	-
 ₼	Azerbeidjaanse manat	-
 ₾	Georgiese lari	-
-0⃣	knoppiesimbool 0	-
-1⃣	knoppiesimbool 1	-
-2⃣	knoppiesimbool 2	-
-3⃣	knoppiesimbool 3	-
-4⃣	knoppiesimbool 4	-
-5⃣	knoppiesimbool 5	-
-6⃣	knoppiesimbool 6	-
-7⃣	knoppiesimbool 7	-
-8⃣	knoppiesimbool 8	-
-9⃣	knoppiesimbool 9	-

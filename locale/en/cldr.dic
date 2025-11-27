@@ -111,6 +111,7 @@ _	low line	none
 👨‍🦼	man in motorized wheelchair	none
 👩‍🦼	woman in motorized wheelchair	none
 🐦‍⬛	black bird	none
+🍆	eggplant	none
 🫑	bell pepper	none
 🫚	ginger root	none
 🥫	canned food	none
@@ -118,8 +119,16 @@ _	low line	none
 🗻	mount fuji	none
 🛕	hindu temple	none
 🕋	kaaba	none
+🚗	automobile	none
+🚘	oncoming automobile	none
 🦼	motorized wheelchair	none
 🛟	ring buoy	none
+🛥	motor boat	none
+✈	airplane	none
+🛩	small airplane	none
+🛫	airplane departure	none
+🛬	airplane arrival	none
+🛎	bellhop bell	none
 ⚽	soccer ball	none
 🏓	ping pong	none
 🛷	sled	none
@@ -476,6 +485,7 @@ _	low line	none
 😯	hushed face	none
 😲	astonished face	none
 😳	flushed face	none
+🫪	distorted face	none
 🥺	pleading face	none
 🥹	face holding back tears	none
 😦	frowning face with open mouth	none
@@ -549,6 +559,7 @@ _	low line	none
 💋	kiss mark	none
 💯	hundred points	none
 💢	anger symbol	none
+🫯	fight cloud	none
 💥	collision	none
 💫	dizzy	none
 💦	sweat droplets	none
@@ -780,6 +791,7 @@ _	low line	none
 🧟‍♂	man zombie	none
 🧟‍♀	woman zombie	none
 🧌	troll	none
+🫈	hairy creature	none
 💆	person getting massage	none
 💆‍♂	man getting massage	none
 💆‍♀	woman getting massage	none
@@ -801,6 +813,7 @@ _	low line	none
 🏃	person running	none
 🏃‍♂	man running	none
 🏃‍♀	woman running	none
+🧑‍🩰	ballet dancer	none
 💃	woman dancing	none
 🕺	man dancing	none
 🕴	person in suit levitating	none
@@ -981,6 +994,7 @@ _	low line	none
 🐳	spouting whale	none
 🐋	whale	none
 🐬	dolphin	none
+🫍	orca	none
 🦭	seal	none
 🐟	fish	none
 🐠	tropical fish	none
@@ -1061,7 +1075,6 @@ _	low line	none
 🫒	olive	none
 🥥	coconut	none
 🥑	avocado	none
-🍆	eggplant	none
 🥔	potato	none
 🥕	carrot	none
 🌽	ear of corn	none
@@ -1176,6 +1189,7 @@ _	low line	none
 🧭	compass	none
 🏔	snow-capped mountain	none
 ⛰	mountain	none
+🛘	landslide	none
 🌋	volcano	none
 🏕	camping	none
 🏖	beach with umbrella	none
@@ -1252,8 +1266,6 @@ _	low line	none
 🚔	oncoming police car	none
 🚕	taxi	none
 🚖	oncoming taxi	none
-🚗	automobile	none
-🚘	oncoming automobile	none
 🚙	sport utility vehicle	none
 🛻	pickup truck	none
 🚚	delivery truck	none
@@ -1285,12 +1297,7 @@ _	low line	none
 🚤	speedboat	none
 🛳	passenger ship	none
 ⛴	ferry	none
-🛥	motor boat	none
 🚢	ship	none
-✈	airplane	none
-🛩	small airplane	none
-🛫	airplane departure	none
-🛬	airplane arrival	none
 🪂	parachute	none
 💺	seat	none
 🚁	helicopter	none
@@ -1300,7 +1307,6 @@ _	low line	none
 🛰	satellite	none
 🚀	rocket	none
 🛸	flying saucer	none
-🛎	bellhop bell	none
 🧳	luggage	none
 ⌛	hourglass done	none
 ⏳	hourglass not done	none
@@ -1524,10 +1530,11 @@ _	low line	none
 🎧	headphone	none
 📻	radio	none
 🎷	saxophone	none
+🎺	trumpet	none
+🪊	trombone	none
 🪗	accordion	none
 🎸	guitar	none
 🎹	musical keyboard	none
-🎺	trumpet	none
 🎻	violin	none
 🪕	banjo	none
 🥁	drum	none
@@ -1587,8 +1594,9 @@ _	low line	none
 📑	bookmark tabs	none
 🔖	bookmark	none
 🏷	label	none
-💰	money bag	none
 🪙	coin	none
+💰	money bag	none
+🪎	treasure chest	none
 💴	yen banknote	none
 💵	dollar banknote	none
 💶	euro banknote	none
@@ -1941,6 +1949,16 @@ $	dollar	none
 ₶	livre tournois	none
 ₷	spesmilo	none
 ₿	bitcoin	none
+0⃣	keycap 0	none
+1⃣	keycap 1	none
+2⃣	keycap 2	none
+3⃣	keycap 3	none
+4⃣	keycap 4	none
+5⃣	keycap 5	none
+6⃣	keycap 6	none
+7⃣	keycap 7	none
+8⃣	keycap 8	none
+9⃣	keycap 9	none
 ¹	superscript one	none
 ²	superscript two	none
 ³	superscript three	none
@@ -2362,6 +2380,26 @@ $	dollar	none
 🧑🏿‍❤‍🧑🏼	couple with heart person, person, dark skin tone, medium-light skin tone	none
 🧑🏿‍❤‍🧑🏽	couple with heart person, person, dark skin tone, medium skin tone	none
 🧑🏿‍❤‍🧑🏾	couple with heart person, person, dark skin tone, medium-dark skin tone	none
+🧑🏻‍🫯‍🧑🏼	people wrestling light skin tone, medium-light skin tone	none
+🧑🏻‍🫯‍🧑🏽	people wrestling light skin tone, medium skin tone	none
+🧑🏻‍🫯‍🧑🏾	people wrestling light skin tone, medium-dark skin tone	none
+🧑🏻‍🫯‍🧑🏿	people wrestling light skin tone, dark skin tone	none
+🧑🏼‍🫯‍🧑🏻	people wrestling medium-light skin tone, light skin tone	none
+🧑🏼‍🫯‍🧑🏽	people wrestling medium-light skin tone, medium skin tone	none
+🧑🏼‍🫯‍🧑🏾	people wrestling medium-light skin tone, medium-dark skin tone	none
+🧑🏼‍🫯‍🧑🏿	people wrestling medium-light skin tone, dark skin tone	none
+🧑🏽‍🫯‍🧑🏻	people wrestling medium skin tone, light skin tone	none
+🧑🏽‍🫯‍🧑🏼	people wrestling medium skin tone, medium-light skin tone	none
+🧑🏽‍🫯‍🧑🏾	people wrestling medium skin tone, medium-dark skin tone	none
+🧑🏽‍🫯‍🧑🏿	people wrestling medium skin tone, dark skin tone	none
+🧑🏾‍🫯‍🧑🏻	people wrestling medium-dark skin tone, light skin tone	none
+🧑🏾‍🫯‍🧑🏼	people wrestling medium-dark skin tone, medium-light skin tone	none
+🧑🏾‍🫯‍🧑🏽	people wrestling medium-dark skin tone, medium skin tone	none
+🧑🏾‍🫯‍🧑🏿	people wrestling medium-dark skin tone, dark skin tone	none
+🧑🏿‍🫯‍🧑🏻	people wrestling dark skin tone, light skin tone	none
+🧑🏿‍🫯‍🧑🏼	people wrestling dark skin tone, medium-light skin tone	none
+🧑🏿‍🫯‍🧑🏽	people wrestling dark skin tone, medium skin tone	none
+🧑🏿‍🫯‍🧑🏾	people wrestling dark skin tone, medium-dark skin tone	none
 🧑‍🦰	person red hair	none
 🧑🏻‍🦰	person light skin tone, red hair	none
 🧑🏼‍🦰	person medium-light skin tone, red hair	none
@@ -2386,6 +2424,26 @@ $	dollar	none
 🧑🏽‍🦲	person medium skin tone, bald	none
 🧑🏾‍🦲	person medium-dark skin tone, bald	none
 🧑🏿‍🦲	person dark skin tone, bald	none
+🧑🏻‍🐰‍🧑🏼	people with bunny ears light skin tone, medium-light skin tone	none
+🧑🏻‍🐰‍🧑🏽	people with bunny ears light skin tone, medium skin tone	none
+🧑🏻‍🐰‍🧑🏾	people with bunny ears light skin tone, medium-dark skin tone	none
+🧑🏻‍🐰‍🧑🏿	people with bunny ears light skin tone, dark skin tone	none
+🧑🏼‍🐰‍🧑🏻	people with bunny ears medium-light skin tone, light skin tone	none
+🧑🏼‍🐰‍🧑🏽	people with bunny ears medium-light skin tone, medium skin tone	none
+🧑🏼‍🐰‍🧑🏾	people with bunny ears medium-light skin tone, medium-dark skin tone	none
+🧑🏼‍🐰‍🧑🏿	people with bunny ears medium-light skin tone, dark skin tone	none
+🧑🏽‍🐰‍🧑🏻	people with bunny ears medium skin tone, light skin tone	none
+🧑🏽‍🐰‍🧑🏼	people with bunny ears medium skin tone, medium-light skin tone	none
+🧑🏽‍🐰‍🧑🏾	people with bunny ears medium skin tone, medium-dark skin tone	none
+🧑🏽‍🐰‍🧑🏿	people with bunny ears medium skin tone, dark skin tone	none
+🧑🏾‍🐰‍🧑🏻	people with bunny ears medium-dark skin tone, light skin tone	none
+🧑🏾‍🐰‍🧑🏼	people with bunny ears medium-dark skin tone, medium-light skin tone	none
+🧑🏾‍🐰‍🧑🏽	people with bunny ears medium-dark skin tone, medium skin tone	none
+🧑🏾‍🐰‍🧑🏿	people with bunny ears medium-dark skin tone, dark skin tone	none
+🧑🏿‍🐰‍🧑🏻	people with bunny ears dark skin tone, light skin tone	none
+🧑🏿‍🐰‍🧑🏼	people with bunny ears dark skin tone, medium-light skin tone	none
+🧑🏿‍🐰‍🧑🏽	people with bunny ears dark skin tone, medium skin tone	none
+🧑🏿‍🐰‍🧑🏾	people with bunny ears dark skin tone, medium-dark skin tone	none
 👨🏻	man light skin tone	none
 👨🏼	man medium-light skin tone	none
 👨🏽	man medium skin tone	none
@@ -2456,6 +2514,26 @@ $	dollar	none
 👨🏿‍❤‍👨🏽	couple with heart man, man, dark skin tone, medium skin tone	none
 👨🏿‍❤‍👨🏾	couple with heart man, man, dark skin tone, medium-dark skin tone	none
 👨🏿‍❤‍👨🏿	couple with heart man, man, dark skin tone	none
+👨🏻‍🫯‍👨🏼	men wrestling light skin tone, medium-light skin tone	none
+👨🏻‍🫯‍👨🏽	men wrestling light skin tone, medium skin tone	none
+👨🏻‍🫯‍👨🏾	men wrestling light skin tone, medium-dark skin tone	none
+👨🏻‍🫯‍👨🏿	men wrestling light skin tone, dark skin tone	none
+👨🏼‍🫯‍👨🏻	men wrestling medium-light skin tone, light skin tone	none
+👨🏼‍🫯‍👨🏽	men wrestling medium-light skin tone, medium skin tone	none
+👨🏼‍🫯‍👨🏾	men wrestling medium-light skin tone, medium-dark skin tone	none
+👨🏼‍🫯‍👨🏿	men wrestling medium-light skin tone, dark skin tone	none
+👨🏽‍🫯‍👨🏻	men wrestling medium skin tone, light skin tone	none
+👨🏽‍🫯‍👨🏼	men wrestling medium skin tone, medium-light skin tone	none
+👨🏽‍🫯‍👨🏾	men wrestling medium skin tone, medium-dark skin tone	none
+👨🏽‍🫯‍👨🏿	men wrestling medium skin tone, dark skin tone	none
+👨🏾‍🫯‍👨🏻	men wrestling medium-dark skin tone, light skin tone	none
+👨🏾‍🫯‍👨🏼	men wrestling medium-dark skin tone, medium-light skin tone	none
+👨🏾‍🫯‍👨🏽	men wrestling medium-dark skin tone, medium skin tone	none
+👨🏾‍🫯‍👨🏿	men wrestling medium-dark skin tone, dark skin tone	none
+👨🏿‍🫯‍👨🏻	men wrestling dark skin tone, light skin tone	none
+👨🏿‍🫯‍👨🏼	men wrestling dark skin tone, medium-light skin tone	none
+👨🏿‍🫯‍👨🏽	men wrestling dark skin tone, medium skin tone	none
+👨🏿‍🫯‍👨🏾	men wrestling dark skin tone, medium-dark skin tone	none
 👨‍🦰	man red hair	none
 👨🏻‍🦰	man light skin tone, red hair	none
 👨🏼‍🦰	man medium-light skin tone, red hair	none
@@ -2480,6 +2558,26 @@ $	dollar	none
 👨🏽‍🦲	man medium skin tone, bald	none
 👨🏾‍🦲	man medium-dark skin tone, bald	none
 👨🏿‍🦲	man dark skin tone, bald	none
+👨🏻‍🐰‍👨🏼	men with bunny ears light skin tone, medium-light skin tone	none
+👨🏻‍🐰‍👨🏽	men with bunny ears light skin tone, medium skin tone	none
+👨🏻‍🐰‍👨🏾	men with bunny ears light skin tone, medium-dark skin tone	none
+👨🏻‍🐰‍👨🏿	men with bunny ears light skin tone, dark skin tone	none
+👨🏼‍🐰‍👨🏻	men with bunny ears medium-light skin tone, light skin tone	none
+👨🏼‍🐰‍👨🏽	men with bunny ears medium-light skin tone, medium skin tone	none
+👨🏼‍🐰‍👨🏾	men with bunny ears medium-light skin tone, medium-dark skin tone	none
+👨🏼‍🐰‍👨🏿	men with bunny ears medium-light skin tone, dark skin tone	none
+👨🏽‍🐰‍👨🏻	men with bunny ears medium skin tone, light skin tone	none
+👨🏽‍🐰‍👨🏼	men with bunny ears medium skin tone, medium-light skin tone	none
+👨🏽‍🐰‍👨🏾	men with bunny ears medium skin tone, medium-dark skin tone	none
+👨🏽‍🐰‍👨🏿	men with bunny ears medium skin tone, dark skin tone	none
+👨🏾‍🐰‍👨🏻	men with bunny ears medium-dark skin tone, light skin tone	none
+👨🏾‍🐰‍👨🏼	men with bunny ears medium-dark skin tone, medium-light skin tone	none
+👨🏾‍🐰‍👨🏽	men with bunny ears medium-dark skin tone, medium skin tone	none
+👨🏾‍🐰‍👨🏿	men with bunny ears medium-dark skin tone, dark skin tone	none
+👨🏿‍🐰‍👨🏻	men with bunny ears dark skin tone, light skin tone	none
+👨🏿‍🐰‍👨🏼	men with bunny ears dark skin tone, medium-light skin tone	none
+👨🏿‍🐰‍👨🏽	men with bunny ears dark skin tone, medium skin tone	none
+👨🏿‍🐰‍👨🏾	men with bunny ears dark skin tone, medium-dark skin tone	none
 👩🏻	woman light skin tone	none
 👩🏼	woman medium-light skin tone	none
 👩🏽	woman medium skin tone	none
@@ -2595,6 +2693,26 @@ $	dollar	none
 👩🏿‍❤‍👩🏽	couple with heart woman, woman, dark skin tone, medium skin tone	none
 👩🏿‍❤‍👩🏾	couple with heart woman, woman, dark skin tone, medium-dark skin tone	none
 👩🏿‍❤‍👩🏿	couple with heart woman, woman, dark skin tone	none
+👩🏻‍🫯‍👩🏼	women wrestling light skin tone, medium-light skin tone	none
+👩🏻‍🫯‍👩🏽	women wrestling light skin tone, medium skin tone	none
+👩🏻‍🫯‍👩🏾	women wrestling light skin tone, medium-dark skin tone	none
+👩🏻‍🫯‍👩🏿	women wrestling light skin tone, dark skin tone	none
+👩🏼‍🫯‍👩🏻	women wrestling medium-light skin tone, light skin tone	none
+👩🏼‍🫯‍👩🏽	women wrestling medium-light skin tone, medium skin tone	none
+👩🏼‍🫯‍👩🏾	women wrestling medium-light skin tone, medium-dark skin tone	none
+👩🏼‍🫯‍👩🏿	women wrestling medium-light skin tone, dark skin tone	none
+👩🏽‍🫯‍👩🏻	women wrestling medium skin tone, light skin tone	none
+👩🏽‍🫯‍👩🏼	women wrestling medium skin tone, medium-light skin tone	none
+👩🏽‍🫯‍👩🏾	women wrestling medium skin tone, medium-dark skin tone	none
+👩🏽‍🫯‍👩🏿	women wrestling medium skin tone, dark skin tone	none
+👩🏾‍🫯‍👩🏻	women wrestling medium-dark skin tone, light skin tone	none
+👩🏾‍🫯‍👩🏼	women wrestling medium-dark skin tone, medium-light skin tone	none
+👩🏾‍🫯‍👩🏽	women wrestling medium-dark skin tone, medium skin tone	none
+👩🏾‍🫯‍👩🏿	women wrestling medium-dark skin tone, dark skin tone	none
+👩🏿‍🫯‍👩🏻	women wrestling dark skin tone, light skin tone	none
+👩🏿‍🫯‍👩🏼	women wrestling dark skin tone, medium-light skin tone	none
+👩🏿‍🫯‍👩🏽	women wrestling dark skin tone, medium skin tone	none
+👩🏿‍🫯‍👩🏾	women wrestling dark skin tone, medium-dark skin tone	none
 👩‍🦰	woman red hair	none
 👩🏻‍🦰	woman light skin tone, red hair	none
 👩🏼‍🦰	woman medium-light skin tone, red hair	none
@@ -2619,6 +2737,26 @@ $	dollar	none
 👩🏽‍🦲	woman medium skin tone, bald	none
 👩🏾‍🦲	woman medium-dark skin tone, bald	none
 👩🏿‍🦲	woman dark skin tone, bald	none
+👩🏻‍🐰‍👩🏼	women with bunny ears light skin tone, medium-light skin tone	none
+👩🏻‍🐰‍👩🏽	women with bunny ears light skin tone, medium skin tone	none
+👩🏻‍🐰‍👩🏾	women with bunny ears light skin tone, medium-dark skin tone	none
+👩🏻‍🐰‍👩🏿	women with bunny ears light skin tone, dark skin tone	none
+👩🏼‍🐰‍👩🏻	women with bunny ears medium-light skin tone, light skin tone	none
+👩🏼‍🐰‍👩🏽	women with bunny ears medium-light skin tone, medium skin tone	none
+👩🏼‍🐰‍👩🏾	women with bunny ears medium-light skin tone, medium-dark skin tone	none
+👩🏼‍🐰‍👩🏿	women with bunny ears medium-light skin tone, dark skin tone	none
+👩🏽‍🐰‍👩🏻	women with bunny ears medium skin tone, light skin tone	none
+👩🏽‍🐰‍👩🏼	women with bunny ears medium skin tone, medium-light skin tone	none
+👩🏽‍🐰‍👩🏾	women with bunny ears medium skin tone, medium-dark skin tone	none
+👩🏽‍🐰‍👩🏿	women with bunny ears medium skin tone, dark skin tone	none
+👩🏾‍🐰‍👩🏻	women with bunny ears medium-dark skin tone, light skin tone	none
+👩🏾‍🐰‍👩🏼	women with bunny ears medium-dark skin tone, medium-light skin tone	none
+👩🏾‍🐰‍👩🏽	women with bunny ears medium-dark skin tone, medium skin tone	none
+👩🏾‍🐰‍👩🏿	women with bunny ears medium-dark skin tone, dark skin tone	none
+👩🏿‍🐰‍👩🏻	women with bunny ears dark skin tone, light skin tone	none
+👩🏿‍🐰‍👩🏼	women with bunny ears dark skin tone, medium-light skin tone	none
+👩🏿‍🐰‍👩🏽	women with bunny ears dark skin tone, medium skin tone	none
+👩🏿‍🐰‍👩🏾	women with bunny ears dark skin tone, medium-dark skin tone	none
 🧓🏻	older person light skin tone	none
 🧓🏼	older person medium-light skin tone	none
 🧓🏽	older person medium skin tone	none
@@ -3491,6 +3629,11 @@ $	dollar	none
 🏃🏽‍♂‍➡	man running medium skin tone, facing right	none
 🏃🏾‍♂‍➡	man running medium-dark skin tone, facing right	none
 🏃🏿‍♂‍➡	man running dark skin tone, facing right	none
+🧑🏻‍🩰	ballet dancer light skin tone	none
+🧑🏼‍🩰	ballet dancer medium-light skin tone	none
+🧑🏽‍🩰	ballet dancer medium skin tone	none
+🧑🏾‍🩰	ballet dancer medium-dark skin tone	none
+🧑🏿‍🩰	ballet dancer dark skin tone	none
 💃🏻	woman dancing light skin tone	none
 💃🏼	woman dancing medium-light skin tone	none
 💃🏽	woman dancing medium skin tone	none
@@ -3506,6 +3649,21 @@ $	dollar	none
 🕴🏽	person in suit levitating medium skin tone	none
 🕴🏾	person in suit levitating medium-dark skin tone	none
 🕴🏿	person in suit levitating dark skin tone	none
+👯🏻	people with bunny ears light skin tone	none
+👯🏼	people with bunny ears medium-light skin tone	none
+👯🏽	people with bunny ears medium skin tone	none
+👯🏾	people with bunny ears medium-dark skin tone	none
+👯🏿	people with bunny ears dark skin tone	none
+👯🏻‍♂	men with bunny ears light skin tone	none
+👯🏼‍♂	men with bunny ears medium-light skin tone	none
+👯🏽‍♂	men with bunny ears medium skin tone	none
+👯🏾‍♂	men with bunny ears medium-dark skin tone	none
+👯🏿‍♂	men with bunny ears dark skin tone	none
+👯🏻‍♀	women with bunny ears light skin tone	none
+👯🏼‍♀	women with bunny ears medium-light skin tone	none
+👯🏽‍♀	women with bunny ears medium skin tone	none
+👯🏾‍♀	women with bunny ears medium-dark skin tone	none
+👯🏿‍♀	women with bunny ears dark skin tone	none
 🧖🏻	person in steamy room light skin tone	none
 🧖🏼	person in steamy room medium-light skin tone	none
 🧖🏽	person in steamy room medium skin tone	none
@@ -3681,6 +3839,21 @@ $	dollar	none
 🤸🏽‍♀	woman cartwheeling medium skin tone	none
 🤸🏾‍♀	woman cartwheeling medium-dark skin tone	none
 🤸🏿‍♀	woman cartwheeling dark skin tone	none
+🤼🏻	people wrestling light skin tone	none
+🤼🏼	people wrestling medium-light skin tone	none
+🤼🏽	people wrestling medium skin tone	none
+🤼🏾	people wrestling medium-dark skin tone	none
+🤼🏿	people wrestling dark skin tone	none
+🤼🏻‍♂	men wrestling light skin tone	none
+🤼🏼‍♂	men wrestling medium-light skin tone	none
+🤼🏽‍♂	men wrestling medium skin tone	none
+🤼🏾‍♂	men wrestling medium-dark skin tone	none
+🤼🏿‍♂	men wrestling dark skin tone	none
+🤼🏻‍♀	women wrestling light skin tone	none
+🤼🏼‍♀	women wrestling medium-light skin tone	none
+🤼🏽‍♀	women wrestling medium skin tone	none
+🤼🏾‍♀	women wrestling medium-dark skin tone	none
+🤼🏿‍♀	women wrestling dark skin tone	none
 🤽🏻	person playing water polo light skin tone	none
 🤽🏼	person playing water polo medium-light skin tone	none
 🤽🏽	person playing water polo medium skin tone	none
@@ -4167,14 +4340,4 @@ $	dollar	none
 ₺	Turkish Lira	none
 ₼	Azerbaijani Manat	none
 ₾	Georgian Lari	none
-0⃣	keycap 0	none
-1⃣	keycap 1	none
-2⃣	keycap 2	none
-3⃣	keycap 3	none
-4⃣	keycap 4	none
-5⃣	keycap 5	none
-6⃣	keycap 6	none
-7⃣	keycap 7	none
-8⃣	keycap 8	none
-9⃣	keycap 9	none
 ₧	Spanish Peseta	none

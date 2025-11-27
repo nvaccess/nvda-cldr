@@ -433,6 +433,7 @@ _	underscore	-
 😯	față amuțită	-
 😲	față uimită	-
 😳	față îmbujorată	-
+🫪	față distorsionată	-
 🥺	față rugătoare	-
 🥹	față cu lacrimi în ochi	-
 😦	față tristă cu gura deschisă	-
@@ -506,6 +507,7 @@ _	underscore	-
 💋	urme de buze	-
 💯	o sută de puncte	-
 💢	simbol mânie	-
+🫯	nor de bătaie	-
 💥	coliziune	-
 💫	amețit	-
 💦	picături de transpirație	-
@@ -738,6 +740,7 @@ _	underscore	-
 🧟‍♂	bărbat zombi	-
 🧟‍♀	femeie zombi	-
 🧌	trol	-
+🫈	creatură păroasă	-
 💆	persoană care primește un masaj facial	-
 💆‍♂	bărbat care primește un masaj facial	-
 💆‍♀	femeie care primește un masaj facial	-
@@ -765,6 +768,7 @@ _	underscore	-
 🏃	persoană care aleargă	-
 🏃‍♂	bărbat care aleargă	-
 🏃‍♀	femeie care aleargă	-
+🧑‍🩰	balerin sau balerină	-
 💃	dansatoare	-
 🕺	dansator	-
 🕴	persoană în costum, levitând	-
@@ -946,6 +950,7 @@ _	underscore	-
 🐳	balenă împroșcând apă	-
 🐋	balenă	-
 🐬	delfin	-
+🫍	orca	-
 🦭	focă	-
 🐟	pește	-
 🐠	pește tropical	-
@@ -1145,6 +1150,7 @@ _	underscore	-
 🧭	busolă	-
 🏔	vârf de munte înzăpezit	-
 ⛰	munte	-
+🛘	alunecare de teren	-
 🌋	vulcan	-
 🗻	muntele Fuji	-
 🏕	camping	-
@@ -1505,10 +1511,11 @@ _	underscore	-
 🎧	cască audio	-
 📻	radio	-
 🎷	saxofon	-
+🎺	trompetă	-
+🪊	trombon	-
 🪗	acordeon	-
 🎸	chitară	-
 🎹	claviatură muzicală	-
-🎺	trompetă	-
 🎻	vioară	-
 🪕	banjo	-
 🥁	tobă	-
@@ -1569,8 +1576,9 @@ _	underscore	-
 📑	marcatoare de pagini	-
 🔖	semn de carte	-
 🏷	etichetă	-
-💰	sac cu bani	-
 🪙	monedă	-
+💰	sac cu bani	-
+🪎	cufăr de comori	-
 💴	bancnotă yen	-
 💵	bancnotă dolar	-
 💶	bancnotă euro	-
@@ -1941,6 +1949,16 @@ $	dolar	-
 ₹	rupie indiană	-
 ₽	rublă	-
 ₿	bitcoin	-
+0⃣	tastă 0	-
+1⃣	tastă 1	-
+2⃣	tastă 2	-
+3⃣	tastă 3	-
+4⃣	tastă 4	-
+5⃣	tastă 5	-
+6⃣	tastă 6	-
+7⃣	tastă 7	-
+8⃣	tastă 8	-
+9⃣	tastă 9	-
 ¹	exponent unu	-
 ²	exponent doi	-
 ³	exponent trei	-
@@ -2282,6 +2300,26 @@ $	dolar	-
 🧑🏿‍❤‍🧑🏼	cuplu cu inimă adult, adult, ton închis al pielii, ton semi‑deschis al pielii	-
 🧑🏿‍❤‍🧑🏽	cuplu cu inimă adult, adult, ton închis al pielii, ton mediu al pielii	-
 🧑🏿‍❤‍🧑🏾	cuplu cu inimă adult, adult, ton închis al pielii, ton semi‑închis al pielii	-
+🧑🏻‍🫯‍🧑🏼	persoane care practică wrestling ton deschis al pielii, ton semi‑deschis al pielii	-
+🧑🏻‍🫯‍🧑🏽	persoane care practică wrestling ton deschis al pielii, ton mediu al pielii	-
+🧑🏻‍🫯‍🧑🏾	persoane care practică wrestling ton deschis al pielii, ton semi‑închis al pielii	-
+🧑🏻‍🫯‍🧑🏿	persoane care practică wrestling ton deschis al pielii, ton închis al pielii	-
+🧑🏼‍🫯‍🧑🏻	persoane care practică wrestling ton semi‑deschis al pielii, ton deschis al pielii	-
+🧑🏼‍🫯‍🧑🏽	persoane care practică wrestling ton semi‑deschis al pielii, ton mediu al pielii	-
+🧑🏼‍🫯‍🧑🏾	persoane care practică wrestling ton semi‑deschis al pielii, ton semi‑închis al pielii	-
+🧑🏼‍🫯‍🧑🏿	persoane care practică wrestling ton semi‑deschis al pielii, ton închis al pielii	-
+🧑🏽‍🫯‍🧑🏻	persoane care practică wrestling ton mediu al pielii, ton deschis al pielii	-
+🧑🏽‍🫯‍🧑🏼	persoane care practică wrestling ton mediu al pielii, ton semi‑deschis al pielii	-
+🧑🏽‍🫯‍🧑🏾	persoane care practică wrestling ton mediu al pielii, ton semi‑închis al pielii	-
+🧑🏽‍🫯‍🧑🏿	persoane care practică wrestling ton mediu al pielii, ton închis al pielii	-
+🧑🏾‍🫯‍🧑🏻	persoane care practică wrestling ton semi‑închis al pielii, ton deschis al pielii	-
+🧑🏾‍🫯‍🧑🏼	persoane care practică wrestling ton semi‑închis al pielii, ton semi‑deschis al pielii	-
+🧑🏾‍🫯‍🧑🏽	persoane care practică wrestling ton semi‑închis al pielii, ton mediu al pielii	-
+🧑🏾‍🫯‍🧑🏿	persoane care practică wrestling ton semi‑închis al pielii, ton închis al pielii	-
+🧑🏿‍🫯‍🧑🏻	persoane care practică wrestling ton închis al pielii, ton deschis al pielii	-
+🧑🏿‍🫯‍🧑🏼	persoane care practică wrestling ton închis al pielii, ton semi‑deschis al pielii	-
+🧑🏿‍🫯‍🧑🏽	persoane care practică wrestling ton închis al pielii, ton mediu al pielii	-
+🧑🏿‍🫯‍🧑🏾	persoane care practică wrestling ton închis al pielii, ton semi‑închis al pielii	-
 🧑‍🦰	adult păr roșcat	-
 🧑🏻‍🦰	adult ton deschis al pielii, păr roșcat	-
 🧑🏼‍🦰	adult ton semi‑deschis al pielii, păr roșcat	-
@@ -2306,6 +2344,26 @@ $	dolar	-
 🧑🏽‍🦲	adult ton mediu al pielii, chelie	-
 🧑🏾‍🦲	adult ton semi‑închis al pielii, chelie	-
 🧑🏿‍🦲	adult ton închis al pielii, chelie	-
+🧑🏻‍🐰‍🧑🏼	persoane care poartă urechi de iepuraș ton deschis al pielii, ton semi‑deschis al pielii	-
+🧑🏻‍🐰‍🧑🏽	persoane care poartă urechi de iepuraș ton deschis al pielii, ton mediu al pielii	-
+🧑🏻‍🐰‍🧑🏾	persoane care poartă urechi de iepuraș ton deschis al pielii, ton semi‑închis al pielii	-
+🧑🏻‍🐰‍🧑🏿	persoane care poartă urechi de iepuraș ton deschis al pielii, ton închis al pielii	-
+🧑🏼‍🐰‍🧑🏻	persoane care poartă urechi de iepuraș ton semi‑deschis al pielii, ton deschis al pielii	-
+🧑🏼‍🐰‍🧑🏽	persoane care poartă urechi de iepuraș ton semi‑deschis al pielii, ton mediu al pielii	-
+🧑🏼‍🐰‍🧑🏾	persoane care poartă urechi de iepuraș ton semi‑deschis al pielii, ton semi‑închis al pielii	-
+🧑🏼‍🐰‍🧑🏿	persoane care poartă urechi de iepuraș ton semi‑deschis al pielii, ton închis al pielii	-
+🧑🏽‍🐰‍🧑🏻	persoane care poartă urechi de iepuraș ton mediu al pielii, ton deschis al pielii	-
+🧑🏽‍🐰‍🧑🏼	persoane care poartă urechi de iepuraș ton mediu al pielii, ton semi‑deschis al pielii	-
+🧑🏽‍🐰‍🧑🏾	persoane care poartă urechi de iepuraș ton mediu al pielii, ton semi‑închis al pielii	-
+🧑🏽‍🐰‍🧑🏿	persoane care poartă urechi de iepuraș ton mediu al pielii, ton închis al pielii	-
+🧑🏾‍🐰‍🧑🏻	persoane care poartă urechi de iepuraș ton semi‑închis al pielii, ton deschis al pielii	-
+🧑🏾‍🐰‍🧑🏼	persoane care poartă urechi de iepuraș ton semi‑închis al pielii, ton semi‑deschis al pielii	-
+🧑🏾‍🐰‍🧑🏽	persoane care poartă urechi de iepuraș ton semi‑închis al pielii, ton mediu al pielii	-
+🧑🏾‍🐰‍🧑🏿	persoane care poartă urechi de iepuraș ton semi‑închis al pielii, ton închis al pielii	-
+🧑🏿‍🐰‍🧑🏻	persoane care poartă urechi de iepuraș ton închis al pielii, ton deschis al pielii	-
+🧑🏿‍🐰‍🧑🏼	persoane care poartă urechi de iepuraș ton închis al pielii, ton semi‑deschis al pielii	-
+🧑🏿‍🐰‍🧑🏽	persoane care poartă urechi de iepuraș ton închis al pielii, ton mediu al pielii	-
+🧑🏿‍🐰‍🧑🏾	persoane care poartă urechi de iepuraș ton închis al pielii, ton semi‑închis al pielii	-
 👨🏻	bărbat ton deschis al pielii	-
 👨🏼	bărbat ton semi‑deschis al pielii	-
 👨🏽	bărbat ton mediu al pielii	-
@@ -2376,6 +2434,26 @@ $	dolar	-
 👨🏿‍❤‍👨🏽	cuplu cu inimă bărbat, bărbat, ton închis al pielii, ton mediu al pielii	-
 👨🏿‍❤‍👨🏾	cuplu cu inimă bărbat, bărbat, ton închis al pielii, ton semi‑închis al pielii	-
 👨🏿‍❤‍👨🏿	cuplu cu inimă bărbat, bărbat, ton închis al pielii	-
+👨🏻‍🫯‍👨🏼	bărbat care practică wrestling ton deschis al pielii, ton semi‑deschis al pielii	-
+👨🏻‍🫯‍👨🏽	bărbat care practică wrestling ton deschis al pielii, ton mediu al pielii	-
+👨🏻‍🫯‍👨🏾	bărbat care practică wrestling ton deschis al pielii, ton semi‑închis al pielii	-
+👨🏻‍🫯‍👨🏿	bărbat care practică wrestling ton deschis al pielii, ton închis al pielii	-
+👨🏼‍🫯‍👨🏻	bărbat care practică wrestling ton semi‑deschis al pielii, ton deschis al pielii	-
+👨🏼‍🫯‍👨🏽	bărbat care practică wrestling ton semi‑deschis al pielii, ton mediu al pielii	-
+👨🏼‍🫯‍👨🏾	bărbat care practică wrestling ton semi‑deschis al pielii, ton semi‑închis al pielii	-
+👨🏼‍🫯‍👨🏿	bărbat care practică wrestling ton semi‑deschis al pielii, ton închis al pielii	-
+👨🏽‍🫯‍👨🏻	bărbat care practică wrestling ton mediu al pielii, ton deschis al pielii	-
+👨🏽‍🫯‍👨🏼	bărbat care practică wrestling ton mediu al pielii, ton semi‑deschis al pielii	-
+👨🏽‍🫯‍👨🏾	bărbat care practică wrestling ton mediu al pielii, ton semi‑închis al pielii	-
+👨🏽‍🫯‍👨🏿	bărbat care practică wrestling ton mediu al pielii, ton închis al pielii	-
+👨🏾‍🫯‍👨🏻	bărbat care practică wrestling ton semi‑închis al pielii, ton deschis al pielii	-
+👨🏾‍🫯‍👨🏼	bărbat care practică wrestling ton semi‑închis al pielii, ton semi‑deschis al pielii	-
+👨🏾‍🫯‍👨🏽	bărbat care practică wrestling ton semi‑închis al pielii, ton mediu al pielii	-
+👨🏾‍🫯‍👨🏿	bărbat care practică wrestling ton semi‑închis al pielii, ton închis al pielii	-
+👨🏿‍🫯‍👨🏻	bărbat care practică wrestling ton închis al pielii, ton deschis al pielii	-
+👨🏿‍🫯‍👨🏼	bărbat care practică wrestling ton închis al pielii, ton semi‑deschis al pielii	-
+👨🏿‍🫯‍👨🏽	bărbat care practică wrestling ton închis al pielii, ton mediu al pielii	-
+👨🏿‍🫯‍👨🏾	bărbat care practică wrestling ton închis al pielii, ton semi‑închis al pielii	-
 👨‍🦰	bărbat păr roșcat	-
 👨🏻‍🦰	bărbat ton deschis al pielii, păr roșcat	-
 👨🏼‍🦰	bărbat ton semi‑deschis al pielii, păr roșcat	-
@@ -2400,6 +2478,26 @@ $	dolar	-
 👨🏽‍🦲	bărbat ton mediu al pielii, chelie	-
 👨🏾‍🦲	bărbat ton semi‑închis al pielii, chelie	-
 👨🏿‍🦲	bărbat ton închis al pielii, chelie	-
+👨🏻‍🐰‍👨🏼	bărbați care poartă urechi de iepuraș ton deschis al pielii, ton semi‑deschis al pielii	-
+👨🏻‍🐰‍👨🏽	bărbați care poartă urechi de iepuraș ton deschis al pielii, ton mediu al pielii	-
+👨🏻‍🐰‍👨🏾	bărbați care poartă urechi de iepuraș ton deschis al pielii, ton semi‑închis al pielii	-
+👨🏻‍🐰‍👨🏿	bărbați care poartă urechi de iepuraș ton deschis al pielii, ton închis al pielii	-
+👨🏼‍🐰‍👨🏻	bărbați care poartă urechi de iepuraș ton semi‑deschis al pielii, ton deschis al pielii	-
+👨🏼‍🐰‍👨🏽	bărbați care poartă urechi de iepuraș ton semi‑deschis al pielii, ton mediu al pielii	-
+👨🏼‍🐰‍👨🏾	bărbați care poartă urechi de iepuraș ton semi‑deschis al pielii, ton semi‑închis al pielii	-
+👨🏼‍🐰‍👨🏿	bărbați care poartă urechi de iepuraș ton semi‑deschis al pielii, ton închis al pielii	-
+👨🏽‍🐰‍👨🏻	bărbați care poartă urechi de iepuraș ton mediu al pielii, ton deschis al pielii	-
+👨🏽‍🐰‍👨🏼	bărbați care poartă urechi de iepuraș ton mediu al pielii, ton semi‑deschis al pielii	-
+👨🏽‍🐰‍👨🏾	bărbați care poartă urechi de iepuraș ton mediu al pielii, ton semi‑închis al pielii	-
+👨🏽‍🐰‍👨🏿	bărbați care poartă urechi de iepuraș ton mediu al pielii, ton închis al pielii	-
+👨🏾‍🐰‍👨🏻	bărbați care poartă urechi de iepuraș ton semi‑închis al pielii, ton deschis al pielii	-
+👨🏾‍🐰‍👨🏼	bărbați care poartă urechi de iepuraș ton semi‑închis al pielii, ton semi‑deschis al pielii	-
+👨🏾‍🐰‍👨🏽	bărbați care poartă urechi de iepuraș ton semi‑închis al pielii, ton mediu al pielii	-
+👨🏾‍🐰‍👨🏿	bărbați care poartă urechi de iepuraș ton semi‑închis al pielii, ton închis al pielii	-
+👨🏿‍🐰‍👨🏻	bărbați care poartă urechi de iepuraș ton închis al pielii, ton deschis al pielii	-
+👨🏿‍🐰‍👨🏼	bărbați care poartă urechi de iepuraș ton închis al pielii, ton semi‑deschis al pielii	-
+👨🏿‍🐰‍👨🏽	bărbați care poartă urechi de iepuraș ton închis al pielii, ton mediu al pielii	-
+👨🏿‍🐰‍👨🏾	bărbați care poartă urechi de iepuraș ton închis al pielii, ton semi‑închis al pielii	-
 👩🏻	femeie ton deschis al pielii	-
 👩🏼	femeie ton semi‑deschis al pielii	-
 👩🏽	femeie ton mediu al pielii	-
@@ -2515,6 +2613,26 @@ $	dolar	-
 👩🏿‍❤‍👩🏽	cuplu cu inimă femeie, femeie, ton închis al pielii, ton mediu al pielii	-
 👩🏿‍❤‍👩🏾	cuplu cu inimă femeie, femeie, ton închis al pielii, ton semi‑închis al pielii	-
 👩🏿‍❤‍👩🏿	cuplu cu inimă femeie, femeie, ton închis al pielii	-
+👩🏻‍🫯‍👩🏼	femeie care practică wrestling ton deschis al pielii, ton semi‑deschis al pielii	-
+👩🏻‍🫯‍👩🏽	femeie care practică wrestling ton deschis al pielii, ton mediu al pielii	-
+👩🏻‍🫯‍👩🏾	femeie care practică wrestling ton deschis al pielii, ton semi‑închis al pielii	-
+👩🏻‍🫯‍👩🏿	femeie care practică wrestling ton deschis al pielii, ton închis al pielii	-
+👩🏼‍🫯‍👩🏻	femeie care practică wrestling ton semi‑deschis al pielii, ton deschis al pielii	-
+👩🏼‍🫯‍👩🏽	femeie care practică wrestling ton semi‑deschis al pielii, ton mediu al pielii	-
+👩🏼‍🫯‍👩🏾	femeie care practică wrestling ton semi‑deschis al pielii, ton semi‑închis al pielii	-
+👩🏼‍🫯‍👩🏿	femeie care practică wrestling ton semi‑deschis al pielii, ton închis al pielii	-
+👩🏽‍🫯‍👩🏻	femeie care practică wrestling ton mediu al pielii, ton deschis al pielii	-
+👩🏽‍🫯‍👩🏼	femeie care practică wrestling ton mediu al pielii, ton semi‑deschis al pielii	-
+👩🏽‍🫯‍👩🏾	femeie care practică wrestling ton mediu al pielii, ton semi‑închis al pielii	-
+👩🏽‍🫯‍👩🏿	femeie care practică wrestling ton mediu al pielii, ton închis al pielii	-
+👩🏾‍🫯‍👩🏻	femeie care practică wrestling ton semi‑închis al pielii, ton deschis al pielii	-
+👩🏾‍🫯‍👩🏼	femeie care practică wrestling ton semi‑închis al pielii, ton semi‑deschis al pielii	-
+👩🏾‍🫯‍👩🏽	femeie care practică wrestling ton semi‑închis al pielii, ton mediu al pielii	-
+👩🏾‍🫯‍👩🏿	femeie care practică wrestling ton semi‑închis al pielii, ton închis al pielii	-
+👩🏿‍🫯‍👩🏻	femeie care practică wrestling ton închis al pielii, ton deschis al pielii	-
+👩🏿‍🫯‍👩🏼	femeie care practică wrestling ton închis al pielii, ton semi‑deschis al pielii	-
+👩🏿‍🫯‍👩🏽	femeie care practică wrestling ton închis al pielii, ton mediu al pielii	-
+👩🏿‍🫯‍👩🏾	femeie care practică wrestling ton închis al pielii, ton semi‑închis al pielii	-
 👩‍🦰	femeie păr roșcat	-
 👩🏻‍🦰	femeie ton deschis al pielii, păr roșcat	-
 👩🏼‍🦰	femeie ton semi‑deschis al pielii, păr roșcat	-
@@ -2539,6 +2657,26 @@ $	dolar	-
 👩🏽‍🦲	femeie ton mediu al pielii, chelie	-
 👩🏾‍🦲	femeie ton semi‑închis al pielii, chelie	-
 👩🏿‍🦲	femeie ton închis al pielii, chelie	-
+👩🏻‍🐰‍👩🏼	femei care poartă urechi de iepuraș ton deschis al pielii, ton semi‑deschis al pielii	-
+👩🏻‍🐰‍👩🏽	femei care poartă urechi de iepuraș ton deschis al pielii, ton mediu al pielii	-
+👩🏻‍🐰‍👩🏾	femei care poartă urechi de iepuraș ton deschis al pielii, ton semi‑închis al pielii	-
+👩🏻‍🐰‍👩🏿	femei care poartă urechi de iepuraș ton deschis al pielii, ton închis al pielii	-
+👩🏼‍🐰‍👩🏻	femei care poartă urechi de iepuraș ton semi‑deschis al pielii, ton deschis al pielii	-
+👩🏼‍🐰‍👩🏽	femei care poartă urechi de iepuraș ton semi‑deschis al pielii, ton mediu al pielii	-
+👩🏼‍🐰‍👩🏾	femei care poartă urechi de iepuraș ton semi‑deschis al pielii, ton semi‑închis al pielii	-
+👩🏼‍🐰‍👩🏿	femei care poartă urechi de iepuraș ton semi‑deschis al pielii, ton închis al pielii	-
+👩🏽‍🐰‍👩🏻	femei care poartă urechi de iepuraș ton mediu al pielii, ton deschis al pielii	-
+👩🏽‍🐰‍👩🏼	femei care poartă urechi de iepuraș ton mediu al pielii, ton semi‑deschis al pielii	-
+👩🏽‍🐰‍👩🏾	femei care poartă urechi de iepuraș ton mediu al pielii, ton semi‑închis al pielii	-
+👩🏽‍🐰‍👩🏿	femei care poartă urechi de iepuraș ton mediu al pielii, ton închis al pielii	-
+👩🏾‍🐰‍👩🏻	femei care poartă urechi de iepuraș ton semi‑închis al pielii, ton deschis al pielii	-
+👩🏾‍🐰‍👩🏼	femei care poartă urechi de iepuraș ton semi‑închis al pielii, ton semi‑deschis al pielii	-
+👩🏾‍🐰‍👩🏽	femei care poartă urechi de iepuraș ton semi‑închis al pielii, ton mediu al pielii	-
+👩🏾‍🐰‍👩🏿	femei care poartă urechi de iepuraș ton semi‑închis al pielii, ton închis al pielii	-
+👩🏿‍🐰‍👩🏻	femei care poartă urechi de iepuraș ton închis al pielii, ton deschis al pielii	-
+👩🏿‍🐰‍👩🏼	femei care poartă urechi de iepuraș ton închis al pielii, ton semi‑deschis al pielii	-
+👩🏿‍🐰‍👩🏽	femei care poartă urechi de iepuraș ton închis al pielii, ton mediu al pielii	-
+👩🏿‍🐰‍👩🏾	femei care poartă urechi de iepuraș ton închis al pielii, ton semi‑închis al pielii	-
 🧓🏻	persoană în vârstă ton deschis al pielii	-
 🧓🏼	persoană în vârstă ton semi‑deschis al pielii	-
 🧓🏽	persoană în vârstă ton mediu al pielii	-
@@ -3482,6 +3620,11 @@ $	dolar	-
 🏃🏽‍♂‍➡	bărbat care aleargă ton mediu al pielii, orientate spre dreapta	-
 🏃🏾‍♂‍➡	bărbat care aleargă ton semi‑închis al pielii, orientate spre dreapta	-
 🏃🏿‍♂‍➡	bărbat care aleargă ton închis al pielii, orientate spre dreapta	-
+🧑🏻‍🩰	balerin sau balerină ton deschis al pielii	-
+🧑🏼‍🩰	balerin sau balerină ton semi‑deschis al pielii	-
+🧑🏽‍🩰	balerin sau balerină ton mediu al pielii	-
+🧑🏾‍🩰	balerin sau balerină ton semi‑închis al pielii	-
+🧑🏿‍🩰	balerin sau balerină ton închis al pielii	-
 💃🏻	dansatoare ton deschis al pielii	-
 💃🏼	dansatoare ton semi‑deschis al pielii	-
 💃🏽	dansatoare ton mediu al pielii	-
@@ -3497,6 +3640,21 @@ $	dolar	-
 🕴🏽	persoană în costum, levitând ton mediu al pielii	-
 🕴🏾	persoană în costum, levitând ton semi‑închis al pielii	-
 🕴🏿	persoană în costum, levitând ton închis al pielii	-
+👯🏻	persoane care poartă urechi de iepuraș ton deschis al pielii	-
+👯🏼	persoane care poartă urechi de iepuraș ton semi‑deschis al pielii	-
+👯🏽	persoane care poartă urechi de iepuraș ton mediu al pielii	-
+👯🏾	persoane care poartă urechi de iepuraș ton semi‑închis al pielii	-
+👯🏿	persoane care poartă urechi de iepuraș ton închis al pielii	-
+👯🏻‍♂	bărbați care poartă urechi de iepuraș ton deschis al pielii	-
+👯🏼‍♂	bărbați care poartă urechi de iepuraș ton semi‑deschis al pielii	-
+👯🏽‍♂	bărbați care poartă urechi de iepuraș ton mediu al pielii	-
+👯🏾‍♂	bărbați care poartă urechi de iepuraș ton semi‑închis al pielii	-
+👯🏿‍♂	bărbați care poartă urechi de iepuraș ton închis al pielii	-
+👯🏻‍♀	femei care poartă urechi de iepuraș ton deschis al pielii	-
+👯🏼‍♀	femei care poartă urechi de iepuraș ton semi‑deschis al pielii	-
+👯🏽‍♀	femei care poartă urechi de iepuraș ton mediu al pielii	-
+👯🏾‍♀	femei care poartă urechi de iepuraș ton semi‑închis al pielii	-
+👯🏿‍♀	femei care poartă urechi de iepuraș ton închis al pielii	-
 🧖🏻	persoană în saună ton deschis al pielii	-
 🧖🏼	persoană în saună ton semi‑deschis al pielii	-
 🧖🏽	persoană în saună ton mediu al pielii	-
@@ -3672,6 +3830,21 @@ $	dolar	-
 🤸🏽‍♀	femeie care face roata ton mediu al pielii	-
 🤸🏾‍♀	femeie care face roata ton semi‑închis al pielii	-
 🤸🏿‍♀	femeie care face roata ton închis al pielii	-
+🤼🏻	persoane care practică wrestling ton deschis al pielii	-
+🤼🏼	persoane care practică wrestling ton semi‑deschis al pielii	-
+🤼🏽	persoane care practică wrestling ton mediu al pielii	-
+🤼🏾	persoane care practică wrestling ton semi‑închis al pielii	-
+🤼🏿	persoane care practică wrestling ton închis al pielii	-
+🤼🏻‍♂	bărbat care practică wrestling ton deschis al pielii	-
+🤼🏼‍♂	bărbat care practică wrestling ton semi‑deschis al pielii	-
+🤼🏽‍♂	bărbat care practică wrestling ton mediu al pielii	-
+🤼🏾‍♂	bărbat care practică wrestling ton semi‑închis al pielii	-
+🤼🏿‍♂	bărbat care practică wrestling ton închis al pielii	-
+🤼🏻‍♀	femeie care practică wrestling ton deschis al pielii	-
+🤼🏼‍♀	femeie care practică wrestling ton semi‑deschis al pielii	-
+🤼🏽‍♀	femeie care practică wrestling ton mediu al pielii	-
+🤼🏾‍♀	femeie care practică wrestling ton semi‑închis al pielii	-
+🤼🏿‍♀	femeie care practică wrestling ton închis al pielii	-
 🤽🏻	persoană care joacă polo pe apă ton deschis al pielii	-
 🤽🏼	persoană care joacă polo pe apă ton semi‑deschis al pielii	-
 🤽🏽	persoană care joacă polo pe apă ton mediu al pielii	-
@@ -3937,6 +4110,7 @@ $	dolar	-
 🇨🇳	steag China	-
 🇨🇴	steag Columbia	-
 🇨🇵	steag Insula Clipperton	-
+🇨🇶	steag Sark	-
 🇨🇷	steag Costa Rica	-
 🇨🇺	steag Cuba	-
 🇨🇻	steag Capul Verde	-
@@ -4166,14 +4340,4 @@ $	dolar	-
 ₺	liră turcească	-
 ₼	manat azer	-
 ₾	lari georgian	-
-0⃣	tastă 0	-
-1⃣	tastă 1	-
-2⃣	tastă 2	-
-3⃣	tastă 3	-
-4⃣	tastă 4	-
-5⃣	tastă 5	-
-6⃣	tastă 6	-
-7⃣	tastă 7	-
-8⃣	tastă 8	-
-9⃣	tastă 9	-
 ₧	pesetă spaniolă	-

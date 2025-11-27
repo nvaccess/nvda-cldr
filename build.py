@@ -98,6 +98,7 @@ def getNvdaToCldrLocales() -> Dict[NvdaLocaleT, Tuple[CldrLocaleT]]:
 		"ko": ("ko",),
 		"kok": ("kok",),
 		"ky": ("ky",),
+		"lb": ("lb",),
 		"lt": ("lt",),
 		"mk": ("mk",),
 		"ml": ("ml",),

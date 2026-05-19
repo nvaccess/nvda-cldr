@@ -7,12 +7,12 @@ the `source/locale/*/cldr.dic` files, from CLDR data.
 
 
 ## Requirements
-- Python 3.11-32
+- Python 3.13-64
   - Intention: Match the NVDA python version, reduce tooling complexity for developers. 
 
 ## Run
 1. Ensure the output directory is empty or non-existent.
-1. `py -3.7-32` build.py
+1. `py -3.13-64` build.py
 
 ## Output
 See `out\` directory.

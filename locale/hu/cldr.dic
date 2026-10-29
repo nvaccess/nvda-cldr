@@ -359,6 +359,7 @@ _	aláhúzásjel	-
 🙂	finoman mosolygó arc	-
 🙃	arc fejjel lefelé	-
 🫠	elolvadó arc	-
+🫫	repedezett arc	-
 😉	kacsintó arc	-
 😊	mosolygó arc mosolygó szemmel	-
 😇	mosolygó arc glóriával	-
@@ -548,6 +549,8 @@ _	aláhúzásjel	-
 🫵	felhasználóra mutató ujj	-
 👍	felfelé mutató hüvelykujj	-
 👎	lefelé mutató hüvelykujj	-
+🫹	balra mutató hüvelykujj	-
+🫺	jobbra mutató hüvelykujj	-
 ✊	felemelt ököl	-
 👊	ütésre emelt ököl	-
 🤛	balra néző ököl	-
@@ -967,6 +970,7 @@ _	aláhúzásjel	-
 🦪	osztriga	-
 🐌	csiga	-
 🦋	pillangó	-
+🫌	királylepke	-
 🐛	rovar	-
 🐜	hangya	-
 🐝	méh	-
@@ -1038,6 +1042,7 @@ _	aláhúzásjel	-
 🌶	erőspaprika	-
 🫑	kaliforniai paprika	-
 🥒	uborka	-
+🫝	csemegeuborka	-
 🥬	leveles zöldség	-
 🥦	brokkoli	-
 🧄	fokhagyma	-
@@ -1258,6 +1263,7 @@ _	aláhúzásjel	-
 🚦	függőleges közlekedési lámpa	-
 🛑	stoptábla	-
 🚧	útépítés	-
+🛙	világítótorony	-
 ⚓	vasmacska	-
 🛟	mentőöv	-
 ⛵	vitorlás hajó	-
@@ -1357,6 +1363,7 @@ _	aláhúzásjel	-
 ☃	hóember	-
 ⛄	hóember hó nélkül	-
 ☄	üstökös	-
+🪋	meteor	-
 🔥	tűz	-
 💧	csepp	-
 🌊	vízhullám	-
@@ -1607,6 +1614,7 @@ _	aláhúzásjel	-
 🖌	ecset	-
 🖍	zsírkréta	-
 📝	feljegyzés	-
+🪌	radír	-
 💼	aktatáska	-
 📁	fájlmappa	-
 📂	nyitott fájlmappa	-
@@ -1636,6 +1644,7 @@ _	aláhúzásjel	-
 🔐	zárt lakat kulccsal	-
 🔑	kulcs	-
 🗝	régi kulcs	-
+🪍	nyeles háló	-
 🔨	kalapács	-
 🪓	balta	-
 ⛏	csákány	-
@@ -2130,6 +2139,16 @@ $	dollár	-
 👎🏽	lefelé mutató hüvelykujj közepes bőrtónus	-
 👎🏾	lefelé mutató hüvelykujj közepesen sötét bőrtónus	-
 👎🏿	lefelé mutató hüvelykujj sötét bőrtónus	-
+🫹🏻	balra mutató hüvelykujj világos bőrtónus	-
+🫹🏼	balra mutató hüvelykujj közepesen világos bőrtónus	-
+🫹🏽	balra mutató hüvelykujj közepes bőrtónus	-
+🫹🏾	balra mutató hüvelykujj közepesen sötét bőrtónus	-
+🫹🏿	balra mutató hüvelykujj sötét bőrtónus	-
+🫺🏻	jobbra mutató hüvelykujj világos bőrtónus	-
+🫺🏼	jobbra mutató hüvelykujj közepesen világos bőrtónus	-
+🫺🏽	jobbra mutató hüvelykujj közepes bőrtónus	-
+🫺🏾	jobbra mutató hüvelykujj közepesen sötét bőrtónus	-
+🫺🏿	jobbra mutató hüvelykujj sötét bőrtónus	-
 ✊🏻	felemelt ököl világos bőrtónus	-
 ✊🏼	felemelt ököl közepesen világos bőrtónus	-
 ✊🏽	felemelt ököl közepes bőrtónus	-
@@ -4327,7 +4346,7 @@ $	dollár	-
 ৳	bangladesi taka	-
 ฿	thai baht	-
 ៛	kambodzsai riel	-
-₡	Costa Rica-i colon	-
+₡	Costa Rica-i colón	-
 ₦	nigériai naira	-
 ₪	izraeli új sékel	-
 ₫	vietnámi dong	-

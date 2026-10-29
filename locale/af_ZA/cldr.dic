@@ -359,6 +359,7 @@ _	onderste streep	-
 🙂	gesig wat effens glimlag	-
 🙃	onderstebo gesig	-
 🫠	gesig wat smelt	-
+🫫	gekraakte gesig	-
 😉	gesig wat knipoog	-
 😊	glimlaggende gesig met glimlaggende oë	-
 😇	glimlaggende gesig met stralekrans	-
@@ -548,6 +549,8 @@ _	onderste streep	-
 🫵	wysvinger na kyker	-
 👍	laaik baie	-
 👎	laaik niks	-
+🫹	links duimgooi	-
+🫺	regs duimgooi	-
 ✊	vuis in die lug	-
 👊	vuishou	-
 🤛	vuis links	-
@@ -967,6 +970,7 @@ _	onderste streep	-
 🦪	oester	-
 🐌	slak	-
 🦋	skoenlapper	-
+🫌	koningvlinder	-
 🐛	gogga	-
 🐜	mier	-
 🐝	heuningby	-
@@ -1038,6 +1042,7 @@ _	onderste streep	-
 🌶	brandrissie	-
 🫑	soetrissie	-
 🥒	komkommer	-
+🫝	agurkie	-
 🥬	groen blare	-
 🥦	broccoli	-
 🧄	knoffel	-
@@ -1258,6 +1263,7 @@ _	onderste streep	-
 🚦	vertikale verkeerslig	-
 🛑	stopteken	-
 🚧	konstruksieteken	-
+🛙	lugtoring	-
 ⚓	anker	-
 🛟	boei	-
 ⛵	seilboot	-
@@ -1357,6 +1363,7 @@ _	onderste streep	-
 ☃	sneeuman	-
 ⛄	sneeuman sonder sneeu	-
 ☄	komeet	-
+🪋	meteoor	-
 🔥	vuur	-
 💧	druppel	-
 🌊	brander	-
@@ -1607,6 +1614,7 @@ _	onderste streep	-
 🖌	verfkwas	-
 🖍	vetkryt	-
 📝	aantekening	-
+🪌	uitveër	-
 💼	aktetas	-
 📁	lêervouer	-
 📂	oop lêervouer	-
@@ -1636,6 +1644,7 @@ _	onderste streep	-
 🔐	toe slot met sleutel	-
 🔑	sleutel	-
 🗝	ou sleutel	-
+🪍	vangnet met steel	-
 🔨	hamer	-
 🪓	byl	-
 ⛏	pik	-
@@ -2130,6 +2139,16 @@ $	dollar	-
 👎🏽	laaik niks medium velkleur	-
 👎🏾	laaik niks medium-donker velkleur	-
 👎🏿	laaik niks donker velkleur	-
+🫹🏻	links duimgooi ligte velkleur	-
+🫹🏼	links duimgooi medium-ligte velkleur	-
+🫹🏽	links duimgooi medium velkleur	-
+🫹🏾	links duimgooi medium-donker velkleur	-
+🫹🏿	links duimgooi donker velkleur	-
+🫺🏻	regs duimgooi ligte velkleur	-
+🫺🏼	regs duimgooi medium-ligte velkleur	-
+🫺🏽	regs duimgooi medium velkleur	-
+🫺🏾	regs duimgooi medium-donker velkleur	-
+🫺🏿	regs duimgooi donker velkleur	-
 ✊🏻	vuis in die lug ligte velkleur	-
 ✊🏼	vuis in die lug medium-ligte velkleur	-
 ✊🏽	vuis in die lug medium velkleur	-

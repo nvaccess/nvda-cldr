@@ -359,6 +359,7 @@ _	dấu gạch dưới	-
 🙂	mặt cười mỉm	-
 🙃	mặt lộn ngược	-
 🫠	mặt tan chảy	-
+🫫	mặt rạn nứt	-
 😉	mặt nháy mắt	-
 😊	mặt cười híp mắt	-
 😇	mặt cười có hào quang	-
@@ -548,6 +549,8 @@ _	dấu gạch dưới	-
 🫵	ngón trỏ chỉ vào người xem	-
 👍	dấu ra hiệu đồng ý	-
 👎	dấu ra hiệu từ chối	-
+🫹	biểu tượng ngón tay cái chỉ sang trái	-
+🫺	biểu tượng ngón tay cái chỉ sang phải	-
 ✊	nắm đấm giơ lên	-
 👊	nắm đấm	-
 🤛	nắm đấm hướng phía trái	-
@@ -967,6 +970,7 @@ _	dấu gạch dưới	-
 🦪	hàu	-
 🐌	ốc sên	-
 🦋	bướm	-
+🫌	bướm chúa	-
 🐛	con bọ	-
 🐜	kiến	-
 🐝	ong mật	-
@@ -1038,6 +1042,7 @@ _	dấu gạch dưới	-
 🌶	quả ớt	-
 🫑	ớt chuông	-
 🥒	dưa chuột	-
+🫝	dưa muối	-
 🥬	xanh lá	-
 🥦	xúp lơ xanh	-
 🧄	tỏi	-
@@ -1258,6 +1263,7 @@ _	dấu gạch dưới	-
 🚦	đèn giao thông dọc	-
 🛑	ký hiệu dừng	-
 🚧	công trường	-
+🛙	hải đăng	-
 ⚓	mỏ neo	-
 🛟	phao cứu sinh	-
 ⛵	thuyền buồm	-
@@ -1357,6 +1363,7 @@ _	dấu gạch dưới	-
 ☃	người tuyết	-
 ⛄	người tuyết không có tuyết	-
 ☄	sao chổi	-
+🪋	thiên thạch	-
 🔥	lửa	-
 💧	giọt nước	-
 🌊	sóng nước	-
@@ -1607,6 +1614,7 @@ _	dấu gạch dưới	-
 🖌	cọ vẽ tranh	-
 🖍	bút sáp màu	-
 📝	sổ ghi nhớ	-
+🪌	cục tẩy	-
 💼	cặp tài liệu	-
 📁	thư mục tệp	-
 📂	thư mục tệp mở	-
@@ -1636,6 +1644,7 @@ _	dấu gạch dưới	-
 🔐	khóa với chìa	-
 🔑	chìa khóa	-
 🗝	chìa khóa cũ	-
+🪍	vợt bắt côn trùng	-
 🔨	búa	-
 🪓	rìu	-
 ⛏	búa chim	-
@@ -2130,6 +2139,16 @@ $	đô la	-
 👎🏽	dấu ra hiệu từ chối màu da trung bình	-
 👎🏾	dấu ra hiệu từ chối màu da tối trung bình	-
 👎🏿	dấu ra hiệu từ chối màu da tối	-
+🫹🏻	biểu tượng ngón tay cái chỉ sang trái màu da sáng	-
+🫹🏼	biểu tượng ngón tay cái chỉ sang trái màu da sáng trung bình	-
+🫹🏽	biểu tượng ngón tay cái chỉ sang trái màu da trung bình	-
+🫹🏾	biểu tượng ngón tay cái chỉ sang trái màu da tối trung bình	-
+🫹🏿	biểu tượng ngón tay cái chỉ sang trái màu da tối	-
+🫺🏻	biểu tượng ngón tay cái chỉ sang phải màu da sáng	-
+🫺🏼	biểu tượng ngón tay cái chỉ sang phải màu da sáng trung bình	-
+🫺🏽	biểu tượng ngón tay cái chỉ sang phải màu da trung bình	-
+🫺🏾	biểu tượng ngón tay cái chỉ sang phải màu da tối trung bình	-
+🫺🏿	biểu tượng ngón tay cái chỉ sang phải màu da tối	-
 ✊🏻	nắm đấm giơ lên màu da sáng	-
 ✊🏼	nắm đấm giơ lên màu da sáng trung bình	-
 ✊🏽	nắm đấm giơ lên màu da trung bình	-

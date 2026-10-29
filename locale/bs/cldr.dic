@@ -359,6 +359,7 @@ _	donja crta	-
 🙂	diskretni osmijeh	-
 🙃	naglavačke	-
 🫠	lice koje se topi	-
+🫫	ispucalo lice	-
 😉	namigivanje	-
 😊	širok osmijeh	-
 😇	oreol iznad glave	-
@@ -548,6 +549,8 @@ _	donja crta	-
 🫵	kažiprst uperen u gledaoca	-
 👍	palac gore	-
 👎	palac dolje	-
+🫹	palac pokazuje ulijevo	-
+🫺	palac pokazuje udesno	-
 ✊	podignuta pesnica	-
 👊	nabacivanje pesnicom	-
 🤛	šaka ulijevo	-
@@ -967,6 +970,7 @@ _	donja crta	-
 🦪	kamenica	-
 🐌	puž	-
 🦋	leptir	-
+🫌	leptir monarh	-
 🐛	buba	-
 🐜	mrav	-
 🐝	pčela	-
@@ -1038,6 +1042,7 @@ _	donja crta	-
 🌶	ljuti feferon	-
 🫑	paprika babura	-
 🥒	krastavac	-
+🫝	kiseli krastavac	-
 🥬	lisnato povrće	-
 🥦	brokula	-
 🧄	bijeli luk	-
@@ -1258,6 +1263,7 @@ _	donja crta	-
 🚦	semafor	-
 🛑	stop	-
 🚧	konstrukcija	-
+🛙	svjetionik	-
 ⚓	sidro	-
 🛟	kolut za spašavanje	-
 ⛵	jedrilica	-
@@ -1357,6 +1363,7 @@ _	donja crta	-
 ☃	snješko bijelić	-
 ⛄	snješko bijelić bez snijega	-
 ☄	kometa	-
+🪋	meteor	-
 🔥	vatra	-
 💧	kapljica vode	-
 🌊	val	-
@@ -1607,6 +1614,7 @@ _	donja crta	-
 🖌	kist	-
 🖍	voštana bojica	-
 📝	bilješka	-
+🪌	gumica za brisanje	-
 💼	aktovka	-
 📁	fascikla	-
 📂	otvorena fascikla	-
@@ -1636,6 +1644,7 @@ _	donja crta	-
 🔐	zatvoren katanac sa ključem	-
 🔑	ključ	-
 🗝	stari ključ	-
+🪍	mreža s ručkom	-
 🔨	čekić	-
 🪓	sjekira	-
 ⛏	krampa	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	palac dolje umjerena boja kože	-
 👎🏾	palac dolje umjereno tamna boja kože	-
 👎🏿	palac dolje tamna boja kože	-
+🫹🏻	palac pokazuje ulijevo svijetla boja kože	-
+🫹🏼	palac pokazuje ulijevo umjereno svijetla boja kože	-
+🫹🏽	palac pokazuje ulijevo umjerena boja kože	-
+🫹🏾	palac pokazuje ulijevo umjereno tamna boja kože	-
+🫹🏿	palac pokazuje ulijevo tamna boja kože	-
+🫺🏻	palac pokazuje udesno svijetla boja kože	-
+🫺🏼	palac pokazuje udesno umjereno svijetla boja kože	-
+🫺🏽	palac pokazuje udesno umjerena boja kože	-
+🫺🏾	palac pokazuje udesno umjereno tamna boja kože	-
+🫺🏿	palac pokazuje udesno tamna boja kože	-
 ✊🏻	podignuta pesnica svijetla boja kože	-
 ✊🏼	podignuta pesnica umjereno svijetla boja kože	-
 ✊🏽	podignuta pesnica umjerena boja kože	-

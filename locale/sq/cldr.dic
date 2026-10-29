@@ -96,10 +96,10 @@ _	vijë e ulët	-
 ↡	shigjetë dymajëshe poshtë	-
 ↢	shigjetë majtas me bisht	-
 ↣	shigjetë djathtas me bisht	-
-↤	shigjetë majtas me shufër	-
-↥	shigjetë lart me shufër	-
-↦	shigjetë djathtas me shufër	-
-↧	shigjetë poshtë me shufër	-
+↤	shigjetë majtas nga vija vertikale	-
+↥	shigjetë lart nga vija vertikale	-
+↦	shigjetë djathtas nga vija vertikale	-
+↧	shigjetë poshtë nga vija vertikale	-
 ↨	shigjetë lart-poshtë me bazament	-
 ↫	shigjetë majtas me lak	-
 ↬	shigjetë djathtas me lak	-
@@ -113,8 +113,8 @@ _	vijë e ulët	-
 ↵	shigjetë poshtë me kënd majtas	-
 ↶	shigjetë gjysmëhark lart me drejtim kundërorar	-
 ↷	shigjetë gjysmëhark lart me drejtim orar	-
-↸	shigjetë veriperëndim me tra të gjatë	-
-↹	shigjetë majtas me shufër mbi shigjetë djathtas me shufër	-
+↸	shigjetë nga veriperëndimi me vijë vertikale	-
+↹	shigjetë majtas e djathtas kundrejt vijave vertikale	-
 ↺	shigjetë rrethhapur me drejtim kundërorar	-
 ↻	shigjetë rrethhapur me drejtim orar	-
 ↼	fuzhnjë majtas me grep lart	-
@@ -142,9 +142,9 @@ _	vijë e ulët	-
 ⇓	shigjetë dyshe poshtë	-
 ⇔	shigjetë dyshe majtas-djathtas	-
 ⇎	shigjetë dyshe majtas-djathtas me fraksion	-
-⇖	shigjetë dyshe veriperëndim	-
-⇗	shigjetë dyshe verilindje	-
-⇘	shigjetë dyshe juglindje	-
+⇖	shigjetë dyshe në veriperëndim	-
+⇗	shigjetë dyshe në verilindje	-
+⇘	shigjetë dyshe në juglindje	-
 ⇙	shigjetë dyshe drejt jugperëndimit	-
 ⇚	shigjetë treshe majtas	-
 ⇛	shigjetë treshe djathtas	-
@@ -156,13 +156,13 @@ _	vijë e ulët	-
 ⇡	shigjetë lart me ndërprerje	-
 ⇢	shigjetë djathtas me ndërprerje	-
 ⇣	shigjetë poshtë me ndërprerje	-
-⇤	shigjetë me shufër majtas	-
-⇥	shigjetë me shufër djathtas	-
+⇤	shigjetë majtas me vijë vertikale	-
+⇥	shigjetë djathtas me vijë vertikale	-
 ⇦	shigjetë bosh majtas	-
 ⇧	shigjetë bosh lart	-
 ⇨	shigjetë bosh djathtas	-
 ⇩	shigjetë bosh poshtë	-
-⇪	shigjetë bosh lart nga shufër	-
+⇪	shigjetë bosh lart nga vija	-
 ⇵	shigjetë poshtë majtas shigjetë lart	-
 ∀	për të gjitha	-
 ∂	diferencial i pjesshëm	-
@@ -290,11 +290,11 @@ _	vijë e ulët	-
 ▵	trekëndësh i zbrazët i vogël me drejtim lart	-
 ▷	trekëndësh i zbrazët i me drejtim djathtas	-
 ▸	trekëndësh i mbushur i vogël me drejtim djathtas	-
-▹	trekëndësh i mbushur i zbrazët me drejtim djathtas	-
+▹	trekëndësh i vogël i zbrazët me drejtim djathtas	-
 ►	tregues i mbushur me drejtim djathtas	-
 ▻	tregues i zbrazët me drejtim djathtas	-
 ▼	trekëndësh i mbushur, me drejtim poshtë	-
-▽	tregues i mbushur me drejtim poshtë	-
+▽	tregues bosh me drejtim poshtë	-
 ▾	trekëndësh i mbushur i vogël me drejtim poshtë	-
 ▿	trekëndësh i zbrazët i vogël me drejtim poshtë	-
 ◁	trekëndësh i zbrazët me drejtim majtas	-
@@ -318,14 +318,14 @@ _	vijë e ulët	-
 ◓	rreth gjysmë i mbushur lart	-
 ◔	rreth me sektor të mbushur djathtas lart	-
 ◕	rreth i mbushur përveç sektorit majtas lart	-
-◖	gjysmërreth i mbushur i majtë	-
-◗	gjysmërreth i mbushur i djathtë	-
+◖	gjysmërreth i mbushur nga ana e majtë	-
+◗	gjysmërreth i mbushur nga ana e djathtë	-
 ◘	pikë e anasjellë	-
 ◙	katror i mbushur me rreth të zbrazët	-
-◜	hark sektori majtas lart	-
-◝	hark sektori djathtas lart	-
+◜	hark rrethor në kuadratin e sipërm majtas	-
+◝	hark rrethor në kuadratin e sipërm djathtas	-
 ◞	hark rrethor në çerekrrethin e djathtë poshtë	-
-◟	hark sektori majtas poshtë	-
+◟	hark rrethor në kuadratin e poshtëm majtas	-
 ◠	gjysmëhark lart	-
 ◡	gjysmëhark poshtë	-
 ◢	trekëndësh i mbushur djathtas poshtë	-
@@ -359,6 +359,7 @@ _	vijë e ulët	-
 🙂	fytyrë pak e qeshur	-
 🙃	fytyrë përmbys	-
 🫠	fytyrë që shkrin	-
+🫫	fytyrë që çahet	-
 😉	fytyrë që shkel syrin	-
 😊	fytyrë e qeshur me sy të qeshur	-
 😇	fytyrë e qeshur me aureolë	-
@@ -548,6 +549,8 @@ _	vijë e ulët	-
 🫵	gishti tregues nga shikuesi	-
 👍	gishti i madh lart	-
 👎	gishti i madh poshtë	-
+🫹	shenja e gishtit të madh majtas	-
+🫺	shenja e gishtit të madh djathtas	-
 ✊	grusht i ngritur	-
 👊	grusht që vjen	-
 🤛	grusht i majtë në anën e përparme	-
@@ -935,7 +938,7 @@ _	vijë e ulët	-
 🦚	pallua	-
 🦜	papagall	-
 🪽	krah	-
-🐦‍⬛	zog i zi	-
+🐦‍⬛	korb	-
 🪿	patë	-
 🐦‍🔥	feniks	-
 🐸	fytyrë bretkose	-
@@ -967,6 +970,7 @@ _	vijë e ulët	-
 🦪	gocë deti	-
 🐌	kërmill	-
 🦋	flutur	-
+🫌	flutur monarke	-
 🐛	shumëkëmbësh	-
 🐜	milingonë	-
 🐝	bletë	-
@@ -1038,6 +1042,7 @@ _	vijë e ulët	-
 🌶	spec djegës	-
 🫑	patëllxhanë për mbushje	-
 🥒	kastravec	-
+🫝	kastravec turshi	-
 🥬	sallatë	-
 🥦	brokoli	-
 🧄	hudhër	-
@@ -1139,7 +1144,7 @@ _	vijë e ulët	-
 🍴	pirun dhe thikë	-
 🥄	lugë	-
 🔪	thikë kuzhine	-
-🫙	kanë	-
+🫙	kavanoz	-
 🏺	amforë	-
 🌍	globi që tregon Evropën dhe Afrikën	-
 🌎	globi që tregon Amerikat	-
@@ -1258,6 +1263,7 @@ _	vijë e ulët	-
 🚦	semafor vertikal	-
 🛑	shenja “ndalo”	-
 🚧	ndërtim	-
+🛙	far	-
 ⚓	spirancë	-
 🛟	bovë rrethore	-
 ⛵	varkë me vela	-
@@ -1357,6 +1363,7 @@ _	vijë e ulët	-
 ☃	njeri prej bore	-
 ⛄	njeri prej bore pa borë	-
 ☄	kometë	-
+🪋	meteor	-
 🔥	zjarr	-
 💧	pikëz	-
 🌊	dallgë uji	-
@@ -1607,6 +1614,7 @@ _	vijë e ulët	-
 🖌	furçë piktori	-
 🖍	shkumës me ngjyrë	-
 📝	shënime	-
+🪌	gomë fshirëse	-
 💼	valixhe	-
 📁	dosje dokumentesh	-
 📂	dosje dokumentesh e hapur	-
@@ -1636,6 +1644,7 @@ _	vijë e ulët	-
 🔐	kyç i mbyllur me çelës	-
 🔑	çelës	-
 🗝	çelës i vjetër	-
+🪍	rrjetë me dorezë	-
 🔨	çekiç	-
 🪓	sëpatë	-
 ⛏	kazmë	-
@@ -1806,8 +1815,8 @@ _	vijë e ulët	-
 🎦	kinema	-
 🔅	butoni i zbehjes	-
 🔆	butoni i ndriçimit	-
-📶	shiritat e antenës	-
-🛜	lidhje me valë	-
+📶	vijat e antenës	-
+🛜	wireless	-
 📳	modaliteti i dridhjeve	-
 📴	fik celularin	-
 ♀	shenja femër	-
@@ -1817,7 +1826,7 @@ _	vijë e ulët	-
 ➕	shenja plus e trashë	-
 ➖	shenja minus e trashë	-
 ➗	shenja e pjesëtimit e trashë	-
-🟰	shenjë e fortë barazie	-
+🟰	shenjë barazimi e trashë	-
 ♾	pafundësi	-
 ‼	dy pikëçuditje	-
 ⁉	shenja e pikëpyetjes dhe pikëçuditjes	-
@@ -2130,6 +2139,16 @@ $	dollar	-
 👎🏽	gishti i madh poshtë nuancë lëkure zeshkane	-
 👎🏾	gishti i madh poshtë nuancë lëkure gjysmë e errët	-
 👎🏿	gishti i madh poshtë nuancë lëkure e errët	-
+🫹🏻	shenja e gishtit të madh majtas nuancë lëkure e çelët	-
+🫹🏼	shenja e gishtit të madh majtas nuancë lëkure gjysmë e çelët	-
+🫹🏽	shenja e gishtit të madh majtas nuancë lëkure zeshkane	-
+🫹🏾	shenja e gishtit të madh majtas nuancë lëkure gjysmë e errët	-
+🫹🏿	shenja e gishtit të madh majtas nuancë lëkure e errët	-
+🫺🏻	shenja e gishtit të madh djathtas nuancë lëkure e çelët	-
+🫺🏼	shenja e gishtit të madh djathtas nuancë lëkure gjysmë e çelët	-
+🫺🏽	shenja e gishtit të madh djathtas nuancë lëkure zeshkane	-
+🫺🏾	shenja e gishtit të madh djathtas nuancë lëkure gjysmë e errët	-
+🫺🏿	shenja e gishtit të madh djathtas nuancë lëkure e errët	-
 ✊🏻	grusht i ngritur nuancë lëkure e çelët	-
 ✊🏼	grusht i ngritur nuancë lëkure gjysmë e çelët	-
 ✊🏽	grusht i ngritur nuancë lëkure zeshkane	-

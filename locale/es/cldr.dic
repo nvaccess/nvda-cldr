@@ -359,6 +359,7 @@ _	guion bajo	-
 🙂	cara sonriendo ligeramente	-
 🙃	cara al revés	-
 🫠	cara derritiéndose	-
+🫫	cara resquebrajándose	-
 😉	cara guiñando el ojo	-
 😊	cara feliz con ojos sonrientes	-
 😇	cara sonriendo con aureola	-
@@ -548,6 +549,8 @@ _	guion bajo	-
 🫵	dedo índice apuntándote a ti	-
 👍	pulgar hacia arriba	-
 👎	pulgar hacia abajo	-
+🫹	pulgar hacia la izquierda	-
+🫺	pulgar hacia la derecha	-
 ✊	puño en alto	-
 👊	puño cerrado	-
 🤛	puño hacia la izquierda	-
@@ -967,6 +970,7 @@ _	guion bajo	-
 🦪	ostra	-
 🐌	caracol	-
 🦋	mariposa	-
+🫌	mariposa monarca	-
 🐛	bicho	-
 🐜	hormiga	-
 🐝	abeja	-
@@ -1038,6 +1042,7 @@ _	guion bajo	-
 🌶	chile picante	-
 🫑	pimiento	-
 🥒	pepino	-
+🫝	pepinillo	-
 🥬	verdura de hoja verde	-
 🥦	brócoli	-
 🧄	ajo	-
@@ -1258,6 +1263,7 @@ _	guion bajo	-
 🚦	semáforo	-
 🛑	señal de stop	-
 🚧	obras	-
+🛙	faro	-
 ⚓	ancla	-
 🛟	salvavidas	-
 ⛵	velero	-
@@ -1356,7 +1362,8 @@ _	guion bajo	-
 ❄	copo de nieve	-
 ☃	muñeco de nieve con nieve	-
 ⛄	muñeco de nieve	-
-☄	meteorito	-
+☄	cometa espacial	-
+🪋	meteorito	-
 🔥	fuego	-
 💧	gota	-
 🌊	ola de mar	-
@@ -1607,6 +1614,7 @@ _	guion bajo	-
 🖌	pincel	-
 🖍	lápiz de cera	-
 📝	cuaderno de notas	-
+🪌	goma de borrar	-
 💼	maletín	-
 📁	carpeta de archivos	-
 📂	carpeta de archivos abierta	-
@@ -1636,6 +1644,7 @@ _	guion bajo	-
 🔐	candado cerrado y llave	-
 🔑	llave	-
 🗝	llave antigua	-
+🪍	red con mango	-
 🔨	martillo	-
 🪓	hacha	-
 ⛏	pico	-
@@ -2130,6 +2139,16 @@ $	dólar	-
 👎🏽	pulgar hacia abajo tono de piel medio	-
 👎🏾	pulgar hacia abajo tono de piel oscuro medio	-
 👎🏿	pulgar hacia abajo tono de piel oscuro	-
+🫹🏻	pulgar hacia la izquierda tono de piel claro	-
+🫹🏼	pulgar hacia la izquierda tono de piel claro medio	-
+🫹🏽	pulgar hacia la izquierda tono de piel medio	-
+🫹🏾	pulgar hacia la izquierda tono de piel oscuro medio	-
+🫹🏿	pulgar hacia la izquierda tono de piel oscuro	-
+🫺🏻	pulgar hacia la derecha tono de piel claro	-
+🫺🏼	pulgar hacia la derecha tono de piel claro medio	-
+🫺🏽	pulgar hacia la derecha tono de piel medio	-
+🫺🏾	pulgar hacia la derecha tono de piel oscuro medio	-
+🫺🏿	pulgar hacia la derecha tono de piel oscuro	-
 ✊🏻	puño en alto tono de piel claro	-
 ✊🏼	puño en alto tono de piel claro medio	-
 ✊🏽	puño en alto tono de piel medio	-

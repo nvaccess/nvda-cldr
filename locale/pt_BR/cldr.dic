@@ -359,6 +359,7 @@ _	traço baixo	-
 🙂	rosto levemente sorridente	-
 🙃	rosto de cabeça para baixo	-
 🫠	rosto derretendo	-
+🫫	rosto rachando	-
 😉	rosto com olho piscando	-
 😊	rosto sorridente com olhos sorridentes	-
 😇	rosto sorridente com auréola	-
@@ -548,6 +549,8 @@ _	traço baixo	-
 🫵	indicador apontando para o visualizador	-
 👍	polegar para cima	-
 👎	polegar para baixo	-
+🫹	sinal de polegar para a esquerda	-
+🫺	sinal de polegar para a direita	-
 ✊	punho levantado	-
 👊	soco	-
 🤛	punho esquerdo	-
@@ -967,6 +970,7 @@ _	traço baixo	-
 🦪	ostra	-
 🐌	caracol	-
 🦋	borboleta	-
+🫌	borboleta-monarca	-
 🐛	inseto	-
 🐜	formiga	-
 🐝	abelha	-
@@ -1038,6 +1042,7 @@ _	traço baixo	-
 🌶	pimenta	-
 🫑	pimentão	-
 🥒	pepino	-
+🫝	picles	-
 🥬	verdura	-
 🥦	brócolis	-
 🧄	alho	-
@@ -1258,6 +1263,7 @@ _	traço baixo	-
 🚦	semáforo vertical	-
 🛑	sinal de pare	-
 🚧	em construção	-
+🛙	farol	-
 ⚓	âncora	-
 🛟	boia	-
 ⛵	barco a vela	-
@@ -1342,7 +1348,7 @@ _	traço baixo	-
 🌦	sol com chuva	-
 🌧	nuvem com chuva	-
 🌨	nuvem com neve	-
-🌩	nuvem com trovão	-
+🌩	nuvem com relâmpago	-
 🌪	tornado	-
 🌫	nevoeiro	-
 🌬	rosto de vento	-
@@ -1357,6 +1363,7 @@ _	traço baixo	-
 ☃	boneco de neve	-
 ⛄	boneco de neve sem neve	-
 ☄	cometa	-
+🪋	meteoro	-
 🔥	fogo	-
 💧	gota	-
 🌊	onda	-
@@ -1607,6 +1614,7 @@ _	traço baixo	-
 🖌	pincel	-
 🖍	giz de cera	-
 📝	memorando	-
+🪌	borracha	-
 💼	maleta	-
 📁	pasta de arquivos	-
 📂	pasta de arquivos aberta	-
@@ -1636,6 +1644,7 @@ _	traço baixo	-
 🔐	cadeado fechado com chave	-
 🔑	chave	-
 🗝	chave antiga	-
+🪍	rede com cabo	-
 🔨	martelo	-
 🪓	machado	-
 ⛏	picareta	-
@@ -2130,6 +2139,16 @@ $	dólar	-
 👎🏽	polegar para baixo pele morena	-
 👎🏾	polegar para baixo pele morena escura	-
 👎🏿	polegar para baixo pele escura	-
+🫹🏻	sinal de polegar para a esquerda pele clara	-
+🫹🏼	sinal de polegar para a esquerda pele morena clara	-
+🫹🏽	sinal de polegar para a esquerda pele morena	-
+🫹🏾	sinal de polegar para a esquerda pele morena escura	-
+🫹🏿	sinal de polegar para a esquerda pele escura	-
+🫺🏻	sinal de polegar para a direita pele clara	-
+🫺🏼	sinal de polegar para a direita pele morena clara	-
+🫺🏽	sinal de polegar para a direita pele morena	-
+🫺🏾	sinal de polegar para a direita pele morena escura	-
+🫺🏿	sinal de polegar para a direita pele escura	-
 ✊🏻	punho levantado pele clara	-
 ✊🏼	punho levantado pele morena clara	-
 ✊🏽	punho levantado pele morena	-

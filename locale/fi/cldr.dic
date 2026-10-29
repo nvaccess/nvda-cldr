@@ -359,6 +359,7 @@ _	alaviiva	-
 🙂	pieni hymy	-
 🙃	ylösalainen naama	-
 🫠	sulava naama	-
+🫫	halkeileva naama	-
 😉	silmänisku	-
 😊	punastunut hymy	-
 😇	hymy ja sädekehä	-
@@ -548,6 +549,8 @@ _	alaviiva	-
 🫵	etusormi osoittaa katsojaa	-
 👍	peukalo ylös	-
 👎	peukalo alas	-
+🫹	peukalo vasemmalle	-
+🫺	peukalo oikealle	-
 ✊	nostettu nyrkki	-
 👊	kohti tuleva nyrkki	-
 🤛	nyrkki vasemmalle	-
@@ -967,6 +970,7 @@ _	alaviiva	-
 🦪	osteri	-
 🐌	etana	-
 🦋	perhonen	-
+🫌	monarkkiperhonen	-
 🐛	ötökkä	-
 🐜	muurahainen	-
 🐝	mehiläinen	-
@@ -1038,6 +1042,7 @@ _	alaviiva	-
 🌶	jalapeno	-
 🫑	paprika	-
 🥒	kurkku	-
+🫝	suolakurkku	-
 🥬	lehtivihannes	-
 🥦	parsakaali	-
 🧄	valkosipuli	-
@@ -1258,6 +1263,7 @@ _	alaviiva	-
 🚦	pystysuuntaiset liikennevalot	-
 🛑	pysähtymismerkki	-
 🚧	rakennustyömaan merkki	-
+🛙	majakka	-
 ⚓	ankkuri	-
 🛟	pelastusrengas	-
 ⛵	purjevene	-
@@ -1357,6 +1363,7 @@ _	alaviiva	-
 ☃	lumiukko	-
 ⛄	lumiukko ilman lunta	-
 ☄	komeetta	-
+🪋	meteori	-
 🔥	tuli	-
 💧	pisara	-
 🌊	aalto	-
@@ -1607,6 +1614,7 @@ _	alaviiva	-
 🖌	sivellin	-
 🖍	väriliitu	-
 📝	muistio	-
+🪌	pyyhekumi	-
 💼	salkku	-
 📁	tiedostokansio	-
 📂	avoin tiedostokansio	-
@@ -1636,6 +1644,7 @@ _	alaviiva	-
 🔐	avain ja lukko kiinni	-
 🔑	avain	-
 🗝	vanha avain	-
+🪍	haavi	-
 🔨	vasara	-
 🪓	kirves	-
 ⛏	hakku	-
@@ -2130,6 +2139,16 @@ $	dollari	-
 👎🏽	peukalo alas tummanvaalea iho	-
 👎🏾	peukalo alas keskitumma iho	-
 👎🏿	peukalo alas tumma iho	-
+🫹🏻	peukalo vasemmalle vaalea iho	-
+🫹🏼	peukalo vasemmalle keskivaalea iho	-
+🫹🏽	peukalo vasemmalle tummanvaalea iho	-
+🫹🏾	peukalo vasemmalle keskitumma iho	-
+🫹🏿	peukalo vasemmalle tumma iho	-
+🫺🏻	peukalo oikealle vaalea iho	-
+🫺🏼	peukalo oikealle keskivaalea iho	-
+🫺🏽	peukalo oikealle tummanvaalea iho	-
+🫺🏾	peukalo oikealle keskitumma iho	-
+🫺🏿	peukalo oikealle tumma iho	-
 ✊🏻	nostettu nyrkki vaalea iho	-
 ✊🏼	nostettu nyrkki keskivaalea iho	-
 ✊🏽	nostettu nyrkki tummanvaalea iho	-
@@ -4264,7 +4283,7 @@ $	dollari	-
 🇸🇩	lippu Sudan	-
 🇸🇪	lippu Ruotsi	-
 🇸🇬	lippu Singapore	-
-🇸🇭	lippu Saint Helena	-
+🇸🇭	lippu Saint Helena, Ascension ja Tristan da Cunha	-
 🇸🇮	lippu Slovenia	-
 🇸🇯	lippu Huippuvuoret ja Jan Mayen	-
 🇸🇰	lippu Slovakia	-

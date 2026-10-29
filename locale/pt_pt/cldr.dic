@@ -359,6 +359,7 @@ _	sublinhado	-
 🙂	cara a sorrir ligeiramente	-
 🙃	cara ao contrário	-
 🫠	cara a derreter	-
+🫫	rosto a despedaçar-se	-
 😉	cara a piscar o olho	-
 😊	cara a sorrir com olhos sorridentes	-
 😇	cara a sorrir com auréola	-
@@ -548,6 +549,8 @@ _	sublinhado	-
 🫵	indicador a apontar para o espetador	-
 👍	polegar para cima	-
 👎	polegar para baixo	-
+🫹	sinal de polegar para a esquerda	-
+🫺	sinal de polegar para a direita	-
 ✊	punho erguido	-
 👊	punho a aproximar-se	-
 🤛	punho voltado para a esquerda	-
@@ -967,6 +970,7 @@ _	sublinhado	-
 🦪	ostra	-
 🐌	caracol	-
 🦋	borboleta	-
+🫌	borboleta-monarca	-
 🐛	lagarta	-
 🐜	formiga	-
 🐝	abelha	-
@@ -1038,6 +1042,7 @@ _	sublinhado	-
 🌶	malagueta	-
 🫑	pimento	-
 🥒	pepino	-
+🫝	pickle	-
 🥬	verdura	-
 🥦	brócolos	-
 🧄	alho	-
@@ -1258,6 +1263,7 @@ _	sublinhado	-
 🚦	semáforo vertical	-
 🛑	sinal de stop	-
 🚧	obras	-
+🛙	farol	-
 ⚓	âncora	-
 🛟	boia circular	-
 ⛵	veleiro	-
@@ -1357,6 +1363,7 @@ _	sublinhado	-
 ☃	boneco de neve	-
 ⛄	boneco de neve sem neve	-
 ☄	cometa	-
+🪋	meteoro	-
 🔥	fogo	-
 💧	gota	-
 🌊	onda	-
@@ -1607,6 +1614,7 @@ _	sublinhado	-
 🖌	pincel	-
 🖍	lápis de cera	-
 📝	nota	-
+🪌	borracha	-
 💼	maleta	-
 📁	pasta de arquivo	-
 📂	pasta de arquivo aberta	-
@@ -1636,6 +1644,7 @@ _	sublinhado	-
 🔐	cadeado fechado com chave	-
 🔑	chave	-
 🗝	chave antiga	-
+🪍	rede com cabo	-
 🔨	martelo	-
 🪓	machado	-
 ⛏	picareta	-
@@ -2130,6 +2139,16 @@ $	dólar	-
 👎🏽	polegar para baixo tipo de pele 4	-
 👎🏾	polegar para baixo tipo de pele 5	-
 👎🏿	polegar para baixo tipo de pele 6	-
+🫹🏻	sinal de polegar para a esquerda tipo de pele 1–2	-
+🫹🏼	sinal de polegar para a esquerda tipo de pele 3	-
+🫹🏽	sinal de polegar para a esquerda tipo de pele 4	-
+🫹🏾	sinal de polegar para a esquerda tipo de pele 5	-
+🫹🏿	sinal de polegar para a esquerda tipo de pele 6	-
+🫺🏻	sinal de polegar para a direita tipo de pele 1–2	-
+🫺🏼	sinal de polegar para a direita tipo de pele 3	-
+🫺🏽	sinal de polegar para a direita tipo de pele 4	-
+🫺🏾	sinal de polegar para a direita tipo de pele 5	-
+🫺🏿	sinal de polegar para a direita tipo de pele 6	-
 ✊🏻	punho erguido tipo de pele 1–2	-
 ✊🏼	punho erguido tipo de pele 3	-
 ✊🏽	punho erguido tipo de pele 4	-

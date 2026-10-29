@@ -359,6 +359,7 @@ _	underscore	-
 🙂	față ușor zâmbitoare	-
 🙃	față cu susul în jos	-
 🫠	față care se topește	-
+🫫	față care se crapă	-
 😉	față care face cu ochiul	-
 😊	față zâmbitoare cu ochi zâmbitori	-
 😇	față zâmbitoare cu aură	-
@@ -548,6 +549,8 @@ _	underscore	-
 🫵	deget arătător îndreptat spre privitor	-
 👍	semn de aprobare	-
 👎	semn de dezaprobare	-
+🫹	semn cu degetul mare spre stânga	-
+🫺	semn cu degetul mare spre dreapta	-
 ✊	pumn ridicat	-
 👊	lovitură de pumn	-
 🤛	pumn spre stânga	-
@@ -967,6 +970,7 @@ _	underscore	-
 🦪	stridie	-
 🐌	melc	-
 🦋	fluture	-
+🫌	fluture monarh	-
 🐛	gândac	-
 🐜	furnică	-
 🐝	albină	-
@@ -1038,6 +1042,7 @@ _	underscore	-
 🌶	ardei iute	-
 🫑	ardei gras	-
 🥒	castravete	-
+🫝	murătură	-
 🥬	verdețuri	-
 🥦	broccoli	-
 🧄	usturoi	-
@@ -1258,6 +1263,7 @@ _	underscore	-
 🚦	semafor vertical	-
 🛑	semnul stop	-
 🚧	șantier	-
+🛙	far	-
 ⚓	ancoră	-
 🛟	colac de salvare	-
 ⛵	barcă cu pânze	-
@@ -1357,6 +1363,7 @@ _	underscore	-
 ☃	om de zăpadă	-
 ⛄	om de zăpadă fără zăpadă	-
 ☄	cometă	-
+🪋	meteor	-
 🔥	foc	-
 💧	picătură	-
 🌊	val	-
@@ -1607,6 +1614,7 @@ _	underscore	-
 🖌	pensulă	-
 🖍	creion colorat	-
 📝	notă	-
+🪌	radieră	-
 💼	servietă	-
 📁	dosar de arhivare	-
 📂	dosar de arhivare deschis	-
@@ -1636,6 +1644,7 @@ _	underscore	-
 🔐	lacăt închis cu cheie	-
 🔑	cheie	-
 🗝	cheie veche	-
+🪍	plasă cu mâner	-
 🔨	ciocan	-
 🪓	topor	-
 ⛏	târnăcop	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	semn de dezaprobare ton mediu al pielii	-
 👎🏾	semn de dezaprobare ton semi‑închis al pielii	-
 👎🏿	semn de dezaprobare ton închis al pielii	-
+🫹🏻	semn cu degetul mare spre stânga ton deschis al pielii	-
+🫹🏼	semn cu degetul mare spre stânga ton semi‑deschis al pielii	-
+🫹🏽	semn cu degetul mare spre stânga ton mediu al pielii	-
+🫹🏾	semn cu degetul mare spre stânga ton semi‑închis al pielii	-
+🫹🏿	semn cu degetul mare spre stânga ton închis al pielii	-
+🫺🏻	semn cu degetul mare spre dreapta ton deschis al pielii	-
+🫺🏼	semn cu degetul mare spre dreapta ton semi‑deschis al pielii	-
+🫺🏽	semn cu degetul mare spre dreapta ton mediu al pielii	-
+🫺🏾	semn cu degetul mare spre dreapta ton semi‑închis al pielii	-
+🫺🏿	semn cu degetul mare spre dreapta ton închis al pielii	-
 ✊🏻	pumn ridicat ton deschis al pielii	-
 ✊🏼	pumn ridicat ton semi‑deschis al pielii	-
 ✊🏽	pumn ridicat ton mediu al pielii	-

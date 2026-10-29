@@ -359,6 +359,7 @@ _	znak podkreślenia	-
 🙂	lekko uśmiechnięta twarz	-
 🙃	odwrócona twarz	-
 🫠	roztapiająca się twarz	-
+🫫	popękana twarz	-
 😉	twarz puszczająca oko	-
 😊	uśmiechnięta twarz o roześmianych oczach	-
 😇	uśmiechnięta twarz z aureolą	-
@@ -548,6 +549,8 @@ _	znak podkreślenia	-
 🫵	palec wskazujący skierowany na patrzącego	-
 👍	kciuk w górę	-
 👎	kciuk w dół	-
+🫹	gest kciuka w lewo	-
+🫺	gest kciuka w prawo	-
 ✊	wzniesiona pięść	-
 👊	pięść od przodu	-
 🤛	pięść skierowana w lewo	-
@@ -967,6 +970,7 @@ _	znak podkreślenia	-
 🦪	ostryga	-
 🐌	ślimak	-
 🦋	motyl	-
+🫌	monarcha	-
 🐛	gąsienica	-
 🐜	mrówka	-
 🐝	pszczoła	-
@@ -1038,6 +1042,7 @@ _	znak podkreślenia	-
 🌶	ostra papryka	-
 🫑	papryka	-
 🥒	ogórek	-
+🫝	ogórek kiszony	-
 🥬	warzywo liściaste	-
 🥦	brokuł	-
 🧄	czosnek	-
@@ -1258,6 +1263,7 @@ _	znak podkreślenia	-
 🚦	pionowa sygnalizacja uliczna	-
 🛑	znak stopu	-
 🚧	prace drogowe	-
+🛙	latarnia morska	-
 ⚓	kotwica	-
 🛟	koło ratunkowe	-
 ⛵	żaglówka	-
@@ -1357,6 +1363,7 @@ _	znak podkreślenia	-
 ☃	bałwanek i płatki śniegu	-
 ⛄	bałwanek bez śniegu	-
 ☄	kometa	-
+🪋	meteor	-
 🔥	ogień	-
 💧	kropla	-
 🌊	fala	-
@@ -1607,6 +1614,7 @@ _	znak podkreślenia	-
 🖌	pędzel	-
 🖍	kredka	-
 📝	notatka	-
+🪌	gumka	-
 💼	teczka	-
 📁	folder	-
 📂	otwarty folder	-
@@ -1636,6 +1644,7 @@ _	znak podkreślenia	-
 🔐	zamknięta kłódka z kluczem	-
 🔑	klucz	-
 🗝	staroświecki klucz	-
+🪍	siatka z rączką	-
 🔨	młotek	-
 🪓	siekiera	-
 ⛏	kilof	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	kciuk w dół karnacja średnia	-
 👎🏾	kciuk w dół karnacja średnio ciemna	-
 👎🏿	kciuk w dół karnacja ciemna	-
+🫹🏻	gest kciuka w lewo karnacja jasna	-
+🫹🏼	gest kciuka w lewo karnacja średnio jasna	-
+🫹🏽	gest kciuka w lewo karnacja średnia	-
+🫹🏾	gest kciuka w lewo karnacja średnio ciemna	-
+🫹🏿	gest kciuka w lewo karnacja ciemna	-
+🫺🏻	gest kciuka w prawo karnacja jasna	-
+🫺🏼	gest kciuka w prawo karnacja średnio jasna	-
+🫺🏽	gest kciuka w prawo karnacja średnia	-
+🫺🏾	gest kciuka w prawo karnacja średnio ciemna	-
+🫺🏿	gest kciuka w prawo karnacja ciemna	-
 ✊🏻	wzniesiona pięść karnacja jasna	-
 ✊🏼	wzniesiona pięść karnacja średnio jasna	-
 ✊🏽	wzniesiona pięść karnacja średnia	-

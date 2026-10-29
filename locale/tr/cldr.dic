@@ -359,6 +359,7 @@ _	alt çizgi	-
 🙂	hafifçe gülümseyen yüz	-
 🙃	ters yüz	-
 🫠	eriyen yüz	-
+🫫	çatlayan yüz	-
 😉	göz kırpan yüz	-
 😊	ağzı açık gülme	-
 😇	ışık halkalı gülümseme	-
@@ -548,6 +549,8 @@ _	alt çizgi	-
 🫵	karşıyı işaret eden işaret parmağı	-
 👍	baş parmak yukarıda	-
 👎	baş parmak aşağıda	-
+🫹	baş parmak solda	-
+🫺	başparmak sağda	-
 ✊	yumruk kaldırma	-
 👊	yaklaşan yumruk	-
 🤛	sola bakan yumruk	-
@@ -967,6 +970,7 @@ _	alt çizgi	-
 🦪	istiridye	-
 🐌	salyangoz	-
 🦋	kelebek	-
+🫌	kral kelebeği	-
 🐛	tırtıl	-
 🐜	karınca	-
 🐝	bal arısı	-
@@ -1038,6 +1042,7 @@ _	alt çizgi	-
 🌶	acı biber	-
 🫑	dolma biber	-
 🥒	salatalık	-
+🫝	turşu	-
 🥬	yeşil yapraklı sebze	-
 🥦	brokoli	-
 🧄	sarımsak	-
@@ -1258,6 +1263,7 @@ _	alt çizgi	-
 🚦	dikey trafik ışıkları	-
 🛑	dur işareti	-
 🚧	inşaat	-
+🛙	deniz feneri	-
 ⚓	çıpa	-
 🛟	cankurtaran simidi	-
 ⛵	yelkenli tekne	-
@@ -1357,6 +1363,7 @@ _	alt çizgi	-
 ☃	kardan adam	-
 ⛄	kar yağmadan kardan adam	-
 ☄	kuyruklu yıldız	-
+🪋	gök taşı	-
 🔥	ateş	-
 💧	damlacık	-
 🌊	dalga	-
@@ -1607,6 +1614,7 @@ _	alt çizgi	-
 🖌	boya fırçası	-
 🖍	pastel boya	-
 📝	not	-
+🪌	silgi	-
 💼	evrak çantası	-
 📁	dosya klasörü	-
 📂	açık dosya klasörü	-
@@ -1636,6 +1644,7 @@ _	alt çizgi	-
 🔐	anahtarlı kapalı kilit	-
 🔑	anahtar	-
 🗝	eski anahtar	-
+🪍	kelebek ağı	-
 🔨	çekiç	-
 🪓	balta	-
 ⛏	kazma	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	baş parmak aşağıda orta cilt tonu	-
 👎🏾	baş parmak aşağıda orta koyu cilt tonu	-
 👎🏿	baş parmak aşağıda koyu cilt tonu	-
+🫹🏻	baş parmak solda açık cilt tonu	-
+🫹🏼	baş parmak solda orta açık cilt tonu	-
+🫹🏽	baş parmak solda orta cilt tonu	-
+🫹🏾	baş parmak solda orta koyu cilt tonu	-
+🫹🏿	baş parmak solda koyu cilt tonu	-
+🫺🏻	başparmak sağda açık cilt tonu	-
+🫺🏼	başparmak sağda orta açık cilt tonu	-
+🫺🏽	başparmak sağda orta cilt tonu	-
+🫺🏾	başparmak sağda orta koyu cilt tonu	-
+🫺🏿	başparmak sağda koyu cilt tonu	-
 ✊🏻	yumruk kaldırma açık cilt tonu	-
 ✊🏼	yumruk kaldırma orta açık cilt tonu	-
 ✊🏽	yumruk kaldırma orta cilt tonu	-

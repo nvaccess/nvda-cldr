@@ -359,6 +359,7 @@ _	podčiarkovník	-
 🙂	usmievajúca sa tvár	-
 🙃	prevrátená tvár	-
 🫠	roztopená tvár	-
+🫫	praskajúca tvár	-
 😉	žmurkajúca tvár	-
 😊	smejúca sa tvár s prižmúrenými očami	-
 😇	smejúca sa tvár so svätožiarou	-
@@ -548,6 +549,8 @@ _	podčiarkovník	-
 🫵	ukazovanie ukazovákom	-
 👍	palec nahor	-
 👎	palec nadol	-
+🫹	palec vľavo	-
+🫺	palec vpravo	-
 ✊	zdvihnutá päsť	-
 👊	päsť spredu	-
 🤛	päsť doľava	-
@@ -967,6 +970,7 @@ _	podčiarkovník	-
 🦪	ustrica	-
 🐌	slimák	-
 🦋	motýľ	-
+🫌	babôčka smradľavá	-
 🐛	húsenica	-
 🐜	mravec	-
 🐝	včela	-
@@ -1038,6 +1042,7 @@ _	podčiarkovník	-
 🌶	čili paprička	-
 🫑	kapia	-
 🥒	uhorka	-
+🫝	nakladačka	-
 🥬	listová zelenina	-
 🥦	brokolica	-
 🧄	cesnak	-
@@ -1258,6 +1263,7 @@ _	podčiarkovník	-
 🚦	zvislý semafor	-
 🛑	značka stop	-
 🚧	práce na ceste	-
+🛙	maják	-
 ⚓	kotva	-
 🛟	záchranné koleso	-
 ⛵	plachetnica	-
@@ -1357,6 +1363,7 @@ _	podčiarkovník	-
 ☃	snehuliak	-
 ⛄	snehuliak bez snehu	-
 ☄	kométa	-
+🪋	meteor	-
 🔥	oheň	-
 💧	kvapka	-
 🌊	morská vlna	-
@@ -1607,6 +1614,7 @@ _	podčiarkovník	-
 🖌	štetec	-
 🖍	pastelka	-
 📝	oznam	-
+🪌	guma	-
 💼	aktovka	-
 📁	fascikel	-
 📂	otvorený fascikel	-
@@ -1636,6 +1644,7 @@ _	podčiarkovník	-
 🔐	zámka s kľúčom	-
 🔑	kľúč	-
 🗝	starý kľúč	-
+🪍	sieťka na motýle	-
 🔨	kladivo	-
 🪓	sekera	-
 ⛏	krompáč	-
@@ -2130,6 +2139,16 @@ $	dolár	-
 👎🏽	palec nadol stredný tón pleti	-
 👎🏾	palec nadol stredne tmavý tón pleti	-
 👎🏿	palec nadol tmavý tón pleti	-
+🫹🏻	palec vľavo svetlý tón pleti	-
+🫹🏼	palec vľavo stredne svetlý tón pleti	-
+🫹🏽	palec vľavo stredný tón pleti	-
+🫹🏾	palec vľavo stredne tmavý tón pleti	-
+🫹🏿	palec vľavo tmavý tón pleti	-
+🫺🏻	palec vpravo svetlý tón pleti	-
+🫺🏼	palec vpravo stredne svetlý tón pleti	-
+🫺🏽	palec vpravo stredný tón pleti	-
+🫺🏾	palec vpravo stredne tmavý tón pleti	-
+🫺🏿	palec vpravo tmavý tón pleti	-
 ✊🏻	zdvihnutá päsť svetlý tón pleti	-
 ✊🏼	zdvihnutá päsť stredne svetlý tón pleti	-
 ✊🏽	zdvihnutá päsť stredný tón pleti	-

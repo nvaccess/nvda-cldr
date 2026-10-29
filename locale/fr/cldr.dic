@@ -322,10 +322,10 @@ _	trait de soulignement	-
 ◗	demi-cercle droit plein	-
 ◘	puce noir au blanc	-
 ◙	carré plein contenant un cercle creux	-
-◜	arc de cercle dans le quadrant supérieur gauche	-
-◝	arc de cercle dans le quadrant supérieur droit	-
-◞	arc de cercle dans le quadrant inférieur droit	-
-◟	arc de cercle dans le quadrant inférieur gauche	-
+◜	arc de cercle quadrant supérieur gauche	-
+◝	arc de cercle quadrant supérieur droit	-
+◞	arc de cercle quadrant inférieur droit	-
+◟	arc de cercle quadrant inférieur gauche	-
 ◠	demi-cercle supérieur	-
 ◡	demi-cercle inférieur	-
 ◢	triangle rectangle inférieur droit plein	-
@@ -359,6 +359,7 @@ _	trait de soulignement	-
 🙂	visage avec un léger sourire	-
 🙃	tête à l’envers	-
 🫠	visage qui fond	-
+🫫	visage craquelé	-
 😉	visage faisant un clin d’œil	-
 😊	visage souriant avec yeux rieurs	-
 😇	visage souriant avec auréole	-
@@ -548,6 +549,8 @@ _	trait de soulignement	-
 🫵	index pointant vers l’utilisateur	-
 👍	pouce vers le haut	-
 👎	pouce vers le bas	-
+🫹	pouce vers la gauche	-
+🫺	pouce vers la droite	-
 ✊	poing levé	-
 👊	poing de face	-
 🤛	poing à gauche	-
@@ -967,6 +970,7 @@ _	trait de soulignement	-
 🦪	huître	-
 🐌	escargot	-
 🦋	papillon	-
+🫌	monarque	-
 🐛	chenille	-
 🐜	fourmi	-
 🐝	abeille	-
@@ -1038,6 +1042,7 @@ _	trait de soulignement	-
 🌶	piment rouge	-
 🫑	poivron	-
 🥒	concombre	-
+🫝	cornichon	-
 🥬	légume à feuilles vertes	-
 🥦	brocoli	-
 🧄	ail	-
@@ -1258,6 +1263,7 @@ _	trait de soulignement	-
 🚦	feu tricolore vertical	-
 🛑	stop	-
 🚧	travaux	-
+🛙	phare	-
 ⚓	ancre	-
 🛟	bouée de sauvetage	-
 ⛵	voilier	-
@@ -1357,6 +1363,7 @@ _	trait de soulignement	-
 ☃	bonhomme de neige	-
 ⛄	bonhomme de neige sans neige	-
 ☄	comète	-
+🪋	météorite	-
 🔥	feu	-
 💧	goutte d’eau	-
 🌊	vague	-
@@ -1607,6 +1614,7 @@ _	trait de soulignement	-
 🖌	pinceau	-
 🖍	crayon pastel	-
 📝	mémo	-
+🪌	gomme	-
 💼	porte-documents	-
 📁	dossier	-
 📂	dossier ouvert	-
@@ -1636,6 +1644,7 @@ _	trait de soulignement	-
 🔐	cadenas fermé avec clé	-
 🔑	clé	-
 🗝	clé ancienne	-
+🪍	filet avec manche	-
 🔨	marteau	-
 🪓	hache	-
 ⛏	pioche	-
@@ -2130,6 +2139,16 @@ $	dollar	-
 👎🏽	pouce vers le bas  peau légèrement mate	-
 👎🏾	pouce vers le bas  peau mate	-
 👎🏿	pouce vers le bas  peau foncée	-
+🫹🏻	pouce vers la gauche  peau claire	-
+🫹🏼	pouce vers la gauche  peau moyennement claire	-
+🫹🏽	pouce vers la gauche  peau légèrement mate	-
+🫹🏾	pouce vers la gauche  peau mate	-
+🫹🏿	pouce vers la gauche  peau foncée	-
+🫺🏻	pouce vers la droite  peau claire	-
+🫺🏼	pouce vers la droite  peau moyennement claire	-
+🫺🏽	pouce vers la droite  peau légèrement mate	-
+🫺🏾	pouce vers la droite  peau mate	-
+🫺🏿	pouce vers la droite  peau foncée	-
 ✊🏻	poing levé  peau claire	-
 ✊🏼	poing levé  peau moyennement claire	-
 ✊🏽	poing levé  peau légèrement mate	-

@@ -178,7 +178,7 @@ _	xariiq hoose	-
 ∑	calaamada isku darka ee n-ary	-
 +	calamada balaas	-
 ±	balaas-maynas	-
-÷	calaamada qaybta	-
+÷	calaamada qaybinta	-
 ×	xalaamada isku dhufashada	-
 <	ka yar	-
 ≮	aan ka yareyn	-
@@ -359,6 +359,7 @@ _	xariiq hoose	-
 🙂	waji yara dhoola cadeynaya	-
 🙃	waji hoos-hoos u raaraca	-
 🫠	waji dhalaalaya	-
+🫫	weji dilaacsan	-
 😉	waji il jabinaaya	-
 😊	waji iyo indho dhoolo cadeynaaya	-
 😇	waji dhoolo cadeynaya wareeg leh	-
@@ -548,6 +549,8 @@ _	xariiq hoose	-
 🫵	tusmo tilmaame daawadaha	-
 👍	suulka kor	-
 👎	suulka hoos	-
+🫹	calaamada suul-taaga gacanta bidix	-
+🫺	calaamada suul-taaga gacanta midigta	-
 ✊	kor u qaadid tantoonyo (feer)	-
 👊	feer soo socoto	-
 🤛	feerka tilmaamaysa bidix	-
@@ -848,7 +851,7 @@ _	xariiq hoose	-
 🫆	sawirka faraha	-
 🦰	timo cas	-
 🦱	timo walaaqan	-
-🦳	caddaan	-
+🦳	timo cad	-
 🦲	bidaar	-
 🐵	waji daanyeer	-
 🐒	daanyeer	-
@@ -934,7 +937,7 @@ _	xariiq hoose	-
 🦩	qudunquuto	-
 🦚	daa’uus	-
 🦜	baqbaqaaq	-
-🪽	wing	-
+🪽	garab	-
 🐦‍⬛	shimbir madoow	-
 🪿	booloboolo	-
 🐦‍🔥	phoenix	-
@@ -967,6 +970,7 @@ _	xariiq hoose	-
 🦪	lohod	-
 🐌	dixiri qolof leh	-
 🦋	balanbaalis	-
+🫌	balanbaalista monarch	-
 🐛	kutaan	-
 🐜	quraanjo	-
 🐝	shinni malab	-
@@ -1038,6 +1042,7 @@ _	xariiq hoose	-
 🌶	basbaas	-
 🫑	basbaas dawan	-
 🥒	qajaar	-
+🫝	qajaar dhanaan	-
 🥬	caleenta cagaaran	-
 🥦	barakooli	-
 🧄	toon	-
@@ -1258,6 +1263,7 @@ _	xariiq hoose	-
 🚦	iftiin taraafika oo toosan	-
 🛑	calaamad joogsi	-
 🚧	dhismo	-
+🛙	munaaradda hagidda maraakiibta	-
 ⚓	baroosinka	-
 🛟	giraan sabanaysa	-
 ⛵	doon shiraac	-
@@ -1285,7 +1291,7 @@ _	xariiq hoose	-
 ⌛	dhalada saacad-beegtada ah oo dhamaysay	-
 ⏳	dhalada saacad-beegtada ah wali ma dhamayn	-
 ⌚	goor-sheeg	-
-⏰	saacadda qaylo-dhaanta	-
+⏰	saacadda alarmiga leh	-
 ⏱	saacad-joojin	-
 ⏲	saacadda goor-sheegtada ah	-
 🕰	qaanadda kore ee saacadda	-
@@ -1357,6 +1363,7 @@ _	xariiq hoose	-
 ☃	baraf-naag	-
 ⛄	baraf-naag oo naag la’aan ah	-
 ☄	dhagax-xiddig	-
+🪋	Xiddig dhacaya	-
 🔥	dab	-
 💧	dhibicda	-
 🌊	hirka biyaha	-
@@ -1604,9 +1611,10 @@ _	xariiq hoose	-
 ✒	af-qalin madow	-
 🖋	qalin saxeex	-
 🖊	qalin	-
-🖌	burushka buufinta	-
+🖌	burushka rinjiga	-
 🖍	kalar	-
 📝	xusuus qor	-
+🪌	tirtire	-
 💼	shandad shaqo	-
 📁	fooldarka faylasha	-
 📂	fooldarka faylasha oo furan	-
@@ -1636,6 +1644,7 @@ _	xariiq hoose	-
 🔐	xidhan oo fure wata	-
 🔑	fure	-
 🗝	fure qadiimi ah	-
+🪍	shabaq leh goob la qabto	-
 🔨	dube	-
 🪓	faas	-
 ⛏	madaraq	-
@@ -1797,7 +1806,7 @@ _	xariiq hoose	-
 ⏮	badhanka daarista ugu dambeeya	-
 🔼	badhanka xagga sare	-
 ⏫	badhanka degdegga sare ah	-
-🔽	badhanka xagga hoose	-
+🔽	badhanka xagga hoose u jeeda	-
 ⏬	badhanka degdegga hoose	-
 ⏸	badhanka hakinta	-
 ⏹	badhanka joojinta	-
@@ -2130,6 +2139,16 @@ $	doolar	-
 👎🏽	suulka hoos jidh nooc dhexe	-
 👎🏾	suulka hoos jidh nooc madaw oo dhexe	-
 👎🏿	suulka hoos jidh madaw	-
+🫹🏻	calaamada suul-taaga gacanta bidix jidh fudud	-
+🫹🏼	calaamada suul-taaga gacanta bidix jidh fudud oo dhexe	-
+🫹🏽	calaamada suul-taaga gacanta bidix jidh nooc dhexe	-
+🫹🏾	calaamada suul-taaga gacanta bidix jidh nooc madaw oo dhexe	-
+🫹🏿	calaamada suul-taaga gacanta bidix jidh madaw	-
+🫺🏻	calaamada suul-taaga gacanta midigta jidh fudud	-
+🫺🏼	calaamada suul-taaga gacanta midigta jidh fudud oo dhexe	-
+🫺🏽	calaamada suul-taaga gacanta midigta jidh nooc dhexe	-
+🫺🏾	calaamada suul-taaga gacanta midigta jidh nooc madaw oo dhexe	-
+🫺🏿	calaamada suul-taaga gacanta midigta jidh madaw	-
 ✊🏻	kor u qaadid tantoonyo (feer) jidh fudud	-
 ✊🏼	kor u qaadid tantoonyo (feer) jidh fudud oo dhexe	-
 ✊🏽	kor u qaadid tantoonyo (feer) jidh nooc dhexe	-
@@ -2332,12 +2351,12 @@ $	doolar	-
 🧑🏽‍🦱	qof jidh nooc dhexe, timo walaaqan	-
 🧑🏾‍🦱	qof jidh nooc madaw oo dhexe, timo walaaqan	-
 🧑🏿‍🦱	qof jidh madaw, timo walaaqan	-
-🧑‍🦳	qof caddaan	-
-🧑🏻‍🦳	qof jidh fudud, caddaan	-
-🧑🏼‍🦳	qof jidh fudud oo dhexe, caddaan	-
-🧑🏽‍🦳	qof jidh nooc dhexe, caddaan	-
-🧑🏾‍🦳	qof jidh nooc madaw oo dhexe, caddaan	-
-🧑🏿‍🦳	qof jidh madaw, caddaan	-
+🧑‍🦳	qof timo cad	-
+🧑🏻‍🦳	qof jidh fudud, timo cad	-
+🧑🏼‍🦳	qof jidh fudud oo dhexe, timo cad	-
+🧑🏽‍🦳	qof jidh nooc dhexe, timo cad	-
+🧑🏾‍🦳	qof jidh nooc madaw oo dhexe, timo cad	-
+🧑🏿‍🦳	qof jidh madaw, timo cad	-
 🧑‍🦲	qof bidaar	-
 🧑🏻‍🦲	qof jidh fudud, bidaar	-
 🧑🏼‍🦲	qof jidh fudud oo dhexe, bidaar	-
@@ -2466,12 +2485,12 @@ $	doolar	-
 👨🏽‍🦱	ninka jidh nooc dhexe, timo walaaqan	-
 👨🏾‍🦱	ninka jidh nooc madaw oo dhexe, timo walaaqan	-
 👨🏿‍🦱	ninka jidh madaw, timo walaaqan	-
-👨‍🦳	ninka caddaan	-
-👨🏻‍🦳	ninka jidh fudud, caddaan	-
-👨🏼‍🦳	ninka jidh fudud oo dhexe, caddaan	-
-👨🏽‍🦳	ninka jidh nooc dhexe, caddaan	-
-👨🏾‍🦳	ninka jidh nooc madaw oo dhexe, caddaan	-
-👨🏿‍🦳	ninka jidh madaw, caddaan	-
+👨‍🦳	ninka timo cad	-
+👨🏻‍🦳	ninka jidh fudud, timo cad	-
+👨🏼‍🦳	ninka jidh fudud oo dhexe, timo cad	-
+👨🏽‍🦳	ninka jidh nooc dhexe, timo cad	-
+👨🏾‍🦳	ninka jidh nooc madaw oo dhexe, timo cad	-
+👨🏿‍🦳	ninka jidh madaw, timo cad	-
 👨‍🦲	ninka bidaar	-
 👨🏻‍🦲	ninka jidh fudud, bidaar	-
 👨🏼‍🦲	ninka jidh fudud oo dhexe, bidaar	-
@@ -2645,12 +2664,12 @@ $	doolar	-
 👩🏽‍🦱	naag jidh nooc dhexe, timo walaaqan	-
 👩🏾‍🦱	naag jidh nooc madaw oo dhexe, timo walaaqan	-
 👩🏿‍🦱	naag jidh madaw, timo walaaqan	-
-👩‍🦳	naag caddaan	-
-👩🏻‍🦳	naag jidh fudud, caddaan	-
-👩🏼‍🦳	naag jidh fudud oo dhexe, caddaan	-
-👩🏽‍🦳	naag jidh nooc dhexe, caddaan	-
-👩🏾‍🦳	naag jidh nooc madaw oo dhexe, caddaan	-
-👩🏿‍🦳	naag jidh madaw, caddaan	-
+👩‍🦳	naag timo cad	-
+👩🏻‍🦳	naag jidh fudud, timo cad	-
+👩🏼‍🦳	naag jidh fudud oo dhexe, timo cad	-
+👩🏽‍🦳	naag jidh nooc dhexe, timo cad	-
+👩🏾‍🦳	naag jidh nooc madaw oo dhexe, timo cad	-
+👩🏿‍🦳	naag jidh madaw, timo cad	-
 👩‍🦲	naag bidaar	-
 👩🏻‍🦲	naag jidh fudud, bidaar	-
 👩🏼‍🦲	naag jidh fudud oo dhexe, bidaar	-
@@ -4093,7 +4112,7 @@ $	doolar	-
 🇧🇷	calan Baraasiil	-
 🇧🇸	calan Bahaamas	-
 🇧🇹	calan Buutan	-
-🇧🇻	calan Buufet Island	-
+🇧🇻	calan Jasiiradda Bouvet	-
 🇧🇼	calan Botuswaana	-
 🇧🇾	calan Belarus	-
 🇧🇿	calan Beliis	-

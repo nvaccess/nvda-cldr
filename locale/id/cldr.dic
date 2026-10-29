@@ -359,6 +359,7 @@ _	garis bawah	-
 🙂	wajah agak tersenyum	-
 🙃	wajah terbalik	-
 🫠	wajah meleleh	-
+🫫	wajah retak	-
 😉	wajah berkedip	-
 😊	wajah tersenyum dengan mata bahagia	-
 😇	wajah malaikat	-
@@ -548,6 +549,8 @@ _	garis bawah	-
 🫵	jari telunjuk menunjuk penonton	-
 👍	jempol ke atas	-
 👎	jempol ke bawah	-
+🫹	isyarat jempol ke kiri	-
+🫺	isyarat jempol ke kanan	-
 ✊	tangan terkepal ke atas	-
 👊	tangan terkepal ke depan	-
 🤛	tinju kiri	-
@@ -967,6 +970,7 @@ _	garis bawah	-
 🦪	tiram	-
 🐌	siput	-
 🦋	kupu-kupu	-
+🫌	kupu-kupu raja	-
 🐛	serangga kecil	-
 🐜	semut	-
 🐝	lebah madu	-
@@ -1038,6 +1042,7 @@ _	garis bawah	-
 🌶	cabai pedas	-
 🫑	paprika	-
 🥒	ketimun	-
+🫝	acar ketimun	-
 🥬	selada hijau	-
 🥦	brokoli	-
 🧄	bawang putih	-
@@ -1258,6 +1263,7 @@ _	garis bawah	-
 🚦	lampu lalu lintas vertikal	-
 🛑	rambu stop	-
 🚧	konstruksi	-
+🛙	mercusuar	-
 ⚓	jangkar	-
 🛟	ban pelampung	-
 ⛵	perahu layar	-
@@ -1357,6 +1363,7 @@ _	garis bawah	-
 ☃	boneka salju dengan hujan salju	-
 ⛄	boneka salju tanpa salju	-
 ☄	komet	-
+🪋	meteor	-
 🔥	api	-
 💧	tetesan air	-
 🌊	ombak	-
@@ -1607,6 +1614,7 @@ _	garis bawah	-
 🖌	kuas	-
 🖍	krayon	-
 📝	memo	-
+🪌	penghapus	-
 💼	tas kantor	-
 📁	folder file	-
 📂	folder file terbuka	-
@@ -1636,6 +1644,7 @@ _	garis bawah	-
 🔐	gembok terkunci dengan kunci	-
 🔑	kunci	-
 🗝	kunci antik	-
+🪍	jaring dengan gagang	-
 🔨	palu	-
 🪓	kapak	-
 ⛏	beliung	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	jempol ke bawah warna kulit sedang	-
 👎🏾	jempol ke bawah warna kulit gelap-sedang	-
 👎🏿	jempol ke bawah warna kulit gelap	-
+🫹🏻	isyarat jempol ke kiri warna kulit cerah	-
+🫹🏼	isyarat jempol ke kiri warna kulit cerah-sedang	-
+🫹🏽	isyarat jempol ke kiri warna kulit sedang	-
+🫹🏾	isyarat jempol ke kiri warna kulit gelap-sedang	-
+🫹🏿	isyarat jempol ke kiri warna kulit gelap	-
+🫺🏻	isyarat jempol ke kanan warna kulit cerah	-
+🫺🏼	isyarat jempol ke kanan warna kulit cerah-sedang	-
+🫺🏽	isyarat jempol ke kanan warna kulit sedang	-
+🫺🏾	isyarat jempol ke kanan warna kulit gelap-sedang	-
+🫺🏿	isyarat jempol ke kanan warna kulit gelap	-
 ✊🏻	tangan terkepal ke atas warna kulit cerah	-
 ✊🏼	tangan terkepal ke atas warna kulit cerah-sedang	-
 ✊🏽	tangan terkepal ke atas warna kulit sedang	-
@@ -4084,7 +4103,7 @@ $	dolar	-
 🇧🇯	bendera Benin	-
 🇧🇱	bendera Saint Barthélemy	-
 🇧🇲	bendera Bermuda	-
-🇧🇳	bendera Brunei	-
+🇧🇳	bendera Brunei Darussalam	-
 🇧🇴	bendera Bolivia	-
 🇧🇶	bendera Belanda Karibia	-
 🇧🇷	bendera Brasil	-

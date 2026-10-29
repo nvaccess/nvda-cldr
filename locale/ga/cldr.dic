@@ -359,6 +359,7 @@ _	líne íseal	-
 🙂	straoiseog ag miongháire de bheagán	-
 🙃	straoiseog bun os cionn	-
 🫠	straoiseog atá ag leá	-
+🫫	straoiseog ag scoilteadh	-
 😉	straoiseog ag caochadh	-
 😊	straoiseog aoibhiúil le súile le miongháire	-
 😇	straoiseog ag gáire le luan	-
@@ -548,6 +549,8 @@ _	líne íseal	-
 🫵	corrmhéar ag díriú ar an mbreathnóir	-
 👍	ordóg suas	-
 👎	ordóg síos	-
+🫹	ordóg ag díriú ar chlé	-
+🫺	ordóg ag díriú ar dheis	-
 ✊	dorn ardaithe	-
 👊	dorn atá chugat	-
 🤛	dorn ar chlé	-
@@ -967,6 +970,7 @@ _	líne íseal	-
 🦪	oisre	-
 🐌	seilide	-
 🦋	féileacán	-
+🫌	bleachtfhéileacán	-
 🐛	míol	-
 🐜	seangán	-
 🐝	beach mheala	-
@@ -1038,6 +1042,7 @@ _	líne íseal	-
 🌶	píobar te	-
 🫑	piobar	-
 🥒	cúcamar	-
+🫝	gircín picilte	-
 🥬	glasra duilleach	-
 🥦	brocailí	-
 🧄	gairleog	-
@@ -1258,6 +1263,7 @@ _	líne íseal	-
 🚦	soilse tráchta ceartingearacha	-
 🛑	comhartha stop	-
 🚧	suíomh tógála	-
+🛙	teach solais	-
 ⚓	ancaire	-
 🛟	baoi fáinneach	-
 ⛵	bád seoil	-
@@ -1357,6 +1363,7 @@ _	líne íseal	-
 ☃	fear sneachta	-
 ⛄	fear sneachta gan sneachta	-
 ☄	cóiméad	-
+🪋	dreige	-
 🔥	tine	-
 💧	braoinín	-
 🌊	tonn san uisce	-
@@ -1607,6 +1614,7 @@ _	líne íseal	-
 🖌	scuab phéinteála	-
 🖍	crián	-
 📝	meabhrán	-
+🪌	scriosán	-
 💼	mála cáipéisí	-
 📁	fillteán comhad	-
 📂	fillteán oscailte	-
@@ -1636,6 +1644,7 @@ _	líne íseal	-
 🔐	glasáilte le heochair	-
 🔑	eochair	-
 🗝	sean-eochair	-
+🪍	líon le lámh	-
 🔨	casúr	-
 🪓	tua	-
 ⛏	piocóid	-
@@ -2130,6 +2139,16 @@ $	dollar	-
 👎🏽	ordóg síos ton cnis meánach	-
 👎🏾	ordóg síos ton cnis meándorcha	-
 👎🏿	ordóg síos ton cnis dorcha	-
+🫹🏻	ordóg ag díriú ar chlé ton cnis geal	-
+🫹🏼	ordóg ag díriú ar chlé ton cnis mheánach-gheal	-
+🫹🏽	ordóg ag díriú ar chlé ton cnis meánach	-
+🫹🏾	ordóg ag díriú ar chlé ton cnis meándorcha	-
+🫹🏿	ordóg ag díriú ar chlé ton cnis dorcha	-
+🫺🏻	ordóg ag díriú ar dheis ton cnis geal	-
+🫺🏼	ordóg ag díriú ar dheis ton cnis mheánach-gheal	-
+🫺🏽	ordóg ag díriú ar dheis ton cnis meánach	-
+🫺🏾	ordóg ag díriú ar dheis ton cnis meándorcha	-
+🫺🏿	ordóg ag díriú ar dheis ton cnis dorcha	-
 ✊🏻	dorn ardaithe ton cnis geal	-
 ✊🏼	dorn ardaithe ton cnis mheánach-gheal	-
 ✊🏽	dorn ardaithe ton cnis meánach	-

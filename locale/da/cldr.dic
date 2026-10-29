@@ -359,6 +359,7 @@ _	lav streg	-
 🙂	let smilende ansigt	-
 🙃	omvendt ansigt	-
 🫠	smeltende ansigt	-
+🫫	krakelerende ansigt	-
 😉	blinkende ansigt	-
 😊	smilende ansigt og øjne	-
 😇	smilende ansigt med glorie	-
@@ -548,6 +549,8 @@ _	lav streg	-
 🫵	peger på seeren	-
 👍	tommelfinger op	-
 👎	tommelfinger ned	-
+🫹	tommelfinger til venstre	-
+🫺	tommelfinger til højre	-
 ✊	løftet knytnæve	-
 👊	knytnæve	-
 🤛	venstrevendt knytnæve	-
@@ -967,6 +970,7 @@ _	lav streg	-
 🦪	østers	-
 🐌	snegl	-
 🦋	sommerfugl	-
+🫌	monark (sommerfugl)	-
 🐛	larve	-
 🐜	myre	-
 🐝	honningbi	-
@@ -1038,6 +1042,7 @@ _	lav streg	-
 🌶	chili	-
 🫑	peberfrugt	-
 🥒	agurk	-
+🫝	drueagurk	-
 🥬	bladgrønt	-
 🥦	broccoli	-
 🧄	hvidløg	-
@@ -1258,6 +1263,7 @@ _	lav streg	-
 🚦	trafiklys	-
 🛑	stopskilt	-
 🚧	byggeri	-
+🛙	fyrtårn	-
 ⚓	anker	-
 🛟	redningskrans	-
 ⛵	sejlbåd	-
@@ -1357,6 +1363,7 @@ _	lav streg	-
 ☃	snemand	-
 ⛄	snemand uden snevejr	-
 ☄	komet	-
+🪋	meteor	-
 🔥	ild	-
 💧	dråbe	-
 🌊	bølge	-
@@ -1607,6 +1614,7 @@ _	lav streg	-
 🖌	malerpensel	-
 🖍	farvekridt	-
 📝	notat	-
+🪌	viskelæder	-
 💼	attachémappe	-
 📁	mappe	-
 📂	åben mappe	-
@@ -1636,6 +1644,7 @@ _	lav streg	-
 🔐	lukket hængelås med nøgle	-
 🔑	nøgle	-
 🗝	gammel nøgle	-
+🪍	net med skaft	-
 🔨	hammer	-
 🪓	økse	-
 ⛏	hakke	-
@@ -1872,23 +1881,23 @@ _	lav streg	-
 🆘	SOS	-
 🆙	UP!-knap	-
 🆚	versus	-
-🈁	kvadratisk ideogram for her	-
-🈂	kvadratisk ideogram for serviceafgift	-
-🈷	kvadratisk ideogram for månedligt beløb	-
-🈶	kvadratisk ideogram for ikke gratis	-
-🈯	kvadratisk ideogram for reserveret	-
-🉐	cirkulært ideogram for tilbud	-
-🈹	kvadratisk ideogram for rabat	-
-🈚	kvadratisk ideogram for gratis	-
-🈲	kvadratisk ideogram for forbud	-
-🉑	cirkulært ideogram for accept	-
-🈸	kvadratisk ideogram for anvendelse	-
-🈴	kvadratisk ideogram for bestået	-
-🈳	kvadratisk ideogram for ledig	-
+🈁	japansk knap for her	-
+🈂	japansk knap for serviceafgift	-
+🈷	japansk knap for månedligt beløb	-
+🈶	japansk knap for ikke gratis	-
+🈯	japansk knap for reserveret	-
+🉐	japansk knap for tilbud	-
+🈹	japansk knap for rabat	-
+🈚	japansk knap for gratis	-
+🈲	japansk knap for forbud	-
+🉑	japansk knap for acceptabelt	-
+🈸	japansk knap for anvendelse	-
+🈴	japansk knap for bestået	-
+🈳	japansk knap for ledig	-
 ㊗	cirkulært ideogram for lykønskning	-
-㊙	cirkulært ideogram for hemmelighed	-
-🈺	kvadratisk ideogram for åben	-
-🈵	kvadratisk ideogram for optaget	-
+㊙	japansk knap for hemmelighed	-
+🈺	japansk knap for åben	-
+🈵	japansk knap for optaget	-
 🔴	rød cirkel	-
 🟠	orange cirkel	-
 🟡	gul cirkel	-
@@ -2130,6 +2139,16 @@ $	dollar	-
 👎🏽	tommelfinger ned medium teint	-
 👎🏾	tommelfinger ned medium til mørk teint	-
 👎🏿	tommelfinger ned mørk teint	-
+🫹🏻	tommelfinger til venstre lys teint	-
+🫹🏼	tommelfinger til venstre medium til lys teint	-
+🫹🏽	tommelfinger til venstre medium teint	-
+🫹🏾	tommelfinger til venstre medium til mørk teint	-
+🫹🏿	tommelfinger til venstre mørk teint	-
+🫺🏻	tommelfinger til højre lys teint	-
+🫺🏼	tommelfinger til højre medium til lys teint	-
+🫺🏽	tommelfinger til højre medium teint	-
+🫺🏾	tommelfinger til højre medium til mørk teint	-
+🫺🏿	tommelfinger til højre mørk teint	-
 ✊🏻	løftet knytnæve lys teint	-
 ✊🏼	løftet knytnæve medium til lys teint	-
 ✊🏽	løftet knytnæve medium teint	-

@@ -359,6 +359,7 @@ _	trazo baixo	-
 🙂	cara cun leve sorriso	-
 🙃	cara ao revés	-
 🫠	cara derreténdose	-
+🫫	cara facéndose cachiños	-
 😉	cara chiscando un ollo	-
 😊	cara alegre con ollos riseiros	-
 😇	cara riseira con auréola	-
@@ -548,6 +549,8 @@ _	trazo baixo	-
 🫵	dedo índice apuntando de fronte	-
 👍	polgar cara arriba	-
 👎	polgar cara abaixo	-
+🫹	polgar cara á esquerda	-
+🫺	polgar cara á dereita	-
 ✊	puño en alto	-
 👊	puñada	-
 🤛	puño cara á esquerda	-
@@ -967,6 +970,7 @@ _	trazo baixo	-
 🦪	ostra	-
 🐌	caracol	-
 🦋	bolboreta	-
+🫌	bolboreta monarca	-
 🐛	cempés	-
 🐜	formiga	-
 🐝	abella	-
@@ -1038,6 +1042,7 @@ _	trazo baixo	-
 🌶	chile picante	-
 🫑	pemento	-
 🥒	cogombro	-
+🫝	cogombriño	-
 🥬	verdura de folla	-
 🥦	brócoli	-
 🧄	allo	-
@@ -1258,6 +1263,7 @@ _	trazo baixo	-
 🚦	semáforo	-
 🛑	sinal de stop	-
 🚧	en construción	-
+🛙	faro	-
 ⚓	áncora	-
 🛟	salvavidas	-
 ⛵	veleiro	-
@@ -1357,6 +1363,7 @@ _	trazo baixo	-
 ☃	nevando e boneco de neve	-
 ⛄	boneco de neve	-
 ☄	cometa	-
+🪋	meteoro	-
 🔥	lume	-
 💧	pinga	-
 🌊	onda	-
@@ -1607,6 +1614,7 @@ _	trazo baixo	-
 🖌	pincel	-
 🖍	lapis de cor	-
 📝	nota	-
+🪌	goma de borrar	-
 💼	maletín	-
 📁	cartafol	-
 📂	cartafol aberto	-
@@ -1636,6 +1644,7 @@ _	trazo baixo	-
 🔐	cadeado con chave	-
 🔑	chave	-
 🗝	chave antiga	-
+🪍	rede con mango	-
 🔨	martelo	-
 🪓	machado	-
 ⛏	pico	-
@@ -2130,6 +2139,16 @@ $	dólar	-
 👎🏽	polgar cara abaixo ton de pel medio	-
 👎🏾	polgar cara abaixo ton de pel escuro	-
 👎🏿	polgar cara abaixo ton de pel moi escuro	-
+🫹🏻	polgar cara á esquerda ton de pel moi claro	-
+🫹🏼	polgar cara á esquerda ton de pel claro	-
+🫹🏽	polgar cara á esquerda ton de pel medio	-
+🫹🏾	polgar cara á esquerda ton de pel escuro	-
+🫹🏿	polgar cara á esquerda ton de pel moi escuro	-
+🫺🏻	polgar cara á dereita ton de pel moi claro	-
+🫺🏼	polgar cara á dereita ton de pel claro	-
+🫺🏽	polgar cara á dereita ton de pel medio	-
+🫺🏾	polgar cara á dereita ton de pel escuro	-
+🫺🏿	polgar cara á dereita ton de pel moi escuro	-
 ✊🏻	puño en alto ton de pel moi claro	-
 ✊🏼	puño en alto ton de pel claro	-
 ✊🏽	puño en alto ton de pel medio	-

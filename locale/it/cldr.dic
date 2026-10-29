@@ -55,7 +55,7 @@ _	trattino basso	-
 〔	parentesi quadra spezzata aperta	-
 〕	parentesi quadra spezzata chiusa	-
 〖	parentesi lenticolare vuota aperta	-
-〗	parentesi lenticolare vota chiusa	-
+〗	parentesi lenticolare vuota chiusa	-
 §	simbolo di sezione	-
 ¶	simbolo di paragrafo	-
 @	simbolo della chiocciola	-
@@ -359,6 +359,7 @@ _	trattino basso	-
 🙂	faccina con sorriso accennato	-
 🙃	faccina sottosopra	-
 🫠	faccina che si scioglie	-
+🫫	faccia screpolata	-
 😉	faccina che fa l’occhiolino	-
 😊	faccina con occhi sorridenti	-
 😇	faccina con sorriso e aureola	-
@@ -548,6 +549,8 @@ _	trattino basso	-
 🫵	indice verso l’osservatore	-
 👍	pollice in su	-
 👎	pollice verso	-
+🫹	segno del pollice a sinistra	-
+🫺	segno del pollice a destra	-
 ✊	pugno	-
 👊	pugno chiuso	-
 🤛	pugno a sinistra	-
@@ -967,6 +970,7 @@ _	trattino basso	-
 🦪	ostrica	-
 🐌	lumaca	-
 🦋	farfalla	-
+🫌	farfalla monarca	-
 🐛	insetto	-
 🐜	formica	-
 🐝	ape	-
@@ -1038,6 +1042,7 @@ _	trattino basso	-
 🌶	peperoncino	-
 🫑	peperone	-
 🥒	cetriolo	-
+🫝	sottaceto	-
 🥬	verdure a foglia	-
 🥦	broccoli	-
 🧄	aglio	-
@@ -1258,6 +1263,7 @@ _	trattino basso	-
 🚦	semaforo verticale	-
 🛑	segnale di stop	-
 🚧	area cantiere	-
+🛙	faro	-
 ⚓	ancora	-
 🛟	salvagente	-
 ⛵	barca a vela	-
@@ -1329,7 +1335,7 @@ _	trattino basso	-
 ☀	sole	-
 🌝	faccina luna piena	-
 🌞	faccina sole	-
-🪐	pianeta con satellite	-
+🪐	pianeta con anelli	-
 ⭐	stella	-
 🌟	stella che brilla	-
 🌠	stella cadente	-
@@ -1357,6 +1363,7 @@ _	trattino basso	-
 ☃	pupazzo di neve	-
 ⛄	pupazzo di neve senza neve	-
 ☄	cometa	-
+🪋	meteora	-
 🔥	fuoco	-
 💧	goccia	-
 🌊	onda	-
@@ -1607,6 +1614,7 @@ _	trattino basso	-
 🖌	pennello	-
 🖍	pastello a cera	-
 📝	memo	-
+🪌	gomma per cancellare	-
 💼	valigetta 24 ore	-
 📁	cartella file	-
 📂	cartella aperta	-
@@ -1636,6 +1644,7 @@ _	trattino basso	-
 🔐	lucchetto chiuso con chiave	-
 🔑	chiave	-
 🗝	chiave antica	-
+🪍	retino	-
 🔨	martello	-
 🪓	ascia	-
 ⛏	piccone	-
@@ -1780,14 +1789,14 @@ _	trattino basso	-
 ♍	Segno zodiacale della Vergine	-
 ♎	Segno zodiacale della Bilancia	-
 ♏	Segno zodiacale dello Scorpione	-
-♐	Segno zodiacale del Saggitario	-
+♐	Segno zodiacale del Sagittario	-
 ♑	Segno zodiacale del Capricorno	-
 ♒	Segno zodiacale dell’Acquario	-
 ♓	Segno zodiacale dei Pesci	-
 ⛎	Segno zodiacale dell’Ofiuco	-
 🔀	pulsante di riproduzione casuale	-
 🔁	pulsante di ripetizione della riproduzione	-
-🔂	pulsante di ripetizione della riproduzione di una traccia	-
+🔂	pulsante di ripetizione di una traccia	-
 ▶	pulsante di riproduzione	-
 ⏩	pulsante di avanzamento rapido	-
 ⏭	traccia successiva	-
@@ -2130,6 +2139,16 @@ $	simbolo del dollaro	-
 👎🏽	pollice verso carnagione olivastra	-
 👎🏾	pollice verso carnagione abbastanza scura	-
 👎🏿	pollice verso carnagione scura	-
+🫹🏻	segno del pollice a sinistra carnagione chiara	-
+🫹🏼	segno del pollice a sinistra carnagione abbastanza chiara	-
+🫹🏽	segno del pollice a sinistra carnagione olivastra	-
+🫹🏾	segno del pollice a sinistra carnagione abbastanza scura	-
+🫹🏿	segno del pollice a sinistra carnagione scura	-
+🫺🏻	segno del pollice a destra carnagione chiara	-
+🫺🏼	segno del pollice a destra carnagione abbastanza chiara	-
+🫺🏽	segno del pollice a destra carnagione olivastra	-
+🫺🏾	segno del pollice a destra carnagione abbastanza scura	-
+🫺🏿	segno del pollice a destra carnagione scura	-
 ✊🏻	pugno carnagione chiara	-
 ✊🏼	pugno carnagione abbastanza chiara	-
 ✊🏽	pugno carnagione olivastra	-

@@ -359,6 +359,7 @@ _	podtržení	-
 🙂	obličej s mírným úsměvem	-
 🙃	převrácený obličej	-
 🫠	tající obličej	-
+🫫	praskající obličej	-
 😉	mrkající obličej	-
 😊	smějící se obličej s usměvavýma očima	-
 😇	usmívající se obličej se svatozáří	-
@@ -548,6 +549,8 @@ _	podtržení	-
 🫵	ukazováček namířený na diváka	-
 👍	palec nahoru	-
 👎	palec dolů	-
+🫹	gesto palcem doleva	-
+🫺	gesto palcem doprava	-
 ✊	zvednutá pěst	-
 👊	namířená pěst	-
 🤛	pěst mířící doleva	-
@@ -967,6 +970,7 @@ _	podtržení	-
 🦪	ústřice	-
 🐌	hlemýžď	-
 🦋	motýl	-
+🫌	motýl monarcha	-
 🐛	housenka	-
 🐜	mravenec	-
 🐝	včela	-
@@ -1038,6 +1042,7 @@ _	podtržení	-
 🌶	feferonka	-
 🫑	paprika	-
 🥒	okurka	-
+🫝	nakládačka	-
 🥬	salátové listy	-
 🥦	brokolice	-
 🧄	česnek	-
@@ -1258,6 +1263,7 @@ _	podtržení	-
 🚦	svislý semafor	-
 🛑	značka stop	-
 🚧	stavební zábrana	-
+🛙	maják	-
 ⚓	kotva	-
 🛟	záchranný kruh	-
 ⛵	plachetnice	-
@@ -1357,6 +1363,7 @@ _	podtržení	-
 ☃	sněhulák	-
 ⛄	sněhulák bez sněhu	-
 ☄	kometa	-
+🪋	meteorit	-
 🔥	oheň	-
 💧	kapka	-
 🌊	vodní vlna	-
@@ -1607,6 +1614,7 @@ _	podtržení	-
 🖌	štětec	-
 🖍	pastelka	-
 📝	lístek se vzkazem	-
+🪌	guma	-
 💼	kufřík	-
 📁	složka	-
 📂	otevřená složka	-
@@ -1636,6 +1644,7 @@ _	podtržení	-
 🔐	zamknutý zámek s klíčem	-
 🔑	klíč	-
 🗝	starý klíč	-
+🪍	podběrák	-
 🔨	kladivo	-
 🪓	sekera	-
 ⛏	krumpáč	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	palec dolů střední odstín pleti	-
 👎🏾	palec dolů středně tmavý odstín pleti	-
 👎🏿	palec dolů tmavý odstín pleti	-
+🫹🏻	gesto palcem doleva světlý odstín pleti	-
+🫹🏼	gesto palcem doleva středně světlý odstín pleti	-
+🫹🏽	gesto palcem doleva střední odstín pleti	-
+🫹🏾	gesto palcem doleva středně tmavý odstín pleti	-
+🫹🏿	gesto palcem doleva tmavý odstín pleti	-
+🫺🏻	gesto palcem doprava světlý odstín pleti	-
+🫺🏼	gesto palcem doprava středně světlý odstín pleti	-
+🫺🏽	gesto palcem doprava střední odstín pleti	-
+🫺🏾	gesto palcem doprava středně tmavý odstín pleti	-
+🫺🏿	gesto palcem doprava tmavý odstín pleti	-
 ✊🏻	zvednutá pěst světlý odstín pleti	-
 ✊🏼	zvednutá pěst středně světlý odstín pleti	-
 ✊🏽	zvednutá pěst střední odstín pleti	-

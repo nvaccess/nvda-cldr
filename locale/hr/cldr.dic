@@ -359,6 +359,7 @@ _	donja crta	-
 🙂	blago nasmiješeno lice	-
 🙃	naopačke okrenuto lice	-
 🫠	lice koje se topi	-
+🫫	ispucalo lice	-
 😉	lice koje namiguje	-
 😊	nasmiješeno lice s nasmiješenim očima	-
 😇	nasmiješeno lice s aureolom	-
@@ -548,6 +549,8 @@ _	donja crta	-
 🫵	kažiprst uperen prema gledatelju	-
 👍	palac gore	-
 👎	palac dolje	-
+🫹	znak ulijevo palcem	-
+🫺	znak udesno palcem	-
 ✊	podignuta šaka	-
 👊	stisnuta šaka	-
 🤛	šaka ulijevo	-
@@ -967,6 +970,7 @@ _	donja crta	-
 🦪	kamenica	-
 🐌	puž	-
 🦋	leptir	-
+🫌	kraljevski leptir	-
 🐛	gusjenica	-
 🐜	mrav	-
 🐝	pčela	-
@@ -1038,6 +1042,7 @@ _	donja crta	-
 🌶	ljuta papričica	-
 🫑	paprika	-
 🥒	krastavac	-
+🫝	kiseli krastavac	-
 🥬	lisnato povrće	-
 🥦	brokula	-
 🧄	češnjak	-
@@ -1258,6 +1263,7 @@ _	donja crta	-
 🚦	okomiti semafor	-
 🛑	znak stop	-
 🚧	znak radova	-
+🛙	svjetionik	-
 ⚓	sidro	-
 🛟	kolut za spašavanje	-
 ⛵	jedrilica	-
@@ -1357,6 +1363,7 @@ _	donja crta	-
 ☃	snjegović	-
 ⛄	snjegović bez snijega	-
 ☄	komet	-
+🪋	meteor	-
 🔥	vatra	-
 💧	kapljica	-
 🌊	vodeni val	-
@@ -1607,6 +1614,7 @@ _	donja crta	-
 🖌	kist	-
 🖍	bojica	-
 📝	bilješka	-
+🪌	gumica za brisanje	-
 💼	aktovka	-
 📁	mapa	-
 📂	otvorena mapa	-
@@ -1636,6 +1644,7 @@ _	donja crta	-
 🔐	zatvoreni lokot s ključem	-
 🔑	ključ	-
 🗝	starinski ključ	-
+🪍	mrežica s drškom	-
 🔨	čekić	-
 🪓	sjekira	-
 ⛏	pijuk	-
@@ -2130,6 +2139,16 @@ $	dolar	-
 👎🏽	palac dolje maslinasta boja kože	-
 👎🏾	palac dolje smeđa boja kože	-
 👎🏿	palac dolje tamno smeđa boja kože	-
+🫹🏻	znak ulijevo palcem svijetla boja kože	-
+🫹🏼	znak ulijevo palcem svijetlo maslinasta boja kože	-
+🫹🏽	znak ulijevo palcem maslinasta boja kože	-
+🫹🏾	znak ulijevo palcem smeđa boja kože	-
+🫹🏿	znak ulijevo palcem tamno smeđa boja kože	-
+🫺🏻	znak udesno palcem svijetla boja kože	-
+🫺🏼	znak udesno palcem svijetlo maslinasta boja kože	-
+🫺🏽	znak udesno palcem maslinasta boja kože	-
+🫺🏾	znak udesno palcem smeđa boja kože	-
+🫺🏿	znak udesno palcem tamno smeđa boja kože	-
 ✊🏻	podignuta šaka svijetla boja kože	-
 ✊🏼	podignuta šaka svijetlo maslinasta boja kože	-
 ✊🏽	podignuta šaka maslinasta boja kože	-

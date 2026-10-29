@@ -359,6 +359,7 @@ _	apatinė linija	-
 🙂	šiek tiek besišypsantis veidas	-
 🙃	apverstas veidas	-
 🫠	tirpstantis veidas	-
+🫫	lūžtantis veidas	-
 😉	mirksintis veidas	-
 😊	besišypsantis veidas su besišypsančiomis akimis	-
 😇	besišypsantis veidas su aureole	-
@@ -548,6 +549,8 @@ _	apatinė linija	-
 🫵	į žiūrovą rodantis smilius	-
 👍	nykštys į viršų	-
 👎	nykštys į apačią	-
+🫹	nykštys į kairę	-
+🫺	nykštys į dešinę	-
 ✊	iškeltas kumštis	-
 👊	artėjantis kumštis	-
 🤛	į kairę nukreiptas kumštis	-
@@ -967,6 +970,7 @@ _	apatinė linija	-
 🦪	austrė	-
 🐌	sraigė	-
 🦋	drugelis	-
+🫌	drugelis monarchas	-
 🐛	vabalas	-
 🐜	skruzdėlė	-
 🐝	bitė	-
@@ -1038,6 +1042,7 @@ _	apatinė linija	-
 🌶	aštrusis pipiras	-
 🫑	paprika	-
 🥒	agurkas	-
+🫝	raugintas agurkas	-
 🥬	lapinė daržovė	-
 🥦	brokolis	-
 🧄	česnakas	-
@@ -1258,6 +1263,7 @@ _	apatinė linija	-
 🚦	vertikalus šviesoforas	-
 🛑	sustojimo ženklas	-
 🚧	statybos	-
+🛙	švyturys	-
 ⚓	inkaras	-
 🛟	gelbėjimo ratas	-
 ⛵	burlaivis	-
@@ -1357,6 +1363,7 @@ _	apatinė linija	-
 ☃	sniego senis	-
 ⛄	sniego senis be sniego	-
 ☄	kometa	-
+🪋	meteoras	-
 🔥	ugnis	-
 💧	lašas	-
 🌊	vandens banga	-
@@ -1607,6 +1614,7 @@ _	apatinė linija	-
 🖌	teptukas	-
 🖍	kreidelė	-
 📝	atmintinė	-
+🪌	trintukas	-
 💼	portfelis	-
 📁	failų aplankas	-
 📂	atidarytas failų aplankas	-
@@ -1636,6 +1644,7 @@ _	apatinė linija	-
 🔐	užrakinta spyna su raktu	-
 🔑	raktas	-
 🗝	senas raktas	-
+🪍	tinklas su rankena	-
 🔨	plaktukas	-
 🪓	kirvis	-
 ⛏	kirstuvas	-
@@ -2130,6 +2139,16 @@ $	dolerio ženklas	-
 👎🏽	nykštys į apačią rusvos odos	-
 👎🏾	nykštys į apačią tamsios odos	-
 👎🏿	nykštys į apačią itin tamsios odos	-
+🫹🏻	nykštys į kairę šviesios odos	-
+🫹🏼	nykštys į kairę vidutinio gymio	-
+🫹🏽	nykštys į kairę rusvos odos	-
+🫹🏾	nykštys į kairę tamsios odos	-
+🫹🏿	nykštys į kairę itin tamsios odos	-
+🫺🏻	nykštys į dešinę šviesios odos	-
+🫺🏼	nykštys į dešinę vidutinio gymio	-
+🫺🏽	nykštys į dešinę rusvos odos	-
+🫺🏾	nykštys į dešinę tamsios odos	-
+🫺🏿	nykštys į dešinę itin tamsios odos	-
 ✊🏻	iškeltas kumštis šviesios odos	-
 ✊🏼	iškeltas kumštis vidutinio gymio	-
 ✊🏽	iškeltas kumštis rusvos odos	-

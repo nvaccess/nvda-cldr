@@ -113,16 +113,22 @@ _	low line	none
 🐦‍⬛	black bird	none
 🍆	eggplant	none
 🫑	bell pepper	none
+🫝	pickle	none
 🫚	ginger root	none
 🥫	canned food	none
+🍮	custard	none
+🧃	beverage box	none
 🧉	mate	none
 🗻	mount fuji	none
 🛕	hindu temple	none
+⛩	shinto shrine	none
 🕋	kaaba	none
+🚃	railway car	none
 🚗	automobile	none
 🚘	oncoming automobile	none
 🦼	motorized wheelchair	none
 🛟	ring buoy	none
+⛵	sailboat	none
 🛥	motor boat	none
 ✈	airplane	none
 🛩	small airplane	none
@@ -130,13 +136,16 @@ _	low line	none
 🛬	airplane arrival	none
 🛎	bellhop bell	none
 ⚽	soccer ball	none
+🏏	cricket game	none
 🏓	ping pong	none
+🎽	running shirt	none
 🛷	sled	none
 🪆	nesting dolls	none
 👔	necktie	none
 🩴	thong sandal	none
 📯	postal horn	none
 🪘	long drum	none
+🪌	eraser	none
 🦯	white cane	none
 🩹	adhesive bandage	none
 🛗	elevator	none
@@ -413,6 +422,7 @@ _	low line	none
 🙂	slightly smiling face	none
 🙃	upside-down face	none
 🫠	melting face	none
+🫫	cracking face	none
 😉	winking face	none
 😊	smiling face with smiling eyes	none
 😇	smiling face with halo	none
@@ -600,6 +610,8 @@ _	low line	none
 🫵	index pointing at the viewer	none
 👍	thumbs up	none
 👎	thumbs down	none
+🫹	leftwards thumb sign	none
+🫺	rightwards thumb sign	none
 ✊	raised fist	none
 👊	oncoming fist	none
 🤛	left-facing fist	none
@@ -1011,6 +1023,7 @@ _	low line	none
 🦪	oyster	none
 🐌	snail	none
 🦋	butterfly	none
+🫌	monarch butterfly	none
 🐛	bug	none
 🐜	ant	none
 🐝	honeybee	none
@@ -1152,7 +1165,6 @@ _	low line	none
 🍫	chocolate bar	none
 🍬	candy	none
 🍭	lollipop	none
-🍮	custard	none
 🍯	honey pot	none
 🍼	baby bottle	none
 🥛	glass of milk	none
@@ -1171,7 +1183,6 @@ _	low line	none
 🫗	pouring liquid	none
 🥤	cup with straw	none
 🧋	bubble tea	none
-🧃	beverage box	none
 🧊	ice	none
 🥢	chopsticks	none
 🍽	fork and knife with plate	none
@@ -1226,7 +1237,6 @@ _	low line	none
 ⛪	church	none
 🕌	mosque	none
 🕍	synagogue	none
-⛩	shinto shrine	none
 ⛲	fountain	none
 ⛺	tent	none
 🌁	foggy	none
@@ -1245,7 +1255,6 @@ _	low line	none
 💈	barber pole	none
 🎪	circus tent	none
 🚂	locomotive	none
-🚃	railway car	none
 🚄	high-speed train	none
 🚅	bullet train	none
 🚆	train	none
@@ -1291,8 +1300,8 @@ _	low line	none
 🚦	vertical traffic light	none
 🛑	stop sign	none
 🚧	construction	none
+🛙	lighthouse	none
 ⚓	anchor	none
-⛵	sailboat	none
 🛶	canoe	none
 🚤	speedboat	none
 🛳	passenger ship	none
@@ -1383,6 +1392,7 @@ _	low line	none
 ☃	snowman	none
 ⛄	snowman without snow	none
 ☄	comet	none
+🪋	meteor	none
 🔥	fire	none
 💧	droplet	none
 🌊	water wave	none
@@ -1422,7 +1432,6 @@ _	low line	none
 🎾	tennis	none
 🥏	flying disc	none
 🎳	bowling	none
-🏏	cricket game	none
 🏑	field hockey	none
 🏒	ice hockey	none
 🥍	lacrosse	none
@@ -1434,7 +1443,6 @@ _	low line	none
 ⛸	ice skate	none
 🎣	fishing pole	none
 🤿	diving mask	none
-🎽	running shirt	none
 🎿	skis	none
 🥌	curling stone	none
 🎯	bullseye	none
@@ -1654,6 +1662,7 @@ _	low line	none
 🔐	locked with key	none
 🔑	key	none
 🗝	old key	none
+🪍	net with handle	none
 🔨	hammer	none
 🪓	axe	none
 ⛏	pick	none
@@ -2041,7 +2050,7 @@ $	dollar	none
 🇱🇨	flag St. Lucia	none
 🇲🇫	flag St. Martin	none
 🇵🇲	flag St. Pierre & Miquelon	none
-🇸🇭	flag St. Helena	none
+🇸🇭	flag St. Helena, Ascension & Tristan da Cunha	none
 🇺🇲	flag U.S. Outlying Islands	none
 🇻🇨	flag St. Vincent & Grenadines	none
 🇻🇮	flag U.S. Virgin Islands	none
@@ -2210,6 +2219,16 @@ $	dollar	none
 👎🏽	thumbs down medium skin tone	none
 👎🏾	thumbs down medium-dark skin tone	none
 👎🏿	thumbs down dark skin tone	none
+🫹🏻	leftwards thumb sign light skin tone	none
+🫹🏼	leftwards thumb sign medium-light skin tone	none
+🫹🏽	leftwards thumb sign medium skin tone	none
+🫹🏾	leftwards thumb sign medium-dark skin tone	none
+🫹🏿	leftwards thumb sign dark skin tone	none
+🫺🏻	rightwards thumb sign light skin tone	none
+🫺🏼	rightwards thumb sign medium-light skin tone	none
+🫺🏽	rightwards thumb sign medium skin tone	none
+🫺🏾	rightwards thumb sign medium-dark skin tone	none
+🫺🏿	rightwards thumb sign dark skin tone	none
 ✊🏻	raised fist light skin tone	none
 ✊🏼	raised fist medium-light skin tone	none
 ✊🏽	raised fist medium skin tone	none
@@ -4168,7 +4187,7 @@ $	dollar	none
 🇬🇼	flag Guinea-Bissau	none
 🇬🇾	flag Guyana	none
 🇭🇰	flag Hong Kong SAR China	none
-🇭🇲	flag Heard & McDonald Islands	none
+🇭🇲	flag Heard Island & McDonald Islands	none
 🇭🇳	flag Honduras	none
 🇭🇷	flag Croatia	none
 🇭🇹	flag Haiti	none
@@ -4285,7 +4304,7 @@ $	dollar	none
 🇹🇦	flag Tristan da Cunha	none
 🇹🇨	flag Turks & Caicos Islands	none
 🇹🇩	flag Chad	none
-🇹🇫	flag French Southern Territories	none
+🇹🇫	flag French Southern and Antarctic Lands	none
 🇹🇬	flag Togo	none
 🇹🇭	flag Thailand	none
 🇹🇯	flag Tajikistan	none

@@ -352,13 +352,14 @@ _	underscore	-
 😃	grijnzend gezicht met grote ogen	-
 😄	grijnzend gezicht met lachende ogen	-
 😁	stralend gezicht met lachende ogen	-
-😆	grijnzend gezicht met stijf dichtgeknepen ogen	-
+😆	grijnzend gezicht met dichtgeknepen ogen	-
 😅	grijnzend gezicht met zweetdruppels	-
 🤣	gezicht dat op de grond rolt van het lachen	-
 😂	gezicht met tranen van vreugde	-
 🙂	enigszins lachend gezicht	-
 🙃	omgekeerd gezicht	-
 🫠	smeltend gezicht	-
+🫫	barstend gezicht	-
 😉	knipogend gezicht	-
 😊	lachend gezicht met lachende ogen	-
 😇	lachend gezicht met halo	-
@@ -548,6 +549,8 @@ _	underscore	-
 🫵	wijsvinger die naar de kijker wijst	-
 👍	duim omhoog	-
 👎	duim omlaag	-
+🫹	duim naar links	-
+🫺	duim naar rechts	-
 ✊	opgeheven vuist	-
 👊	stotende vuist	-
 🤛	naar links gerichte vuist	-
@@ -967,6 +970,7 @@ _	underscore	-
 🦪	oester	-
 🐌	slak	-
 🦋	vlinder	-
+🫌	monarchvlinder	-
 🐛	insect	-
 🐜	mier	-
 🐝	honingbij	-
@@ -1038,6 +1042,7 @@ _	underscore	-
 🌶	hete peper	-
 🫑	paprika	-
 🥒	komkommer	-
+🫝	augurk	-
 🥬	bladgroente	-
 🥦	broccoli	-
 🧄	knoflook	-
@@ -1258,6 +1263,7 @@ _	underscore	-
 🚦	verticaal verkeerslicht	-
 🛑	stopteken	-
 🚧	bouwwerkzaamheden	-
+🛙	vuurtoren	-
 ⚓	anker	-
 🛟	reddingsboei	-
 ⛵	zeilboot	-
@@ -1357,6 +1363,7 @@ _	underscore	-
 ☃	sneeuwpop	-
 ⛄	sneeuwpop zonder sneeuwvlokken	-
 ☄	komeet	-
+🪋	meteoor	-
 🔥	vuur	-
 💧	druppel	-
 🌊	golf	-
@@ -1607,6 +1614,7 @@ _	underscore	-
 🖌	kwast	-
 🖍	krijtje	-
 📝	memo	-
+🪌	gum	-
 💼	aktentas	-
 📁	bestandsmap	-
 📂	geopende map	-
@@ -1636,6 +1644,7 @@ _	underscore	-
 🔐	gesloten slot met sleutel	-
 🔑	sleutel	-
 🗝	oude sleutel	-
+🪍	net met steel	-
 🔨	hamer	-
 🪓	bijl	-
 ⛏	pikhouweel	-
@@ -2130,6 +2139,16 @@ $	dollar	-
 👎🏽	duim omlaag getinte huidskleur	-
 👎🏾	duim omlaag donkergetinte huidskleur	-
 👎🏿	duim omlaag donkere huidskleur	-
+🫹🏻	duim naar links lichte huidskleur	-
+🫹🏼	duim naar links lichtgetinte huidskleur	-
+🫹🏽	duim naar links getinte huidskleur	-
+🫹🏾	duim naar links donkergetinte huidskleur	-
+🫹🏿	duim naar links donkere huidskleur	-
+🫺🏻	duim naar rechts lichte huidskleur	-
+🫺🏼	duim naar rechts lichtgetinte huidskleur	-
+🫺🏽	duim naar rechts getinte huidskleur	-
+🫺🏾	duim naar rechts donkergetinte huidskleur	-
+🫺🏿	duim naar rechts donkere huidskleur	-
 ✊🏻	opgeheven vuist lichte huidskleur	-
 ✊🏼	opgeheven vuist lichtgetinte huidskleur	-
 ✊🏽	opgeheven vuist getinte huidskleur	-

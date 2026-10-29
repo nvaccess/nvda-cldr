@@ -359,6 +359,7 @@ _	Unterstrich	-
 🙂	leicht lächelndes Gesicht	-
 🙃	umgekehrtes Gesicht	-
 🫠	schmelzendes Gesicht	-
+🫫	Zerbrechendes Gesicht	-
 😉	zwinkerndes Gesicht	-
 😊	lächelndes Gesicht mit lachenden Augen	-
 😇	lächelndes Gesicht mit Heiligenschein	-
@@ -548,6 +549,8 @@ _	Unterstrich	-
 🫵	auf Betrachter zeigender Zeigefinger	-
 👍	Daumen hoch	-
 👎	Daumen runter	-
+🫹	Daumen nach links	-
+🫺	Daumen nach rechts	-
 ✊	erhobene Faust	-
 👊	geballte Faust	-
 🤛	Faust nach links	-
@@ -967,6 +970,7 @@ _	Unterstrich	-
 🦪	Auster	-
 🐌	Schnecke	-
 🦋	Schmetterling	-
+🫌	Monarchfalter	-
 🐛	Raupe	-
 🐜	Ameise	-
 🐝	Biene	-
@@ -1038,6 +1042,7 @@ _	Unterstrich	-
 🌶	Peperoni	-
 🫑	Paprika	-
 🥒	Gurke	-
+🫝	Saure Gurke	-
 🥬	Blattgemüse	-
 🥦	Brokkoli	-
 🧄	Knoblauch	-
@@ -1258,6 +1263,7 @@ _	Unterstrich	-
 🚦	vertikale Verkehrsampel	-
 🛑	Stoppschild	-
 🚧	Baustellenabsperrung	-
+🛙	Leuchtturm	-
 ⚓	Anker	-
 🛟	Rettungsring	-
 ⛵	Segelboot	-
@@ -1357,6 +1363,7 @@ _	Unterstrich	-
 ☃	Schneemann im Schnee	-
 ⛄	Schneemann ohne Schneeflocken	-
 ☄	Komet	-
+🪋	Meteor	-
 🔥	Feuer	-
 💧	Tropfen	-
 🌊	Welle	-
@@ -1607,6 +1614,7 @@ _	Unterstrich	-
 🖌	Pinsel	-
 🖍	Wachsmalstift	-
 📝	Papier und Bleistift	-
+🪌	Radiergummi	-
 💼	Aktentasche	-
 📁	Ordner	-
 📂	geöffneter Ordner	-
@@ -1636,6 +1644,7 @@ _	Unterstrich	-
 🔐	Schloss mit Schlüssel	-
 🔑	Schlüssel	-
 🗝	alter Schlüssel	-
+🪍	Kescher	-
 🔨	Hammer	-
 🪓	Axt	-
 ⛏	Pickel	-
@@ -2130,6 +2139,16 @@ $	Dollar	-
 👎🏽	Daumen runter mittlere Hautfarbe	-
 👎🏾	Daumen runter mitteldunkle Hautfarbe	-
 👎🏿	Daumen runter dunkle Hautfarbe	-
+🫹🏻	Daumen nach links helle Hautfarbe	-
+🫹🏼	Daumen nach links mittelhelle Hautfarbe	-
+🫹🏽	Daumen nach links mittlere Hautfarbe	-
+🫹🏾	Daumen nach links mitteldunkle Hautfarbe	-
+🫹🏿	Daumen nach links dunkle Hautfarbe	-
+🫺🏻	Daumen nach rechts helle Hautfarbe	-
+🫺🏼	Daumen nach rechts mittelhelle Hautfarbe	-
+🫺🏽	Daumen nach rechts mittlere Hautfarbe	-
+🫺🏾	Daumen nach rechts mitteldunkle Hautfarbe	-
+🫺🏿	Daumen nach rechts dunkle Hautfarbe	-
 ✊🏻	erhobene Faust helle Hautfarbe	-
 ✊🏼	erhobene Faust mittelhelle Hautfarbe	-
 ✊🏽	erhobene Faust mittlere Hautfarbe	-

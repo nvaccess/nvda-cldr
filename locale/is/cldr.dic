@@ -172,7 +172,7 @@ _	lágstrik	-
 ∇	nafla	-
 ∈	stak í	-
 ∉	ekki stak	-
-∋	stak	-
+∋	inniheldur sem stak	-
 ∎	endanleg sönnun	-
 ∏	n-unda-margfeldi	-
 ∑	n-unda-summun	-
@@ -359,6 +359,7 @@ _	lágstrik	-
 🙂	milt bros	-
 🙃	andlit á hvolfi	-
 🫠	andlit að bráðna	-
+🫫	andlit með sprungur	-
 😉	blikkandi andlit	-
 😊	bros	-
 😇	brosandi andlit með geislabaug	-
@@ -548,6 +549,8 @@ _	lágstrik	-
 🫵	vísifingur bendir á áhorfandann	-
 👍	þumall upp	-
 👎	þumall niður	-
+🫹	þumall til vinstri	-
+🫺	þumall til hægri	-
 ✊	hnefi	-
 👊	krepptur hnefi	-
 🤛	hægri hnefi	-
@@ -567,13 +570,13 @@ _	lágstrik	-
 🦿	vélfótleggur	-
 🦵	fótleggur	-
 🦶	fótur	-
-👂	eyru	-
+👂	eyra	-
 🦻	eyra með heyrnartæki	-
 👃	nef	-
 🧠	heili	-
 🫀	hjartavöðvi	-
 🫁	lungu	-
-🦷	tennur	-
+🦷	tönn	-
 🦴	bein	-
 👀	augu	-
 👁	auga	-
@@ -684,7 +687,7 @@ _	lágstrik	-
 💂‍♂	karlkyns vörður	-
 💂‍♀	kvenkyns vörður	-
 🥷	ninja	-
-👷	verkamaður	-
+👷	byggingaverkamaður	-
 👷‍♂	karlkyns byggingarstarfsmaður	-
 👷‍♀	kvenkyns byggingarstarfsmaður	-
 🫅	manneskja með kórónu	-
@@ -826,7 +829,7 @@ _	lágstrik	-
 🤹‍♀	kona kastar boltum	-
 🧘	maður í lótuspósu	-
 🧘‍♂	karl í lótuspósu	-
-🧘‍♀	kona í lótusp´ósu	-
+🧘‍♀	kona í lótuspósu	-
 🛀	bað	-
 🛌	manneskja í rúmi	-
 🧑‍🤝‍🧑	fólk að leiðast	-
@@ -879,7 +882,7 @@ _	lágstrik	-
 🦬	vísundur	-
 🐮	kýrhöfuð	-
 🐂	uxi	-
-🐃	vatnabuffaló	-
+🐃	vatnabuffall	-
 🐄	kýr	-
 🐷	svínshöfuð	-
 🐖	svín	-
@@ -967,6 +970,7 @@ _	lágstrik	-
 🦪	ostra	-
 🐌	snigill	-
 🦋	fiðrildi	-
+🫌	kóngafiðrildi	-
 🐛	skordýr	-
 🐜	maur	-
 🐝	hunangsfluga	-
@@ -1038,6 +1042,7 @@ _	lágstrik	-
 🌶	chilipipar	-
 🫑	paprika	-
 🥒	gúrka	-
+🫝	súrkrás	-
 🥬	kál	-
 🥦	brokkólí	-
 🧄	hvítlaukur	-
@@ -1258,6 +1263,7 @@ _	lágstrik	-
 🚦	lóðrétt umferðarljós	-
 🛑	stöðvunarskylda	-
 🚧	vegavinna	-
+🛙	viti	-
 ⚓	akkeri	-
 🛟	björgunarhringur	-
 ⛵	seglskúta	-
@@ -1357,6 +1363,7 @@ _	lágstrik	-
 ☃	snjókarl í snjókomu	-
 ⛄	snjókarl	-
 ☄	halastjarna	-
+🪋	vígahnöttur	-
 🔥	eldur	-
 💧	dropi	-
 🌊	alda	-
@@ -1494,7 +1501,7 @@ _	lágstrik	-
 💎	gimsteinn	-
 🔇	hljóðlaus hátalari	-
 🔈	lágvær hátalari	-
-🔉	hátalari í gangi	-
+🔉	hátalari á meðalstyrk	-
 🔊	hávær hátalari	-
 📢	Almannavarnahátalari	-
 📣	gjallarhorn	-
@@ -1599,7 +1606,7 @@ _	lágstrik	-
 📬	opinn póstkassi með reistum fána	-
 📭	opinn póstkassi með niðurdregnum fána	-
 📮	póstkassi	-
-🗳	kjörseðlakassi með kjörseðli	-
+🗳	kjörkassi með kjörseðli	-
 ✏	blýantur	-
 ✒	svartur pennaoddur	-
 🖋	sjálfblekungur	-
@@ -1607,6 +1614,7 @@ _	lágstrik	-
 🖌	málningarpensill	-
 🖍	vaxlitur	-
 📝	minnismiði	-
+🪌	strokleður	-
 💼	skjalataska	-
 📁	skráamappa	-
 📂	opin mappa	-
@@ -1636,6 +1644,7 @@ _	lágstrik	-
 🔐	lokaður lás	-
 🔑	lykill	-
 🗝	gamall lykill	-
+🪍	háfur	-
 🔨	hamar	-
 🪓	öxi	-
 ⛏	haki	-
@@ -1774,16 +1783,16 @@ _	lágstrik	-
 🪯	khanda	-
 ♈	hrúturinn	-
 ♉	nautið	-
-♊	tvíburar	-
+♊	tvíburarnir	-
 ♋	krabbinn	-
 ♌	ljónið	-
-♍	meyja	-
+♍	meyjan	-
 ♎	vogin	-
 ♏	sporðdrekinn	-
-♐	bogmaður	-
-♑	steingeit	-
-♒	vatnsberi	-
-♓	fiskar	-
+♐	bogmaðurinn	-
+♑	steingeitin	-
+♒	vatnsberinn	-
+♓	fiskarnir	-
 ⛎	naðurvaldi	-
 🔀	fléttaðar örvar til hægri	-
 🔁	endurtaka	-
@@ -2130,6 +2139,16 @@ $	dalur	-
 👎🏽	þumall niður millihúðlitur	-
 👎🏾	þumall niður meðaldökkur húðlitur	-
 👎🏿	þumall niður dökkur húðlitur	-
+🫹🏻	þumall til vinstri ljós húðlitur	-
+🫹🏼	þumall til vinstri meðalljós húðlitur	-
+🫹🏽	þumall til vinstri millihúðlitur	-
+🫹🏾	þumall til vinstri meðaldökkur húðlitur	-
+🫹🏿	þumall til vinstri dökkur húðlitur	-
+🫺🏻	þumall til hægri ljós húðlitur	-
+🫺🏼	þumall til hægri meðalljós húðlitur	-
+🫺🏽	þumall til hægri millihúðlitur	-
+🫺🏾	þumall til hægri meðaldökkur húðlitur	-
+🫺🏿	þumall til hægri dökkur húðlitur	-
 ✊🏻	hnefi ljós húðlitur	-
 ✊🏼	hnefi meðalljós húðlitur	-
 ✊🏽	hnefi millihúðlitur	-
@@ -2215,11 +2234,11 @@ $	dalur	-
 🦶🏽	fótur millihúðlitur	-
 🦶🏾	fótur meðaldökkur húðlitur	-
 🦶🏿	fótur dökkur húðlitur	-
-👂🏻	eyru ljós húðlitur	-
-👂🏼	eyru meðalljós húðlitur	-
-👂🏽	eyru millihúðlitur	-
-👂🏾	eyru meðaldökkur húðlitur	-
-👂🏿	eyru dökkur húðlitur	-
+👂🏻	eyra ljós húðlitur	-
+👂🏼	eyra meðalljós húðlitur	-
+👂🏽	eyra millihúðlitur	-
+👂🏾	eyra meðaldökkur húðlitur	-
+👂🏿	eyra dökkur húðlitur	-
 🦻🏻	eyra með heyrnartæki ljós húðlitur	-
 🦻🏼	eyra með heyrnartæki meðalljós húðlitur	-
 🦻🏽	eyra með heyrnartæki millihúðlitur	-
@@ -3132,11 +3151,11 @@ $	dalur	-
 🥷🏽	ninja millihúðlitur	-
 🥷🏾	ninja meðaldökkur húðlitur	-
 🥷🏿	ninja dökkur húðlitur	-
-👷🏻	verkamaður ljós húðlitur	-
-👷🏼	verkamaður meðalljós húðlitur	-
-👷🏽	verkamaður millihúðlitur	-
-👷🏾	verkamaður meðaldökkur húðlitur	-
-👷🏿	verkamaður dökkur húðlitur	-
+👷🏻	byggingaverkamaður ljós húðlitur	-
+👷🏼	byggingaverkamaður meðalljós húðlitur	-
+👷🏽	byggingaverkamaður millihúðlitur	-
+👷🏾	byggingaverkamaður meðaldökkur húðlitur	-
+👷🏿	byggingaverkamaður dökkur húðlitur	-
 👷🏻‍♂	karlkyns byggingarstarfsmaður ljós húðlitur	-
 👷🏼‍♂	karlkyns byggingarstarfsmaður meðalljós húðlitur	-
 👷🏽‍♂	karlkyns byggingarstarfsmaður millihúðlitur	-
@@ -3900,11 +3919,11 @@ $	dalur	-
 🧘🏽‍♂	karl í lótuspósu millihúðlitur	-
 🧘🏾‍♂	karl í lótuspósu meðaldökkur húðlitur	-
 🧘🏿‍♂	karl í lótuspósu dökkur húðlitur	-
-🧘🏻‍♀	kona í lótusp´ósu ljós húðlitur	-
-🧘🏼‍♀	kona í lótusp´ósu meðalljós húðlitur	-
-🧘🏽‍♀	kona í lótusp´ósu millihúðlitur	-
-🧘🏾‍♀	kona í lótusp´ósu meðaldökkur húðlitur	-
-🧘🏿‍♀	kona í lótusp´ósu dökkur húðlitur	-
+🧘🏻‍♀	kona í lótuspósu ljós húðlitur	-
+🧘🏼‍♀	kona í lótuspósu meðalljós húðlitur	-
+🧘🏽‍♀	kona í lótuspósu millihúðlitur	-
+🧘🏾‍♀	kona í lótuspósu meðaldökkur húðlitur	-
+🧘🏿‍♀	kona í lótuspósu dökkur húðlitur	-
 🛀🏻	bað ljós húðlitur	-
 🛀🏼	bað meðalljós húðlitur	-
 🛀🏽	bað millihúðlitur	-
